@@ -1,0 +1,156 @@
+{"text": "Name: anna anna"}
+{"text": "E-Mail: anna.anna@gmail.com"}
+{"text": "Address: Buenos Aires, Argentina"}
+{"text": "Github: https://github.com/anna"}
+{"text": "LinkedIn: https://linkedin.com/anna"}
+{"text": "Phone No. 683334615449"}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": "5+ years of professional experience in single page UI application design and development."}
+{"text": "Experienced in all the technical phases of Software Development Life Cycle (SDLC). Expert in Agile methodologies like Scrum."}
+{"text": "Strong development experience creating rich frontend UI in AJAX, JSF / JavaScript technologies using JavaScript libraries like jQuery, Angular 4+, NodeJS, ReactJS."}
+{"text": "Experience in designing User Interface (UI) applications and professional web applications using HTML 4.0/5, CSS2/CSS3, Angular JS/4/6, JavaScript, jQuery, AJAX, JSON and XML"}
+{"text": "Expertise in developing various JavaScript frameworks like Angular.js Backbone.js, Require.js, Node.js, Knockout.js, Express.js, Underscore.js, React.js/ Redux, Ext.JS, Responsive web design (RWD)."}
+{"text": "Experience in designing the interface UI/UX strategy, UI requirements and converting findings into UI designs."}
+{"text": "Wrote various Angular4 custom directives and developed many reusable components and templates."}
+{"text": "Familiar with popular browsers development and debugging tools/plugins for IE tester, Chrome Inspector, Firebug, Protractor, Jasmine, Grunt and Karma testing framework."}
+{"text": "Experienced in developing web services with XML based protocols such as SOAP and WSDL."}
+{"text": "Implemented React-Redux life cycle boilerplate scripts to decrease the project duration."}
+{"text": "Maintaining Parent and child elements by using State and Props in React JS."}
+{"text": "Utilized React-Redux Action Creators, create Store from redux library to connect reducers and containers, to update the state and virtual DOM."}
+{"text": "Modularized Front-End CSS and Node JS code with SASS."}
+{"text": "Expertise in XML technologies such as\u00a0XSL, XSLT, XML schemas, XPath, X Forms\u00a0and parsers like\u00a0SAX, DOM."}
+{"text": "Proficient in Object Oriented Design/Development (OOD), Object Oriented Analysis and Design (OOAD), Model View Control (MVC) design pattern and Test-Driven Development (TDD). "}
+{"text": "Experienced implementing Web Services using SOAP API, WSDL, JAX-RPC, JAX-WS, RESTful and UDDI. "}
+{"text": "Experience in using various tools and IDEs for development and design like Net Beans, XAMPP, Notepad+ +, and Adobe Photo shop and Experience in NoSQL Database like Apache and MongoDB. "}
+{"text": "Expert in designing web applications and web contents utilizing various SEO techniques. "}
+{"text": "Involved in API Integration using Node JS and Mongo DB as a data base connection."}
+{"text": "Good knowledge of various design patterns like singleton, Strategy pattern and factory pattern."}
+{"text": "Extensive experience using SQL and PL/SQL to write Stored Procedures and Functions."}
+{"text": "Highly proficient in developing and deploying Java/J2EE applications on Application Servers \u2013 WebLogic, IBM WebSphere, JBOSS and Apache Tomcat."}
+{"text": "Proficient with build automation tools like\u00a0Gradle, Maven,\u00a0Apache and\u00a0Ant\u00a0for builds and deployments to different environments. Experience in using different version control systems like GIT, ClearCase, CVS, subversion."}
+{"text": "Excellent problem solving, analytical and interpersonal skills."}
+{"text": "Ability to work in-groups as well as independently without supervision."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "Client: UPS, Parsippany, NJ \t\t\t\t\t\t\t\tDuration: Dec 18 - Till Date"}
+{"text": "Role: Sr. UI Developer"}
+{"text": "Description: UPS is one of the world\u2019s largest multinational package delivery company headquartered in New Jersey. The company operates through U.S Domestic Package operations, International Package operations, and supply chain& Freight operations."}
+{"text": "Responsibilities:"}
+{"text": "Analyzed business requirements, participated in technical design, development & testing of modules assigned. "}
+{"text": "Involved in web designing using HTML5, XHTML, CSS3, JavaScript, jQuery, AJAX and used Table-less Design in CSS for positioning. "}
+{"text": "Written code on Typescript and ES6 to implement Angular4 Components.\u00a0Good amount of work done on Reactive forms in Angular4 and their Validations.\u00a0"}
+{"text": "Created Angular 4 components, implemented interpolation, input variables, Bootstrapping, NgFor, Ngif, Router Outlet, binding the events, decorators."}
+{"text": "Worked with Bootstrap components of Angular-UI like carousel, collapse, dropdown, and tabs to develop dynamic responsive Web Application."}
+{"text": "Created a Simple REST application using Drop Wizard which pulls the data from Couch base in JSON format."}
+{"text": "Developed cross browser and multi browser compatible web pages."}
+{"text": "Used ESLint as JavaScript linting and style checking tool."}
+{"text": "Used browser Cookie, local storage and session storages to store and access the data right in the browser."}
+{"text": "Developed responsive single page web application using Angular4 and custom directives."}
+{"text": "Used UI Components like Date-picker, modals and related components of Angular material design."}
+{"text": "Using spring boot and Couch base starter for retrieving and storing data to couch base."}
+{"text": "Worked on prototypes for Responsive Web design. "}
+{"text": "Designed dynamic and browser compatible pages using HTML5, CSS3 Pre-processor\u2019s (SASS/LESS), JavaScript, Bootstrap, JDK 1.8, Ajax, Web Services XML, schemas."}
+{"text": "Achieved Angular 4 Authentication for the application and stored generated token so that token can be sent with each request to secure resources in Web API."}
+{"text": "Worked on RESTFUL services and made AJAX calls to server end and passed HTTP requests."}
+{"text": "Worked on JavaScript and HTML5 Browser Cache mechanism for storing and retrieving data for the website."}
+{"text": "Used Gulp as the build task runner to build and package the application."}
+{"text": "Experience in working with Jenkins tool, as it is a build tool used for triggering builds to deploy in environments."}
+{"text": "Worked on creating responsive website for smart devices using Responsive Web design and media queries."}
+{"text": "Worked with making calls to APIs to fetch the data from the backend as JSON response and parse it on the UI for DOM/CSS manipulation. Designed and documented REST/HTTP APIs, including JSON data formats."}
+{"text": "Developed Web Services for data transfer from client to server and vice versa using Apache Axis, SOAP, WSDL, and UDDI. Coordinate with QA for testing, releases, Application deployment and integration."}
+{"text": "Implemented code coverage by writing Unit Test cases using Karma and Jasmine for Angular 4."}
+{"text": "Used GitHubUI, Git bash to commit, changes to the repository for maintaining various versions of the agile process. Ensured site design integrity and quality control consistency throughout the project\u2019s lifecycle."}
+{"text": "Designed and development of many PL/SQL batches using JAVA with connectivity to Oracle for data maintenance and handling. Used CSS Blueprint to create grids and adopt cross browser interactive features."}
+{"text": "Implemented logging mechanism for complex strategy for security and reliability of application used LOG4j to audit, detect suspicious activity, regular debug, test perform and Exception statements."}
+{"text": "Involved in Agile process, attended daily standup meetings, backlogs, release planning."}
+{"text": "Debugged the application using Firebug to traverse the documents and manipulated the Nodes using DOM and DOM Functions using Firefox and IE Developer Toolbar for IE."}
+{"text": ""}
+{"text": "Environment:HTML5, CSS3, jQuery, AJAX, SASS, JavaScript, TypeScript, Angular4, Node.js, RESTFUL services, Ext.js, Responsive Web Design, Jasmine, W3C, MVC, Dreamweaver, DOM, XML, SOA, PL/SQL, DHTML, Git."}
+{"text": ""}
+{"text": "Client: American Institutes for Research, Washington, DC                                                        Duration: Jan 18 \u2013 Nov 18"}
+{"text": "Role: Sr. UI Developer"}
+{"text": "Description: American Institutes for Research is an independent, not -for -profit organization that conducts behavioral and social science research and delivers technical assistance both domestically and internationally. "}
+{"text": "Responsibilities:"}
+{"text": "Involved in Requirements and Analysis. Understanding the requirements of the client and the flow of the application as well as the application Framework."}
+{"text": "Involved in web designing using HTML5, CSS3, JavaScript and extensively used Table-less design in CSS for positioning and in designing Responsive Web pages using media queries and Twitter Bootstrap."}
+{"text": "Participated in day-to-day meeting, status meeting, strong reporting and effective communication with project manager and developers."}
+{"text": "Have used AJAX to retrieve data from server synchronously in the background without interfering with the display and existing page in an interactive way. "}
+{"text": "Created an internal browser-based text editor using HTML, CSS, JavaScript, backbone.js.  "}
+{"text": "Used AngularJS UI-route to manage URL route. "}
+{"text": "Worked on Creating an AngularJS Application using MVC framework."}
+{"text": "Utilized AngularJS framework to bind AngularJS template (views) to JavaScript object (models)."}
+{"text": "Created features like dropdown list, search function and card model by using AngularJS material."}
+{"text": "Used HTML5 and AngularJS to format the input forms and handled the input validations."}
+{"text": "Implemented ReactJS Controllers to maintain each view data."}
+{"text": "Maintaining Parent and child elements by using State and Props in ReactJS."}
+{"text": "Used multiple state managements such as Cache, Cookies, View State, Hidden Field, Query string, session to provide/keep information associated with the page."}
+{"text": "Responsible for React UI and architecture. "}
+{"text": "Built components library, including Tree, Slide-View, Table Grid."}
+{"text": "Worked on tools like Eclipse and GIT repositories and Installed and configured GIT and synced with multiple GIT-Hub repositories. "}
+{"text": "Used Bootstrap and AngularJS in effective web design."}
+{"text": "Designed and developed\u00a0ReactJS\u00a0component required for the project and Used Custom AngularJS Filters to provide better search experience."}
+{"text": "React Hot Loader is a plugin for Webpack that allows instant live refresh without losing state while editing React components. "}
+{"text": "Solid understanding of React Virtual Dom Algorithm, for React performance optimization "}
+{"text": "Implemented and design the application to interact with server for getting the Ajax response of jqGrid Data."}
+{"text": "Built real time mouse/click user analytics web services with Node JS."}
+{"text": "Ran Bower and grunt components and wrote the scripting using Node JS implemented a NodeJS server to manage authentication. Implemented modules into NodeJS to integrate with the design and requirements."}
+{"text": "Good experience in developing\u00a0Ext.js\u00a0applications with extensive server calls using AJAX and strong hold in handling the server data and exceptions to provide interactive user experience.\u00a0"}
+{"text": "Created reusable components like Menu Navigation, Session Monitor which was very useful in the application using Ext.js.\u00a0Used\u00a0Ext.js\u00a0with Web API retrieve data from database and Joi for validation."}
+{"text": "Extensive experience in developing web applications with User Experience Design (UX) like Visual Design, Interactive Design and extensive Human Computer Interaction Concepts."}
+{"text": "Used Wire Frame Tools like Adobe illustrator CS3 for basic Visual design and followed User Experience Design (UX) properties and used pair programming model for the development."}
+{"text": "Developed Web Services for data transfer from client to server and vice versa using Apache Axis, SOAP, WSDL, and UDDI. Version control through GIT."}
+{"text": "Followed Agile/Scrum methodology of software development thereby satisfying the customer through early and continuous delivery of valuable software."}
+{"text": "Good experience in unit testing by using Karma and Protractor."}
+{"text": "Having a decent work experience on Jasmine, YUI to test JavaScript code very quick. Knowledge in CSS preprocessors SASS and LESS and in executing test cases in DEV/QC/UAT environments."}
+{"text": "Experience in using tools like Jira, AccuRev, Site Refresh and multiple browser testing."}
+{"text": ""}
+{"text": "Environment: HTML5, CSS3, JavaScript, jQuery, DHTML, MVC, DOM, JSON, Angular.js, Node.js, D3.js, Backbone.js, React.js, AJAX, SOAP, XML, XPATH, Adobe Flash, Jira, AccuRev, Karma, Protractor, Sinon, Stash, GWT."}
+{"text": ""}
+{"text": "Client: Broadridge, Mt laurel, NJ\t\t\t\t\t\t\tDuration: Feb 17 \u2013 Dec 17 "}
+{"text": "Role: UI Developer"}
+{"text": "Description: Broadridge is a multinational banking company and financial services company headquartered in New   Jersey. It is universal bank with operations in retail wholesale and investment banking as well as wealth management."}
+{"text": "Responsibilities:"}
+{"text": "Developed Responsive Html web pages using HTML5, CSS3, JavaScript, Type Script."}
+{"text": "Developed code for Responsive web design in TypeScript using framework like Angular 2."}
+{"text": "Developed customized Organizational Chart displaying in tree format using third-party jQuery library."}
+{"text": "Used Jasmine to perform unit testing of custom filters, custom directives and various parts of AngularJS application. Used Gulp, as web tool for task/build runner for development."}
+{"text": "Responsible for field validations using Angular JS and created custom components in Angular 2."}
+{"text": "Worked with Protractor testing framework for end to end testing of Angular application."}
+{"text": "Worked with Jasmine to write the unit tests and used Karma to run them."}
+{"text": "Worked with Single page applications to load the single HTML page and dynamically update the page whenever the user interacts with the application."}
+{"text": "Proficiency in developing dynamic web applications based on REST API\u2019s, Responsive web design, Single page Architecture. Worked with Node. JS, NPM packages to run the Angular application."}
+{"text": "Worked on JavaScript tools like Grunt, Gulp, NPM and Bower. Worked on GitHub to maintain the repository."}
+{"text": "Worked with Angular 2.0 framework to run the Bootstrap method against Typescript files which are related to application module. Created rich and dynamic Angular 2.0 form using index, Ngif, NgHide, NgFor etc."}
+{"text": "Worked on creating Angular 2.0 based form and popups modal using Html, bootstrap and TypeScript."}
+{"text": "Used Node.JS to compile the code of JavaScript into the browser-based code."}
+{"text": "Coordination with team in the daily routine works as a part of agile methodology, which includes code reviewing, validations and demos. Used AJAX for server communication and seamless user experience."}
+{"text": "Responsible to assign stories to my track and get progress report from the team by using JIRA."}
+{"text": "Duties also include basic trouble shooting, attending to priority client calls, contacting client with ETA."}
+{"text": ""}
+{"text": "Environment: Angular 2.0, Typescript, JavaScript, Karma, Jasmine, Protractor, Jenkins, Augury, Redux, SASS, bootstrap, HTML5, CSS3, NPM, Swagger, Single page application, Responsive web design, AJAX, GIT."}
+{"text": ""}
+{"text": "Client: Sum Total Systems, India\t\t\t\t\t\t\tDuration: Oct 13 \u2013 Aug 16"}
+{"text": "Role: Web Developer"}
+{"text": "Description: Sum Total Systems Inc. is a software company that provides human resource management software and services to private and public-sector organizations. This project was involved in system study, development and implementation of the project."}
+{"text": "Responsibilities:"}
+{"text": "Involved in the requirement analysis and design phase to aid in all technical assessments"}
+{"text": "Fixed the browser compatibility issues in IE, Firefox and Chrome browsers."}
+{"text": "Code on Cascading Style Sheet (CSS) in web pages to separate presentation from structure. Defined text alignment, size, borders and many other typographic characteristics."}
+{"text": "Used HTML, CSS and JavaScript to render the dynamic web pages (presentation layer) for the application."}
+{"text": "Used jQuery in controlling access to different pages of the applications."}
+{"text": "Developed jQuery custom widgets to make easy the enhancement of the web pages."}
+{"text": "Extensively used jQuery selectors in accessing various parts of the DOM."}
+{"text": "Used Ajax and jQuery to update the parts of the Policy review web pages. "}
+{"text": "Implemented JavaScript promises functions as an alternative for callbacks."}
+{"text": "Implemented and maintained AJAX based rich client for improved customer experience. "}
+{"text": "Worked on creating and consuming SOAP Web services for accessing data from other external services."}
+{"text": "Used jQuery event handling in UI pages handle validations. "}
+{"text": "Created jQuery custom widgets like date picker etc. and other custom widgets."}
+{"text": "Involved in code review and deployment of the application on development, testing of production servers"}
+{"text": ""}
+{"text": "Environment: Java, HTML, CSS, JavaScript, jQuery, SQL, Web services using REST and SOAP, JSON, AJAX."}

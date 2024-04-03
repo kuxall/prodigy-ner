@@ -1,0 +1,271 @@
+{"text": "Name: annie annie"}
+{"text": "E-Mail: annie.annie@gmail.com"}
+{"text": "Address: Hengyang, China"}
+{"text": "Github: https://github.com/annie"}
+{"text": "LinkedIn: https://linkedin.com/annie"}
+{"text": "Phone No. 649463379836"}
+{"text": ""}
+{"text": "Summary: "}
+{"text": "Having 12 years of experience as a highly accomplished leader with strong technical skills on ABAP, HR-ABAP, WebDynpro, ADOBE Forms, ALE/IDocs, Web Services. Having good knowledge on SAPUI5/FIORI, Net weaver Gateway OData services and ABAP-HANA"}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": "SuccessFactors Employee Central Payroll"}
+{"text": "Worked on EC to ECP integration (Pont to Point)."}
+{"text": "Knowledge of configuration part in ECP"}
+{"text": "Worked on EC Protlets and implemented BADI to change the data coming from EC to ECP "}
+{"text": ""}
+{"text": "SAP ABAP Expertise"}
+{"text": "Implementing Reports, Interfaces, Conversions, Enhancements and Forms"}
+{"text": "Object Oriented Programming concepts like Encapsulation, Polymorphism, Inheritance and Abstraction by using classes, Attributes, Methods and Events"}
+{"text": "Developing Interactive, ALV, Classical and OOALV reports"}
+{"text": "Hands on experience on ALE/IDocs"}
+{"text": "Module Pool Programming - Customizing standard screens, Building custom screens "}
+{"text": "Enhancement framework by implementing User Exits, Customer exits, Enhancement spots, BADIs for various application scenarios"}
+{"text": "Developing BDC programs using Call Transaction method and session method for loading Master data, Transaction data from legacy systems using Recording and setting up custom LSMWs"}
+{"text": "Developing custom Smartforms and customizing standard Smartforms and their driver programs in SD, MM and FI functional areas"}
+{"text": "Developed custom Function Modules and BAPIs and also used several standard BAPIs "}
+{"text": "Implementing /Applying suitable OSS notes"}
+{"text": ""}
+{"text": "SAP HR-ABAP Expertise"}
+{"text": "Good Knowledge on Logical Database (LDB)"}
+{"text": "Worked on PA, OM and Payroll modules"}
+{"text": "Creating custom infotypes"}
+{"text": "Customizing standard infotypes"}
+{"text": "Creating reports using LDBs (PNP, PNPCE, PCH) in PA, OM and Payroll modules"}
+{"text": "Data upload through LSMW for several infotypes"}
+{"text": "Created Inbound and outbound interfaces on employee and employee family data"}
+{"text": "Worked on Payroll functions"}
+{"text": ""}
+{"text": "SAP WebDynpro ABAP Expertise"}
+{"text": "Developing WebDynpro applications"}
+{"text": "Developing WebDynpro ALV using component WD_SALV_TABLE"}
+{"text": "Developing search helps (OVS)"}
+{"text": ""}
+{"text": "Net weaver Gateway and HANA Expertise"}
+{"text": "Good knowledge on SAP NetWeaver Gateway services"}
+{"text": "Creating Data Model using DDIC, BOR and file upload and mapped to MPC and DPC."}
+{"text": "Consuming data by using Net Weaver Gateway services (SEGW)"}
+{"text": "Extending OData services and OData models"}
+{"text": "Creating HANA schemas, Packages, Attribute views, Analytical views, calculation views, data provisioning using SLT and BODS and meta data import"}
+{"text": ""}
+{"text": ""}
+{"text": "Education: "}
+{"text": "M.C. A from SV.University (Campus), Andhra Pradesh, India - Apr \u201804"}
+{"text": "B.Sc. (Comp) from SV.University, Andhra Pradesh, India- Apr \u201800"}
+{"text": ""}
+{"text": "Professional Work/Experience:"}
+{"text": ""}
+{"text": "Client:\tBank of America, New York\t\t\t\t\t\t\t\tAug \u201918 to till date"}
+{"text": "SAP Senior Developer "}
+{"text": ""}
+{"text": "ABAP/4 Programming in FI Module."}
+{"text": "Technical advice to functional teams in the design and definition of business enhancements."}
+{"text": "End of day reports and enhancements for: billing, invoicing, financial conditions."}
+{"text": "Interfaces and massive reports programming."}
+{"text": "Created and maintained BADIs and User-Exits."}
+{"text": "Implementing OSS notes according to client requirements."}
+{"text": "Continuous support and on resolving incidents."}
+{"text": "Code review of the developments before release."}
+{"text": ""}
+{"text": ""}
+{"text": "Client:\tCardone Industries, Philadelphia\t\t\t\t\t\t\tSep \u201917 to Jul \u201818\t"}
+{"text": "SAP Senior Developer HR-ABAP"}
+{"text": ""}
+{"text": "CARDONE is a leading global supplier of remanufactured and new automotive parts for passenger cars and light/medium duty trucks. CARDONE is migrating from SAP HR legacy system to SuccessFactors."}
+{"text": "Working as HR-ABAP technical consultant "}
+{"text": "Working in SuccessFactors Employee Central implementation"}
+{"text": "Developed interface to extract data from SAP HR legacy system in the format required by Successfactors.  This data extraction involves Foundation data and Employee data. Foundation data is organizational data. Data in SuccessFactors is structured as Protlets like Person info, Job Info, Compensation Info etc. So, the extraction program is designed and developed in a way such that the data from infotypes in legacy system is collected in to files as required by Successfactors.   "}
+{"text": "There was also change in the Organization structure from legacy system to SF Employee Central system. SF EC has new org. Structure from full transmission date. So, while extracting data, historical data should have old Org. structure and the latest record should have new Org. structure."}
+{"text": "Worked on Integration of EC to ECP (Point to Point integration). Implemented standard BADI for integration add-on for SF Employee Central Payroll via employee master data replication service. With this BADI we can change infotype data that has been replicated from Employee central."}
+{"text": "Debug the standard replication program to fix the issues that occurred during replication. There can be configuration issues, start date issue, mapping issue from EC to ECP. "}
+{"text": "Enhanced Payroll functions for tax calculations, INFONAVIT, FONOCOT, Social insurance calculation for Mexico payroll as per the client requirement."}
+{"text": "Developed LSMW to load data in to Mexico related infotypes like IT368, IT367 and Cost Centers."}
+{"text": "Changed standard transformation to generate XML file in CFDI process for Mexico payroll."}
+{"text": "CARDONE has separate SAP ECC FICO system. Worked on interface to transmit payroll data from ECP to Finance system."}
+{"text": "Developed an interface to send Employee information from ECP to ADP for tax claiming tax credits. Also developed interface to bank Banorte weekly on Employee savings contributions and other interfaces for Mexico specific requirement."}
+{"text": "Employee work hours are captured by Workforce.  Workforce sends the employee time data to SAP every week. The standard integration does not create infotype 0007 work schedule rule. It creates hours n infotype 2010. Developed an interface to create infotype 0007 from infotype 2010."}
+{"text": "Worked on workflow changes to find the Level of Authority for PO approval while creating or changing PO."}
+{"text": ""}
+{"text": ""}
+{"text": "Client:\tMillennium Challenge Corporation, Washington\t\t\t\t\tFeb \u201916 to Aug \u201817\t"}
+{"text": "SAP Senior Developer"}
+{"text": ""}
+{"text": "SWIFT solution is implemented for The Millennium Challenge Corporation (MCC). MCC is an innovative and independent U.S. foreign aid agency that is helping lead the fight against global poverty."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "SAP development Lead "}
+{"text": "Worked on MM, FI and FM modules"}
+{"text": "Involved in Development of objects like Data Migration (LSMW and BDC programs), Reports, User Exits, Smartforms and Documentation."}
+{"text": "Developed Trial Balance by fund report, Actual and Projected disbursement reports, Actual and Projected Commitment reports, Quarterly disbursement and Commitment reports, VAT report, Fund wise trial balance report and Invoice tracking report."}
+{"text": "Worked on substitution to substitute GL accounts from PO in invoice documents."}
+{"text": "Developed several Smartforms as per client requirement."}
+{"text": "Worked on user exits to validate Earmarked funds"}
+{"text": "Development of Test Conditions and test data."}
+{"text": "Involved in the development of Technical Specs "}
+{"text": "Involved in Code Review and Unit Testing of the Source codes according to the company Standards."}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": "Client: EnerSys Project, Hyderabad\t\t\t\t\t\t\t\tMar \u201915 to Jan \u201816"}
+{"text": "Senior Developer ABAP/HR-ABAP"}
+{"text": "EnerSys is an American manufacturer of batteries for motive power, reserve power, aerospace, and defense applications. EnerSys operates in over 100 countries worldwide, with 23% of the market share worldwide."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Technical guidance on SAP NetWeaver technologies ABAP WebDynpro, SRM."}
+{"text": "Involved in the development of the objects like RFC, User Exits, and Smartforms and involved in unit testing and integration testing."}
+{"text": "Developed a webservice to transfer data and Load data"}
+{"text": "Worked on user exits for substituting exchange rate, Profit center substitution based on Product hierarchy, Sales BOM pricing adjustment"}
+{"text": "Developed Sales order acknowledgement form, Customer statement form, Debit note form"}
+{"text": "Developed upload program to upload Exchange rate file"}
+{"text": "Implemented BADI to put validations on results recording screen"}
+{"text": "Developed Custom Smartforms and enhanced standard Smartforms. "}
+{"text": "Worked on Labelsusing Smartforms."}
+{"text": "Developed many IDOC, RFC interfaces which will interact with third party tools like WMS."}
+{"text": "Analyzing client requirements and designing the solution to full fill the requirement."}
+{"text": "Attending client meetings, involving in designing functional specs."}
+{"text": "Designing and developing technical specifications, Unit test documents and other project related documents"}
+{"text": "Developed many custom classical reports, Interactive and ALV reports for various Business reasons"}
+{"text": "Worked many enhancements and BADIS to enhance the standard functionality."}
+{"text": "Environment: ECC6, QM, SRM 7.03"}
+{"text": ""}
+{"text": "Client: Just Born, Hyderabad\t\t\t\t\t\t\t\t\tJun \u201814 to Feb \u201815"}
+{"text": "Senior Developer, ABAP/HR-ABAP"}
+{"text": "Just Born\u00a0is a candy manufacturer based in\u00a0Bethlehem, Pennsylvania, in the United States."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Managing offshore Technical team and designing Functional Specifications."}
+{"text": "Review the Functional and technical design documents; attend the Functional Design walk-thru to ensure the Functional design is fully transitioned to the offshore development team."}
+{"text": "Reviewing the code to ensure the Quality standards are met"}
+{"text": "Attending daily client meetings and understanding development and providing the solutions for critical issues"}
+{"text": "Worked on changes to existing WebDynpro programs."}
+{"text": "Worked on various conversions using LSMW, Call Transaction and sessions methods."}
+{"text": "Worked extensively with the\u00a0Inbound and Outbound Interfaces\u00a0that interact with third party systems like KRONOS."}
+{"text": "Developed various reports, conversions, data dictionary objects and module pool programs. Implemented BADIS and handled some critical issues as a part of support team."}
+{"text": "Developed technical specifications, test scripts for developed objects and involved in code reviews"}
+{"text": "Developed new module called Space management which deals with management of office area like rooms, laboratories\u2026etc. "}
+{"text": "Environment: ECC 6"}
+{"text": ""}
+{"text": "Client:\tWildlife Conservation Society, Hyderabad\t\t\t\t\t\tMar \u201912 to May \u201814"}
+{"text": "Senior Developer, ABAP-HR, ABAP/4"}
+{"text": "The Wildlife Conservation Society, founded in 1895, has the clear mission to save wildlife and wild places across the globe. They do so through science, global conservation, education and the management of the world's largest system of urban wildlife parks, led by the flagship Bronx Zoo. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "ABAP/4 Programming in SD, FM, GM and HR modules."}
+{"text": "Developed various Reports, conversions, info types, enhancements and involved in designing OOP-Frame work which is used vastly in the project to fasten and smoothen the ABAP-developments."}
+{"text": "Developed Template documents for maintaining the Technical specifications, Test plans and communication log details for the developed objects and responsible for all the documents to maintain in SOLMAN."}
+{"text": "Developed a report for employee details like personnel data, family data, educational data, previous organizational details, address details etc\u2026"}
+{"text": "Developed a report that displays actions and it details that happened in a particular period like hire, transfer, separation, salary change etc\u2026"}
+{"text": "Developed a report that gives YTD (year to date) MTD (month to date) payroll data of an employee in grid ALV."}
+{"text": "Developed a report that gives head count of employees based on ORG.UNIT, employee group, employee sub group, payroll area...etc. and also based on gender, age...etc."}
+{"text": "Developed a report that gives details of vacation for account accrual that are maintained in time management info types."}
+{"text": "Developed a onetime conversion program to upload data for IT0006 from legacy file through call transaction method (this for all subtypes except for ST002)."}
+{"text": "Developed a different conversion program for IT0006 ST002 which converts data from SAP to SAP."}
+{"text": "Developed a conversion program for IT0041 which uploads data from legacy system to SAP."}
+{"text": "Developed various mass upload programs for initial uploads into several info types.  "}
+{"text": "As part of Object oriented frame work developed utility classes to have all common functionalities that are used throughout the project are written in this class."}
+{"text": "Developed a global class for constants where all the constants that are used in the developments are created as static variables of this class."}
+{"text": "Used to all OO-concepts like inheritance, polymorphism, casting, redefining, constructors\u2026etc. while working on the above developments."}
+{"text": "Review the Functional design documents; attend the Functional Design walk-thru to ensure the Functional design is fully transitioned to the offshore development team."}
+{"text": "Prepare the Time sheet for the offshore team and send it to the onsite team."}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": "Client:\tWeill Cornell University, Hyderabad\t\t\t\t\t\t\tJun \u201910 to Feb \u201812"}
+{"text": "Senior Developer, ABAP-HR, ABAP/4"}
+{"text": "Weill Cornell Medical College is among the top-ranked clinical and medical research centers in the country. In addition to offering degrees in medicine, Weill Cornell also has PhD programs in biomedical research and education at the Weill Cornell Graduate School of Medical Sciences, and with neighboring Sloan-Kettering Institute and The Rockefeller University."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "ABAP/4 Programming in FI, FM, GM Module."}
+{"text": "Developed various tables which store Building details, Room details, Floor details, text tables\u2026etc. as a part of space management module."}
+{"text": "Created different views, structures, Table maintenance generator for space management module"}
+{"text": "Developed different initial upload programs to upload data to space inventory tables."}
+{"text": " Developed conversion program that uploads student address details using BAPI \u2018BAPI_BUPA_FS_ADDRESS_CHANGE\u2019."}
+{"text": "Designed a smart form called space details which contains Building details, Room Details, Floor details, and room assignment details based on the building and fund centers. The output of this form is made to convert into PDF format."}
+{"text": "Created a module pool program which is used to create, maintain and delete rooms and its assignments. "}
+{"text": "Developed an ALV report which is used to display encumbrances for a grant, create new encumbrance for a grant and post encumbrance towards a grant."}
+{"text": "Created Tree structure AVL report which shows departments as the first node under which related fund centers are displayed and next to it all related employees are displayed."}
+{"text": "Developed ALV report for space inventory which displays summary of rooms and room assignments based on the building and fund centers and responsible persons.  "}
+{"text": "Developed custom WebDynpro objects on Fund center reassignment."}
+{"text": "Manage the offshore development team."}
+{"text": "Conduct the daily status teleconference meetings and also update the offshore development team status to the onsite team."}
+{"text": "Manage the offshore development team. Conduct the daily status teleconference meetings and also update the offshore development team status to the onsite team."}
+{"text": "Review the Functional design documents; attend the Functional Design walk-thru to ensure the Functional design is fully transitioned to the offshore development team."}
+{"text": "Prepare the Weekly Status report, Time sheet for the offshore team and update it to the onsite team."}
+{"text": "Coordinate with the functional team in testing the various objects."}
+{"text": "Execute the various Test plans prepared for the developed objects."}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": "Client: HESS Corporation, Hyderabad\t\t\t\t\t\t\tApr \u201909 to Jun \u201810"}
+{"text": "ABAP-HR, ABAP/4"}
+{"text": "Hess Corporation is a leading global independent energy company, engaged in the Exploration and production of crude oil and natural gas, as well as in refining and in marketing refined petroleum products, natural gas, and electricity. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "ABAP/4 Programming."}
+{"text": "Review the Functional design documents, prepare the Technical specifications and Test documents "}
+{"text": "Development of Test Conditions and test data."}
+{"text": "Worked closely with Functional team to resolve the development issues and also gave the estimates for the new requirements."}
+{"text": "Involved in Code Review and Unit Testing of the source code"}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: The Hershey Company  (USA), Bangalore, India\t\t\t\t\tDec \u201908 to Mar \u201809"}
+{"text": "Role: ABAP "}
+{"text": "This Project was undertaken for Hershey's, which is the largest chocolate manufacturer in North America. Its headquarters are in Hershey, Pennsylvania, which is also home to Hershey's Chocolate World. HERSHEY\u2019S mainly implemented HR payroll (US)."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "ABAP/4 Programming in FI, SD and HR Module (Payroll US)."}
+{"text": "Development of Test Conditions and test data."}
+{"text": "Involved in the development of Technical Specs."}
+{"text": "Involved in Code Review and Unit Testing of the Source "}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": "Client: J&J (USA), Bangalore, India\t\t\t\t\t\t\t\tSep \u201908 to Nov \u201808"}
+{"text": "ABAP-HR "}
+{"text": "This project was undertaken for the world\u2019s premier consumer health company operating in 57 countries and worldwide headquarters is in New Brunswick, New Jersey, USA. This project mainly focused on Human Resources."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "ABAP/4 Programming in HR Module."}
+{"text": "Involved in internal training activities to the team member on various topics of HR ABAP"}
+{"text": "Development of Test Conditions and test data."}
+{"text": "Involved in the development of Technical Specs."}
+{"text": "Involved in Code Review and Unit Testing of the Source codes "}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": "Client: DuPont (USA), Bangalore, India\t\t\t\t\t\t\tJune \u201908 to Aug \u201808"}
+{"text": "ABAP "}
+{"text": "This Project was undertaken for DuPont Operating in more than 70 countries, which offers a wide range of innovative products and services for markets including agriculture, nutrition, electronics, communications, safety and protection, home and construction, transportation and apparel. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked as the core team member from the initial phase to till the successful project go live."}
+{"text": "ABAP/4 Programming in SD, MM and HR Module."}
+{"text": "Involved in Documentation and Knowledge Transfer."}
+{"text": "Development of Test Conditions and test data."}
+{"text": "Involved in the development of Technical Specs."}
+{"text": "Involved in Code Review and Unit Testing of the source code"}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": "Client: UCB Pharmaceuticals Company, Bangalore, India\t\t\t\t\tAugust \u201907 to May \u201808"}
+{"text": "ABAP"}
+{"text": "This Project was undertaken for a major Belgium Pharma Company located in Belgium, Braine exporting its Medicines at International level. The Namasthe implements common global business processes across Human Resources, Financial, Project Management, Sales and Distribution, Project Systems and Supply Chain Management. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "ABAP/4 Programming in SD, FI and HR."}
+{"text": "Involved in the development of Technical Specs."}
+{"text": "Involved in Code Review and Unit Testing of the source code"}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": "Client: Roche Pharmaceuticals Company, Bangalore, India\t\t\t\t\tMay \u201906 to July \u201807"}
+{"text": "ABAP"}
+{"text": "This Project was undertaken for a major Swiss Pharma Company located in Basel Switzerland exporting its Medicines at International level. The Roche Forward implements common global business processes across Human Resources, Financial, Material Management and Supply Chain Management. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked as the core team member from the initial phase to till the successful project go live."}
+{"text": "ABAP/4 Programming in SD, FI and HR modules."}
+{"text": "Developed reports, conversions and data dictionary components as per the project requirements "}
+{"text": "Involved in unit testing and developing unit test documents for developed objects."}
+{"text": "Involved in Documentation and Knowledge Transfer."}
+{"text": "Involved in the development of Technical Specs."}
+{"text": "Involved in Code Review"}
+{"text": "Environment:\tECC 6.0"}
+{"text": ""}
+{"text": ""}
+{"text": ""}

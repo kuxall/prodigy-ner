@@ -1,0 +1,131 @@
+{"text": "Name: alice alice"}
+{"text": "E-Mail: alice.alice@gmail.com"}
+{"text": "Address: Linyi, China"}
+{"text": "Github: https://github.com/alice"}
+{"text": "LinkedIn: https://linkedin.com/alice"}
+{"text": "Phone No. 217708233275"}
+{"text": ""}
+{"text": "Executive Summary:"}
+{"text": "Total IT Experience 10+ and  More than 5+ years of SAP of experience in configuration and implementations in diverse industries with 1 full life cycle implementation, support and upgrade in Material Management (MM) and an overview in Sales and Distribution (SD) and Warehouse Management (WM),Logistic Execution(LE),Mater Data Management (MDM)."}
+{"text": "Involved in various stages of an implementation right from Business Blueprint to Post-Go-Live Production support using the ASAP methodology."}
+{"text": "Create functional design and review/approve technical designs basesd on the gap analysis, validate/test the development objects."}
+{"text": "Experienced in 'Procure to Pay' cycle - Purchase requisition, Purchase Order, Request for Quotation, Contract, Scheduling Agreements, Partner Determination, Goods Receipt and Invoice Verification."}
+{"text": "Defining and assignment of MM Organizational units like Plants, Storage Locations, Purchase Organization and Purchase Groups. "}
+{"text": "Knowledge on SAP S/4 HANA simple Logistic."}
+{"text": "Hands on experience of\u00a0MM/WM, MM/SD, MM/LE, MM/MDM and MM/FI integrations."}
+{"text": "Extensively worked on MM master data material master, vendor master, purchase info record, material type configuration, vendor account group definition, master data field selection, work request for material master changes, Master data views \u2013 Purchasing, MRP views, Accounting view with price control key."}
+{"text": ""}
+{"text": "Key Competence:"}
+{"text": "Experience in gathering requirements, Scoping, Configuration, Testing and handling post implementation projects."}
+{"text": "Sound knowledge of setting up baseline configuration of the organizational levels during SAP implementation projects including definition and assignments of company codes, plants, purchasing organization and storage locations.  \t"}
+{"text": "Rich knowledge in Material Requirement planning (MRP) and its configuration settings, defined MRP profiles, MRP groups, MRP type."}
+{"text": "Experience in Inventory Management module with expertise in configuring new Movement types, GR, GI, Stock transfer (one step and two steps using Stock Transport Order {STO}), Transfer Posting, Reservations, and Physical Inventory."}
+{"text": "Experience in configuring material master, vendor master, purchase info record, purchase requisition, purchase order (Direct, Indirect, Service)."}
+{"text": "Experience in configuring automatic account determination, message output determination, background jobs, and purchasing document release strategies."}
+{"text": "Excellent written/verbal communication skills and interpersonal skills."}
+{"text": "Expertise in EDI/IDoc generation by setting up the partner profiles, message types, IDoc types & error/status handling."}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "MICROSOFT REDMOND, WA                                \t                              May 2018 \u2013 Present"}
+{"text": "SAP MM MDM LE Functional Consultant"}
+{"text": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge Web browsers."}
+{"text": "Environment: SAP ECC 6.0"}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Preparing Master test plan, Test scripts and executing System Integration Testing, Regression Testing, Performance testing and Unit testing."}
+{"text": "Experience with Worksoft Automation team providing functional walkthrough and getting the script done, running Worksoft automated scripts, testing, bug fix and retest."}
+{"text": "Configuration of Master Data (Material Master, Vendor Master, Info Records, and Source List documents), terms of payment, document types and assign number ranges to all purchase documents."}
+{"text": "Defining release strategies, message output types, testing print layout and setting up e-mail, fax, EDI communication mediums for purchasing documents."}
+{"text": "Configuring settings for Goods Issues, Goods Receipt, Movement types and other relevant objects in Inventory Management as required by business logistics"}
+{"text": "Worked on the Logistics execution, goods receipt and goods issue process, shipping and transportation"}
+{"text": "Understanding business Requirements and Functional Specifications of the application and providing functional specifications to Technical Consultant in development of report to meet the business needs."}
+{"text": "Involved in designing outbound interface to generate IDOC with specific segment for Material Master."}
+{"text": "Involved error handling execution of IDOC and EDI (850,855,856,858,860,865,945) for inbound and outbound."}
+{"text": ""}
+{"text": ""}
+{"text": "Johnson & Johnson \u2013 New Brunswick, NJ\t             \t\t\t\t\tAug 2016 \u2013April 2018"}
+{"text": "SAP MM MDM LE Functional Consultant"}
+{"text": "Johnson & Johnson is a $70 billion company with offices in 60 countries. It is engaged in medical devices, pharmaceutical and consumer packaged goods manufacturing business."}
+{"text": "Environment: SAP ECC 6.0"}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Customized Pricing Procedures, Condition types, Condition Tables and Access Sequences, to meet the requirements."}
+{"text": "Conducted several workshops for unit testing, SIT, user acceptance testing, and regression testing"}
+{"text": "Configured physical inventory and cycle counting."}
+{"text": "Configured the release procedure for PO and message output determination."}
+{"text": "Responsible for Data migration, planning and execution of cut-over activities for SAP projects"}
+{"text": "Reconciled inventory of 3PL(DHL-Manhattan) and SAP systems along with inventory control team"}
+{"text": "Created batches and transfer posted dummy batches to real batches for Keurig manufacturing plants along with 3PL DHL plants"}
+{"text": "Performed Functional Unit Testing, Integration Testing and assisted end users in User Acceptance Testing to validate the business scenarios"}
+{"text": "Defined put away & Picking strategies; customized pick any batch functionality for Finished Products"}
+{"text": "Provide support for cross-functional issues involving SD, MDM,MM & PP and guide technical team members (ABAP) for issue resolution"}
+{"text": "Worked extensively on inbound processing for GR confirmation, out-bound processing for deliveries."}
+{"text": "Resolve user problems and operational issues, including providing fixes to existing configuration for the business processes and functionality currently implemented and operational at clients."}
+{"text": "Monitoring scheduled jobs and their performance"}
+{"text": ""}
+{"text": "Nestle Purina, St. Louis MO\t\t\t\t\t\t                 Dec 2015- July 2016"}
+{"text": "SAP MM MDM LE Functional Consultant"}
+{"text": "Nestle Purina Pet care based in St. Louis, MO is a subsidiary of Nestle. It produces and markets pet food treats and litter. It has operations in North America, Asia, Africa, Europe, Latin America and Oceania. It is the largest pet food manufacturer in the US, and holds the largest market share."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Configuration of enterprise structure relevant to Material Management such as, plant, purchasing organization, Purchasing groups, Storage locations and valuation areas etc."}
+{"text": "Involved in End user training, presentations, creating documentation which include user manuals, master data manuals and customizing guide. "}
+{"text": "Resolved end users problems in Transactions and Responsible for managing, assisting with prioritization, and monitoring day-to-day Gap Solution\u00a0Requests. "}
+{"text": "Assisted with the design of changes to business processes based on requested enhancements."}
+{"text": "Coordinated the execution of tests and integration within MM"}
+{"text": "Compiled the information required for creation of Material Master, Vendor Master and Info Record documents and customized the same. "}
+{"text": "Configuration of Release Strategy for Purchase requisition and Purchase orders."}
+{"text": "Involved in Unit, Integration & Regression testing & obtaining User acceptance."}
+{"text": "Stock Transport Order process: Stock Transfer from one plant to another including the Goods Receipt, Goods Issue at the respective plants"}
+{"text": ""}
+{"text": "Reebok-Canton, MA \t\t\t\t\t                                           Nov 2014 \u2013 Dec 2015"}
+{"text": "SAP Functional Consultant \u2013 MM/MDM/LE/WM"}
+{"text": "Reebok International Ltd.\u00a0is a global athletic footwear and apparel company. Reebok produces and distributes\u00a0fitness\u00a0and\u00a0sports items including shoes, workout clothing and accessories, and training equipment. Reebok is the official footwear and apparel sponsor for\u00a0UFC,\u00a0Cross Fit,\u00a0Spartan Race, and\u00a0Les Mills."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Worked extensively in a full life cycle implementation."}
+{"text": "Gathered requirement through business process workshop for blueprint design."}
+{"text": "Designed and configured MM/WM organizational elements purchasing organization, plant, storage location, warehouse number, storage type, storage section, storage bin."}
+{"text": "Detailed\u00a0Data Mining, Analysis and Functional\u00a0interpretation of procurement Master Data."}
+{"text": "Execute Mass creation and updates of supplier, material, and price catalog data."}
+{"text": "Configured vendor master including creation of account groups, partner function usage, partner schema determination and their assignment to document type and account groups."}
+{"text": "Configured release procedure for internal and external purchasing documents "}
+{"text": "Performed unit test and integration test for all customized developments."}
+{"text": "Monitor testing progress and influence the timely completion of testing and analyze and report testing results."}
+{"text": "Handled the end user training and worked on documentation for end users."}
+{"text": "Provided post-production support on day-to-day activities performed in SAP."}
+{"text": ""}
+{"text": ""}
+{"text": "GUINNESS CAMEROON, Douala Cameroon\t\t\t     January 2009 \u2013 Oct 2014"}
+{"text": "Warehouse Manager"}
+{"text": "Prepared orders by processing requests and supply orders for pulling materials, packing crates."}
+{"text": "Maintained inventory controls by collecting stock location orders and printing requests."}
+{"text": "Maintained quality service by following organization standards."}
+{"text": "Maintained safe and clean work environment."}
+{"text": "Maintained clean shipping supply area."}
+{"text": "Completed reports by entering required information."}
+{"text": ""}
+{"text": "EDUCATION"}
+{"text": "University of Buea, Cameroon"}
+{"text": "Bachelor of Science in Economics"}
+{"text": "SAP Training 2013-2014"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "\t"}

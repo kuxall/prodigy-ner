@@ -1,0 +1,307 @@
+{"text": "Name: evelyn evelyn"}
+{"text": "E-Mail: evelyn.evelyn@gmail.com"}
+{"text": "Address: Abidjan, C\u00f4te d'Ivoire"}
+{"text": "Github: https://github.com/evelyn"}
+{"text": "LinkedIn: https://linkedin.com/evelyn"}
+{"text": "Phone No. 165097936371"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": "           "}
+{"text": " 7+\u00a0of experience in IT industry comprising of Three years of Linux Systems Administration and almost Five years of Software Configuration Management (SCM). Extensive experience includes SCM, DevOps Build/Release Management, Change/Incident Management and Cloud Management."}
+{"text": ""}
+{"text": "Expertise System Administration working on Red Hat Linux, Solaris, SuSE Linux, AIX, CentOS, Fedora, OEL, Windows environments, and VMware vSphere."}
+{"text": "Implemented Continuous Integration and deployment using various CI Tools like Jenkins, Hudson, Bamboo, Chef, Puppet,Nagios and ADF."}
+{"text": "Strong hands on development and configuration experience with software provisioning tools like Chef, Puppet and Splunk."}
+{"text": "Supported AWS Cloud environment with 750+ AWS instances and configured Elastic IP & Elastic Storage and also experience in working on implemented security groups."}
+{"text": "Expertise with TFS using GIT as Source Control Repository."}
+{"text": "Designed, configured and managed public/private cloud infrastructures utilizing Amazon Web Services(AWS),including EC2, EC2 Container Service (Docker Containers), Elastic Beanstalk, S3, CloudFront, Elastic Filesystem, RDS, DynamoDB, VPC, DirectConnect, Route53, CloudWatch, CloudTrail, CloudFormation, IAM, EMR, ElasticSearch which allowed automated operations using Chef."}
+{"text": "\u00a0Expertise with\u00a0Splunk\u00a0architecture and various components (indexer, forwarder, search head, deployment server), Heavy and Universal forwarder, License model.\u00a0"}
+{"text": "Configured and maintained multiple Jira instances on multiple servers for different uses and worked with departments in training on how to search and create tickets in Jira.\u00a0"}
+{"text": "Installation and up gradation of Packages and Patches configuration mgmt, version control, service pack. & reviewing connectivity issue regarding security problem."}
+{"text": "Experience in configuration of\u00a0NIS, NIS+, DNS, DHCP,snmp, NFS, LDAP, SAMBA, SQUID, postfix, send mail, FTP, remote access, security management and Security trouble shooting skills."}
+{"text": "Experience in Configuring and Managing in Hadoop Clusters for Spark streaming jobs using Microsoft Azure."}
+{"text": "Experience on Web servers such as iPlanet Web server 6.0 /Sun one web server 6.3, 6.5, Tomcat 3.x, 4.x, 5.x, 6.x, and 7.x & Apache Server 1.x, 2.x and integrating them with Web logic 10.x servers. "}
+{"text": "Experience using cloud providers and API\u2019s for Amazon (AWS) with Microsoft Azure."}
+{"text": "Worked on Data-Center operation and migration across Unix, Linux and Windows platforms"}
+{"text": "Experience in Creation and managing user accounts, security, rights, disk space and process monitoring in Solaris and Red Hat Linux."}
+{"text": "Experience in Installing, upgrading and configuring Red Hat Linux 4.x, 5.x, and 6.x using Kickstart Servers "}
+{"text": "Experience in installing, configuring and implementing the RAID technologies using various tools like VxVM and Solaris Volume Manager."}
+{"text": "Experienced in implementing and maintaining an Apache Tomcat /MySQL/PHP, LDAP, Active Directory, LAMP web service environment."}
+{"text": "Experienced on Red Hat Satellite Server with custom repositories to provide a stable management solution for the Linux environment."}
+{"text": "Experience with Veritas Volume Manager (VxVM), Veritas File System (VxFS), Veritas Net Backup, Veritas Clustering with SAN, NAS environment."}
+{"text": "Experience in Server monitoring, capacity planning, application monitoring with the help of Nagios, Cacti, Zabbix, Puppet, Splunk."}
+{"text": "Expertise in deployment of Routers, Switches, Hubs, Firewalls, IDS, load balancers, VPN Concentrators. Hands-on experience in installation and maintenance of windows NT/2000/2003, IBM AIX, Red hat Linux operating systems."}
+{"text": "Implemented Trip wire and Digital board band"}
+{"text": "Task automation and configuration management framework using Powershell."}
+{"text": "Experienced with Powershell in deployment and management of the system."}
+{"text": "Ability to create scripts using Azure Powershell during automation and built-i process."}
+{"text": "Expertise in scripting for automation, and monitoring using Shell, PHP, Python & Perl scripts."}
+{"text": "Ability in managing all aspects of the software configuration management process including code compilation, packaging / deployment / release methodology and application configurations."}
+{"text": "Participated, documented, managed ITIL controls and supported Linux environment. "}
+{"text": "Good understanding of OSI Model, TCP/IP protocol suite (IP, ARP, TCP, UDP, SMTP, FTP, and TFTP)"}
+{"text": "Experience in Installing Firmware Upgrades, kernel patches, systems configuration, performance tuning on Unix/Linux systems."}
+{"text": "Installation and configuration of JBoss, Web Sphere 5.1/6.0 Application Server on Solaris and Linux boxes."}
+{"text": "In various aspects using Cloud computing using Openstack as Iaas."}
+{"text": "Solid background in Object-Oriented analysis and design. Very good at various Design Patterns, UML and Enterprise Application Integration (EAI)."}
+{"text": "Experience in writing shell scripts to automate the administrative tasks and management using cron and at. "}
+{"text": "Experience in Fine Tuning ported Device Drivers (Ethernet, Pseudo terminals)."}
+{"text": "Accessed ARM based SoC hardware design for software design and test."}
+{"text": "Independent problem solving and a good team player with strong interpersonal and communication skills."}
+{"text": "Experience supporting 24x7 production computing environments. Experience providing on-call and weekend support. "}
+{"text": "Experienced in Trouble shooting and Back and Recovery."}
+{"text": "Ability to work independently as well as a team member."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE: "}
+{"text": ""}
+{"text": "Microsoft - Seattle, WA"}
+{"text": "Devops-Monitoring Engineer                                                           Feb 2016 to Present"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Designed, configured and deployed Microsoft Azure for a multitude of application s utilizing the Azure stack (Including Compute, Web&Mobile, Blobs, ADF, Resource Groups, HDInsight Clusters, Azure SQL, Cloud Services, and ARM), focusing on high-availability, fault tolerance, and auto-scaling."}
+{"text": "Developed\u00a0Spark\u00a0scripts by using Scala shell commands as per the requirement.\u00a0"}
+{"text": "Worked on Windows Platform for Build and Release Management."}
+{"text": "Installation, Configuration and up gradation of Clusters and Azure."}
+{"text": "Implementation usingYarn, Ambari and Azure Powershell."}
+{"text": "Build the Source Code using Jenkins and MSBuild."}
+{"text": "Used the Docker files to build, ship and run distributed as a part of Cloud Build."}
+{"text": "Involved in teams to analyse the Anomaly detection and ratings of the data."}
+{"text": "Using JSON Files develop the Automation Scripts for deployment."}
+{"text": "Experienced in Managing the Source Code Using GIT."}
+{"text": "Have hands on Experience to use TFS for One branch include GIT for build and deployment."}
+{"text": "Experienced in Continuous Integration process using TFS along with the Visual Studios in MS environment."}
+{"text": "Worked with Various IDE\u2019s like Visual Studios and Intellij as a part of code development."}
+{"text": "Performed Builds Using SBT Packages in the SBT Build Tool "}
+{"text": "Worked with various types of Code (Sql,Scala,java and .Net)."}
+{"text": "Monitored via remotely run scripts Ambari, Azure Data Factory and Blobs."}
+{"text": "PowerBI and Log Analytics used for Alerting system to catch the failures and alerts."}
+{"text": "Maintained the number of Nodes including Cores for Clusters in part of Cluster Management."}
+{"text": "Experienced in maintain large amount of data in SQL Management Studios, Storage accounts and Resource Groups."}
+{"text": "Knowledge in running Hadoop streaming jobs to process terabytes data. "}
+{"text": "Involved in importing the real time data to Hadoop using Kafka and implemented the Oozie job for daily imports"}
+{"text": "Involved in data Transfer from one WASB to another WASB using ADF includes various Datasets, Linked Services and Pipelines."}
+{"text": ""}
+{"text": ""}
+{"text": "Environment:"}
+{"text": ""}
+{"text": "GIT,Scala,SQL,Jenkins,MsBuild,SBT,Docker,ADFPipelines,HDinsight-Clusters, Microsoft Azure."}
+{"text": ""}
+{"text": "Synergy Wireless Solutions- Herndon, VA- January 2014 to December 2015"}
+{"text": "DevOps/Cloud Engineer "}
+{"text": ""}
+{"text": ""}
+{"text": "       Incorporated in 2008, Synergy Wireless Solutions LLC is an award winning provider of network implementation, operational and staff augmentation services to the telecommunications industry. With a vision to provide first class industry leading solutions the Synergy team bring years of experience and a commitment to deliver the highest levels of quality and professionalism to all its services. With proven experience in delivering and executing projects and services for network implementation, operations, maintenance, performance, optimization, hardware & software support, remote network integration and technical support. Synergy Wireless Solutions is a Small Women and Minority Owned Enterprise and is certified by the state of Virginia's Department of Minority Business Enterprise.For the past several years Synergy Wireless Solutions teams have been supporting network carriers and equipment vendors across the nation deliver the latest technologically advanced services to its customers."}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Performed OS provisioning using kickstart through BMC BladeLogic. "}
+{"text": "Performed patching of RHEL using yum, up2date and BladeLogic. "}
+{"text": "Supporting infrastructure environment comprising of RHEL and Solaris."}
+{"text": "Experience with VMware Virtualization using ESX hypervisor of VSphere."}
+{"text": "Implemented cloud services AWS."}
+{"text": "Designed , configured and deployed Amazon Web Services(AWS) for a multitude of application s utilizing the AWS stack (Including EC2, Route53, S3, RDS, Cloud Formation, Cloud Watch, SQS, IAM, and EMR), focusing on high-availability, fault tolerance, and auto-scaling."}
+{"text": "Installation, Configuration and up gradation of Red Hat Linux 4, 5.X, 6.X, and using Blade Logic. "}
+{"text": "Implemented puppet, Nagios, Splunk and Chef."}
+{"text": "Experience in configuring, monitoring distributed and multiple platform servers using Puppet."}
+{"text": "Expertise in using Puppet Dashboard and Puppet DB for configuration management to existing infrastructure. "}
+{"text": "Used standard skeleton structures like Skel-minimal, Skel-standard to write puppet code. Automated the core module Puppet-limits using puppet, and to automate the entire environment."}
+{"text": "Production experience in large environments using configuration management tool Puppet supporting with 500+ servers and involved in developing manifests."}
+{"text": "Create and manage Chef POC environments like Openstack (Havana\\Icehouse).\u00a0"}
+{"text": "Open Source Cloud Computing platform that will meet the needs of public and private clouds regardless of size using OpenStack , by being simple to implement and massively scalable"}
+{"text": "Create and manage Chef Cookbooks (Redhat 6).\u00a0"}
+{"text": "Maintained Chef Servers and management application that can use Service Now (CI) data to bring computers into a desired state by managing files, services, or packages installed on physical or virtual machines.\u00a0"}
+{"text": "Created Chef Automation tools and builds, and do an overall process improvement to any manual processes.\u00a0"}
+{"text": "Experience with design, configuration and implementation of Nagios 4.0.8"}
+{"text": "Monitored via remotely run scripts via Nagios Remote plugin Executor."}
+{"text": "Deploying application using Jenkins server and Troubleshoot build and release job failures, resolve, work with engineers on resolution."}
+{"text": "Created a deployment procedure utilizing Jenkins CI to run the unit tests, build documentation using NaturalDocs .Created RPM packages for installation, setup the application and its dependencies\u00a0"}
+{"text": "Resolving different Users requests."}
+{"text": "Create, extend, reduce and administration of Logical Volume Manager (LVM) in RHEL environment."}
+{"text": "Creation, Installation and administration of Red Hat Virtual machines in VMware Environment. "}
+{"text": "Maintaining Large pools of compute, storage, and networking resources throughout a datacentre Using OpenStack with Dashboard."}
+{"text": "Configuration of Monitoring tools in Linux and Solaris servers. "}
+{"text": "Creation of SAN File System on Red Hat Linux using multipath configuration."}
+{"text": "Rebuilding of kernel in RHEL using mkinitrd."}
+{"text": "Configuration of Network bonding which include Active/Standby and Active/Active."}
+{"text": "Installation of HBA cards ( Emulex and Qlogic ) "}
+{"text": "Troubleshooting Network, memory, CPU, swap and File system issues, TCP/IP, NFS, DNS, SMTP in  Linux and Solaris servers. "}
+{"text": "Developed embedded C software for Linux operating system."}
+{"text": "Assisted in development of Linux Kernel components."}
+{"text": "Performance tuning of Virtual Memory, CPU, system usage in Linux and Solaris servers. "}
+{"text": "Supported class monitoring and management tools such as Open NMS, Tivoli and VCO. "}
+{"text": "Expertise in deployment of Routers, Switches, Hubs, Firewalls, IDS, load balancers, VPN Concentrators."}
+{"text": "Performed Disaster Recovery in RHEL servers which consists of LVM based FS and Red Hat Clustering. "}
+{"text": "Creation, initialization, addition of Oracle ASM and FSR devices in multipath environment"}
+{"text": "Performance Monitoring and Performance Tuning using Top, prstat, SAR, vmstat, ps, iostat. "}
+{"text": "Building of Oracle RAC (Oracle Real Application Clusters) environment. "}
+{"text": "Installation, configuration and administration of SNMP traps, Jboss, Apache, Weblogic, Tomcat and Websphere. "}
+{"text": "Installation of third party tools using packages. "}
+{"text": "Creation of Jumpstart and Kickstart configuration for the automatic provision of servers using BladeLogic. "}
+{"text": ""}
+{"text": "Environment: CI/CD, AWS, Jira, Jenkins, Puppet, Docker, Apache, python,Nginx, MySQL, Ant, SVN, Nagios, SonarQube."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "American Care Partners -Falls Church, VA July 2012 to December 2013"}
+{"text": "Build Release/Devops Engineer "}
+{"text": ""}
+{"text": "      Our comprehensive home health care services help your loved ones to remain at home, where they\u2019re most comfortable, and receive the care they need to maximize their recovery and quality of life. We work with each patient\u2019s physician to individualize a plan of care, which could include specialized nursing, therapy to regain lost skills, or assistance with daily living."}
+{"text": "                      We enable seniors, individuals with disabilities, special needs pediatrics and individuals living with chronic conditions to remain safe, functional and comfortable in the place they choose to live and avoid institutional placement."}
+{"text": "       Home health care costs less than hospitalization and is covered by Medicare, Tricare, Medicaid and commercial insurances. And since we\u2019ve passed rigorous standards that certify us as a local licensed provider of home health care, we can bill directly, saving you hours of paperwork."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Implemented Bash, Perl, Python scripting.    "}
+{"text": "Implemented automations tools Chef, Nagios, Puppet, Splunk and Salt."}
+{"text": " Migrated to Red hat satellite server 6 version. "}
+{"text": "Experience in working exclusively on VMware virtual environment."}
+{"text": "Knowledge on implementing Cloud Softwares using OpenStack as a Iaas fo cloud computing ."}
+{"text": "Implemented cloud services with AWS and Openstack."}
+{"text": "Configured AWS Identity and Access Management (IAM) Groups and Users for improved login authentication. Created AWS RDS Aurora DB cluster and connected to the database through an Amazon RDS Aurora DB Instance using the Amazon RDS Console."}
+{"text": "Expertise in installing, configuration and administration of Tomcat [\u2026] Web Sphere. Understanding of cloud based deployments into Amazon EC2 with puppet."}
+{"text": "Setup and Configuration of Puppet Configuration Management."}
+{"text": "Subversion administration for taking the builds using\u00a0Puppet\u00a0management."}
+{"text": "Experience in managing virtual instances and disks using Puppet.\u00a0"}
+{"text": "Deployed Puppet, Puppet dashboard for configuration management to existing infrastructure."}
+{"text": "Created Chef cookbooks for sudoers and network configurations using Chef Server.\u00a0"}
+{"text": "Maintaining automated environment using Chef recipes and cookbooks."}
+{"text": "Involved in standardizing\u00a0Splunk\u00a0forwarder deployment, configuration and maintenance across UNIX and Windows Platforms.    "}
+{"text": "Worked on setting up\u00a0Splunk\u00a0to capture and analyse data from various layers Load Balancers, Web servers and application servers.\u00a0"}
+{"text": "Experience in using Nagios Remote Plugin Executor (NRPE) which allows remote scripts monitoring using scripts that are hosted on remote systems."}
+{"text": "Experience in using Nagios 4.0.8 which provides several API\u2019s to allow the feature set to be easily extended through additional add-ons."}
+{"text": "Provisioning Jenkins environment for continuous integration by easing build and testing tasks for developers.\u00a0"}
+{"text": "Configured security and system in Jenkins. Added multiple nodes to Jenkins and configured SSH for continuous deployments.\u00a0"}
+{"text": "Experience in using VMware vMotion to move VM\u2019s from One Datacenter to another datacenter."}
+{"text": "Updating patches to keep servers updated against bugs present in the operating system using Red Hat Satellite Server, yum, etc."}
+{"text": "Experience on working with variety of Linux platforms Red Hat Linux, Solaris which includes installation, configuring and maintenance of applications on this environment."}
+{"text": "Installation and configuration of various Third party software onto servers."}
+{"text": "Build servers using Kick Start, Red Hat Satellite Server, and VSphere Client."}
+{"text": "Installed, configured and provided support for Tivoli Monitoring software across various OS platforms like RHEL, AIX and Solaris."}
+{"text": "Installed packages using YUM and Red hat Package Manager (RPM) on various servers."}
+{"text": "Involved in ILMT Agent Deployments and Oracle/SQL Upgrade project which includes various UNIX builds of different OS platforms across various data centers."}
+{"text": "Troubleshooting network administration, IIS configuration, SNMP Traps, DNS setup and modifications, firewall rule sets, local and distributed director, connectivity, and supporting applications."}
+{"text": "Responsible for independent support of Tier 2 issues: reboots, start/stop services, reset Terminal Service and pc anywhere connections, and administrative server maintenance. Daily follow up with clients to ensure resolution of all issues. "}
+{"text": "Used Logical Volume Manager for the management of Volumes including creation of physical and logical volumes on Linux."}
+{"text": "Provide support to Account Managers, UNIX and Windows technicians, and other departments."}
+{"text": "Coordinated with various cross functional teams across IT operations to make sure smooth functioning of projects."}
+{"text": "Experience on working with projects like PCI, SR to ensure all goes well and provided support till servers go in to production environment."}
+{"text": "Day to day resolution on Linux based issued though SMS ticketing system in compliance to SLA cycles."}
+{"text": "Worked closely with DBA Team in order to adjust kernel parameters as per requirements."}
+{"text": "Automating many day to day tasks through Bash scripting."}
+{"text": ""}
+{"text": ""}
+{"text": "Environment: : Red Hat Enterprise Linux 4.x/5.x/6.1, AIX 6.x, Solaris 8/ 9/10, Tivoli Storage Manager, VMware ESX5, Tivoli Net backup, Web sphere, Windows 2012 servers, Windows 2008, IIS 7.0 & 7.5, Puppet, Chef, Splunk, Nagios, AWS."}
+{"text": ""}
+{"text": ""}
+{"text": "Cabinets.com- Tampa, FL, November 2010 to June 2012"}
+{"text": "Systems Administrator"}
+{"text": "Our goal is to make buying your dream kitchen online easy and affordable, while giving you the most options and styles to choose from on the internet."}
+{"text": "        We carry our own discount kitchen cabinets, Deerfield\u2122, that are manufactured and assembled right here in USA. We also offer high-quality RTA (ready to assemble) cabinets for even more savings. All of our cabinets have dovetail drawers and solid all wood construction. Deerfield\u2122 Assembled Cabinets and Titusville\u2122 RTA Cabinets also have many custom cabinet options including depth modification and glass doors."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for installation, configuration of Linux servers using jumpstart methods."}
+{"text": "Used VI editor to edit necessary files."}
+{"text": "Preventive maintenance (OS Patching) of red hat enterprise Linux (RHEL)."}
+{"text": "Volume and file system management in Linux environments (LVM)."}
+{"text": "Text processing, also in network programming with Perl Scripting."}
+{"text": "Migrated activities using Red Hat LVM, Solaris LVM, Veritas and EMC Open Migrator. "}
+{"text": "Experience in writing Shell and Perl Scripting for automation of job."}
+{"text": "Experience in 24X7 Production support, Build and Migration Assignments."}
+{"text": "Installation of OAS (Oracle Application Server) on Solaris 9 and its configuration with oracle database."}
+{"text": "Implemented automations tools Nagios, Puppet and Splunk."}
+{"text": "Participated in configuring and monitoring distributed and multiple platform servers using Puppet. "}
+{"text": "Used Puppet server and workstation to manage and configure nodes.\u00a0"}
+{"text": "Experience in writing Puppet manifests to automate configuration of a broad range of services."}
+{"text": "The Puppet\u00a0infrastructure Guide has been created to install\u00a0puppet\u00a0master server to serve all the requests sent from agents. The master has been bundled into a single package for user convenience."}
+{"text": "Participated in configuring files in\u00a0SPLUNK (props.conf, transforms.conf, output.conf).\u00a0"}
+{"text": "Created plan and deploy Nagios monitoring server environment. "}
+{"text": "Manage Nagios High Availability solution."}
+{"text": "Used Veritas File system (VxFS) and Veritas Volume Manager (VxVM) to configure RAID 1 and RAID 5 Storage Systems on Sun Solaris."}
+{"text": "Tuning the kernel parameters based on the application/database requirement"}
+{"text": "Build channels and pull the packages from master Red Hat Satellite Server."}
+{"text": "Troubleshooting hardware, software and configuration problems for various protocols and topologies."}
+{"text": "Installed and configured GFS cluster for holding databases."}
+{"text": "Configured open LDAP Red Hat Linux systems. "}
+{"text": "Install and configure DHCP, DNS (BIND, MS), web (Apache, IIS), mail (SMTP IMAP and POP3) and file servers. "}
+{"text": "Setup optimal RAID levels (fault tolerance) for protected data storage in NAS environments. "}
+{"text": "Expertise in troubleshooting the systems and managing LDAP, DNS, SNMP, DHCP and NIS."}
+{"text": "Knowledge on different Active directory databases like Microsoft AD, Tivoli Directory server with LDAP."}
+{"text": "Created new slices, mounted new file systems and uncounted file systems."}
+{"text": "Set up mount points on Solaris servers for Oracle database."}
+{"text": "Customized user environment for users."}
+{"text": "Monitored system logs."}
+{"text": "NFS/CIFS file system mounting and support."}
+{"text": "Performance Monitoring and capacity planning in anticipation of system resource usage and needs."}
+{"text": "Setup ZFS quotas, reservation and automatic NFS-share of directories"}
+{"text": "Used SMF system utilities"}
+{"text": "Have knowledge in installing and configuring VERITAS volume manager."}
+{"text": "Setup Role-Based Access control"}
+{"text": "Monitored TCP/IP network environment"}
+{"text": "Experience with Internet technologies including TCP/IP and HTTP"}
+{"text": "Familiarity with network systems such as servers, switches, firewalls and routers."}
+{"text": "Knowledge of Internet and networking infrastructure design"}
+{"text": "Environment: Red Hat Linux (RHEL 3/4/5), Solaris, Logical Volume Manager, Sun & Veritas Cluster Server, Global File System, Red Hat Cluster Servers, Puppet, Nagios, Splunk."}
+{"text": ""}
+{"text": ""}
+{"text": "UNICEL Technologies, Banglore, India - March 2009 to October 2010"}
+{"text": "Linux System Administrator"}
+{"text": "   UNICEL Technologies, based in Bangalore and founded in 2003, provides Integrated Cloud Communications Solutionsacross SMS, Voice, USSD, and Email. The strong and intensifying belief in the power of cloud communications, along with the need for Innovation to provide these services in a uniquely simple and integrated way, is what the company thrives on every day. Unicel provides a complete range of communications services through APIs that customers can directly integrate into their applications, SaaS based applications built by Unicel to meet many common business requirements, and customized solutions tailor made to business-specific needs."}
+{"text": "Responsibilities:"}
+{"text": "Installation of patches and packages using RPM and YUM in Red hat Linux."}
+{"text": "Created and modified application related objects, created Profiles, users, roles and maintained system security."}
+{"text": "Responsible for setting up cron jobs scripts on production servers."}
+{"text": "Installed and configured SAMBA server for Windows and Linux connectivity."}
+{"text": "Monitored System Activities like CPU, Memory, Disk and Swap space usage to avoid any performance issues."}
+{"text": "Responsible for writing/modifying scripts using bash, ksh, and bash for day-to-day administration."}
+{"text": "Modified Kernel parameters to improve the server performance in Linux."}
+{"text": "Creation of Logical volumes (LVM) for Linux operating systems."}
+{"text": "Installed and configured Apache / Tomcat web server."}
+{"text": "Involved in design, configuration, installation, implementation, management, maintain and support        for the Corporate Linux servers RHEL 4x, 5.x, CENTOS 5.x."}
+{"text": "Coordinating with 24 x 7 on-call support personnel in debugging."}
+{"text": "Maintained proper documentation of all the activities carried out during the project"}
+{"text": "Worked with DBA team for database performance issues, network related issues on Linux Servers."}
+{"text": "Maintained proper documentation of all the activities carried out during the project."}
+{"text": "Created and modified users and groups with SUDO permission."}
+{"text": "Installed and configured VNC server/client."}
+{"text": "Coordinating users for any server activities which may involve major changes on software or any hardware related issues."}
+{"text": ""}
+{"text": "Environment: Red Hat Linux (RHEL 4/5), Logical Volume Manager, Global File System, Red Hat Cluster Servers, Oracle, MySQL, DNS, NIS, NFS, Apache, Tomcat."}
+{"text": ""}
+{"text": "HDFC,Hyderabad, India- June 2008 to February 2009\t"}
+{"text": "  UNIX System Administrator"}
+{"text": "The Housing Development Finance Corporation Limited (HDFC) was amongst the first to receive an 'in principle' approval from the Reserve Bank of India (RBI) to set up a bank in the private sector, as part of RBI's liberalisation of the Indian Banking Industry in 1994. The bank was incorporated in August 1994 in the name of 'HDFC Bank Limited', with its registered office in Mumbai, India. HDFC Bank commenced operations as a Scheduled Commercial Bank in January 1995."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Managed and carried out system maintenance, hardware replacements and upgrades. Performed system patch and software analysis, installs and configuration."}
+{"text": "Installed and Configured RHEL 3/4/5 on Intel and AMD hardware"}
+{"text": "Participated in upgrading and migrating to newer versions."}
+{"text": "Perform Linux Kernel tuning for web, database and application servers."}
+{"text": "Installed and configured Apache Web server and integrated with WebLogic server [\u2026]"}
+{"text": "Writing shell scripts for Automated Back- ups and Cron Jobs using sh and bash."}
+{"text": "Managed user accounts and groups for corporate Linux users."}
+{"text": "Managed and support corporate Linux Development servers."}
+{"text": "Responsible for OS installs, system configuration and upgrades."}
+{"text": "Manage and perform change control and administration on application servers, web servers, and database servers in company's mission critical production, staging and development environments."}
+{"text": "Environment: Rhel 3/4/5, Oracle, WebSphere, Apache."}
+{"text": ""}
+{"text": "EDUCATION"}
+{"text": "Bachelors of Technology in Electronic and Communication Engineering"}
+{"text": "JNTU - Hyderabad, India."}

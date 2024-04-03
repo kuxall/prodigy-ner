@@ -1,0 +1,76 @@
+{"text": "Name: elizabeth elizabeth"}
+{"text": "E-Mail: elizabeth.elizabeth@gmail.com"}
+{"text": "Address: Zhengzhou, China"}
+{"text": "Github: https://github.com/elizabeth"}
+{"text": "LinkedIn: https://linkedin.com/elizabeth"}
+{"text": "Phone No. 893712137529"}
+{"text": ""}
+{"text": ""}
+{"text": "Python Developer with more than three years of experience in Development, Automation, Maintaining and Testing Software Quality for client/server and web based products. Proficient in full Software Development Life Cycle (Waterfall and Agile), including requirement analysis, test planning, effort estimation, execution, defect management, delivery, and support. Areas of technical expertise include: "}
+{"text": ""}
+{"text": "Programming languages: \tPython, C / C++, Java and SQL"}
+{"text": "Web Technologies: \t\tDjango, HTML, HTML5, CSS, Bootstrap, PHP, Java Script, REST Requests/Responses"}
+{"text": "Database Tools: \t\t\tPostgreSQL, Sqlite, MySQL, Microsoft SQL Server Management Studio"}
+{"text": "Scripting: \t\t\tBash Shell, VBScript, JavaScript and Groovy Script."}
+{"text": "Network Tools:\t\t\tWireshark, tshark, Tcpdump, Nmap, Airodump-ng, hping3, Kali frameworks."}
+{"text": "Protocols:\t\t\tOSI Model, TCP/IP, UDP, ICMP"}
+{"text": "Python Libraries:\t\tPandas, Numpy, Seaborn, Matplotlib"}
+{"text": "Machine Learning:\t\tRegression, Classification, Clustering"}
+{"text": "Operating Systems:\t\tLinux, Windows, Mac OS, Kali Linux."}
+{"text": "IDE Tools & Utilities:\t\tJupyter Notebook, Spyder, Ipython, Atom, Vim, Sublime, Pycharm, Git, SVN"}
+{"text": ""}
+{"text": "Selected Key Accomplishments"}
+{"text": ""}
+{"text": "Developed automation test scripts with improved execution process; reduced time by 30%, saving overall execution costs and time on Gryphon project."}
+{"text": "Created a new framework for collecting and analyzing network data using Wireshark packet sniffer enabling the router to increase its"}
+{"text": "  \toverall performance."}
+{"text": "Setup improved UI automation framework by rewriting code; increased regression stability and reduced execution time."}
+{"text": "Reduced the data extraction time by 50% on Cheric bank project."}
+{"text": ""}
+{"text": "Professional Experience"}
+{"text": ""}
+{"text": "Network Data and Test Engineer \u2022 Gryphon Online Safety Inc \u2022 San Diego, CA\t\t\t\t2016\u2013Present"}
+{"text": "Gryphon network router is an AI based router which will provide the customizable parental controls and provides Intrusion Detection System 24/7 to secure all the devices connected to it by using Machine Learning and Artificial Intelligence and will warn users and quarantine the devices when a device was compromised. It has a framework to collect the network data and process it to learn the behavior of various IoT devices. "}
+{"text": ""}
+{"text": "Designed and developed framework using Python and Wireshark libraries to analyze and process the network traffic."}
+{"text": "Developed API\u2019s based on SQLite using Tshark, Scapy to collect, store and analyze the data"}
+{"text": "Integrated the Data Processing framework with build system: OpenWrt and AWS Server."}
+{"text": "Responsible for simulating of IoT devices using Raspberry Pi and Linux platform for testing Intrusion Detection"}
+{"text": "Created Hackable devices using Raspberry PI and Kali Linux for testing the framework developed."}
+{"text": "Responsible for integrating Intrusion Detection Framework with server and OpenWrt device."}
+{"text": "Developed Framework for visualizing the data using Seaborn and Matplotlib."}
+{"text": "Handle responsibilities of applying testing methodologies for testing various networking platforms and functionalities."}
+{"text": "Generated charts and drafted technical reports using Matplotlib and Seaborn."}
+{"text": "Developed automation scripts with Rest Assured Framework and Hping3 for web services testing."}
+{"text": "Performed End-to-End Testing (E2E) on Data Framework using automated scripts.\u00a0"}
+{"text": "Assisted with debugging the Web Suite; used SQL queries in different contexts to verify the results and thoroughly debugged server logs using Splunk Services."}
+{"text": "Executed Continuous Integration of code and scripts using Jenkins and triggered the Continuous Delivery process using Jenkins build jobs."}
+{"text": "Prepared and reported execution status to senior management and product managers for every phase in the release."}
+{"text": "Played a key role in the triaging of production Incidents and execution of root cause analysis activities."}
+{"text": "Experience in monitoring tools such as such as Wireshark and Tcpdump."}
+{"text": "Following a Artificial Intelligence model, helping development by picking up Machine Learning work."}
+{"text": ""}
+{"text": "Environment: Python, Wireshark, Tshark, hping3, Redmine, Pandas, Numpy, openWrt, PostgreSQL, Sqlite. Seaborn"}
+{"text": ""}
+{"text": "Junior Software Developer \u2022 Cheric Technologies \u2022 Hyderabad, India\t\t\t\t\t2013\u20132015"}
+{"text": "Developed parts of the \u201cOnline Credit Report\u201d module with functional and integration testing of Membership Details, Bill Pay, Account Alerts and Message Center. Developed an API to integrate the Customer Details Database with the Front End. The project offered the bank customers best-in-class identity and credit management products with new and enhanced versions of their two existing products. "}
+{"text": ""}
+{"text": "Designed and managed API system Development using fast http server and Amazon AWSs server."}
+{"text": "Maintained and enhanced a Django web-based application, which queries in SQL database and presents tabular data to the end users."}
+{"text": "Used MsSQL as a backend database and MsSQL database as Python connector to interact with MySQL server."}
+{"text": "Responsible for maintaining quality reference data in Oracle by performing operations such as cleaning, transformation and ensuring integrity in a relational environment."}
+{"text": "Involved in design, implementation and modifying the Python code and MySQL database schema on the back-end. "}
+{"text": "Developed an API, which will integrate the SQL Database with the Front End."}
+{"text": "Involved in writing SQL queries implementing functions, triggers, cursers, object types, sequences, indexes etc."}
+{"text": "Generated test reports from applications and compared with test reports of web suite applications; reported the bugs using Serena Team Track."}
+{"text": "Assisted in debugging the Web Suite using SQL queries in different contexts to verify the results."}
+{"text": "Designed Python object oriented for manufacturing quality, logging, debugging code optimization."}
+{"text": "Followed Agile methodology and involved in daily SCRUM meetings, sprint planning, showcases and retrospective and used JIRA as a tracking tool for the sprints."}
+{"text": "Implement Continuous Integration process for multiple applications using Jenkins and Hudson tools for Selenium and UFT scripts"}
+{"text": "Performed web based (IE, Mozilla, Chrome, Safari) and database testing (SQL Server)."}
+{"text": "Tested the assigned features thoroughly for user acceptance and integration testing using Web and Client - Server applications. "}
+{"text": "Performed User Acceptance Testing (UAT), sanity, functional, and regression testing for developed API\u2019s and generated weekly status reports of bugs for each release."}
+{"text": ""}
+{"text": "Environment: Windows XP, Python, MySQL, MsSQL, HTML5, CSS, Django LINUX, Agile Methodology, JIRA, Git and SQL "}
+{"text": ""}
+{"text": "\t"}

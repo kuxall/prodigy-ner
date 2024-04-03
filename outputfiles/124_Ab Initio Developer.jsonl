@@ -1,0 +1,115 @@
+{"text": "Name: stella stella"}
+{"text": "E-Mail: stella.stella@gmail.com"}
+{"text": "Address: Yongzhou, China"}
+{"text": "Github: https://github.com/stella"}
+{"text": "LinkedIn: https://linkedin.com/stella"}
+{"text": "Phone No. 889942649587"}
+{"text": ""}
+{"text": "Professional Summary"}
+{"text": "Around 5 years of professional IT experience in Business Analysis, Design, Data Modeling, Development and Implementation of various client server and decision support system environments with focus on Data Warehousing, Business Intelligence and Database Applications. "}
+{"text": "Extensive experience in Korn Shell Scripting to maximize Ab-Initio data parallelism and Multi File System (MFS) techniques."}
+{"text": "Experience in providing production support to various Ab Initio ETL jobs and developing various UNIX shell wrappers to run Ab Initio and Data base jobs."}
+{"text": "Developed various UNIX shell scripts to run Ab Initio and Data base jobs. Good experience working with very large databases and Performance tuning."}
+{"text": "Experience in DBMS Utilities such as SQL, PL/SQL, TOAD, SQL*Loader, Teradata SQL Assistant."}
+{"text": "Experienced with Teradata utilities Fast Load, Multi Load, BTEQ scripting, Fast Export, Overload, SQL Assistant."}
+{"text": "Skillfully exploit OLAP analytical power of Teradata by using OLAP functions such as Rank, Quantile, Csum, MSum, group by grouping set etc to generate detail reports for marketing folks."}
+{"text": "Worked with Transform Components such as Aggregate, Dedup Sorted, Filter by Expression, Join, Normalize, Reformat, Rollup and Scan Components and created appropriate XFRs and DMLs and Automation of load processes using Autosys."}
+{"text": "Extensively worked on several ETL Ab Initio assignments to extract, transform and load data into tables as part of Data Warehouse development with high complex Data models of Relational, Star, and Snowflake schema."}
+{"text": "Experience in feed integration and automated data reconciliation."}
+{"text": "Expert knowledge in using various Ab Initio components such as Join, Reformat, Scan, Rollup, Normalize, De-normalize, Partitioning and De-partitioning components etc."}
+{"text": "Configured Ab Initio environment to connect to different databases using DB config, Input Table, Output Table, Update table Components."}
+{"text": "Experience in using EME for version controls, impact analysis and dependency analysis."}
+{"text": "Able to interact effectively with other members of the Business Engineering, Quality Assurance, Users and other teams involved with the System Development Life cycle "}
+{"text": "Expertise in preparing code documentation in support of application development, including high level and detailed design documents, unit test specifications, interface specifications, etc."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:\t"}
+{"text": ""}
+{"text": "Client: \tKeyBank, Columbus,\u00a0OH\t\t\t\t\t\t                           Sep 2017 to Till Date"}
+{"text": "Role:  Ab Initio Developer/ ETL Developer"}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Worked on Multi file systems with parallel processing."}
+{"text": "Implemented Lookups instead of joins, in-memory sorts to minimize the execution times while dealing with huge volumes of data."}
+{"text": "Extensively used Partitioning Components: Broad Cast, partition by key, partition by Range, partition by round robin and De-partition components like Concatenate, Gather and Merge in Ab Initio."}
+{"text": "Implemented Transform Components such as Aggregate, Dedup Sorted, Filter by Expression, Join, Normalize, Reformat, Rollup and Scan Components and created appropriate XFRs and DMLs. "}
+{"text": "Automation of load processes using Autosys."}
+{"text": "Used Lookup Transformation in validating the warehouse customer data."}
+{"text": "Prepare logical/physical diagram of DW, and present it in front of business leaders. Used ERWIN for model design."}
+{"text": "Used Teradata SQL Assistant front-end tools to issue SQL commands matching the business requirements to Teradata RDBMS."}
+{"text": "Coded and Unit tested Ab Initio graphs to extract the data from Teradata tables and MVS files."}
+{"text": "Worked on profiling of operational data using Ab Initio Data Profiler/SQL Tool to get better understanding of the data that can be used for analytical purpose for business analysts."}
+{"text": "Extensively used UNIX Shell Scripting for writing SQL execution scripts in Data Loading Process."}
+{"text": "Produced mapping document and ETL design document. "}
+{"text": "Worked closely with the end users in writing the functional specifications based on the business needs."}
+{"text": "Participated in project review meetings."}
+{"text": "Excellent understanding of the System Development Life Cycle. Clear and through understanding of business process and workflow. Involved in all the four phases namely planning, analysis, design and implementation. Experienced in testing, documentation and requirements gathering. "}
+{"text": "Provided application requirements gathering, designing, development, technical documentation, and debugging. Assisted team members in defining Cleansing, Aggregating, and other Transformation rules."}
+{"text": "Extensively worked with stored procedures & functions and created triggers to implement business rules and validations."}
+{"text": "Responsible for Performance-tuning of Ab Initio graphs."}
+{"text": "Collected and analyzed the user requirements and the existing application and designed logical and physical data models."}
+{"text": "Responsible to prepare Interface specifications and complete Documentation of Graphs and its Components. "}
+{"text": "Responsible for testing the graph (Unit testing) for Data validations and preparing the test reports."}
+{"text": "Prepared Unit and Integration testing plans. Involved in SIT/ UAT with user groups."}
+{"text": ""}
+{"text": "Environment:Ab Initio (CO-Operating system 3.2.4/2.15/2.14, GDE 3.4.1/3.0.2/1.15/1.14), Abinitio DQE, BRE, ACE, Data Profiler, ER-win 4.0, UNIX, MVS, SQL, PL/SQL, Teradata 15.0/14.0/13.10/13.0/12.0, DB2, COBOL, Perl, Autosys, OPC"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: \tDiscover, Chicago IL\t\t\t\t\t\t\t\t            Aug 2016 to May 2017"}
+{"text": "Role:  Ab Initio Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Extensively used Ab-Initio ETL tool in designing & implementing Extract Transformation & Load processes. Different Ab Initio components were used effectively to develop and maintain the database."}
+{"text": "Understood the business requirements with extensive interaction with users and reporting teams and assisted in developing the low-level design documents."}
+{"text": "Monitor Teradata systems effectively using Viewpoint port lets and alerts\u00a0"}
+{"text": "Built various utilities on Unix shell scripting to automate various phases of Unit test the developed code."}
+{"text": "Develop batch processes for financial reporting applications and modules using Korn shell scripts on Oracle database, with partitions and sub-partitions."}
+{"text": "Used Autosys for Scheduling the Jobs and setting up the Jobs for execution."}
+{"text": "Used Anthill and udeploy to deploy and maintain various versions on different environments."}
+{"text": "Worked in a sandbox environment while extensively interacting with EME to maintain version control on objects. Sandbox features like checkin and checkout were used for this purpose."}
+{"text": "Maintained locks on objects while working in the sandbox to maintain the privacy."}
+{"text": "Worked on Teradata Upgrade from Version 14 to 15.10\u00a0"}
+{"text": "Worked on Teradata Installation of servers like Viewpoint, PDCR & TARA GUI.\u00a0"}
+{"text": " Worked on Query optimization/Collect stats etc.\u00a0"}
+{"text": " Support Teradata servers like Nodes, Viewpoint, PDCR, TARA GUI, Net Backup for Prod & Non Prod servers.\u00a0"}
+{"text": "Worked on Monitoring & Trouble shooting of Backup, Restore & Copy of Teradata Objects."}
+{"text": "Developed Complex XFRs to derive new fields and solve various business requirements."}
+{"text": "Developed appconfs based on previously developed graphs. "}
+{"text": "Maintained end to end lineage by using components like documentation in scenarios where lineage cannot be maintained."}
+{"text": ""}
+{"text": "Environment: Ab-Initio 3.3.1 GDE with Co>op 3.3.1.4, Express>It 3.3.2.0, Unix, Korn Shell, Teradata, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Orange Bytes Systems, Secunderabad, India\t\t\t\t\t\t         May 2013 to Apr 2016"}
+{"text": "Role: ETL Developer"}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Understanding the existing application architecture, designing and identifying the reporting requirements and prepare the requirements specifications document. This involved interacting with the business users and understanding the requirements."}
+{"text": "Extracted data from various source systems like relational data bases, Flat files and                     Data into the data warehouse using Informatica On Demand (2010 release)."}
+{"text": "Extensively used the Informatica on Demand for Replicating the Data from Sales force to local Database."}
+{"text": "Developed new Adopters using Informatica 8.6.1, complete end to end Development against Salesforce.com source."}
+{"text": "Extensively worked in developing Salesforce Adapters for Sales and Opportunities."}
+{"text": "Created Facts like Opportunity Lineitem, Opportunity History, Sales, Budget, Goals and dimensions like Opportunity, PriceBookEntry, User, Region, Account."}
+{"text": "Created reusable transformations and Mapplets and used them in mappings."}
+{"text": "Testing and Validating repository and Dimensions."}
+{"text": "Analyzed reporting requirements for dashboard reports."}
+{"text": "Custom built the OBIEE (10.1.3.4.1) repository (RPD) from the scratch with 4 Facts and 9 Dimensions and 4 confirmed Dimensions."}
+{"text": "Performed high level and detailed design of the star schema."}
+{"text": "Created some Reports for analyzing the Trend in Opportunities, sales and Sales Reps Efficiency etc."}
+{"text": "Provided the Object level and Data level security."}
+{"text": "Complete responsible for migrating the whole Dev Environment to Production Environment."}
+{"text": "Complete responsible for preparing the END to END Document."}
+{"text": "Produced mapping document and ETL design document. "}
+{"text": "Worked closely with the end users in writing the functional specifications based on the business needs."}
+{"text": "Participated in project review meetings."}
+{"text": "Used Phases, Checkpoints to avoid deadlocks and multi-files in graphs and also used Run program, Run SQL components to run UNIX and SQL commands."}
+{"text": "Excellent understanding of the System Development Life Cycle. Clear and through understanding of business process and workflow. Involved in all the four phases namely planning, analysis, design and implementation. Experienced in testing, documentation and requirements gathering. "}
+{"text": ""}
+{"text": "Environment: OBIEE 10.1.3.4.1, Informatica 8.6.1, Informatica on Demand, Sales Force, Flat Files, Oracle10g."}
+{"text": ""}
+{"text": ""}

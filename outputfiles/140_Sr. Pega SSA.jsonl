@@ -1,0 +1,142 @@
+{"text": "Name: frances frances"}
+{"text": "E-Mail: frances.frances@gmail.com"}
+{"text": "Address: Zhangzhou, China"}
+{"text": "Github: https://github.com/frances"}
+{"text": "LinkedIn: https://linkedin.com/frances"}
+{"text": "Phone No. 753630690757"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "Having around 8 years of experience in Information Technology with 4 plus years of executing END-TO-END BPM project in Pega (PRPC) BPM tool (PEGA PRPC v6.2 and 7.1). "}
+{"text": "Secured PRPC CSA & CSSA Certification."}
+{"text": "Expertise in analysis, design, development and managing Work Flows, Class Structure design, User Interface (UI), creating various Flow Actions, Activities, Correspondence rules, HTML Fragments, Security and Java in the PRPC application."}
+{"text": "Experience in design and development of large scale Business Process Management (BPM) and Business Rules Engine (BRE) applications using Pega Rules Process Commander (PRPC)."}
+{"text": "Proficient in Pega Implementation life cycle. The Implementation cycle includes modeling of business process, PRPC tool installation, development, testing, and deployment."}
+{"text": "Involved in defining Class Structure and Hierarchy based on Pega practiced guardrails."}
+{"text": "Developed Activities, Properties, Decision Rules, Declarative Rules, When Condition, Process Flow and User Interfaces like Harness & Section."}
+{"text": "Involved in customizing out of the box reports based on the requirement."}
+{"text": "Domain knowledge in Insurance and Banking."}
+{"text": "Expertise in designing complex process flows, UI screens, services, connectors and various other Pega components. "}
+{"text": ""}
+{"text": "CERTIFICATIONS:"}
+{"text": "Certified PEGA Senior System Architect (CSSA)."}
+{"text": "Certified PEGA System Architect (CSA). "}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": "AIG, IN                                                                                  \t\t\t                      Dec\u20192014 \u2013 Present"}
+{"text": "Sr. Pega SSA "}
+{"text": ""}
+{"text": "Worked on the project that enables customer to request terms and conditions, update personal information and setup claims directly through the client's website.  The aim of this application is to establish transparency and user friendly straight-forward online procedure in the client's website."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in all phases of SDLC including requirement collection, analysis, design development and testing."}
+{"text": "Identified work flows, business rules and developed flow charts and activity diagrams."}
+{"text": "Performed cross browser compatibility analysis and testing."}
+{"text": "Worked extensively on portal, harness, flow actions and sections."}
+{"text": "Reviewed Business Requirement Documents and the Technical Specifications."}
+{"text": "Created Operator ID, Access groups and Access Roles for different customers."}
+{"text": "Contact Pega Systems with any product specific issues."}
+{"text": "Extensively used Clipboard and Tracer for debugging of processes developed."}
+{"text": "Created When Conditions and Validation rules for implementation and validation purpose."}
+{"text": "Used List View and Summary View rules to create reports."}
+{"text": "Responsible for code reviews to ensure its compliance with Pega Guardrails."}
+{"text": "Identified and documented test conditions/scenarios from the business requirements and functional design for claims processing."}
+{"text": ""}
+{"text": "Environment: Pega PRPC 7.1SP1, Oracle 10g "}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "MasterCard Worldwide, MO                                                  \t\t\t    Nov\u20192013 \u2013 Nov'2014"}
+{"text": "Sr. Pega SSA "}
+{"text": ""}
+{"text": "Worked on Card Design, additional & terminate sponsorship and ICA delete application. The Business Rules engine was integrated with various databases and other subsystems to automate the processes from end to end. These applications provide a clear in-sight of the process to the customer. Improved customer experience and reduced the paperwork involved. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked in Agile methodology involving sprint cycle of 1 month."}
+{"text": " Involved in Designing, Development, testing and enhancement of the application."}
+{"text": "Analyze requirements gap and coordinate with Line of Business."}
+{"text": "Worked extensively on Process flow, Activities, Decision rules and User Interfaces."}
+{"text": "Implemented complex business logic and involved in Designing High Level Class structure and Work flows using Pega PRPC."}
+{"text": "Created Access groups and Access Roles for Customer and different teams within MasterCard."}
+{"text": "Contact Pega Systems with any product specific issues."}
+{"text": "Involved in the design and development of Look and Feel enhancements of the Application."}
+{"text": "Troubleshoot issues using Tracer, Clipboard and Log files."}
+{"text": "Analyze and Improve performance using PAL and DB Trace."}
+{"text": "Periodically Monitor Log files for abnormal issues."}
+{"text": "Creation of Rules for Validation, Integration rules like Rule-Connect-SQL using different RDB and Obj methods."}
+{"text": "Achieved Integration of PRPC systems with External Systems using Connector and Services. "}
+{"text": "Environment: Pega PRPC 6.1SP2, HTML,  MS Office Suite, MS Visio, JIRA2, Oracle 10g, IBM Web sphere Application Server 7.0. "}
+{"text": ""}
+{"text": "CITI Mortgage Inc., TX                                                           \t\t\t                  Apr\u20192012 \u2013 May\u20192013"}
+{"text": "Sr. Pega SSA"}
+{"text": ""}
+{"text": "The Loan Review system (LRS) application automates the process of quality review (Pre-Purchase Review) of the loans to be purchased by CITI Mortgage from other small vendors.  The system is integrated with the legacy database to fetch new loans for processing and to update the results.  This system will increase the number of loans acquired by the Organization without corresponding increase in the number of employees hired. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Involved in gathering business requirements, development, production support and enhancement of the application."}
+{"text": "Responsible for creating the Product/Patch for Production Deployment."}
+{"text": "Provided Rule set management in various environments."}
+{"text": "Created various levels of process flows, flow actions, sections, harness, Agents, activities and SLA rules."}
+{"text": "Responsible for rule set management in all the environments."}
+{"text": "Responsible for retrieving the pzpvstream column of the pc_work table and sending it to the legacy reporting system in XML format."}
+{"text": "Integrated the system with legacy database by creating Connect- SOAP and Connect SQL rules."}
+{"text": "Troubleshoot various issues related to Connect-Soap rules, Reports, Activities, Process flows, Decision Tables,SLA, Flow Actions, Agents and Agent Schedules."}
+{"text": "Responsible for communicating with the Support Request team of Pega Systems for any product specific bug and hot fix."}
+{"text": "Defect tracking and resolving using HP Quality Center 9.2."}
+{"text": "Managed an Off-shore team of 2."}
+{"text": "Involved in designing the test cases to evaluate the system based on various scenarios."}
+{"text": "Environment: Pega PRPC 5.5, HP Quality Center, XML, MS Office Suite, MS Visio, Oracle 10g, IBM Web sphere Application Server 6.0."}
+{"text": ""}
+{"text": "Chartis, Parsippany, NJ     \t\t\t\t\t\t\t      Apr\u20192011\u2013Mar\u20192012                                                                               PRPC Developer"}
+{"text": ""}
+{"text": "OneClaim application is for creation of Claim processing for UK, APAC, US region across different LOB\u2019s. During FNOL Claim will be created and assigned to Adjusters. Adjuster can modify the Claim details. Adjusters can add the feature to the particular claim. Application has the functionality of Litigation and settlement.                   "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Understanding the business requirements from the BRD."}
+{"text": "Analyzing and identifying the rules based on the requirements."}
+{"text": "Defect Analysis and Bug Fix."}
+{"text": "Design and construct the User Interface through Harness and Sections which are required for implementing customer requested functionalities"}
+{"text": "Implementing ListToList Controls in the User Interface. "}
+{"text": "Converting all Assignments to include a Customer defined SLA."}
+{"text": "Performance tuning by Pega Log Analyzer using Pega log and Alert log. "}
+{"text": "Modified out of box reports and created new reports using List view and Summary view rules."}
+{"text": "Applying HotFix and Coordinate with Pega Consultants to resolve any problems raised through SR\u2019s(Service Requests)"}
+{"text": "Troubleshoot and communicate with PEGA Support team in order to resolve technical issues which require hot fix from PEGA systems."}
+{"text": "Participated in meetings with BAs, DBAs, PM for reviews and walkthroughs"}
+{"text": "Help developers in resolving any issues"}
+{"text": "Provided the weekly project status to the senior management."}
+{"text": ""}
+{"text": "Environment: Pega PRPC V6.2, AES Performance Monitor Tool, SQL, WebSphere, 6.1,MS Visio 2003"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Caritor India Pvt Ltd, India                                                        \t\t\t     Jun\u20192008 \u2013 Mar\u20192011"}
+{"text": "Java Developer "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Perform detailed analysis of project requirements and design application architecture."}
+{"text": "Design Business validation and implementing them in the Business Objects."}
+{"text": "Perform reviews of modeling diagrams and source code."}
+{"text": "Conduct code walk through sessions with the java development team."}
+{"text": "Since the data that need to be passed between different tiers is huge, used Transfer Object pattern."}
+{"text": "Used Data Access Objects (DAO) to abstract and encapsulate all access to the data source."}
+{"text": "Used Persistence \u2013 MYSQL service to call the custom selects and updates to the database."}
+{"text": "Code Generate DAOs"}
+{"text": "Used Locator class to lookup business class and also the success information given a page action."}
+{"text": "Used Servlets, JSPs, and MVC framework"}
+{"text": "Developing DB mapping XML files in Hibernate."}
+{"text": "Designing the User interface using JSF, HTML and Java Script."}
+{"text": "Used Rational Application Developer for Application Development and SVN for version control.\u00a0"}
+{"text": "Perform Integration, Unit and Regression testing on the application components."}
+{"text": "Research & Development activities to solve the technical challenges faced during the development phase of the project."}
+{"text": "\nEnvironment: Java1.4, J2EE 1.4, JSP 2.0, Servlets 2.4, XML, XSLT, Hibernate, Spring Framework, VSS version controller, MySQL 5.0, UML, Web Sphere portal server 5.0, Rational Application Developer 6.0"}
+{"text": ""}

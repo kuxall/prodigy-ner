@@ -1,0 +1,183 @@
+{"text": "Name: betty betty"}
+{"text": "E-Mail: betty.betty@gmail.com"}
+{"text": "Address: Saint Petersburg, Russia"}
+{"text": "Github: https://github.com/betty"}
+{"text": "LinkedIn: https://linkedin.com/betty"}
+{"text": "Phone No. 306139607068"}
+{"text": ""}
+{"text": "Summary:\t"}
+{"text": "Front-end Developer with 7+ years of experience, as a Sr. Front End Developer with proven background successfully managing all facets of site development, from initial design and architecture to site deployment and client management."}
+{"text": "Solid expertise in Web designing technologies like HTML4/5, CSS2/3, JavaScript, Ajax, JSON, DOM, AngularJS, NodeJS, JQuery, Backbone."}
+{"text": "Experience with Responsive Web Design (RWD) using Twitter Bootstrap with involvement in several web application development projects."}
+{"text": "Solid experience working with CSS Preprocessors like SASS and LESS; using mixins, functions, custom grid systems following object oriented modular CSS patterns; Working with complex CSS Layouts, Positioning, Key frame Animations and Pseudo Elements."}
+{"text": "Expert in various JavaScript frameworks such as AngularJS, NodeJS, Express and Bootstrap."}
+{"text": "Experience in other JavaScript libraries such as JQuery, Backbone."}
+{"text": "Strong experience in Responsive Web Design, Mobile Web App Development, Single page Web App Development, resolving Cross-browser Compatibility issues."}
+{"text": "Develop intuitive, user-friendly, and visually appealing front-end interface and optimize applications for performance, speed and various operating device."}
+{"text": "Utilized the Component API within Angular to build the application in a component approach rather than a traditional approach; Created reusable custom directives and components within the application."}
+{"text": "Demonstrated ability to complete high-end projects in deadline-oriented environments."}
+{"text": "Adept at successfully revamping Web sites to enhance user satisfaction and retention time, streamline navigation, and increase ad revenue and sales."}
+{"text": "Good Experience in working with debugging tool such as Firebug for Mozilla, IE Developer Toolbar for Internet Explorer, Web Inspector for Safari, and Developer Tools for Chrome."}
+{"text": "Strong expertise in using templates and MVC architecture using tools like BackboneJS and AngularJS"}
+{"text": "Have sound understanding of HTML5 APIs like localStorage, navigation, sessionStorage, etc"}
+{"text": "Involved in functional testing, debugging the application, production bugs fixing and enhancing the app."}
+{"text": "Experience designing and developing adaptive UI components, Widget for Desktops and Mobile screens with different screen resolutions."}
+{"text": "Sound knowledge on unit testing and integration testing frameworks and libraries like Jasmine, Mocha,Protractor; test runners like Karma; assertion libraries like Chai, Expect, Should."}
+{"text": " Hands on experience in consuming & parsing JSON/XML data."}
+{"text": "Experience with using third party JQuery plugins like Validator.js, Lightbox.js, Bootstrap, Moment.js  plugins."}
+{"text": "Worked with various Version Control Software/Systems like Git, SVN, Mercurial; Managed source code hosting on Bitbucket, Gitlab and Github."}
+{"text": "Proficient at quickly adapting to new environments, new technologies and facing new challenges."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Cardinal Health, Dublin, OH                                            \t\t\t\t         Jan 2016 \u2013 Present"}
+{"text": "Sr. UI Developer"}
+{"text": "Cardinal Health is a health care customer Services Company that provides medical products and pharmaceuticals and cost-effective solutions that enhance supply chain efficiency from hospital to home. The project deals with developing an application, used to maintain information of patient which includes all the personal information,diagnostic reports, insurance data and all other information entered by the physician. As a Sr. UI Developer, my responsibility was to develop the corresponding UI screens and reusable dashboard widgets within the application using Angularjs."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered business requirements, prepared Software Requirement Specification (SRS) document."}
+{"text": "Created Visio charts for the workflow architecture of the system."}
+{"text": "Involved in complete development of 'Agile Development methodology /SCRUM' and tested the application in each iteration"}
+{"text": "Developed microservices using Express framework in Node.js, and integrated them via Angular services."}
+{"text": "Designed and developed web pages using with HTML5, CSS3, Ajax, JSP and Angular based on the W3C standards and Web 2.0."}
+{"text": "Created custom directives, components within the application for maximum reusability."}
+{"text": "Created the UI interface using JavaScript, JQuery, CSS3 and HTML5."}
+{"text": "Extensively used JavaScript, JQuery UI and JQuery to provide UI functionality."}
+{"text": "Worked on the application developed using HTML5, CSS3, JSON, and Node.js."}
+{"text": "Management of a Portal application allowing management of user accounts and privileges using Angular.js framework."}
+{"text": "Worked with technologies such as JQuery and Ajax to make the website more attractive and user friendly."}
+{"text": "Used Grunt as the task runner to manage the frontend build pipeline."}
+{"text": "Developed core angular services to consume a REST API implemented using Spring MVC."}
+{"text": "Used a component driven approach along with the MVC architecture using Angular.js"}
+{"text": "Worked on the modernization of a legacy and outsourced UI, there-by migrating a traditional application to a single page application."}
+{"text": "Used RequireJS module loader to manage dependencies within the AngularJS application."}
+{"text": "Developed the administrative UI dashboard using Angular.js alongside jQuery."}
+{"text": "Utilized various jQuery plugins to build Accessible Rich Internet Application (ARIA) to make it look more intuitive and accessible."}
+{"text": "Developed DAOs (Data Access Objects) and SQL queries to support system functionality."}
+{"text": "Used Team Studio and Build Manager tools to develop Notes applications and promote the new design to test environment."}
+{"text": "Analyzed and reported latest industry trends for business implications."}
+{"text": "Develop online applications using OOP JavaScript paradigm."}
+{"text": "Implemented and tested the enterprise application with JQuery, Spring MVC."}
+{"text": "Extensively Implemented user interface designs from UI specifications and product requirements."}
+{"text": "Involved in finding out the bugs, broken links and missing images etc. and rectifying them."}
+{"text": "Developed dynamic e-mails using JavaScript, and hand coding of HTML, XHTML, and CSS."}
+{"text": "Collaborated with team members in design, analysis, coding, testing, and website review."}
+{"text": "Provided assistance in online campaigns and online marketing strategy execution."}
+{"text": ""}
+{"text": "Environment: HTML5, CSS3, JavaScript, AJAX, JSON, XML, JQuery, Angularjs, Bootstrap, Dreamweaver CS5, Grunt, ECLIPSE, Sublime Text, Atom, GWT."}
+{"text": ""}
+{"text": ""}
+{"text": "Penn Mutual Life Insurance Company, Horsham, PA                                      \t      Oct 2014 \u2013 Dec 2015"}
+{"text": "Sr. UI Developer"}
+{"text": ""}
+{"text": "This company creates a world of possibilities-one individual, one family and one small business at a time. it help people do more in life by creating solutions that deliver the complete value of life insurance across life's stages. As a member of the CSC(Customer Service Center) team, where the customer can interact with the customer support members and can report, resolve their issues/problems in time using the web application, my responsibility was to work on the dashboard user interface."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Implemented user interface guidelines and standards throughout the development and maintenance of the website using JavaScript, JQuery, CSS, and HTML."}
+{"text": "Utilized Angular as the core framework to build the entire application by leveraging the MVC architecture."}
+{"text": "Used a widget based approach in developing custom directives to develop dynamic responsive plug and play widgets in Angular."}
+{"text": "Used Bootstrap as the main CSS framework for initial prototype; Used Sass as the CSS preprocessor to build and manage application styles."}
+{"text": "Worked on the reporting page within the Dashboard application displaying historical data processing rates; Developed a D3 charting service to create custom chart components on the fly."}
+{"text": "Involved to create the User Interactive web pages in a professional manner using web technologies like HTML5, CSS3, Javascript based on the W3C and ADA standards."}
+{"text": "Utilized the ng-grid component, and implement an internal data table custom directive to display tabular data in a grid format."}
+{"text": "Setup framework for all current and future front-end projects to use AngularJS and Jasmine for framework, organized module definitions and unit tests; Karma test runner to run the tests."}
+{"text": "Involved in write application level code to interact with APIs, Web Services using AJAX dealing with JSON and XML data."}
+{"text": "Developed Custom Tag Libraries for the use in\u00a0web\u00a0pages by using JSTL packages for the development of the\u00a0Web\u00a0Pages.\u00a0"}
+{"text": "Used a TDD (Test Driven Development) approach to build the application. Utilized the Jasmine framework to write the unit tests and run them on headless browser like PhantomJS using Karma"}
+{"text": "Implemented custom filters using Angular to format data consumed by the API on the frontend."}
+{"text": "Used Gulp as the orchestrator o build front-end assets."}
+{"text": "Worked on Cross-Browser compatibility issues and fixed the bugs for several browsers."}
+{"text": "Enhanced and built reusable components across different modules using Custom directives and components.\n"}
+{"text": "Environment: HTML5, CSS3, JavaScript, AJAX, JSON, XML, JQuery, Bootstrap,  AngularJS, Scala, Gulp, Eclipse, ANT, Maven, Git, Linux, Apache and MySQL."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Citibank Miami, FL\t\t\t\t\t\t\t        \t                  Mar 2013 \u2013 July 2014"}
+{"text": "UI Developer"}
+{"text": "Responsibilities:"}
+{"text": "Hand code digital projects using HTML5, CSS3,\u00a0SASS, JavaScript and JQuery\u00a0"}
+{"text": "Used JavaScript Design Patterns to develop storage module."}
+{"text": "Analyzed and prepared time estimates for the assigned tasks."}
+{"text": "Used Eclipse as IDE. Helping to creating an Angularjs\u00a0interface that will replace and end-of-life product mostly used by management and sales team"}
+{"text": "Developed Presentation layer with Struts 1.1, JSTL, and JSP, tiles and JavaScript."}
+{"text": "Built Web pages that are more user-interactive using jQuery plugins for Drag and Drop, Auto Complete, JSON, JQuery, JavaScript, Bootstrap.\u00a0"}
+{"text": "Developed rich user interface for a policy configuration tool using\u00a0JQuery."}
+{"text": "Used \"twitter bootstrap\" along with \"angular-ui\" bootstrap for HTML components style definitions and user interface elements such as dialog boxes and tooltips.\u00a0"}
+{"text": "Developed Business layer and Data layer with Enterprise Java and Hibernate. "}
+{"text": "Involved in the code review meetings with the developers."}
+{"text": "Developed test cases using Jasmine and run them on browsers using karma."}
+{"text": "Wrote stored procedures and triggers. Also involved in SQL query tuning and optimization."}
+{"text": "Developed XML Schemas."}
+{"text": "Achieved common look and feel among all the pages and eliminated lot of rework and repeated code on presentation layer by using Tiles framework. "}
+{"text": "Used SVN as source control system."}
+{"text": "Ensured project plan commitments are met."}
+{"text": "Resolved issues and dependencies with components of different subsystems by effectively communication with other groups."}
+{"text": ""}
+{"text": "Environment: JavaScript, Ajax, JQuery, HTML5, XML, CSS3, Jasmine, Karma, LESS, Sass, Bootstrap, SQL."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Sprint, Kansas\t\t\t\t\t\t\t\t                 May 2012 - June 2013"}
+{"text": "UI Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Used HTML & CSS to build the underlying UI; Native JavaScript to attach behaviour within frontend web pages"}
+{"text": "Rapid prototyping of design concepts; Involved in all SDLC phases Analysis, Design, Development, Testing and Deployment"}
+{"text": "Developed cross browser compatible HTML and CSS reusable templates and integrated the UI."}
+{"text": "Created highly dynamic user interactive web application with extensive use of jQuery. "}
+{"text": "Experience with jQuery with templating via Handlebars and Bootstrap. "}
+{"text": "Hands on experience on creating responsive apps for smart devices using responsive design and media queries."}
+{"text": "Used jQuery, AJAX for service calls on pages to interact with the server for information."}
+{"text": "Utilized various JavaScript and jQuery libraries, AJAX for form validation and other interactive features."}
+{"text": "Utilize JSON, XML response and transform complex collections using Lodash library."}
+{"text": "Used Ajax, JSON to send request to the server to check the functionality of the websites."}
+{"text": "Testing the website on multiple browsers with their old as well as latest release using headless browser like Phantomjs via Karma"}
+{"text": "Used JSON for storing and exchanging information between browsers and servers."}
+{"text": "Active participation throughout the entire software development lifecycle from project inception, to code development and elaborate testing of the various modules."}
+{"text": "Used  the Jasmine framework to write the unit tests."}
+{"text": ""}
+{"text": "Environment: HTML, CSS, JavaScript, JSON, JQuery, XHTML, XML, AJAX,  MySQL."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "3i-infotech, India                                                                         \t\t\t      July 2011 - April 2012 \nWeb\u00a0Developer"}
+{"text": "\n   Responsibilities:\u00a0"}
+{"text": "Managed application state using server and client-based State Management options."}
+{"text": "Implemented AJAX functionality using JSON and XML.\u00a0"}
+{"text": "Involved in complete SDLC life cycle - Designing, Coding, Testing, Debugging and Production Support.\u00a0"}
+{"text": " Wrote extensive HTML, CSS and JavaScript code to build dynamic pages."}
+{"text": " Developed and designed the various screens and its architecture in accordance to\u00a0UI\u00a0Specs.\u00a0"}
+{"text": " Implemented XML parsing code for different application.\u00a0"}
+{"text": " Designed and built REST Web services interfaces implemented in Java.\u00a0"}
+{"text": " Maintained and manipulated databases for XML parsing for applications in MYSQL.\u00a0"}
+{"text": "Wrote application level code to interact with the backend Java, AJAX and JSON."}
+{"text": " Handled all aspects of the web application including development, maintaining, testing and debugging."}
+{"text": "Environment: HTML, CSS, MySQL, JavaScript, Design Patterns, JSON."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "\nZensar Technologies, Hyderabad, India                                                                      Sep 2009 \u2013 Jun 2011     "}
+{"text": "Web Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered and analyzed all necessary requirements by involving in discussion sessions."}
+{"text": "Co-ordinate with BA group for better understanding of functional requirements, Analyze and Design the business requirements to document and implement."}
+{"text": "Design and development of web pages using HTML, CSS including Ajax controls and XML."}
+{"text": "Tested/Debugged web browser using Firebug."}
+{"text": "Involved in writing the properties, methods in the Class Modules and also developed web services using HTTP."}
+{"text": "Played a vital role in defining, implementing and enforcing quality practices in the team organization to ensure internal controls, quality and compliance policies and standards."}
+{"text": "Worked with View State to maintain data between the pages of the application."}
+{"text": "Successfully wrote and implemented SQL Queries, Stored procedures and Triggers in SQL server."}
+{"text": "Worked extensively with the File management and image libraries."}
+{"text": "Created required Views, Indexes and Clusters."}
+{"text": "Created database triggers to implement business rules and writing stored procedures."}
+{"text": "Created packages to do complex aggregations on large volume of data and loaded the aggregated data into reporting tables in data marts."}
+{"text": "Environment: HTML, CSS, MySQL, JavaScript."}

@@ -1,0 +1,166 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Guiyang, China"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 436329336413"}
+{"text": "\t"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": "8 Years of experience in Python Software Development, Infrastructure Automation, DevOps Methodologies and Linux administration with Masters in Computer Science"}
+{"text": "Extensive experience as a Python developer in development, automation and deployment of code in cross platform environment. "}
+{"text": "Extensive experience in python development on system level, middleware and web frameworks. "}
+{"text": "Experience developing python modules and software using REST API, backend database, python Linux command line tools and extensive automation frameworks from scratch"}
+{"text": "Experience working in Linux and Unix Environment and strong Linux systems experience in Linux flavors such as REDHAT, SUSE, CentOS, Ubuntu "}
+{"text": "Experience in configuration management tools such as Ansible, Chef and Puppet"}
+{"text": "Experience in setting up Chef Workstation various enterprise nodes, setting up keys and working with chef Cookbooks, Chef Recipes, Chef attributes, chef Templates\u00a0"}
+{"text": "Comprehensive experience working with Python libraries such as Django Web Frameworks, PARAMIKO, XML Parser, REST services, Python JSON Libraries "}
+{"text": "Extensive in-depth knowledge of automating performance benchmarks and certification process of HANA Appliances with SAP "}
+{"text": "Experience building performance monitoring solutions for server infrastructure, web applications and stand-alone applications for proactive monitoring and resolution to minimize business impact"}
+{"text": "Extensive experience running analytics, provisioning and managing backend MySQL, POSTGRES and HANA Database for various frontend services"}
+{"text": "Extensive experience in building python management controllers for deploying storage, networking and compute Node configuration "}
+{"text": "Experience working on system level components and full knowledge of handling filesystem using RAID, SAN, NAS, NFS, LVM Provisioning for infrastructure solutions."}
+{"text": "Hands-on experience with working on 3PAR Storage, LAN Switch, SAN Zoning and DL580 Servers"}
+{"text": "Full Understanding of complete Software Development Life Cycle (SDLC); Expertise in Waterfall and Agile Methodologies"}
+{"text": "Experience with Docker container management and working with Docker- Docker hub, Docker inspect, Docker commit\u00a0"}
+{"text": "Experience in using virtualization tools like Virtual Box, VMware and provisioning virtual machines\u00a0"}
+{"text": "Complete working knowledge of Network bonds, DHCP Server, DNS, SNMP and HTTP"}
+{"text": "Ability to work closely with teams, to ensure high quality and timely delivery of build and release"}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:\t\t\t\t\t\t"}
+{"text": "Programming Languages:\tPython, C++, C Programming, Bash and Perl Scripting"}
+{"text": "Database:\tMySQL, POSTGRES, MongoDB, SAP HANA"}
+{"text": "Virtualization:\tVMWare, Hyper-V, KVM"}
+{"text": "Web Services and Frameworks:\tREST, SOAP, Django, Flask, JSON, XML"}
+{"text": "Cloud:\tOPENSTACK, AWS"}
+{"text": "Containers:\tDockers"}
+{"text": "Configuration and Systems Automation:\tChef, Puppet, Ansible, Jenkins, Kafka"}
+{"text": "Operating Systems:\tSUSE, REDHAT, Ubuntu Linux, Unix, Microsoft Windows"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "Hewlett-Packard Enterprise, Palo Alto, CA\t\t\t\t\t\tMar 2015 \u2013 Jun 2017"}
+{"text": "Python Developer Engineer\t\t\t\t\t\t"}
+{"text": ""}
+{"text": "Part of Mission Critical Systems in HPE, primarily responsible for designing, developing and building SAP HANA in memory database appliances. Experience working in complete Software Development Life Cycle. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked on building python Automation Frameworks for Deployment of infrastructure solutions, configuration verification, Developed File system performance characterization and certification. "}
+{"text": "Worked on building Images in Linux SLES and REDHAT, software upgrade bundles, wrote reference architecture paper. Hands on experience in setting up Switches, storage 3Par and HPE PROLIANT SERVERS and Linux system"}
+{"text": "Developed python infrastructure controller plane for deploying storage, mapping storage, applying Network configuration on large scale distributed cloud environment using python XML, JSON, PARAMIKO and python Unit test  "}
+{"text": "Developed python backend management service for collecting detail storage, networking and compute configuration across multiple scale-out nodes on a large-scale cloud environment "}
+{"text": "Designed and Developed performance monitor in python to monitor performance of Storage IO, network, database and High Availability of nodes across distributed scale-out cloud servers, decreasing the manual process by 80%"}
+{"text": "Developed analyzer using python PARAMIKO, XML, JSON by monitoring performance benchmarks, analysis of performance data collected and creating data matrix"}
+{"text": "Developed python easy deployment tool and Ansible playbook for easy deployment of updates on all scale-out Nodes across distributed cloud environment "}
+{"text": "Designed and developed the server monitoring dashboard using the python Django Web Frameworks, HTML and CSS"}
+{"text": "Took responsibility in each stage of Software Development Life Cycle and managed delivery of tasks within specified deadlines."}
+{"text": "Extensive experience using PARAMIKO, PYCRYPTO, XML parser and logging libraries in python software development on a distributed cloud backend"}
+{"text": "Followed Object-Oriented design model for software development and used various Design Patterns (Singleton, MVC) for developing python analyzers"}
+{"text": "Authored reference architecture paper on KDUMP, backup & recovery of data with HANA Appliances"}
+{"text": "Developed and deployed HANA in containers used for design prototyping and debugging"}
+{"text": "Maintained through technical documentation and user manuals for of all projects "}
+{"text": "Developed performance monitoring plane for SAP HANA deployed on OPENSTACK "}
+{"text": "Installed OPENSTACK on multiple nodes in distributed environment."}
+{"text": "Closely interacted with Principal Architects across multiple regions to research and optimize better design of HANA Appliances. "}
+{"text": "Researched and designed HANA appliances for deal specific customer requests  "}
+{"text": "Developed OS image profiles in python for kickstarting configuration installation on RHEL and SLES. These profiles have intelligence to detect booting drive for installing RHEL and SLES Images"}
+{"text": ""}
+{"text": "Environment: Python, REST API, PARAMIKO, XML, SQL, Python Storage Libraries, Docker, OPENSTACK, Git, Linux systems, SUSE 11.x,12.x RHEL6.x,7.x SAP HANA, HPE Service Guard for High Availability, HPE 3Par Storage, HPE Switches, SAN, NAS, NFS, Network Cards, "}
+{"text": ""}
+{"text": "ACCELOPS, Santa Clara, CA\t\t\t\t\t\t\t\tOct 2014 \u2013 Mar 2015"}
+{"text": "Python Developer\t\t\t\t\t\t\t"}
+{"text": ""}
+{"text": "Built automation framework from scratch using python and in-built libraries using REST API for Security information and event management virtual appliances. Developed python libraries to inject events, log information into backend Postgres database in virtual appliances.   "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Developed from Scratch Python backend database services using XML, python libraries PARAMIKO, XML parser, and REST API"}
+{"text": "Developed event parsing and display services using REST API and python libraries which injected events to POSTGRES database and parsed events"}
+{"text": "Developed and implemented log, alerts and events ingesting feature into POSTGRES database in Security and event monitoring virtual appliances using REST API and XML"}
+{"text": "Developed python monitoring data controller to insert data into POSTGRES SQL database and display on Virtual Appliances interface"}
+{"text": "Developed Python data collection feature for SIEM virtual appliance that collected data and provided informative analytics for the root cause of bugs seen in Appliance"}
+{"text": "Developed cloud management controller for deploying Virtual appliance on AWS with storage, Virtual private cloud networks"}
+{"text": "Developed python performance analysis frameworks which used POSTGRES data base, REST API and in-built backend service to analyze virtual appliance product"}
+{"text": "Worked in Agile development life cycle, attended scrum meeting and worked on priority issues for resolving."}
+{"text": "Participated in post-live project activities; including evaluation of success criteria, identification of best practices, lessons learned, and strategies for future releases and deployments"}
+{"text": ""}
+{"text": "Environment: Python, REST API, XML, Linux, Postgres Database, SQL, Configuration Management Database, AWS"}
+{"text": ""}
+{"text": "Meru Networks\t, Sunnyvale, CA\t\t\t\t\t\t\t\tNov 2013 \u2013 Oct 2014"}
+{"text": "Python Developer\t\t\t\t\t\t\t\t"}
+{"text": ""}
+{"text": "Worked on building proactive dynamic monitoring tool for virtualized WLAN Controller using REST APIs, MongoDB, Flask and Django. Monitoring tool displayed all detail information about the WLAN Controller and provided analysis of the logs and proactively sent alerts about virtualized WLAN Controller and networks"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Developed data management plane in python to collect data on WLAN Controller, submit to SPLUNK for analysis and do root cause analysis, proactive user experience monitoring and dynamic alerting using MVC, Web Frameworks(Django), MongoDB"}
+{"text": "Automating Tasks and scale systems by developing automatic test cases, building frameworks"}
+{"text": "Developed using object oriented methodology a dashboard to monitor the all network access points and network performance metrics using Django, Python, MongoDB, JSON"}
+{"text": "Developed application for monitoring, root cause analysis and management of WLAN data by parsing log using Python Django, MongoDB and creating JSON format"}
+{"text": "Developed Python feature for parsing data from logs, alerts, network dump and create a analysis matrix to display"}
+{"text": "Experience reading C++ code, understanding it and debugging the C++ code"}
+{"text": "Application developed parses information from logs and provides analysis of data by mapping to information in database to provide analysis for proactive monitoring and alerts"}
+{"text": "Developed application that used IP based protocols such as TCP, UDP, HTTP, SSL, for analyzing data of L2/L3 and WIFI Data for QA and testing process"}
+{"text": "Interacted and communicated across multiple team and to discuss requirements, design aspects of application"}
+{"text": "Used web2py, SQLALCHEMY, Python-eve, flask and MongoDB for developing proactive analysis application"}
+{"text": "Experience and worked building applications using Model-View-Controller design patterns with python in client server environment setup"}
+{"text": "Testing, Debugging and fixing issues related to Automation framework"}
+{"text": "Understanding C++ implementation of Software Stack for debugging, implementation of framework"}
+{"text": "Set up the PXT, Agilent boxes for simulation of wireless networks for testing"}
+{"text": "Analyzing the data flow from Network and on Mobile devices for various configuration"}
+{"text": "Developing XML based Testcases and Use cases for testing multiple Scenarios"}
+{"text": ""}
+{"text": "Environment: Python, C++, XML, SQLALCHEMY, Flask, Django, MongoDB, Linux, Postgres, SQL, Network TCP/IP, UDP, WLAN Controller, L2/L3 Networking"}
+{"text": ""}
+{"text": "Unitrends, Columbia, SC\t\t\t\t\t\t\t\tAug 2012 \u2013 Nov 2013"}
+{"text": "Python Developer Engineer\t\t\t\t\t\t\t"}
+{"text": ""}
+{"text": ""}
+{"text": "Unitrends is a data backup and restore company, as a part of the company took responsibility to build data deduplication backup in C++ using hashing, networking and client-server model. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Designed and developed the proactive monitoring software for the Backup appliances monitoring appliances storage, networking and logs. Designed and developed frameworks for determine aggregate throughput to database from Storage. Worked on Network, storage, VMWare, backup appliances."}
+{"text": "Created a data hash correcting feature to correct bad data hashes in DEDUPLICATED backups of client machine on server-side backups with VMWARE, HYPER-V which helped clean up bad hashes on 100% customer appliances in C/C++ on Linux"}
+{"text": "Built and Created an SNMP framework using object oriented programming in python which would proactively Monitor Unitrends Software and Appliance on customer server appliances and send alerts. Sending various alerts and monitoring information from customer server to trap receiver server. "}
+{"text": "Built infrastructure management service in python for large scale distributed cloud using network and data controllers for proactive error detection and managing backup. "}
+{"text": "Developed performance analysis tool in python using REST API to find aggregate throughput for POSTGRES database read, write and query"}
+{"text": "Completed performance testing of VMWare backup, Hyper-V backup on KVM for backup clients"}
+{"text": "Used various LINUX tools to analyze performance problems"}
+{"text": "Participated in the testing process through test review and analysis, test witnessing"}
+{"text": "Built automation frameworks in python for Performance Analysis on running concurrent backups for VMWare and Hyper-V by developing tools to gather data from VMs"}
+{"text": "Worked on backing up and recovery of VMWare, Hyper-V on backup servers"}
+{"text": "Fixing bugs related to VMWare and Hyper-V"}
+{"text": "Optimizing and prototyping Disks and RAID Controllers for servers by conducting performance analysis by performance analysis tools developed in python on Linux Kernel and recommending changes which improved performance of appliance by 30%"}
+{"text": "Participated in the Software Development Life Cycle (SDLC) processes including Analysis, Design, Programming, Testing and Deployment"}
+{"text": "Working on prototyping Controllers and Disks by performing Linux kernel Compatibility test, performance tests "}
+{"text": "Worked in Platform team in building image, managing code commits and managed continuous integration environment at office"}
+{"text": "Prepared detailed design for Rejected product reviews message integration, logging the action events"}
+{"text": "Used the technical document to design the database tables."}
+{"text": "Writing shell scripts for message monitoring for the production environment "}
+{"text": "Created Stored Procedures and Functions to be called by client Demons."}
+{"text": "Optimize SQL queries for better performance."}
+{"text": ""}
+{"text": "Environment: Python, C++, Postgres, SQL, Linux REDHAT, RAID, SDLC, VMWare, Hyper-V, KVM, Network, performance improvements"}
+{"text": ""}
+{"text": "Intel Corporation, Bengaluru, India\t\t\t\t\t\t\t\tJul 2008 \u2013 Dec 2009"}
+{"text": "Python Engineer\t\t\t\t\t\t\t\t"}
+{"text": ""}
+{"text": "Designed and developed in C++ Server Management SDK APIs for SMBIOS in Intel Enterprise Servers, developed APIs for using in Intel deployment assistant software for RAID, BMC related firmware and to get remote server information related BMC IP, and Intel Server motherboard information. "}
+{"text": "Implemented Automation tool in C++ for getting Intel Server management system information using data structures defined "}
+{"text": "Implemented tool in C++ for automating more than 500 Intel Server Management SDK APIs for Server Storage features, client-server information, remote server information. "}
+{"text": "Developed APIs for Intel Deployment Software with features for RAID, Operating Systems and Server Management on new server platforms by bringing them up and updating required binaries"}
+{"text": ""}
+{"text": "Worked on embedded firmware for Intel server platforms and implemented APIs related to SMBIOS, Baseboard Management Controller and Field Replaceable Units"}
+{"text": "Automated generation of queries and values combination for various test cases to provide comparison with development team output "}
+{"text": "Creating and Building VMWare ESXI server and validating Server Management Software APIs on Intel Enterprise Platforms"}
+{"text": "Analyze the problems and provide initial analysis and technical solution for the issues."}
+{"text": "Design and implement the middleware services for Server Management Software and Monitoring Systems."}
+{"text": "Participated in the Software Development Life Cycle (SDLC) processes including Analysis, Design, Programming, Testing and Deployment"}
+{"text": "Participated in post-live project activities; including evaluation of success criteria, identification of best practices, lessons learned, and strategies for future releases and deployments"}
+{"text": ""}
+{"text": "Environment: C++, Visual C++, Windows Driver Development Kit, Server Management SDK APIs, COM, Server Platforms, EFI"}
+{"text": ""}
+{"text": "EDUCATION & CERTIFICATIONS:"}
+{"text": "M.S in Computer Science, University of North Carolina, Charlotte, May 2012"}
+{"text": "Master of Technology in Computer Science, PES Institute of Technology (VTU), July 2009"}
+{"text": "B.E in Computer Science, VIDYAVARDHAKA COLLEGE OF ENGINEERING, July 2007"}
+{"text": ""}
+{"text": ""}

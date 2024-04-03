@@ -1,0 +1,157 @@
+{"text": "Name: elizabeth elizabeth"}
+{"text": "E-Mail: elizabeth.elizabeth@gmail.com"}
+{"text": "Address: Rio de Janeiro, Brazil"}
+{"text": "Github: https://github.com/elizabeth"}
+{"text": "LinkedIn: https://linkedin.com/elizabeth"}
+{"text": "Phone No. 964104380189"}
+{"text": "\n\n"}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "Over 8 plus years of progressive hands-on experience in analysis, ETL processes, design and development of enterprise level data warehouse architectures, designing, coding, testing, integrating ETL."}
+{"text": "Experience in Dimensional data modelling techniques, Slow Changing Dimensions (SCD), Software Development Life Cycle (SDLC) (Requirement Analysis, Design, Development & Testing), and Data warehouse concepts - Star Schema/Snowflake Modelling, FACT & Dimensions tables, Physical & Logical Data Modelling."}
+{"text": "Experienced in integration of various data sources like Oracle 11g, 10g/9i/8i, MS SQL Server, XML files, Teradata, Netezza, Sybase, DB2, Flat files, into staging area and different target databases."}
+{"text": "Expertise in the ETL Tool Informatica and have extensive experience in Power Center Client tools including Designer, Repository Manager, Workflow Manager/ Workflow Monitor."}
+{"text": "Extensively worked with complex mappings using various transformations like Filter, Joiner, Router, Source Qualifier, Expression, Union, Unconnected / Connected Lookup, Aggregator, Stored Procedure, XML Parser, Normalize, Sequence Generator, Update Strategy, Reusable Transformations, User Defined Functions, etc."}
+{"text": "Extensively worked on Relational Databases Systems like Oracle11g/10g/9i/8i, MS SQL Server, Teradata and Source files like flat files, XML files."}
+{"text": "Worked with Informatica Data Quality 9.6.1 (IDQ) toolkit, Analysis, data cleansing, data matching, data conversion, exception handling, and reporting and monitoring capabilities using IDQ 9.6.1."}
+{"text": "Experienced in mapping techniques for Type 1, Type 2, and Type 3 Slowly Changing Dimensions"}
+{"text": "Strong experience in SQL, PL/SQL, Tables, Database Links, Materialized Views, Synonyms, Sequences, Stored Procedures, Functions, Packages, Triggers, Joins, Unions, Cursors, Collections, and Indexes in Oracle"}
+{"text": "Sound knowledge of Linux/UNIX, Shell scripting, experience in command line utilities like pmcmd to execute workflows in non-windows environments."}
+{"text": "Designed complex Mappings and have expertise in performance tuning and slowly-changing Dimension Tables and Fact tables."}
+{"text": "Expertise in Informatica Data Quality (IDQ) tool installation and Standardization, Address Validation and Deduplication."}
+{"text": "Have hands on experience in tools like Address Doctor which is used for Address validations"}
+{"text": "Good Experience in working with Teradata utilities like (BTEQ, FASTLOAD, FASTEXPORT, MULTILOAD)."}
+{"text": "Extensive experience using database tool such as SQL *Plus, SQL *Developer, Autosys and TOAD."}
+{"text": "Proficient in Oracle Tools and Utilities such as TOAD and SQL*Loader."}
+{"text": "Identified and fixed bottlenecks and tuned the complex Informatica mappings for better Performance."}
+{"text": "Excellent analytical, problem solving, technical, project management, training, and presentation skills."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": "              Client\t:    New day USA, Fulton , MD   "}
+{"text": "              Role\t:    Sr. Informatica/IDQ Developer"}
+{"text": "              Duration\t:    March 2017 to Present"}
+{"text": "              "}
+{"text": ""}
+{"text": "Project Description:   "}
+{"text": ""}
+{"text": "New Day USA is a leading U.S. Home loan franchise In Fulton region. NewDay Financial, LLC operates as a mortgage lender that provides financial solutions to U.S. veteran homeowners and their families. It offers mortgage loans for refinancing, debt consolidating, and home improvement applications. It also provides VA home loans. The company was incorporated in 2005 and is based in Fulton, Maryland. New Day Financial, LLC operates as a subsidiary of Chrysalis Holdings, LLC."}
+{"text": ""}
+{"text": "The purpose of the project is to maintain the historical data in Data Warehouse through Change Data Capture (CDC), Slowly Changing Dimensions. It also aimed at quick retrieval of data from Data Warehouse to meet customer needs in a dynamic way."}
+{"text": " "}
+{"text": "Responsibilities:"}
+{"text": "Good proficiency in Informatica Data Quality 9.5.1/9.6.1 and Informatica power center 9.x/8.x/7.xs."}
+{"text": "Extensively used ETL to load data using Power Center from source systems like Flat Files into staging tables   and load the data into the target database Oracle. Analyzed the existing systems and made a Feasibility Study."}
+{"text": "Involved in full software development lifecycle from the throughout the development and support finance industry using Informatica Power Center, Repository Manager, Designer, Workflow Manager, and Workflow Monitor."}
+{"text": "Experience in ETL processes utilizing Informatica Power center tools to design data conversions from a variety of relational, XML and flat file source systems to data warehouse/data marts.\u00a0\u00a0"}
+{"text": "Design reference data and data quality rules using IDQ and involved in cleaning the data using IDQ in Informatica Data Quality 9.1 environment."}
+{"text": "Created mappings in Informatica Data Quality (IDQ) using Parser, Standardizer and Address Validator Transformations. "}
+{"text": "Developed several IDQ complex mappings in Informatica a variety of Power Center, transformations, Mapping Parameters, Mapping Variables, Mapplets & Parameter files in Mapping Designer using Informatica Power Center."}
+{"text": "Experienced in creating IDQ mappings using Labeler, Standardizer, Address Validator transformations with Informatica Developer and migrated to Informatica Power Center."}
+{"text": "Profiled the data using and performed Proof of Concept for\u00a0Informatica Data Quality\u00a0(IDQ)."}
+{"text": "Design, document and configure the Informatica MDM Hub to support loading, cleansing of data."}
+{"text": "Worked on data cleansing and standardization using the cleanse functions in Informatica MDM & Worked on maintaining the master data using Informatica MDM"}
+{"text": "Imported the mappings developed in data quality (IDQ) to Informatica designer. "}
+{"text": "Worked on Informatica Analyst Tool IDQ, to get score cards report for data issues."}
+{"text": "Wrote UNIX Shell Scripts for Informatica Pre-Session, Post-Session and Autosys scripts for scheduling the jobs (work flows)."}
+{"text": "Used Autosys for Scheduling the Informatica Workflows & have done testing using Autosys scheduling tool."}
+{"text": "Provided Knowledge Transfer to the end users and created extensive documentation on the design, development, implementation, daily loads, and process flow of the mappings."}
+{"text": ""}
+{"text": "Environment: Informatica Power Center 10.1/9.6.1, Data Quality 9.6.1, UNIX, SQL, MDM, Autosys, Oracle 11g/10g."}
+{"text": " "}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": " Client\t:    GE Healthcare     Milwaukee , WI"}
+{"text": "              Role\t:    Sr. Informatica Developer"}
+{"text": "              Duration\t:    March 2015 \u2013 Feb 2017"}
+{"text": "              "}
+{"text": "Project Description:"}
+{"text": "GE HealthCare  is in the business of better health and it touches the lives of patients in virtually every aspect of healthcare. This project was mainly focused on managing the database for medical services to understand the Claims, undertake trend analysis and provide better services to Existing customers & New   customers. "}
+{"text": " "}
+{"text": "Responsibilities:"}
+{"text": "Developing the ETL components as well as Oracle procedures, functions & triggers."}
+{"text": "Defined Trust and validation rules for the base tables & created PL/SQL procedures to load data from Source Tables to Staging Tables "}
+{"text": "Created Oracle PL/SQL Cursors, Triggers, Functions and Packages"}
+{"text": "Used IDQ transformation like labels, standardizing, proofing, parser, address doctor, Match, Exception transformations for standardizing, profiling and scoring the data."}
+{"text": "Worked on data cleansing and standardization using the cleanse functions in Informatica MDM. "}
+{"text": "Performed land process to load data into landing tables of MDM Hub using external batch processing for initial data load in hub store.  "}
+{"text": "Data governance application for Informatica MDM Hub that enables business users to effectively create, manage, consume, and monitor master data using IDD (Informatica Data Director)."}
+{"text": "Worked on IDQ parsing, IDQ Standardization, matching, IDQ web services. "}
+{"text": "Scheduled the batch jobs in Autosys to automate the process."}
+{"text": "Designed and Developed SSIS Packages using various Control Flow and Data Flow items to Transform and load the Data from various Databases using SSIS.  "}
+{"text": "Worked on Teradata Utilities like Fast-Load, Multi-Load & Fast-Export.\u00a0"}
+{"text": "Involved in writing Autosys jobs, JIL file for Box as well as Command jobs. "}
+{"text": "Created run books for job information which is scheduled on Autosys."}
+{"text": ""}
+{"text": "  Environment: Informatica Power Center 9.6.1, MDM, UNIX, Oracle, Shell, IDQ, PL/SQL, Tidal, Autosys, Oracle 11g/10g, Teradata 14.0."}
+{"text": ""}
+{"text": "            "}
+{"text": ""}
+{"text": "              Client\t:    American Express, Plantation \u2013 FL "}
+{"text": "              Role\t:    ETL Developer"}
+{"text": "              Duration\t:    March 2013 \u2013 Feb 2015"}
+{"text": "              "}
+{"text": "Project Description"}
+{"text": "This project is about reporting American express data based on multiple databases of the customer\u2019s credit performance globally to the bureaus and inquiries about new and existing customer\u2019s credit performance with other financial institutions from the bureaus in the respective markets."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Documented high and low-level design document specifications for source-target mapping, based on the transformation rules."}
+{"text": "Documented technical requirements for ETL process and Design documents for each source. Designed, Developed and Supported Extraction, Transformation and Load Process (ETL) for data migration."}
+{"text": "Used IDQ's standardized plans for addresses and names clean ups. "}
+{"text": "Worked on IDQ file configuration at user's machines and resolved the issues & used IDQ to complete initial data profiling and removing duplicate data."}
+{"text": "Design reference data and data quality rules using IDQ and involved in cleaning the data using IDQ in Informatica Data Quality(IDQ) environment.  "}
+{"text": "Created and used the Normalizer Transformation to normalize the flat files in the source data. "}
+{"text": "Worked on Maestro job scheduling and Unix Scripting. "}
+{"text": "Involved in finding production status by using Autosys commands."}
+{"text": "Developed UNIX shell scripts to run the pmcmd functionality to start and stop sessions, batches and scheduling workflows. "}
+{"text": "Experience in working with reporting team in building collection layer for reporting purpose."}
+{"text": ""}
+{"text": "Environment: Informatica Power Center 9.6.1/9.5.1, IDQ, Oracle 11g/10g, Autosys, Flat File, Windows."}
+{"text": "         "}
+{"text": "               "}
+{"text": "              Client\t:   NTT  Data , Hyderabad , INDIA "}
+{"text": "              Role\t:   ETL / Informatica Developer"}
+{"text": "              Duration\t:   Mar 2011\u2013 Feb 13"}
+{"text": "              "}
+{"text": "Project Description"}
+{"text": "This project deals with building a real-time view of enterprise level data. A decision support system is built to compare and analyze product prices, their quantities and Customers  profiles. This Enterprise Data Warehouse (EDW) is used to deliver reports and information to sales and marketing management."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Designing the dimensional model and data load process using SCD Type 2 for the quarterly membership reporting purposes. "}
+{"text": "Derived the dimensions and facts for the given data and loaded them on a regular interval as per the business requirement. "}
+{"text": "Extracted data from multiple sources such as Oracle, XML, and Flat Files and loaded the transformed data into targets in Oracle, Flat Files. "}
+{"text": "Designing and coding the automated balancing process for the feeds that goes out from data warehouse. "}
+{"text": "Implement the automated balancing and control process which will enable the control on the audit and balance and control for the ETL code. "}
+{"text": "Improving the database access performance by tuning the DB access methods like creating partitions, using SQL hints, and using proper indexes. "}
+{"text": "All the jobs are integrated using complex Mappings including Mapplets and Workflows using Informatica power center designer and workflow manager."}
+{"text": "Use debugger in identifying bugs in existing mappings by analyzing data flow, evaluating transformations, and create mapplets that provides reusability in mappings."}
+{"text": "Analyzing the impact and required changes to incorporate the standards in the existing data warehousing design. "}
+{"text": "Following the PDLC process to move the code across the environments though proper approvals and source control environments & Source control using SCM."}
+{"text": ""}
+{"text": "Environment: Informatica Power Center 9.1/8.5, Power Exchange, UNIX, Oracle 10g,\u00a0SQL Server 2008, SQL Assistant, DB2."}
+{"text": ""}
+{"text": "                  "}
+{"text": "     Client \t:   Aspire Info Labs , Hyderabad, INDIA"}
+{"text": "                  Role:   \t:   ETL Developer"}
+{"text": "                  Duration\t:   May 2009 \u2013 Feb 2011"}
+{"text": "            "}
+{"text": "Responsibilities:"}
+{"text": "Involved in analysis, design, development, test data preparation, unit and integration testing, Preparation of Test cases and Test Results"}
+{"text": "Coordinating with client, Business and ETL team on development"}
+{"text": "Developed Batch jobs using extraction programs using COBOL, JCL, VSAM, Datasets, FTP to Load Informatica tables "}
+{"text": "Involved in full project life cycle - from analysis to production implementation and support with emphasis on identifying the source and source data validation, developing logic, and transformation as per the requirement and creating mappings and loading the data into BI database."}
+{"text": "Based on the business requirements created Functional design documents and Technical design specification documents for ETL Process."}
+{"text": "Developing code to extract, transform, and load (ETL) data from inbound flat files and various databases into various outbound files using complex business logic."}
+{"text": "Most of the transformations were used like Source Qualifier, Aggregator, Filter, Expression, and Unconnected and connected Lookups, Update Strategy."}
+{"text": "Extensively worked with the Debugger for handling the data errors in the mapping designer."}
+{"text": "Created events and various tasks in the work flows using workflow manager."}
+{"text": "Responsible for tuning ETL procedures to optimize load and query Performance."}
+{"text": "Created automated shell scripts to transfer files among servers using FTP, SFTP protocols and download files."}
+{"text": "Expertise in creating control files to define job dependencies and for scheduling using Informatica."}
+{"text": ""}
+{"text": "Environment: Informatica Powercenter 8.5/8.1, ETL, Business Objects, Oracle 9i/8i, PL/SQL."}
+{"text": ""}
+{"text": ""}

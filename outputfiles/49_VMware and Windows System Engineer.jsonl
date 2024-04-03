@@ -1,0 +1,150 @@
+{"text": "Name: mildred mildred"}
+{"text": "E-Mail: mildred.mildred@gmail.com"}
+{"text": "Address: Ganzhou, China"}
+{"text": "Github: https://github.com/mildred"}
+{"text": "LinkedIn: https://linkedin.com/mildred"}
+{"text": "Phone No. 916535908064"}
+{"text": "Summary:"}
+{"text": "Systems Engineer or Administrator with 8+ years of experience in the area of Virtualization with Installation, Configuration, Administration, Support of VmwareESX 3.5/4.0, VMware ESXi 4.1/5.0/5.1/5.5, Windows Server 2003/2008/2008 R2/2012."}
+{"text": "Experience in architecture, deploying and upgrading systems; including hardware, software, networks, databases, servers, and peripheral equipment."}
+{"text": "Experience with VMware ESX/ESXi 3/4/5.x, vSphere4.x/5.x,vCenter Server, View, vRealizeOperations, SRM."}
+{"text": "Extensive experience with Windows Server 2012/2008 R2/2003 OS\u2019s."}
+{"text": "Knowledge in Microsoft Active Directory, Group Policy Objects, IIS (Web Server), WSUS, Microsoft Clustering."}
+{"text": "Installed, configured and administered Esxi 5.1,5.5 on HP C7000/Dell power Edge/Cisco UCS Hardware."}
+{"text": "Installed management server (v Center server) instances to enable centralized management of multiple hosts."}
+{"text": "Experience in installing, configuring, administering Microsoft SQL Server 2005/2008/2012 familiar with Database Creation, Database Security, Database Migration, Database Performance Monitoring, User Management, Database Backup/Restoration, Import/Export of SQL Database."}
+{"text": "Strong knowledge on VMware HA, VMware DRS, Resource pooling,Cloning and templates."}
+{"text": "Experience and Familiar with Virtualization technologies like installing, configuring, administering VMware ESX/ESXi and Citrix Xen Server. Created, managed and maintained VMs."}
+{"text": "Experience in Server monitoring, capacity planning, application monitoring."}
+{"text": "Experience in creating protection groups, recovery plans, test DR plans, and SRA\u2019s in SRM."}
+{"text": "Expertise working on VMware Converter 4.3/5.0 to do virtual to virtual migration as well as Physical to virtual server migration."}
+{"text": "Installation and Configuration of Domain Controllers."}
+{"text": "Experience in SAN storage and RAID concepts. "}
+{"text": "Extensive understanding of networking concepts, i.e. Configuration of networks, router configuration and wireless security, TCP/IP, VPN, Content Filtering, VLANs, and routing in LAN/WAN, Ethernet Port, Patch Panel and wireless networks."}
+{"text": "Experienced with Microsoft Office Suite, Open Office, Visio and Outlook."}
+{"text": "Experience in developing documentation and run books for P2V migrations utilizing VMware converter by coordinating with multiple datacenters across the US. "}
+{"text": "Experience with tier three supporting servers and directory service issues. Any unresolved issues were escalated directly to VMware support."}
+{"text": "Good experience in migrating production VMs using Storage VMotion to new Datacenter with zero downtime"}
+{"text": "Experience with x86 / x64 Intel, HP hardware like rack-mounted servers, tower servers, desktop, laptop and other peripherals."}
+{"text": "Expert in Server Builds, Installs, Upgrades, Patches, Configuration and Performance Tuning in Windows Server 2003/2008/2012 on VMware virtualized environments."}
+{"text": "Experience supporting Production and/or Development and Test environments."}
+{"text": "Excellent organization, prioritization skills as well as proactive and energetic approach."}
+{"text": ""}
+{"text": ""}
+{"text": "Skills"}
+{"text": "Operating Systems / Networking: Microsoft Windows 2012/2008/2003, Microsoft Active directory 2012/2008/2003, VMware\u00a0ESX."}
+{"text": "Server Admins: MS Windows Server/Exchange Server (2000/2003/2008/2008 R2), Red Hat Linux (Enterprise Linux 4/5/6)"}
+{"text": "Virtualization tools: vSphere 4.x and 5.x, vCenter, VMware\u00a0Update Manager, FT, HA, DRS, DPM, vMotion and Storage vMotion, SRM, ThinApp, VMware\u00a0Workstation, P2V/ V2V Conversion, Citrix Xen Server, Hyper-V and SAN-backed applications and legacy hardware.\nRemote Tools: RDP, DameWare, RADMIN, VNC, LogMeIn, DameWare, PCAnywhere, Team Viewer.\nHardware: HP, Compaq, Dell desktops/laptops/servers, racking/cabling, network printers, Cisco UCS,  Switches, 802.11x Wireless gateways, Access Points."}
+{"text": "Routing Protocols:RIP, RIP2, IGRP, EIGRP, OSPF, OSPFV3, BGP, ISIS, IPV6 address, and CLNS address.\nNetwork Protocols: TCP/IP &subnetting, configuring routing, VLAN, access lists on routers, Switches, ASA, CAT 3560G, 1841 Router\nNetworking:\u00a0LAN WAN concepts, routing and switching, configuring inter- VLAN communication\nTerminal Services: Remote Desktop Services, VNC, Putty, Tera Term, Team Viewer, cytrix, Logmein and Terminal Services.\nBackup: VERITAS Netback up, TSM, Avamar and Windows NT Backup."}
+{"text": ""}
+{"text": "Education"}
+{"text": "Bachelors in Computer Science, Karachi University, Karachi 2006"}
+{"text": "Certification"}
+{"text": "MCITP Certified"}
+{"text": "VMware VCP Certified"}
+{"text": "Experience"}
+{"text": "Roles & Responsibilities: "}
+{"text": "As a senior system administrator, participated in design, implementation and support of the existing datacenter and performing day-day administration tasks. Worked closely with storage, network, and back up teams to ensure that no services are affected by developing issues or risks."}
+{"text": "Experience in vSphere 5.x and 4.x deployment, management and upgrades."}
+{"text": "Experience in deploying and maintaining vCenter/ vRealize Operations Manager (VCOPS)."}
+{"text": "Experience in View and ThinApp deployments in user test environment."}
+{"text": "Responsible for creating AD Users and Groups and assigning permissions. Edited GPO for Windows Update schedules. Created file shares and quotas."}
+{"text": "Install and configuration of newlyprovisioned HP-C7000 enclosures, build Linux, Windows and ESXi servers on BL 460\u2019s and BL620\u2019s, Configured HP C7000 enclosure and blades using Onboard Administrator,"}
+{"text": "Virtual Connect Manager and ILO"}
+{"text": "Worked on standard process for advanced group policy deployment management aswell as Active Directory users and group\u2019s management."}
+{"text": "Migrated Windows Server 2003 servers to Windows Server2008 and Windows Server 2012 as part of large refresh/migration project."}
+{"text": "Involved in monthly patching and updates of windows servers/clients using system center configuration Manager (SCCM).\u00a0"}
+{"text": "Provide L1/L2/L3 level support for Windows/ESXi servers running on HP, Dell, IBM and Cisco hardware."}
+{"text": "Configuring and Administering Exchange Servers, SMTP, Terminal Servers, DNS,DHCP, CIFS, SNMP, NTFS, FTP, SFTP, robocopy and LDAP on Windows Server2003/2008/2012 server environment."}
+{"text": "Deployed and maintained VMware ESXi 5.1 and 5.5 host servers. Configured HBAs, iSCSI SAN storage."}
+{"text": "Familiar with backup and restore of VMware host server configuration, Virtual Machine backup, snapshot, P2V-V2V conversation with VMware converter 4/5 and with other third party converters, Patch updating, monitoring/reporting, SSH and SNMP and notification of alerts."}
+{"text": "Installed ESX and ESXi servers on HP and Dell hardware."}
+{"text": "Configured HA, DRS clusters and capacity planning for new clusters, configuring FT for important VM's."}
+{"text": "Worked on ESX and VM storage issues and also coordinated with the storage admin team. "}
+{"text": "Performed P2V Hot conversions using vCenter Converter Standalone 5 and also the P2V cold conversion using VMware Converter Boot CD. "}
+{"text": "Worked on Disaster Recovery Exercises for DR Plan for Production Servers. "}
+{"text": "Involved in creating VSS and VDS vSwitches and created different ports groups for different purposes. "}
+{"text": "Installed and configured Citrix Xen Server and Windows 2008 Hyper-V R2 test clusters on Dell Hardware with iSCSI storage."}
+{"text": "Installed and implemented Manage Engine monitoring application and configured SNMP and WMI on Servers and other network devices for reporting and alerts notifications."}
+{"text": "Installed and Tested VMware Site Recovery Manager (SRM 4.x/5.x) for the disaster recovery and managed recovery plans"}
+{"text": "Responsible for helpdesk support using service now ticketing system, inventory and system reporting."}
+{"text": "Participated in the migration planning, developing, testing and moving the migration process onto full-fledged production network."}
+{"text": "Environment: Windows 2003/2008/2012, Windows XP/Vista/Win 7, Vmware ESX/ ESXi 5.x, 4.x. HP ProLiant Rack Servers, Dell PowerEdge Servers, service now."}
+{"text": ""}
+{"text": "Roles &Responsibilities:"}
+{"text": "Implementation of VMware vSphere 5.0 with Enterprise Plus Features of vDistributed Switch and Host Profiles Upgrade Experience from VmwareInfrastructure 4.0, 3.5 to vSphere 4.0 and Update 1 including vCenter4.0, ESX 3.5,4.0 and 4.1 Hosts, Update manager, vSphere client, and Virtual machines tools and H/W upgrade to vSphere 5."}
+{"text": "Install and support of VOIP services and troubleshooting VOIP issues. "}
+{"text": "Extensive experience of Tools deployment along with other tools on new servers like IEM, Bigfix, SEA gate and TAD4D. "}
+{"text": "Installation and maintain 2012 System Center Operations Manager (SCOM)."}
+{"text": "Installation of ESX 4.0 and 4.1 Nodes along with ESXi 5.0/5.1, vCenter 5, Update manager, and Administering VM\u2019s across 2 Datacenters running around 10000 VM\u2019s while migrating servers from different locations on the globe. "}
+{"text": "Implementation of 2012 MS Systems Center Configuration Manager (SCCM)."}
+{"text": "Experience with Microsoft SCCM 2007/2012 and SCOM 2007/2012 \u2013 update/Patching and Monitoring."}
+{"text": "Tested and configured Wyse Thin Client devices and technology and implemented Wyse Device Manager Server for remote administration."}
+{"text": "Install and maintain VMware view for all environments. "}
+{"text": "Specializing in Private Cloud solutions on vCloud Director running on VCE vBlocks."}
+{"text": "Along with VMWare, the client used HYPER-V for some Window servers. "}
+{"text": "Integration and testing of Unified Collaboration System with Cisco OpenStack (IaaS) and Media Broker with Unified Collaboration System."}
+{"text": "Experience delivering business systems using RPG (ILE)."}
+{"text": "Installing IBM operating system upgrades, creating devices and printers."}
+{"text": "Management of Hyper V production platform, development platform and DMZ platform."}
+{"text": "Installation of vCenter5.1 Single Sign on Server (sso), Inventory Services and vCenter5.1 "}
+{"text": "Implementation of SRM 5.0 at both the locations of AIG in NJ and TX to recover thousands of virtual machines including production, new VM\u2019S, P2V, V2V and clones. "}
+{"text": "Implementation of install, design and configuration of VMware\u2019s vCloud Automation center for both NJ and TX data center locations. "}
+{"text": "Identified, isolate and repair computer equipment. showing wear and tear as well as during preventative maintenance routines. "}
+{"text": "Implementation of different Host Profiles for Multiple Clusters across Multiple Data centers."}
+{"text": "Managing EMC Data Domain for transform backup, archiving, disaster recovery with high-speed, efficiently replicate backup and archive data. "}
+{"text": "Experience with EMC VPlex used for data mobility, continuous Availability, migrations, stretched clusters and scale out cluster architecture. "}
+{"text": "Designed and implemented a best-in-class Solaris Patching feature based on my own professional services work while consulting at Opsware customers."}
+{"text": "Implementation of SRM 5.0 on vSphere across multiple sites to provide Disaster recovery solution for VMware Vsphere Environment, vSphere Linked Mode and replicated storage, Configuring Sites Roles and Privileges, Alarms for monitoring the Site Status. Failback Testing from Protected Site to Recovery Site in SRM and Shared Recovery Site across multiple Protected Sites."}
+{"text": "Install, maintain & monitor Citrix 6.5 Server. "}
+{"text": "Daily participation with DB teams to resolve the SQL and Oracle server migration issues. "}
+{"text": "Experience on Host Profiles, Distributed Switch, DRS, VMotion, SV-Motion, Resource pools, permissions, Patches, Snapshots, Tools Upgrade, disk expansions, Templates, and many more."}
+{"text": "Extensive migration of DB servers including SQL servers along with Oracle servers. "}
+{"text": "Building VM\u2019s and new Templates for new Projects and allocating them to appropriate Resource pools. "}
+{"text": "Upgrading the Firmware to the latest version/date on the BIOS/ controllers/ hard drives."}
+{"text": "Installed the ProLiant Support Packs (PSP) to deploy software updates remotely and thereby reducing server maintenance costs."}
+{"text": "Installed the VMware Capacity Planner in planning, designing and implementing the virtual infrastructure environment and monitoring of virtual environments."}
+{"text": "Environment: HP ProLiant BL Series, Cisco UCS, Smart Start 8.4, VMware VSphere 5.0, VMware view 5.3, ESX 4.0 & 4.1, ESXi 4.0,4.1,5.0,5.1, EMC & NetApp SAN/NAS, Virtual Center, SEP 11.x, SEP 12.x VMware ThinApp."}
+{"text": "Roles &Responsibilities:"}
+{"text": "Experienced with x86 / x64 Intel, HP, IBM & Dell hardware like rack-mounted servers, tower servers, desktop, laptop and other peripherals."}
+{"text": "Upgraded vSphere 4.x to vSphere 5.x including vCenter Server, hosts, Update Manager and Nexus 1000v."}
+{"text": "Installing, configuring, administering, and performance tuning Microsoft SQL Server 2005/2008 familiar with Database Creation, Database Security, Database Replication/ Migration, Database Performance Monitoring, User Management, Database Backup/Restoration, Import/Export of SQL Database, Transact SQL, Microsoft SQL Clustering, SQL Query analyzer and profiler."}
+{"text": "Installed & configured Windows 2008 with Active Directory service."}
+{"text": "Installing, configuring, administering and troubleshooting VMs on vSphere 4.x and 5.x platform."}
+{"text": "Installed and managed Symantec Endpoint protection software on servers and clients. "}
+{"text": "Creating and Managing VMware cluster with HA and DRS. Creating and Managing resource pools for Virtual Machines.  Monitoring and managing performance of ESX servers and Virtual Machines. "}
+{"text": "Using Virtual center server for HA, DRS and VMotion. Working on Migration concepts likeVMotion and cold migration."}
+{"text": "Responsible for Desktop, Laptop, Network and Outlook support & troubleshooting client\u2019s issues."}
+{"text": "Troubleshoot and monitored network using SNMP and Solar winds network monitoring tools and also used ping, Cisco CLI, trace route for debugging them."}
+{"text": "Responsible for helpdesk support using BMC remedy ticketing system, inventory and system reporting."}
+{"text": "Analyze, log, track and complex software and hardware matters of significance pertaining to networking connectivity issues, server, and application to meet business needs."}
+{"text": "Experience in IT decision-making, policy direction, planning, and team management. Participated in the migration planning, developing, testing and moving the migration process onto full-fledged production network."}
+{"text": "Creation of templates from VMs and Creation of VMs from templates. "}
+{"text": "Performance monitoring and tuning for ESX Servers, Virtual Center Server and VMs. "}
+{"text": "Installation, configuration and management of Veeam Backup and Replication for virtual machine backup. Management of HP SIM for hardware monitoring. "}
+{"text": "Installation, configuration and management of Windows Server 2005. "}
+{"text": "Management for Active Directory and patch management."}
+{"text": "Environment: Windows 2008 R2/2003, SQL Server 2005/2008, Microsoft WSUS, Windows XP/ 7, VMware ESX/ESXi Server and Workstation, VMware converter standalone, Symantec Endpoint protection, Nexus 1000v."}
+{"text": ""}
+{"text": "Roles & Responsibilities: "}
+{"text": "Installed Red Hat Linux Servers using network installation."}
+{"text": "Scheduled various regular, periodic, future and queue tasks by using crontab\u00a0"}
+{"text": "NFS management - take care of user accounts/groups, setting up of NFS environment\u00a0"}
+{"text": "Transferring files from one system to other using FTP and SFTP\u00a0"}
+{"text": "Monitoring server performance and troubleshooting server related problems to SNMP\u00a0"}
+{"text": "Processes administration and management like monitoring, start/stop/kill various processes/sub processes\u00a0"}
+{"text": "Monitor system performance parameters using iostat, vmstat, and fine-tuning\u00a0"}
+{"text": "Administration of all login servers, farm servers, database servers, Application servers, VMware servers, EMC Clariion, NetApp storage arrays and Backup solution."}
+{"text": "Configuring, implementing and managing Virtual environment using VmwareESX 3.0, ESXi 3.5 infrastructures."}
+{"text": "Installed and configured TCP/IP, DNS, DHCP, IIS and terminal services\u00a0Familiarity with data protection "}
+{"text": "Involved in monthly updates/patching using WSUS on test servers\u00a0"}
+{"text": "Coordinated with various teams during server downtime.\u00a0"}
+{"text": "Technologies which involve Snapmirror, Snap vault and OSSV."}
+{"text": "Designed and planned NAS infrastructure using SMB/CIFS/NFS protocols with EMC storage, windows and UNIX machines."}
+{"text": "Implemented Fibre channel SAN with brocade switches, servers (Linux, Windows) with Qlogic and Emulex HBA\u2019s and NetApp filers."}
+{"text": "Designed and Implemented iSCSI SAN with Cisco/Brocade switches (1 Gig and 10 Gig), servers (Linux, Windows) 10 Gig/ 1Gig ISCSI target cards and NetApp filers."}
+{"text": "Storage allocation/reclamation - Created Initiator groups, port groups, storage groups and Masking views for Auto-provisioning and recommended various best practices"}
+{"text": "Troubleshooting and resolving issues like one path failure in SAN Storage environment, host not seeing storage, and HBA failure in SAN environment and performance issues."}
+{"text": "Data storage deployment, support, capacity planning and provisioning with SAN, NAS, iSCSI, direct-attached storage, & storage virtualization."}
+{"text": "Implemented SRDF for DR planning and Time Finder for local replication."}
+{"text": "Environment: Red Hat Linux 4/5, Windows2000/2003/2008 server, Active Directory, DNS, DHCP, Exchange 2003/ 2007, Microsoft Office, VMwareESX3.0/3.5, VCenter Server, EMC CLARiiON, Symantec Netbackup, SQL server 2005/2008, Service-now."}

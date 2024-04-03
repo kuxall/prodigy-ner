@@ -1,0 +1,135 @@
+{"text": "Name: kathryn kathryn"}
+{"text": "E-Mail: kathryn.kathryn@gmail.com"}
+{"text": "Address: Xiaoganzhan, China"}
+{"text": "Github: https://github.com/kathryn"}
+{"text": "LinkedIn: https://linkedin.com/kathryn"}
+{"text": "Phone No. 942690499681"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": "\t"}
+{"text": "IT Business Analyst with over 6 years of diverse experience in Business Modeling, Document Processing, EDI, Mapping, HIPAA regulatory changes and Application Integration,andANSI 4010/5010 in IT Healthcare domain. I am experienced in gathering Business & Functional Requirements, conducting JAD Sessions, identifying &executing Gap Analysis, producing UML Diagrams & defining Process Flows, Business Documentation for Claims Processing & Claims Adjudication for Medicare and Medicaid and Health Care Reforms. I also worked with different Development &Testing Teams as necessary to produce required deliverables that meet contract quality standards. I am a self-starter with motivation and capable to work independently."}
+{"text": "Specialized in Healthcare, Risk and Compliance Document Management. "}
+{"text": "Experienced in GAP analysis of HIPAA 4010 to 5010 with particular attention to qualifier, length and required field and situational rules. "}
+{"text": "Knowledge of the SDLC models such as Waterfall, Agile."}
+{"text": "Verified and documented HIPAA regulator changes found when moving from 4010 to 5010 X12."}
+{"text": "Transaction Mapping Full 4010 \u2013 5010 conversion knowledge for 820, 834, 835, 837 PDI, 270 & 271 transactions. "}
+{"text": "Systematized Claims Processing and Claims Scrubbing in HMO, PPO, Medicaid and Medicare and gathered requirements in Enterprise Healthcare Management (ECHS)."}
+{"text": "Produce design deliverables including workflow diagrams, sketches at various levels of fidelity, and wireframes to demonstrate and test the UI and user interactions."}
+{"text": "Document the results of design related meetings and design deliverables, involvement in user research activities."}
+{"text": "Conducted JAD sessions, Gap analysis, and prioritized requirements using interviews, document analysis, and requirements workshops."}
+{"text": "Experienced in documenting requirement using Unified Modeling Language (Use Case and Activity Diagrams) and building business Process Flow Charts."}
+{"text": "Experience with Facets backend data model tables and frontend application module like Subscriber/Member, Claims processing and providers."}
+{"text": "Experience in Data Quality and Data integrity."}
+{"text": "Gathered Business Requirements, interacted with the stakeholders, developers, Project Manager and SME's and facilitated JAD sessions to formulate Business Processes."}
+{"text": "Expert in organizing and managing all phases of the application testing process using Mercury Quality Center."}
+{"text": "Strong understanding of test plans, test cases, test scripts and defects tracking/reporting."}
+{"text": "Extensive knowledge of SQL queries and back end system integration testing."}
+{"text": "Conducted User Acceptance Testing (UAT) and verification of performance, reliability and fault tolerance issues for web based and client/server applications."}
+{"text": "Hands on experience working on health information in accordance to Federal Guidelines. Worked on inbound/outbound HIPAA EDI transaction in support of HIPAA 834, 835, 837 270/271 transactions."}
+{"text": "Revitalized requirement elicitation techniques - conducting user interviews and JAD sessions and managed the requirements using Use Case Modeling with all phases of SDLC. "}
+{"text": "Produced and utilized Use Cases, Functional Specifications, User Interface Specifications and Requirements Traceability Matrix to define the changes in client\u2019s systems."}
+{"text": "Experienced in working on FFM/FFE and understanding of rules through Health Insurance Exchange (HIX),"}
+{"text": "Conducted Impact Analysis, Risk Analysis and Risk Mitigation."}
+{"text": "Expertise in Claims, Subscriber/Member, Plan/Product, Claims, Enrollment, Provider, Commissions and Billing Modules of Facets."}
+{"text": "Designed Graphical User Interface using Adobe Photoshop, SQL Queries using MS Access and Oracle."}
+{"text": "On hand experience in implementing changes in HIPAA 4010 to 5010 conversions on SOA (Service Oriented Architecture)."}
+{"text": "Synthesized 4010 and 5010 HIPAA implementation guides relate to Claim Testing and Medical Billing. "}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:\t"}
+{"text": ""}
+{"text": "Health Now Inc. Buffalo, NY\t"}
+{"text": "Business System Analyst\t\t\t\t\t\t\tJanuary 2014 \u2013 December 2015"}
+{"text": ""}
+{"text": "Health Now New York Inc. is the leading healthcare company in Western New York. Since 1936, it has been a pioneer in providing quality healthcare services to companies and individuals in the region. Health Now New York provides the full spectrum of healthcare services and innovative funding arrangements. The assignment @ this company is all about installing new version of Facets, integrating with company\u2019s landscape and making sure that claims get processed as per the business needs."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": " Involved in HIPAA/EDI Medical Claims Analysis, Design, Implementation and Documentation."}
+{"text": "Involved in HIPPA Complaint X12N837 Transaction testing."}
+{"text": "Identified the scenarios based on business requirement and HIPAA compliance for each transaction such as 837(Claim) and 276/277 (Claim Status)."}
+{"text": "Gathered business requirements through JAD sessions and one-on-one interviews with the Business Stakeholders "}
+{"text": "Created class diagrams, use case diagrams and sequence diagrams to view the system from different perspectives. "}
+{"text": "Gathered requirements for enrollment, eligibility and claims side in the NY HIX system."}
+{"text": "Checked if the Subscriber has active eligibility under NYCDFHP Plan. "}
+{"text": "Worked on EDI transactions: 270, 271, 834, 820, 835, and 837 (P.I.D) to identify key data set elements for designated record set. Interacted with Claims, Payments and Enrollment hence analyzing and documenting related business processes."}
+{"text": "Electronically submitted Enrollment (834) data."}
+{"text": "Understood the business process that included Sales processes, Rating methodology, different Products, Group Renewals. Eligibility and Enrollment process. "}
+{"text": "Responsible for interacting with client for requirements gathering, analyzing requirements, and creating detailed specifications."}
+{"text": "Used SDLC (System Development Life Cycle) methodologies using Agile and RUP."}
+{"text": "Conducted User Acceptance Testing (UAT) to verify whether the entire user requirements are met."}
+{"text": "Experienced in Facets and acted as SME point of contacts with other vendors"}
+{"text": "Analyzed user and data issues related to Medicaid eligibility determination system."}
+{"text": "Involved in testing the Member Enrollment, Eligibility Enquiry, Eligibility Response, Claim Status Enquiry, Claim Status Response and conversion of Financial Claims. \n Very well known to the Subscriber/Member, Claim processing and Provider module in the front-end facets and data model back-end table."}
+{"text": "Responsible for creating the test plan and designing test cases for the EDI 834 members\u2019 enrollment file loading process into FACETS through HIPAA Gateway."}
+{"text": "Mocked \u2013up the EDI 834 states file for the system testing purpose and very well known to the loading process of the MMS file into Facets database"}
+{"text": "Actively participated in designing test plans, test cases and test scripts. "}
+{"text": "Extensively worked on Managed Care Provider Enrollment."}
+{"text": "Responsible for creating business work flows and processes and creating management reports based on the analysis."}
+{"text": "Help conducting release backlog, Attended scrum meetings, conducted sprints and UAT in Agile methodology."}
+{"text": "Developed and executed SQL queries on claim records to validate reporting data.\u00a0"}
+{"text": "Medical Claims experience in Process Documentation, Analysis and Implementation in 835/837/834/270/271/277(X12 Standards) processes of Medical Claims Industry from the Provider/Payer side."}
+{"text": "Responsible for reporting status ensuring accurate coverage of requirements and business rules."}
+{"text": "Environment: Windows 2000, MS Word, MS Excel, MS Project, UAT, Agile,MS Visio, HTML, XML,Java, Oracle."}
+{"text": ""}
+{"text": "Coventry Healthcare Inc, Newark, DE                              "}
+{"text": "Business Analyst\t\t\t\t\t\t\t\t\tOctober 2011 \u2013 December2013"}
+{"text": ""}
+{"text": "Coventry Health Care, Inc. Operates as a managed healthcare company in the United States. The company\u2019s Health Plan and Medical Services segment provides health plan commercial risk, Medicare advantage, and Medicaid products. It also offers commercial risk products, including health maintenance organization, preferred provider organization, and point of service products to individuals and employer groups. I was working with FACETS implementation projects."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for gathering, analyzing and digesting the requirements and the critical areas of the application to setup and execute baseline tests"}
+{"text": "Participate in Agile SDLC using the Scrum process"}
+{"text": "Analyzing the Facets Requirements and thus conducting gap analysis."}
+{"text": "Determined user requirements and goals by conducting meetings with client"}
+{"text": "Drafted test strategies, test cases and test plan based on functional specifications"}
+{"text": "Developed test cases for manual testing"}
+{"text": "Establish test data for testing the application"}
+{"text": "Analyzed and worked with HIPAA specific EDI transactions for Claims, member enrollment, billing transactions. Worked specifically with 837, 835, 834, 270/271"}
+{"text": "Designed, scheduled and executed test plans within the predefined timeframe"}
+{"text": "Manual Testing for checking the flow of the application functionality"}
+{"text": "Conduct the testing (system and regression) of all applications to ensure application integrity both AS/400 based systems and web-based applications. Entails: Managing/executing the testing effort, logging detailed accounts of errors/defects in the systems, and coordinating with the Application Development and Operations teams to diagnose and troubleshoot any errors/defects."}
+{"text": "Functional Specification Document"}
+{"text": "Conducting business validations, covering the following deliverables: FACETS Providers, Facets Claims and Facets Membership and Operational reports."}
+{"text": "Performed Test Execution & wrote & Executed Test Scenarios/Test Scripts."}
+{"text": "Writing PL/SQL Procedures & Batch Processes"}
+{"text": "Writing Test Plans/Test Scenarios/Test Cases/Test Matrix"}
+{"text": "Executing System Test, Regression Test, User Acceptance Testing (UAT)"}
+{"text": "Written and executed SQL Statements to retrieve data from backend. "}
+{"text": "Database testing by executing SQL statements. Created SQL queries in SQL Query Analyzer for data validation in SQL Server Database."}
+{"text": "Used Test Director for setting up and maintaining projects on Test Director. Execute test cases using WinRunner scripts through Test Director"}
+{"text": "Performed manual back-end testing using SQL Plus to connect to an Oracle 9i database on a UNIX server."}
+{"text": "Generated of all reports for the test cases through Test Director\u2019s document generator. Assign and track all defects of test cases through Test Director. Analyze, track, and report test results"}
+{"text": "Developed design specification writing Test Reports & documenting test results."}
+{"text": "Oracle forms, Oracle database (Release name: Claims Validation Process)."}
+{"text": "Environment: SQL Server, Agile, Windows, HL7, Crystal Reports, Oracle, Mantis Defect Tracking, UML, MS Office, MS Visio"}
+{"text": ""}
+{"text": "Emdeon Business Solutions, Nashville, TN\t\t\t\t\t\t\t"}
+{"text": "Business Analyst\t\t\t\t\t\t\t\tFebruary 2009 \u2013 September 2011"}
+{"text": ""}
+{"text": "The main objective of the project is to establish a claim editing path for 5010. This includes Converting 4010 Inbound claims from submitters to 5010 format for payers who are read to receive 5010. Converting 5010 Inbound claims from submitters to 4010 format for payers who are not ready to receive 5010. I was involved in migrating Payer specific claim editing from 4010 to 5010 format and migrating submitter specific claim editing from 4010-5010 format. Creating Automated test environment for submitter and payer for 5010 certification"}
+{"text": "Responsibilities:"}
+{"text": "Created monthly/weekly status reports to update the project schedules & deliverable plan."}
+{"text": "Provided training to QA resources, new EDI analyst, and other teams involved in EDI analysis."}
+{"text": "Identified risks and dependencies on various tasks to prioritize them properly."}
+{"text": "Gather Business Requirements from the Business users, Subject Matter Experts (SMEs) and document the requirements in the BRD. "}
+{"text": "Utilized data flow diagrams, use case diagrams and process flow diagrams to represent information provided by the Business Owners."}
+{"text": "HIPAA 4010 \u2013 5010 Conversion Analysis \u2013 Involved in the documentation of HIPAA 5010 changes to EDI 837, 834, 835, and 820 Transactions."}
+{"text": "Conducted JAD sessions to help decide best solution for clients & maintained the Meeting Agendas and Minutes."}
+{"text": "Did gap analysis for HIPAA 4010 820 and 834transactions and HIPAA 5010 830 and 834 transactions."}
+{"text": "Creating Mapping documents for translating 837(I/P) to internal XML format and vice versa."}
+{"text": "Validated scenarios for Premium Payments, Payment Discrepancies, Enrollment Eligibility & Enrollment Updates."}
+{"text": "Completed Data Mapping for Group and Product analysis and report writing."}
+{"text": "Did data analysis, created data mapping and data interface documents and kept the documents updated with changes in requirements and functional specifications."}
+{"text": "Involved in UAT for Membership/Enrollments and Eligibility transactions."}
+{"text": "Prepared Test Data for the UAT as per the specifications of the FRD."}
+{"text": "Written multiple Use Cases for multiple transactions including 837I, 837P, 834, and 820 (both inbound and outbound) transactions as X12 standards."}
+{"text": "Maintained Requirement Traceability Matrix (RTM)."}
+{"text": "Identified and fixed edit and mapping issues in the cross paths (4010-5010/5010-4010)."}
+{"text": "Analyzed payer/submitter specific 4010 claim editing to migrate it to 5010 claim editing system Identify and document transition issues from 4010 to 5010 format. "}
+{"text": "Analyzed EDI ANSI X12 file mapping and reported in analysis spreadsheet. Performed validation of 837 (P, I, D) & 834 format files according to the EDIFECS engine. Management of Patient Profile Transfer (PPT) reports created by data team by verifying the associated data"}
+{"text": "Helped testers to create Test scenarios and test cases for testing the migration of EDI 4010 to 5010 and the processing of member enrollment and benefits, batch jobs corresponding to the claims (837) and real time transactions like 820 and 834."}
+{"text": "Environment: SQL, Agile, Quality Center, Windows 2000, UAT, RTM, MSOffice Suite"}
+{"text": ""}
+{"text": "\t"}

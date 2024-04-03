@@ -1,0 +1,210 @@
+{"text": "Name: jean jean"}
+{"text": "E-Mail: jean.jean@gmail.com"}
+{"text": "Address: Suzhou, China"}
+{"text": "Github: https://github.com/jean"}
+{"text": "LinkedIn: https://linkedin.com/jean"}
+{"text": "Phone No. 877878299361"}
+{"text": ""}
+{"text": "Summary:"}
+{"text": ""}
+{"text": "8 Plus years of experience consisting of Analysis, Design, Implementation, Business Intelligence, Decision Support systems in Financial & Business applications"}
+{"text": "Experience in OLAP Application Development and Administration using Oracle EPM modules (Hyperion Essbase, Planning, Financial Reporting, Smart View, Excel Add-in, Essbase Studio, EPMA, CALC Manager and Essbase Integration services). "}
+{"text": "Experience in creating and maintaining the Hyperion Planning application, Data Forms, Business Rules, Menus, Task Lists & loading the data from flat files and interface tables."}
+{"text": "Experience in migrating the planning applications from one environment to another."}
+{"text": "Created Block Storage Application (BSO) and Aggregate Storage Application (ASO) cubes."}
+{"text": "Strong understanding of Dense and Sparse strategy dimension allocation, performed dynamic calculations."}
+{"text": "Experience in developing OLAP models and metadata outlines for loading dimensions and data into Essbase Cubes. "}
+{"text": "Developed Batch Scripts and Rules files for dynamically uploading dimensions and data to Essbase Cubes. "}
+{"text": "Responsible for security groups and access for the users in Hyperion Reports Planning and Essbase."}
+{"text": "Expert in user provisioning and setting up groups with Roles and Privileges."}
+{"text": "Development and setup of Version, Hierarchies, Nodes, Action scripts, Blend, exports, property categories in Hyperion DRM."}
+{"text": "Developed complex dashboards and reports using interactive reporting studio."}
+{"text": "Importing metadata from source file and exporting metadata to database tables, files in DRM."}
+{"text": "Creation of interface and packages in Oracle Data Integrator (ODI) and migration of ODI from one environment to another and scheduling of ODI automation."}
+{"text": "Supporting business users on installing client tools Smartview, FR studio, and EAS "}
+{"text": "Worked on multiple projects in Offshore and Onsite models; and worked extensively with coordinating offshore team and to follow up on timely deliverables "}
+{"text": "Ability to work collectively in a team, while simultaneously taking independent decisions, depending on the situation."}
+{"text": "Efficient in meeting deadlines and exceeding business expectations."}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": "Hyperion Technologies: Oracle Enterprise Performance 11.1.1.3, 11.1.2.1, 11.1.2.2 and 11.1.2.3 (Hyperion Essbase, Hyperion Planning, Hyperion Financial Reporting, Hyperion Web Analysis, EPMA, CALC Manager, Hyperion Financial Management, and Hyperion Smart View), ODI11g (Oracle Data Integrator)"}
+{"text": "Oracle Hyperion DRM 11.1.1.2, 11.1.2.2 and 11.1.2.3 "}
+{"text": "RDBMS: SQL Server 2008 and Oracle 10g/11g"}
+{"text": ""}
+{"text": "Education:"}
+{"text": ""}
+{"text": "BBA, Symbiosis Law School, Pune, India"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Experience:"}
+{"text": ""}
+{"text": "Chrysler, Michigan              \t\t\t                                                November 2016 - Present"}
+{"text": "Hyperion Essbase/ Planning Consultant "}
+{"text": ""}
+{"text": "FCA US is an Italian controlled automobile manufacturer and one of the \"Big Three\" American automobile manufacturers. Responsible for developing and enhancing financial applications in Hyperion Planning, Hyperion Essbase and other Hyperion technologies. Developed several BSO cubes to incorporate different departments like sales, human resources, etc. in the company. Involved in extracting, transforming and loading data from multiple sources into Hyperion cubes using FDMEE and LCM."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": " "}
+{"text": "Held meetings with the business users to collect requirements and documenting the requirement specifications."}
+{"text": "Designed and developed different cubes for creating reports about various business strategies to aid in decision-making and future planning. "}
+{"text": "Experienced in development, optimizations and performance tuning, for data/ dimensions\u2019 load, database restructuring (BSO/ASO), calculations, overall Essbase performance. Key techniques used were resetting databases, grouping sparse member combinations, using parallel calculations, managing caches, using two-pass calculations and changing buffer size."}
+{"text": "Involved in developing design specifications of ESSBASE cube with customers. "}
+{"text": "Built new Calc scripts and developed MaxL scripts for automation process. "}
+{"text": "Created Planning applications with the plan types for revenue & expenses, sales and corporate. "}
+{"text": "Created data forms for business users for budget, forecasting and estimates. Worked on reports and data forms to give the flexibility to the users to review the detail/summary data and to allocate the Budget/Forecast amount."}
+{"text": "Maintaining project dashboard for updates from daily standup and various stakeholder meeting updates."}
+{"text": "Tested user connectivity for errors in instances such as developing databases and reports, moving from a development environment server to a production environment server, etc."}
+{"text": "Assisted in troubleshooting Production issues in support to Planning Applications and all databases."}
+{"text": "Migrated to new production server and supported end users and planners for budgeting."}
+{"text": "Maintained security for Planning Application, Business Rules and ESSBASE cubes."}
+{"text": "Developed and administered ad-hoc financial reports with Spreadsheet Add-in and Smart view."}
+{"text": "Developed Task lists and workflow process for all the Planning applications. "}
+{"text": "Involved in developing process management for workflow to promote the budget or forecast for different scenarios and versions. "}
+{"text": "Worked on Hyperion Shared Services to list user directories, users, groups, projects, and applications."}
+{"text": "Created and designed the existing reports using Financial Reporting Studio and Web Analysis."}
+{"text": "Prepared Profitability Reports, which detail cost, price/ volume trends, and expense variances over prior periods. "}
+{"text": "Very good knowledge of budgeting, forecasting, financial planning, balance sheet, income statement, P&L statements, cash flow statement and human resource management."}
+{"text": "Ensured that the current on-premises planning application is stable and without any cube refresh errors or invalid rules."}
+{"text": ""}
+{"text": "Environment: Hyperion ESSBASE 11.1.2.3, Hyperion Planning 11.1.2.3, Hyperion Shared Services, Hyperion Interactive Reporting Studio, Web Analysis, Dashboards, SQR, Financial Reporting Studio, Hyperion Workspace system, Windows Scheduled tasks, Microsoft SQL Server 2005, MAXL, Excel Add-In, Smart View, ESSBASE Utilities, Windows NT/2003, FDM, Microsoft Windows"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Wal-Mart Stores, Inc., Arkansas                                                                        January 2016\u2013October 2016"}
+{"text": "Hyperion Essbase/ Planning Consultant"}
+{"text": ""}
+{"text": "Walmart Inc. is a multinational\u00a0retail\u00a0corporation,\u00a0headquartered in Bentonville, Arkansas, operating a\u00a0chain\u00a0of\u00a0hypermarkets,\u00a0discount department stores and\u00a0grocery stores. The project required maintenance of multi-dimensional databases for its budgeting, sales forecasting, marketing analysis and reporting using their Hyperion Essbase and BI Tools suite. Reports were delivered via the Excel Add-in and Hyperion Web Analysis."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Responsible for the administration of Hyperion Planning applications."}
+{"text": "Worked on performance tuning and optimization of Hyperion Essbase Cubes and calculation scripts."}
+{"text": "Involved in automating data load using MaxL and batch scripting."}
+{"text": "Migrated updates between non-production and production environments through Life Cycle Management (LCM)."}
+{"text": "Wrote several complex calculation scripts for ASO i.e. procedural calculations using MDX and minimized the use of member formulas. Currency conversion was done through procedural calculation."}
+{"text": "Created data forms as per business needs, created smart list, menus and assigned to data forms."}
+{"text": "Used planning utilities like FormDefUtil, Import Security, Export Security and Outline Load."}
+{"text": "Created users, groups and assigned privileges to them and migrated planning applications in Hyperion Shared Services."}
+{"text": "Supported Infrastructure team while applying patches and prepared documentation."}
+{"text": "Provided trainings and documents to Import/ Export Metadata, input data, build reports to the user on Smart View."}
+{"text": "Formulated knowledge modules and data models and data stores in Oracle Data Integrator."}
+{"text": "Involved in migration of ODI from one environment to another and prepared documentation in each phase of ODI."}
+{"text": "Created and modified interfaces and packages in Oracle Data Integrator as per the business change."}
+{"text": "Integrated Oracle Hyperion Data Relationship Management with planning application to enable dimension mastering, sharing and synchronization. "}
+{"text": "Created and modified Hierarchies, nodes and Properties in DRM per requirement."}
+{"text": "Identified root cause of issues and provided appropriate solutions."}
+{"text": "Involved in development and performance-tuning with Hyperion Analytic Services (Essbase) multidimensional databases including Outline, Rule Files, Calc Scripts, composite web forms, smart lists, task lists and menus, reports, database optimization."}
+{"text": "Created data sources from SQL servers, Oracle, SAP BW, etc.  for planning applications."}
+{"text": "Pulled up multiple Hyperion Ad-hoc Financial Reports and Web Analysis Dashboards, based on the requirements."}
+{"text": "Provided support and training for new and experienced Essbase users. "}
+{"text": "Optimized the applications to reduce the calculation time and database size considerably."}
+{"text": "Extracted the company payroll/employee, sales, CAPEX and OPEX data reports using Smart View."}
+{"text": "Restored database by taking regular backup in case of database corruption or server crash."}
+{"text": "Automated the daily general ledger load into Hyperion, and added extra error checking and automated notification processes, so the team is immediately aware of any data, server or process-related issues. The log files had to be manually checked daily prior to this change."}
+{"text": "Worked closely and pro-actively with project leadership to identify and resolve key risks with the Hyperion upgrade project."}
+{"text": ""}
+{"text": "Environment: Hyperion Essbase System 11.1.2.2, Essbase Administration Services, Hyperion Planning, Outline load extractor, Hyperion Financial Reporting Studio, Data Relationship Management, Oracle data Integrator 11g, Smart view and MS Office."}
+{"text": ""}
+{"text": ""}
+{"text": "Bank of America, New Jersey              \t\t\t\t\t      July 2014 \u2013 December 2015"}
+{"text": "Hyperion Planning/Essbase Consultant"}
+{"text": "Bank of America Corporation is a multinational banking and financial services corporation headquartered in Charlotte, North Carolina. It is ranked 2nd largest bank by assets and 26th largest company by revenue in the United States. Involved in requirement analysis and documentation leading to an effective Hyperion solution incorporating user needs of converting Excel based Budgeting and Forecasting Process to Hyperion Planning in-order to increase efficiency. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Created dimensions in Essbase through rule files as well as loading and maintaining data through rule files."}
+{"text": "Developed formulas for each application\u2019s outline for collecting data and creating calc scripts in Essbase. "}
+{"text": "Submitted budget and forecast reports through Smartview."}
+{"text": "Created Financial reports and report scripts in Essbase based on requirements. Understanding Of business requirements and fixing the issues."}
+{"text": "Modified Validations, imports and exports based on requirement."}
+{"text": "Validated DRM data against business rules or data source."}
+{"text": "Maintained DRM Batch scheduling and log files and Security setup in DRM for users."}
+{"text": "Used Life Cycle Management (LCM) for migrating cube and report objects between different environments. Created attribute members, formulas, substitution variables, to enable simple calculations."}
+{"text": "Involved in production support and maintenance of existing cubes."}
+{"text": "Tested the requirements & fixed issues."}
+{"text": ""}
+{"text": "Environment: Oracle Essbase System 11.1.2.1, Essbase Administration Services, Hyperion Planning, Data Relationship Management, Hyperion Reports, Smart view, Essbase spreadsheet Add-In, MS-office."}
+{"text": ""}
+{"text": ""}
+{"text": "Gymboree Group, Inc., California                                                                      February 2013 - June 2014"}
+{"text": "Hyperion Essbase/Planning Consultant"}
+{"text": ""}
+{"text": "Gymboree Group, Inc. is a portfolio of children's brands operating specialty retail stores with high-quality clothes and accessories, currently operating hundreds of retail stores throughout the United States, Canada and Puerto Rico, along with franchises around the world. Primarily tasked with building and designing a metadata structure and planning application to manage various cost centers, profit centers, management of accounts receivable and accounts payable, credit/ collections and payroll functions.\u00a0"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Built dynamic dimensions in Essbase through rule files."}
+{"text": "Loaded and maintained data through rule files."}
+{"text": "Developed simple to complex formulas in the outline for each application for aggregating data and creation of calc scripts, static variables in Essbase."}
+{"text": "Extensively involved in integrating metadata and data from various sources into Hyperion Planning, Essbase and HFM platform using Hyperion Financial Quality Management."}
+{"text": "Created Web Forms, Business rules and assigned business rules to forms."}
+{"text": "Developed and modified hierarchies, nodes and properties in DRM."}
+{"text": "Submitted plans and forecast data through Smart View."}
+{"text": "Generated ad-hoc financial reports for the end users to slice and dice the data using Smart View."}
+{"text": "Involved in the documentation of the various monies like accounts receivable and accounts payable, credit/ collections, payroll in the project."}
+{"text": "Ensured regular maintenance of the Essbase server like cube backup, security file backup and file system backup."}
+{"text": "Installed and configured Hyperion Products on windows environment."}
+{"text": "Created report scripts in Essbase based, identified business requirements and fixed the issues."}
+{"text": "Modified validations, imports and exports, as required."}
+{"text": ""}
+{"text": "Environment: Oracle Essbase System 11.1.2.1, Essbase Administration Services, Hyperion Planning, Data Relationship Management, Hyperion Reports, Smart view, Essbase spreadsheet Add-In, MS-office."}
+{"text": ""}
+{"text": ""}
+{"text": "Amarchand & Mangaldad & Suresh A Shroff & Co, Mumbai                         May 2011 - December 2012"}
+{"text": "Hyperion Essbase/Planning Consultant"}
+{"text": ""}
+{"text": "Amarchand & Mangaldas & Suresh A Shroff & Co\u00a0was the largest\u00a0law firm\u00a0in\u00a0India\u00a0with headquarters in Delhi and Mumbai. It had offices in 8 cities, comprising of nearly 600 lawyers including 85 partners. Assisted senior consultant in defining planning & budgeting metadata and designing the planning application to manage various aspects of the law firm\u2019s business."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Designed and installed a multi-dimensional database application using Essbase and Planning to store and maintain law firm\u2019s payroll, billable hours, expense data in addition to managing the security, manipulation and loading of data."}
+{"text": "Developed Aggregate Storage Cubes using Essbase 9.1. "}
+{"text": "Restructured as well as maintained existing Essbase cubes."}
+{"text": "Assisted other consultant teams by testing unit/data load processes in Essbase while creating upload sheets and reports using Essbase excel add-in\u2019s/ Hyperion SmartView."}
+{"text": "Delegated testing of applications to designated team and worked with consulting team to identify and resolve any discrepancies found in the application testing results."}
+{"text": "Developed rules files for loading data and for building dimensions."}
+{"text": "Designed and created budget and forecast applications using Hyperion PBS."}
+{"text": "Integrated Hyperion planning with the Hyperion Financial Management to enable financial consolidation across its offices as well as allowing for reporting and analysis in an efficient manner."}
+{"text": "Formulated Hyperion data reports, user guides and system design documents for users at various access levels."}
+{"text": "Trained client personnel to perform the security and administrative tasks necessary to maintain a stable and secure environment for System9, Essbase, Hyperion Planning and Financial Reporting."}
+{"text": ""}
+{"text": "Environment: Hyperion Essbase 9.x, Hyperion Planning 9.x, Hyperion Financial Reporting, Essbase Excel-Add-in, Oracle 9i/10g"}
+{"text": ""}
+{"text": ""}
+{"text": "UnitedHealth Group, India \t            \t\t\t\t\t           August 2009- April 2011"}
+{"text": "Jr. Hyperion Essbase/Planning Developer"}
+{"text": ""}
+{"text": "UnitedHealth care is a healthcare provider for employers to help deliver quality healthcare to its employees, offering health care and wellness support, based on requirements. Developed a planning application for UnitedHealth to help govern its insurance business."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Involved in gathering specifications, design and development of outlines for cubes"}
+{"text": "Involved in design and development of OLAP Models and Meta Outlines in Essbase Integration Server"}
+{"text": "Designed and developed Data Load Rules using the Prep Editor in Essbase and created outlines for cubes"}
+{"text": "Created report scripts to export the data out of Essbase cubes"}
+{"text": "Exported and imported all documents to Microsoft office documents using Web Analysis"}
+{"text": "Created reports graphically using Web Analysis for better visualization of data"}
+{"text": "Involved in supporting the applications on daily maintenance, user creation and developing user interface"}
+{"text": "Created planning applications using Planning Application Wizard"}
+{"text": "Designed planning web forms"}
+{"text": "Determined the user experience from an end user perspective for budgeting and reporting"}
+{"text": "Maintained of Hyperion Planning cube, created web forms and refreshed data in Hyperion Planning"}
+{"text": "Involved in refreshing security and filters in Planning production environment"}
+{"text": "Optimized data load forms in Hyperion Planning"}
+{"text": "Developed batch scripts for building dimensions dynamically and loaded data into cubes and scheduled the scripts to run periodically"}
+{"text": "Provided security for various levels of users using Hyperion Shared Services"}
+{"text": ""}
+{"text": "Environment: Hyperion Essbase 9.x, Hyperion Planning 9.x, Hyperion Shared Services 9.x, Hyperion Financial Reporting, Hyperion Web Analysis, Hyperion Excel Add-In, Essbase Administration Services 9.x, Essbase Integration Services 9.x, Oracle 9i/10 g"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}

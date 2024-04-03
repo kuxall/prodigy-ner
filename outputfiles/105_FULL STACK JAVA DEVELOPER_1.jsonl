@@ -1,0 +1,188 @@
+{"text": "Name: rose rose"}
+{"text": "E-Mail: rose.rose@gmail.com"}
+{"text": "Address: Yulin, China"}
+{"text": "Github: https://github.com/rose"}
+{"text": "LinkedIn: https://linkedin.com/rose"}
+{"text": "Phone No. 380086248135"}
+{"text": ""}
+{"text": "SUMMARY:"}
+{"text": ""}
+{"text": "8 years of progressive experience working as a Java/J2EE developer. Extensively worked on various phases of software development lifecycle"}
+{"text": "Worked on several Service Oriented, Client/Server, GUI and Web based applications. Working knowledge on both Agile and Waterfall methodologies"}
+{"text": "Experience working in multi-tier enterprise applications and Client/Server applications using JAVA/J2EE and good exposure in MVC Architecture based applications using Spring Framework 4.1, Struts Framework 2.3.12, JMS, Java Beans with experience in presentation, business, and database layers"}
+{"text": "Well versed with Java 8, JE22 7, JDBC, Servlets, JSP, JSF, Web Services(REST/SOAP), JavaBeans, JQuery, Design patterns, JPA, Micro Services, XSLT, WSDL, UDDI, JAXP, JAXB, SAX, DOM, Apache AXIS, Apache Camel"}
+{"text": "Extensive front-end GUI skills using Core JAVA, AJAX, XML, XSL, Xpath HTML, JQUERY, and JavaScript"}
+{"text": "Good experience working with ORM tool such as Hibernate"}
+{"text": "Experience using WebLogic 12, WebSphere, JBoss and Apache Apache Tomcat 6.0 as application servers"}
+{"text": "Experience using AWS compute services like EC2, Lambda, Auto Scaling and AWS Storage service S3, EBSand experience in configuring servers using AWS"}
+{"text": "Strong working knowledge on databases like Oracle 10g/9i/8i, SQL Server 6.5, Couchbase, MySQL 5.6.16, PL/SQL 12c and NoSQL database like Mongo DB, Apache Cassandra as distributed database"}
+{"text": "Experience working with Apache Spark to store data into HDFS. Worked on using Spark API"}
+{"text": "Performed Unit testing using Junit, using build tools like Apache ANT 1.9, Maven, and Gradle"}
+{"text": "Performed System Integration test to ensure quality of the system. Familiarity working with TCP/IP, IPv4, IPv6 protocols in an environment which provides multithreading, multitenancy and High Availability support at Network layer"}
+{"text": "Experience working with Hadoop distributed system"}
+{"text": "Experience working on Windows, Linux, and UNIXOperating systems"}
+{"text": "Strong development experience on IDE\u2019s like Eclipse, NetBeans"}
+{"text": "Good experience in Object Oriented Architecture(OOA), Object Oriented Design(OOD) and Object oriented Programming(OOP)"}
+{"text": "Good knowledge on python"}
+{"text": "Experience using GIT, Clear Case, CVS, and SVN for source control and Release Management"}
+{"text": "Strong interpersonal and communicational skills, ready to grasp new technologies, hard worker and an excellent team player"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "BMO HARRIS BANK, CHICAGO, ILDURATION: APR 2016- PRESENT"}
+{"text": "ROLE: FULL STACK JAVA DEVELOPER"}
+{"text": ""}
+{"text": "Description: A global application providing STP and exception based processing for all of Markets Asset Servicing Operations covering the full event life cycle for both Corporate Action and Income Events. A corporate action is an event in the life of a security which effects a position in that security. Incoming events are a type of benefit distribution in which a cash benefit is distributed (e.g Cash Dividend or Interest (coupon event)."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Responsible for gathering and understanding the requirements and interacting with clients"}
+{"text": "Implemented various J2EE patterns like Singleton Pattern, Factory Pattern, Abstract Factory pattern, Data Access Objects, Adaptor(Wrapper) Pattern"}
+{"text": "Designed user-friendly web application using Angular 2, HTML5, CSS3, Bootstrap, ReactJS, Spring, and MongoDB"}
+{"text": "Involved in writing POJO classes and hbm mapping files to map database tables with Java objects"}
+{"text": "Involved in writing XML configuration file for Hibernate-Database connectivity. Implemented persistence layer using Hibernate to interact with Oracle database"}
+{"text": "Used SQL and PL/SQL queries for storing complex database objects for Customer Interfaces, Payment Interfaces and Broker Commissions like stored procedures, Triggers, Functions, and Packages. Used Oracle 11g as database. "}
+{"text": "Used Backbone.js and ReactJs to create controllers to handle events triggered by clients and send request to server"}
+{"text": "Worked with HQL(Hibernate Query Language) to write static queries while communicating JSF with Oracle database"}
+{"text": "Used a Micro Service architecture with Spring Boot, Spring Cloud, Spring Config Server, interacting through a combination of REST and Apache Kafka message brokers"}
+{"text": "Experience in installing and configuring Jboss application server which is done using TCP. Deployed web applications on Jboss application server in a secure channel environment"}
+{"text": "Designed and developed an environment, where two Microservices of TCP/IP Networking stacks had to co-exist together making applications transparent of existence of two stacks"}
+{"text": "Worked on application layer protocols like FTP, DNS, HTTP to handle requests on EC2 instance"}
+{"text": "Involved in development of lambda functions"}
+{"text": "Used JSF and Struts validation framework for application components validation"}
+{"text": "Worked with core layer of framework to implement View Controller in MVC Architecture and worked with spring MVC calls"}
+{"text": "Developed several helper classes following core Java multi-threading and Collection classes"}
+{"text": "Worked on WSO2 for monitoring API usage. Used Spring data for data updating and retrieval"}
+{"text": "Extracted reusable modules from a monolithic application into libraries for use in new microservices"}
+{"text": "Using Microservices in SOA architecture style where in Spring Boot services are provided to the other components by application components, through a communication protocol over a network"}
+{"text": "Integrated Struts framework and Hibernate and used Spring Framework for Dependency injection"}
+{"text": "Used RESTful Web services using Spring 4 REST API and Apache CXF"}
+{"text": "Involved in working with WebLogic server for building and deploying enterprise Java "}
+{"text": "Involved in writing XML configuration file for Hibernate-Database connectivity"}
+{"text": "Used AWS to deploy the project on EC2 instance"}
+{"text": "Experience with Circle CI, GitHub, and Productive Auto Scaling(PAS) in AWS"}
+{"text": "Used Maven as the build tool and involved in Continuous Integration and Deployment using Jenkins"}
+{"text": "Troubleshoot, analyze, and check production issues in the existing EMS application and fixed bug in given timeframe "}
+{"text": ""}
+{"text": "Environment: Java 1.7, Core Java, Eclipse, Tomcat, WebLogic, JSP, Servlets, Spring, Hibernate, RESTful Web services, XML, WSDL, JSF, MySQL, Maven,SOA, Angular 2, HTML5, CSS3, JavaScript, JSON, EJB, RDBMS, JQuery, Cassandra, Micro Services, MongoDB, Oracle 11g, Spring Boot, PL/SQL, AWS, JAXB, OOP, GIT, Maven, JIRA, Jenkins, Junit, Log4J, Agile, Scrum, Windows, GitHub"}
+{"text": ""}
+{"text": "UNITED HEALTH GROUP, IRVING, TXDURATION: MAR\u20192015- APR\u20192016"}
+{"text": "ROLE: FULL STACK JAVA DEVELOPER"}
+{"text": ""}
+{"text": "Description: This internal application enables the provider to enter/view patient\u2019s data eg: their demographic records, medical reports, attaching lab reports with their name, printing any paper forms for procedures, view reports"}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Requirement analysis and finding gap with the existing functionalities"}
+{"text": "Developed and designed User Interface Screens using JSP, ReactJs, JavaScript, HTML and Groovy"}
+{"text": "Involved in development of a well responsive single page application using React.js framework in conjunction with HTML5, CSS3 standards"}
+{"text": "Used ReactJS to create views to hook up models to DOM"}
+{"text": "Experience in designing and developing responsive UI components using RxJava"}
+{"text": "Developed JSPs for service management and user management modules"}
+{"text": "Worked extensively on Spring boot for building web services. Responsible for creating and maintaining Restful API using Spring Boot"}
+{"text": "Worked with Spring framework, JSF, web flow framework and Struts"}
+{"text": "Implemented generics and auto boxing features of Java"}
+{"text": "Designed and developed Struts Action Classes and Views using JSP, Struts tag libraries and JSTL"}
+{"text": "Involved in writing tables in Universal Database and integrated with database developers for using stores procedures in this application"}
+{"text": "Expertise in developing business applications using EJB implementing session beans for business logic, Entity bean for persistence logic and Message driven beans for asynchronous messaging communication. Implemented spring data for business logic"}
+{"text": "Used and developed PL/SQL triggers and master tables for automatic creating of primary keys"}
+{"text": "Mapped hibernate hbm and implemented spring configuration setup."}
+{"text": "Worked with API Management product of Apigee edge in consuming the APIs for implementing customer use cases"}
+{"text": "Involved in using Multi-Threading for errors in transactions "}
+{"text": "Managed and maintained Oracle and NoSQL databases in production domain"}
+{"text": "Evaluated system performance and validated NoSQL solutions"}
+{"text": "Managed multiple MongoDB(NoSQL) database clusters. Spring data for data updation"}
+{"text": "Used NoSQL (MongoDB) to capture and store event data."}
+{"text": "Exposed APIs as REST via Apigee Platform"}
+{"text": "Used SOAP Web Services using WSDL to connect with remote data and external clients"}
+{"text": "Implemented the application in MVC Architecture"}
+{"text": "Involved in preparing ETL standards, naming conventions and wrote ETL flow documentation for Stage, ODS and Mart"}
+{"text": "Wrote shell scripts to automate the sequential working of Autosys jobs"}
+{"text": "Responsible for creating appropriate Indexes, and creating incidents with Teradata"}
+{"text": "Involved in migrating data from data warehouses on Oracle/DB2 to Teradata"}
+{"text": "Build and deployed enterprise Java EE applications using WebLogic server"}
+{"text": "Involved in dealing with production bugs and interacted and updated the status to the business owner"}
+{"text": "Involved in writing test scripts using java and executed it through selenium cucumber"}
+{"text": "Environment: Java 1.5, JSP, Struts, Servlets, WebLogic, Spring, Hibernate, JavaScript, Autosys, ETL, HTML,SOA SOAP Web Services, Log4J, JMS, XSLT, SQL, ReactJS, DB2, JDBC, DAO, Agile, Jira, Jenkins, cucumber, GIT, Unix"}
+{"text": ""}
+{"text": "Texas Comptroller of public Accounts, Austin, TX                                             Feb\u20192014-Feb\u20192015 "}
+{"text": "Role: Full Stack Java Developer"}
+{"text": ""}
+{"text": "Description: The Texas Comptroller\u2019s office is the state\u2019s chief tax collector, accountant, revenue estimator and treasurer. Project work involves participation in development of business requirements and performs application analysis, design, and programming. Prepares and develops application processing documentation for current and proposed applications. Conducts research on application"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered business and functional requirements that has to be incorporated as a part of the application "}
+{"text": "Developed following Agile methodology(Stand up meetings, Sprint development, retrospective meetings)"}
+{"text": "Created different bean configuration XML files and implemented Dependency injection for different bean classes"}
+{"text": "Modularized front end CSS and JS code with SASS "}
+{"text": "Experience working with XML schema, tasks on XML registry, XSLT/XQuery and transformation capabilities"}
+{"text": "Responsible for content management system of several customer websites using XSLT coding"}
+{"text": "Involved in using build tools like grunt, gulp, and browserify"}
+{"text": "Used J2EE SOA based JAX-WS web services to develop reusable web service components"}
+{"text": "Extensive usage of DOM and SAX parsers for parsing XML data and XSLT for XML transformations"}
+{"text": "Developed Web Service to act like an interface to transfer and receive the data from various other modules"}
+{"text": "Replaced the existing logging framework with regular Log4J framework to simplify the logging process"}
+{"text": "Used multiple threads for parallel processing to improve the performance of web services"}
+{"text": "Involved in Test Driven Development using SOAP UI and used Junit for writing several test cases and extensively worked in testing the entire application in different environments"}
+{"text": "Used karma-test-runner and Jasmine for JavaScript Unit testing"}
+{"text": "Implemented Spring 4 MVC and JDBC for the CARE application for customer support representatives"}
+{"text": "Documented all phases of the project and implemented system changes in accordance with the objectives and requirements and developed user documentation"}
+{"text": "JIRA is used for task management and SVN for version control"}
+{"text": "Designed and developed new batch jobs that would be scheduled to run daily/weekly"}
+{"text": ""}
+{"text": "Environment: Java, J2EE, SOAP, JAX-WS, XML, XSD, JAX-RPC, Spring 3.x, Spring MVC, JDBC, memcache, JUNIT, Maven 2.x, JBoss 5.0, Log4J, Eclipse, XML, SVN, SCRUM/Agile, Windows, GROOVY, Grails"}
+{"text": ""}
+{"text": ""}
+{"text": "LL Bean International, Freeport, MEDuration: Nov\u20192012-Dec\u20192013"}
+{"text": "Role: Java/ J2EE Developer"}
+{"text": ""}
+{"text": "Description: The High performance pricing project streamlines the process of setting up and maintain grates through a web based user interface which integrates with Mainframe system and provides efficient rules processing."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered and analyzed the functional requirements "}
+{"text": "Developed web screens In HTML, and JSP"}
+{"text": "Assisted in prototyping product design and developed screen flows and new window layouts using Java Swing"}
+{"text": "Developed several client side validations using JavaScript and Java Swing framework for several modules"}
+{"text": "Involved in developing transaction-oriented logic in Data Access layer"}
+{"text": "Used Hibernate 3 for data connectivity"}
+{"text": "Designed Class, Use-case, and sequence diagrams for FTP functionality"}
+{"text": "Used WebSphere Server 5 for configuring and deploying the existing J2EE application"}
+{"text": "Used Struts Framework for the DAO"}
+{"text": "Reduced manual entry and process steps for data change operations by automating them using Perl and MySQL"}
+{"text": "Developed web-based components using Apache Struts\u2019"}
+{"text": "Used Log4J for log errors, info, and to check debug messages"}
+{"text": "Involved in testing the application screen by screen "}
+{"text": ""}
+{"text": "Environment: Java 1.4, Core Java, JSP, J2EE, HSQL, RAD 6.0, CVS, Log4J, UML, Visio, Hibernate 3, Agile, Struts, DB2, Windows"}
+{"text": ""}
+{"text": ""}
+{"text": "VISTEX SOFTWARE , HYDERABAD, INDIA                    DURATION: JUL\u201909-NOV\u201912\t"}
+{"text": "ROLE: JAVA/UI DEVELOPER"}
+{"text": ""}
+{"text": "Description: Provided ideas, Designed, and Implemented java based application "}
+{"text": "Responsibilities:"}
+{"text": "Analyzed business requirements, participated in technical design, development of various modules assigned"}
+{"text": "Extensively worked with J2EE using Servlets and JSP in Eclipse IDE"}
+{"text": "Used JavaScript to update a portion of a web page thus reducing bandwidth usage and load time in web pages to get user input and request"}
+{"text": "Coded JavaScript for page functionality and Pop up Screens and used HTML to make dropdown menus on web pages and display part of web page upon user request"}
+{"text": "Involved in writing and optimizing SQL Queries, and Stored Procedures"}
+{"text": "Prepared the documentation for the entire process for future reference"}
+{"text": "Maintained documents and source code in CVS"}
+{"text": ""}
+{"text": "Environment: JavaScript, CVS, J2EE, Servlets, JSP, HTML, SQL, Java, JQuery, JAX-RS"}
+{"text": ""}
+{"text": ""}
+{"text": "EDUCATION:"}
+{"text": ""}
+{"text": "Bachelors in Computer Science, India"}
+{"text": ""}
+{"text": ""}
+{"text": ""}

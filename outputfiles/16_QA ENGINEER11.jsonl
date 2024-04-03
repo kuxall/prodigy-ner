@@ -1,0 +1,94 @@
+{"text": "Name: elsie elsie"}
+{"text": "E-Mail: elsie.elsie@gmail.com"}
+{"text": "Address: Bangkok, Thailand"}
+{"text": "Github: https://github.com/elsie"}
+{"text": "LinkedIn: https://linkedin.com/elsie"}
+{"text": "Phone No. 662636751678"}
+{"text": "EXPERTISE"}
+{"text": "6+ years of experience as QA Analyst/Tester with industry wide experience in Banking, Healthcare and IT domain with focus Quality Assurance, Data and Business Analysis.  "}
+{"text": "Extensive experience with automation tools: Quality Center, QTP (Quick Test Pro)/QTP Framework, Load Runner "}
+{"text": "Extensive experience in Manual Testing, Automated testing and quality assurance of Client/Server and Web applications using both Black Box and White-Box testing techniques."}
+{"text": "Experienced in ETL/BI testing and written complex SQL queries to validate the data against different "}
+{"text": "Extensive experience with IBM Mainframe for analyzing the data in designing the ETL Process."}
+{"text": "Excellent Knowledge of Business Intelligence (BI) tools like MicroStrategy, Cognos and Crystal Reports."}
+{"text": "Proficient in Performance, Unit, scalability testing Reliability, Stress, Load and Volume Testing"}
+{"text": "Experience in designing, creation and execution of Test Plans, Test Cases based on defined testing standards."}
+{"text": "Experience in tracking defects with bug tracking tools like Quality center, Bugzilla, Clear Quest."}
+{"text": "Expertise in using testing tools such as QTP, Quality Center and WinRunner for web services and client server applications"}
+{"text": "Monitored version control and defect tracking activities using Rational Clear Case and Rational Clear Quest."}
+{"text": "Built report interfaces and data feeds."}
+{"text": "Co-ordinate in creation and execution of QA and testing processes, test strategies and plans, bug documentation and bug tracking and used Requirement management and bug tracking testing tools like Quality Center and Clear Quest. "}
+{"text": "Strong Expertise in SDLC, Project Management and Testing Lifecycle Methodologies like Rational Unified Process (RUP), Waterfall, Spiral and Agile models. "}
+{"text": "Implemented Testing Methodology process improvements for manual and automated test efforts."}
+{"text": "Proficient in analyzing the SRS (Software Requirement Specifications), Functional Design Documents and AUC (Application Use Cases) to formulate Test Plans, Test Strategies and Test Cases for Manual as well as Automated Testing for various applications to ensure proper business compliance. "}
+{"text": "Possess extensive knowledge of software Quality Assurance Techniques and excellent Analytical skills coupled with Good Communication and Interpersonal skills. "}
+{"text": "Involved extensively in Black Box Testing, System, GUI, Integration, Functional, User Acceptance, Database Testing and Regression Testing. "}
+{"text": "Prepare defect reports & test metrics for walkthrough sessions to help promote the application."}
+{"text": "Able to work collaboratively with testers, developers and business in testing complex and large projects and maintain detail QA documentation. "}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": "Programming and Scripting\t\t: C, JAVA, SQL, Visual Basic, JavaScript\t"}
+{"text": "Databases\t\t\t\t: Oracle, MS SQL Server, MySQL, Teradata"}
+{"text": "Requirement Management Tool\t: Rational Requisite Pro, Quality center, Test Director."}
+{"text": "Project Management\t\t\t: Microsoft Project, Microsoft Office"}
+{"text": "Business Intelligence\t  : Business Objects, Cognos, Crystal  Report"}
+{"text": "Testing tools\t\t\t\t: QTP, Win Runner "}
+{"text": "Bug ManagementTools\t\t\t: Quality Center, Bugzilla,ClearQuest"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": "EAST WESTBANK, PASADENA, CA\t\t\t\tJAN 2014 - PRESENT "}
+{"text": "AUTOMATION QA ANALYST"}
+{"text": "Responsibilities:"}
+{"text": "Involved in the development of Test plan, Scenarios and Test scripts for manual, automation and functional testing of the CRM related Salesforce application"}
+{"text": "Analysis of functional specifications and designing Test Plans, Test cases for Functional Testing"}
+{"text": "Wrote and executed automated test cases using Selenium WebDriver to automate manual testing solutions."}
+{"text": "Used Firebug to identify Elements\u2019 by ID, Name, CSS, XPath, and Links on Web Pages. "}
+{"text": "Performed Data driven testing using Selenium WebDriver, Junit functions and JDBC Connections which reads data from scripts using property and XML files. "}
+{"text": "On daily basis used build tools like Maven and Jenkins to build and regress automated tests into the CI process and for VCS used GIT; documented and tracked defects and produced detailed reports using Jira"}
+{"text": "Created Maven projects and followed Page Object Model Framework "}
+{"text": "Involved with Daily Stand-up meetings with PM and Lead, and Dev team. "}
+{"text": "Participating in Code-review tasks once in a week with Manager, and Team Lead"}
+{"text": "Log the Defects/Bugs using defect tracking tool with Jira and Zephyr cloud for Test Management tool"}
+{"text": "Tested Salesforce applications in different types of browsers and versions, such as Internet Explorer, Firefox, Google Chrome to simulate production environment"}
+{"text": "Performed Web Services testing and Validated XML request/response data using SOAPUI with Groovy scripting and Restful Web Services. Tested SOAP-based Web Services for enrolling customers, getting insurance information, creating claims"}
+{"text": "Creating automation test scripts using Java with Selenium WebDriver for Salesforce Website"}
+{"text": "Environment: Quality Center, ALM, Selenium, SQL, Oracle SQL Developer, Agile SCRUM, Share Point"}
+{"text": ""}
+{"text": "EXPEDIA, CHANDLER, AZ                                                                                                                JUNE 2011 \u2013 DEC 2013"}
+{"text": "QA ENGINEER"}
+{"text": "Responsibilities:"}
+{"text": "Involved in testing of various modules."}
+{"text": "Tested web application using TestNG and Selenium Framework and managed database on Oracle."}
+{"text": "Involved in preparation of Data Driven Automation Framework for Selenium WebDriver."}
+{"text": "Involved in manual testing of Mobile web applications and native App for Android Devices."}
+{"text": "Used Selenium GRID to execute test cases parallel on different target machines"}
+{"text": "Experience in setting up the server and test infrastructure to allow for Selenium tests to be run in a distributed manner."}
+{"text": "Performed Data-Driven testing by developing Java based library to read test data from Excel & Properties files."}
+{"text": "Develop a Test Framework in Selenium &TestNG for Regression testing."}
+{"text": "Used JUnit as underlying API to run tests from Eclipse using assertions to validate test cases."}
+{"text": "Created UI mapping and Appium using properties files to separate code from locators. "}
+{"text": "Used SOAPUI for automating web services testing. "}
+{"text": "Created CA-LISA-Service Virtualization test automation framework."}
+{"text": "Worked on setting project for REST and SOAP based Web services in SOAPUI."}
+{"text": "Wrote integration tests using SOA, SOAPUI and Groovy scripts to call Web services and check the database for expected changes."}
+{"text": "Used Firebug to select CSS selectors and XPath to identify UI elements."}
+{"text": "Worked to break the software, captured logs from android devices through DDMS or remotely, filed bugs, triaged severity/priority edge case to blocker and followed up with SDE for fix"}
+{"text": "Used SOA&SOAPUI to perform the testing of Restful web services for applications."}
+{"text": "Environment: SQL Server, LoadRunner, Oracle, Selenium. Rational Test Manager, Rational Clear Case, Test Director, RUP"}
+{"text": ""}
+{"text": "HEALTH NET INC., WOODLAND HILLS, CA\t\t\tJUNE 2009 - MAY 2011"}
+{"text": "AUTOMATION QA ENGINEER"}
+{"text": "Responsibilities:\u00a0"}
+{"text": "Developed test cases. Involved in design and implementation of Selenium WebDriver automation framework for integrations and regression test suites (TestNG and Maven)."}
+{"text": "Configured Selenium WebDriver, TestNG, Maven tool and created selenium automation scripts in java using TestNG prior to agile release.  "}
+{"text": "Worked on distributed test automation execution on different environment as part of Continuous Integration (CI) Process using Selenium Grid and Jenkins."}
+{"text": "Developed automated tests for continuous regression testing using Selenium, TestNG and Maven."}
+{"text": "Implemented Automated execution of tests (nightly and need based) using Maven and JENKINS."}
+{"text": "Tested applications in different types of browsers and versions, such as Internet Explorer, Firefox, Google Chrome to simulate production environment"}
+{"text": "Designed, maintained and executed Automated Integration framework of API/Web Services across multiple test and production environments using SOA test."}
+{"text": "Created custom JSON/XML Assertors, for validation of SOAP (WSDL), and REST API calls, and Data Banks for storing and analyzing data input/output and error codes."}
+{"text": "Extensively used XPATH, Regular expression and classes to perform UI actions. Exported output/reports for all automated testing results."}
+{"text": "Done SOA testing for Payments API's using SOAP UI and Java framework for web services testing."}
+{"text": "Used SQL Queries in performing data validation to ensure data accuracy and data integrity by testing back-end components of new data warehouse products. "}
+{"text": "Environment: Agile, QTP, Windows, Oracle, Java, JavaScript, SQL, Apache webserver, Selenium, JIRA, Bugzilla, ClearQuest\t"}

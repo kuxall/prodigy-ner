@@ -1,0 +1,279 @@
+{"text": "Name: dorothy dorothy"}
+{"text": "E-Mail: dorothy.dorothy@gmail.com"}
+{"text": "Address: Shanghai, China"}
+{"text": "Github: https://github.com/dorothy"}
+{"text": "LinkedIn: https://linkedin.com/dorothy"}
+{"text": "Phone No. 343700682498"}
+{"text": "Professional Summary:"}
+{"text": "Windows/Wintel & VMware Administrator with 7 plus years of experience with Windows Systems Administration and VMware virtualization technologies and Technical Support, Build, Troubleshooting and patching. "}
+{"text": "Experience in Windows server 2003, 2008, 2012, 2016 Microsoft Active Directory, Microsoft Group Policy deployment to ensure standard computer settings, software distribution and security policy enforcement. "}
+{"text": "Strong experience with System Administration, Experience in vCLI, SSH, PowerCLI, PowerShell."}
+{"text": "Experience using an Information Technology Service Management (ITSM) System, Monitoring ITIL environments such as change/ incident Management. "}
+{"text": "Support VMware networking implementation including creation of vSwitches, port groups, connection types, network traffic and, security policy setting, NIC Teaming, load balancing. "}
+{"text": "Experience with Active Directory Domain Services (ADDS), Domain Name System (DNS), Windows Internet Naming Service (WINS), and Microsoft Exchange/Office 365."}
+{"text": "Responsible production support of Active Directory (AD), Group Policy (GPO), GPP, Domain users, Users and groups and gave appropriate permissions, shares and privileges to access LAN and Domain environments"}
+{"text": "Responsible for administrating, creating and modifying DNS records, DHCP scopes and reservations, DFS links, Web servers including record/scope creation, troubleshooting and WINS and DNS and managing user and group accounts Administration"}
+{"text": "Experience with\u00a0VMware\u00a0vSphere, creating VM Sessions for installing multiple OS and applications."}
+{"text": "Implementation and after configuration maintenance of HA, DRS, FT and Resource pool."}
+{"text": "Installation, Configuration and Administration of Virtual Infrastructure using ESX/ESXi, VMWare V sphere 4.x, Virtual center 4.x and 5.x, 6.x Servers."}
+{"text": "Involved in  Linux Administration activities like troubleshooting of regular issues, configuration issues, applying patches, package management and file system issues."}
+{"text": "P2V conversion of Windows server editions using enterprise\u00a0VMWare\u00a0converter and also installed the\u00a0VMWare\u00a0tools on the Virtual machines and V2V conversion."}
+{"text": "Build new servers daily in legacy\u00a0VMware\u00a0from 2003 to 2012, and Hyper-V for applications.\u00a0"}
+{"text": "Creating and Patching the Templates, also built templates from ISO image files"}
+{"text": "Deploy virtual machines from templates and allocate resources, Manage VM's using\u00a0VMware\u00a0virtual center and webaccess, Configurations of Virtual switched and network connections."}
+{"text": "Provide, build and maintain the VMware vSphere Infrastructure, involved in the VMware implementation and expansion work, Configuring and maintaining VMware infrastructure resources including VMware vSphere/ESXi 3.5, 4.0, 5.1 and 5.5, 6.0, 6.5; VMware vCenter Server."}
+{"text": "Managing multiple floating linked-clone VDI environments utilizing View Admin & vCenter."}
+{"text": "Strong experience with the VMware HA (High Availability), FT (Fault Tolerance), DRS (Distributed Resource Scheduler, Troubleshooting ESXi issues related to storage, network and performance issues."}
+{"text": "Good understanding of storage architecture in a virtualized environment and experience in iSCI, NFS and FC protocols, Extensive experience in working with the vMotion and Storage vMotion technology."}
+{"text": "Created VM images to be used for deployment through Microsoft's Automated Deployment Services for test network.\u00a0"}
+{"text": "Strong knowledge and hands on experience with Data Center Migration."}
+{"text": "Experienced in Administration of Production, Development and Test environments carrying Windows, Ubuntu, RedHat Linux, Centos and Solaris servers."}
+{"text": "Install new and rebuild existing ESX/ ESXi Hypervisor, Citrix Xen App and configure hardware, peripherals, services, settings, directories, storage, etc in accordance with standards and project/operational requirement."}
+{"text": "Deploy Virtual machines from templates and allocate resources, Manage VM's using VM ware Virtual center and web access, Configurations of Virtual switched and network connections."}
+{"text": "Installing & Upgrading of VCenter, Vsphere Client, ESX & ESXi Hypervisors, VMWare workstation."}
+{"text": "Expert level skills in migration of Virtual machines using VMotion and Storage VMotion. "}
+{"text": "Creating Templates, Taking Snapshots, Cloning, Cold Migrations and Hot Migrations."}
+{"text": "Implementing, configuring, Migrating and supporting Windows, Creating and managing User Accounts & Groups in Active Directory. "}
+{"text": "Technical knowledge of current network hardware, protocols, and Internet standards, including TCP/IP, and DNS, DHCP, IIS, FTP, Terminal Services/Remote Desktop."}
+{"text": "Hands-on experience with installation, configuration, patching and troubleshooting, Experience in updating vSphere hosts using update manager, troubleshooting Windows Installer (MSI) & Windows Installer "}
+{"text": "Physical-to-Virtual (P2V) and Virtual-to-Virtual (V2V) conversions of physical/virtual machines using VMware Converter, Performing Snapshots, Cloning, Storage vMotion. Experience in implementing end-to-end infrastructure Disaster Recovery, Disaster Recovery Manager using SRM and vSphere Replication, "}
+{"text": "Hands on experience in deploying VMware view, thin client computing, troubleshoot Complex issues."}
+{"text": "Physical-to-Virtual (P2V) and Virtual-to-Virtual (V2V) conversions using VMware Converter "}
+{"text": "Approving, testing, and deploying updates via SCCM and troubleshooting failed updates, deployments and SCCM health issues. "}
+{"text": "Capable of problem solving, time management and decision-making skills with the ability to set priorities and produce results."}
+{"text": "Education:"}
+{"text": "Bachelor\u2019s in IT, University of Louisiana, Lafayette, Louisiana 2013"}
+{"text": "VMware Certified."}
+{"text": "Microsoft MCSE Certified."}
+{"text": "Technical Background:"}
+{"text": "Windows Server 2003/2008/2008 R2/2012 R2/2016, DNS, DHCP, Windows Active Directory Services, Microsoft Office 2003/2007/2010, Outlook2003/2007/2010, FTP, DFS, SCCM, SCOM Double Take Replication, WSUS LDAP, Windows clustering 2003/2008, Windows clustering 2003/2008/2012,Wintel server, Microsoft Hyper-V, Exchange server2003,2007,2010 VMware workstation 5.0/6.0, "}
+{"text": "VSphere 3.x/4.x/5.x & 6.x (ESX/ESXi server 3.x/4.x/5.x &6.0,6.5 VCenter Server 3.x/4.x/5.x & 6.x), DRS, HA and FT, VMware update manager, P2V vConverter, VUM, ESXI Patch management, VCOPS, VRealize VMware, VMware View, DFS,DHCP & DNS servers. "}
+{"text": "HP C7000 Chassis, HP Proliant Rack Mount, Dell Power Edge Server, Cisco UCS Server, iSCSI SAN, FC SAN, NAS, EMC VMAX, VNX, EMC SAN storage, HP Proliant DL & BL Series. BMC Blade Logic, PowerShell, Installation of Hardware, Cable Management, VMware SRM, Oracle SQL, Commvault."}
+{"text": "Experiences:"}
+{"text": ""}
+{"text": "Installed Configured maintained and troubleshoot the Windows Server\u2019s 2008 and 2012 windows servers and Virtual Servers."}
+{"text": "Hardening the servers with the MacAfee Antivirus and making sure the affected servers are free from virus."}
+{"text": "Manage, Maintain and Support current Windows/VMware & Disaster Recovery related infrastructure.\u00a0"}
+{"text": "Worked with CommVault Backup &Netapp support backup system to recover and rebuilt the failover servers for business continuity.\u00a0"}
+{"text": "Assure that recovery procedures are effective for the restoration of critical resources and for the resumption of critical business processes, Restoration via Media and Bare Metal. "}
+{"text": "Configuring & Managing CommVault Media Agents and Re-naming the media agent as per the requirements. "}
+{"text": "Experienced in configuring the vCenters for Client Computers. "}
+{"text": "Experience in performing Restore Requests as per the Client Requirement. "}
+{"text": "Worked on HP C7000 & HP ProLiant DL380 G6/G7/G8/G9 servers. Accessed these servers through HP ILO to install new OS or restore from backups using 1-Touch recovery on CommVault."}
+{"text": "Installed and configured hardware agents on the ESX0 6.0 servers for hardware monitoring and alerts. Monitored Hardware console for any hardware issues"}
+{"text": "Created Root Cause Analysis (RCA) for any server outages and server problems."}
+{"text": " Perform systems monitoring activities with the goal of maintaining general health and uptime leveraging the below listed monitoring and reporting tools."}
+{"text": "Review and maintain existing monitoring processes and related interfaces.\u00a0"}
+{"text": "Address performance related issues of Workstation/ servers /Storage in Infrastructure and provide remediation steps to resolve them permanently.\u00a0"}
+{"text": "Support and implement Group security policies and external regulatory standards which apply to information technology.\u00a0"}
+{"text": "Installation, Configuration and Administration of VMware ESXi 5.5, Virtual Center 6.0 and 6.5 Servers and also patching, management and troubleshooting of Virtual machines and ESX Servers. "}
+{"text": "Deployed applications and host websites on AWS cloud involving blackboard."}
+{"text": "Migrated Virtual Machines and applications from on premises cloud to AWS."}
+{"text": "Perform backup and restore the virtual machines for any file or folder restoration from backup thru VEEAM or Backup Exec."}
+{"text": "Administration of an Enterprise vSphere ESXi VMWare environment, Creating and Deploying thru Templates, taking and managing Snapshots, vMotion and Storage vMotion, Cold Migrations."}
+{"text": "Experience in dealing with Windows Azure IaaS - Virtual Networks, Virtual Machines, Cloud Services, Resource Groups, Express Route, Traffic Manager, VPN, Load Balancing, Application Gateways, Auto-Scaling.\u00a0"}
+{"text": "Configure Azure cloud service for end point deployment and Enable Open ID and Windows Live authentication in Azure cloud apps."}
+{"text": "Worked on creating Azure Blob for storing unstructured data in the cloud as blobs.\u00a0"}
+{"text": "Created and managed policies in Symantec NetBackup related to Disk-to-Disk Primary Backup and Disk-to-Tape Secondary Backup."}
+{"text": "Installed and configured IIS on new build FTP Servers."}
+{"text": "Support of Citrix XenApp 6.0 /6.5 environments including Web Interface/NetScaler and its implementation.\u00a0"}
+{"text": "Upgraded Citrix XenApp 4.5 farm to XenApp 6.0 farm with the latest hotfix roll up packs.\u00a0"}
+{"text": "Worked on Windows Server Update Management - Shavlik, Windows Server Update Service (WSUS)."}
+{"text": "Install and troubleshoot patching of Windows server utilizing Shavlik."}
+{"text": "Experience in Implementing Configuration Management tools like Puppet, Chef and Ansible. And used for Application Deployments & Environment configuration.\u00a0"}
+{"text": "Implemented and managed multiple scalable VDI environments consisting of Xen Desktops, multiple XenApp Farms | Sites, and published applications.\u00a0"}
+{"text": "Implemented and managed VDI environments utilizing VMWare Horizon View.\u00a0"}
+{"text": "Utilized vRealize Automation, vRealize Orchestrator, and Chef for provisioning and configuration management."}
+{"text": "Managing day to day activity of the Azure cloud environment, supporting development teams with their requirements.\u00a0"}
+{"text": "Created Domain User Accounts, Distribution Groups with Active Directory/Exchange environment. "}
+{"text": "Experience with multiple versions of Exchange including Exchange 2010, Exchange 2013, Exchange 2016/Exchange Online and Office 365."}
+{"text": "Proficient in Office 365 and Exchange online and hybrid environments; Skype-for-Business/Lync 2013.\u00a0"}
+{"text": "Administered the Group Policy, a collection of permissions, security and rights which can be applied on sites domains and OU's."}
+{"text": "Implement Symantec Anti-Virus and Event Log management software."}
+{"text": "Administration and Troubleshooting of DNS, IIS, FTP, File/ Print Server and AD DFS"}
+{"text": "Good knowledge in Windows Clustering and troubleshooting skillset."}
+{"text": "Bug Checking (Dump Analysis), Registry Editor, Performance Monitor and Remote access tools."}
+{"text": "Involved in day-to-day support related to Data Center, documentation of run books, training, support, and coordination with offshore team for moving/relocating Windows/VMware/Applications/Backup Support to offshore team. "}
+{"text": "Implemented automation tools such as Puppet, Chef and DevOp\u00a0"}
+{"text": "Perform software upgrades, security patches, and planned maintenance and reporting, following established procedures.\u00a0"}
+{"text": "Prevent, diagnose, troubleshoot, and resolve hardware and software errors and perform break/fix maintenance in the Production environment.\u00a0"}
+{"text": "Created User Accounts, Domain Accounts, and Distribution Groups with Active Directory."}
+{"text": "Used Remedy Tool for Incident Reports/Tickets, Change Management, and Request Management in Remedy by meeting the SLA requirements."}
+{"text": "Participated in Installation and configuration of vCenter Server, and vSphere licensing."}
+{"text": "Administered user accounts, domain accounts, administrative rights, security, and distribution groups with Active Directory."}
+{"text": "Created PowerShell scripts to interact with HyperV, WSUS, Windows Update, AD and Registry.\u00a0"}
+{"text": "Installed OS, patches and security policies through SCCM 2012.\u00a0"}
+{"text": "Used SCCM 2012 for software updates and for every month patch updates.\u00a0"}
+{"text": "Used SCCM Client Actions Tool to perform most common day-to-day administrative tasks on SCCM 2012 client."}
+{"text": "Created Software Groups in SCCM 2012 for Specific Products, Classifications for Windows 7, 8, 10 and Scheduled deployments"}
+{"text": "Compiled PowerShell scripts for for a virtual migration/Upgrade and for daily and monthly tasks to remove dated VM's."}
+{"text": "Developed fully automated, industrial quality IaaS pipeline using VMware vSphere, vRealize Orchestrator and vRealize Automation incorporating standardized sub-workflow exception retry and repair logic to manage failures.\u00a0"}
+{"text": "Provided vRealize Operations Manager 6.0 product knowledge transfer including discussion of foundation use cases and review of configured environment."}
+{"text": "Used proactive measures utilizing vRealize Operations Manager 6.0."}
+{"text": "Experience in various VMware Suites of products involving Cloud products like vRops, vCOPs, VMware Horizon View and Automation tools including VMware vRealize Datacenter.\u00a0"}
+{"text": "Worked on patch management server (Shavlik Patch and Windows Server Update Services) and anti-malware servers (Shavlik Protect and Bitdefender Gravity Zone)."}
+{"text": "Hands on experience managing a virtual infrastructure for desktop environments running on Horizon View."}
+{"text": "Working experience deploying VMware vSphere,\u00a0Horizon\u00a0View, vCenter, vCorps, etc. in an enterprise environment."}
+{"text": "Configuring network devices (Firewalls, switches) and Horizon View on day to day basis. "}
+{"text": "Applying principles and elements of the software designed data center such as VSAN, distributed switching, DRS and vRealize operation manage"}
+{"text": "Extensively worked with Active Directory Services, IIS Servers, DNS, Amazon EC2 (virtual servers), Amazon Linux and DHCP. "}
+{"text": "Provides software support for enterprise applications and services including Office365, Microsoft SharePoint, Citrix, IIS, FTP applications"}
+{"text": "Involved in Installing, Clustering and Administration of SQL Server 2005 on Windows Cluster. "}
+{"text": "Detected and determined all old storage, prepared mapping sheets for migration processes. "}
+{"text": "Preformed cold and hot migration, advanced migration for VM\u2019s."}
+{"text": "Ran Grabs using EMC power path to gather standalone servers and EXS hosts information."}
+{"text": "Created Handles using EMC POWERPATH to perform physical servers\u2019 data migration."}
+{"text": "Use of Cisco UCS Manager 3.1(2b) and 3.1(1e) to manage Cisco UCS blade System."}
+{"text": "Working knowledge of Cisco UCS 5108 Chassis."}
+{"text": "Working Knowledge of Cisco UCS 6296UP & 6248UP Fabric Interconnect\u00a0"}
+{"text": "Installed and configured Hyper-V 2012 and System Center Virtual Machine Manager 2012 providing self-service to developers."}
+{"text": "Created Distributed Virtual switch, Configuring Virtual switch settings and policies."}
+{"text": "Performed POC on Docker, to create an environment in the AWS using Containers."}
+{"text": "Used terraform scripts to spin stacks on AWS servers using Jenkins as CI/CD tool\u00a0"}
+{"text": "Worked directly with the Azure Product team in tracking and resolving defects in the beta Azure IaaS offering.\u00a0"}
+{"text": "Configuration of File Server and clients for the same.Setup the backup solution through the FTP server in scheduled time periods."}
+{"text": "Proficient in implementing NetApp NAS technology, including configuring shares, CIFS and NFS administration.\u00a0And Configured CIFS in the filer.\u00a0"}
+{"text": "Troubleshooting of CIFS, NFS and SAN issues on NetApp filers."}
+{"text": "Configuration of LAN, WAN, Dialup connections at the remote locations.Setup of Wireless access points, Switches and routers."}
+{"text": "Provided all the required documents to internal and external Audit teams from the Wintel side. Ensured Wintel Servers for fault audit compliance"}
+{"text": "Administered Citrix XenApp Farms and published applications in Citrix server as requested. Provided access to user on application on Citrix application."}
+{"text": "Administered Windows Terminal Server, Group Policy management and Active Directory environments"}
+{"text": "Provide Root Cause Analysis of incidents and recommend steps to remediate them permanently.\u00a0"}
+{"text": "Work in co-ordination with the Netapp and CommVault backup engineers for restoring and new build from the backups."}
+{"text": "Perform Disaster Recovery\u00a0Test for different applications.\u00a0Troubleshoot the infected servers and identified the infected servers."}
+{"text": "Restore the servers with the backups available in the CommVault and Netapp Backup."}
+{"text": "Identifying and restoring the infected physical server\u2019s windows 2003, 2010 and 2012."}
+{"text": "Creating/Managing Virtual Machines, creating clones and templates/images for deploying VMs, audit them for perfection and manage utilities and applications installed on those VMs."}
+{"text": ""}
+{"text": ""}
+{"text": "Installed and administered Windows 2008 R2/ 2012, Active Directory, DNS, GPO, XenApp, XenServer, XenDesktop, EdgeSight, Citrix NetScaler. Managed Virtual Servers supporting severalapplications."}
+{"text": "Expertise in troubleshooting and resolving issues in enterprise Citrix environment, Including Web Interface, application enumeration and performance issues, Printing and provisioning issues for clients. "}
+{"text": "Resolved various issues such as Windows Policies, Application licensing, RDP and ICA."}
+{"text": "Monitored Citrix servers\u2019 health by using Citrix Edge Sight, performed scripting through VBS, CMD. Apply Citrix Hotfixes as recommended. "}
+{"text": "Managed and assisted all phases of project - scoping, design, deployment, testing, rollout, user support, and documentation. "}
+{"text": "Vendor and SLA management for datacenters."}
+{"text": "Interaction with (VMware, Citrix,Wintel, Active Directory,Backup, Database) support towers for streaming and optimizing resource utilization delivering high availability,secure, Fault Tolerant Datacenters operations across all continents. Plan and test H/W, S/W and Firmware upgrades during Global Service Break. Managed and troubleshot AD user\u2019s login problems."}
+{"text": "Exposed Virtual machines and cloud services in the VNets to the Internet using Azure External Load Balancer."}
+{"text": "Setup Azure Virtual Appliances (VMs) to meet security requirements as software-based appliance functions (firewall, WAN optimization and intrusion detections).\u00a0"}
+{"text": "Experienced in, implementation & deployment of VMware vRealize product covering products like vRealize Automation (vRA), v Realize Operations (vRO), vRealize Orchestrator, Nutanix, vRealize Log Insight, vSphere, and vCenter.\u00a0"}
+{"text": "Configured Domain Naming Server (DNS) and Dynamic Host Configuration Protocol (DHCP)"}
+{"text": "Implemented Disaster Recovery by Optimizing FSMO roles Placement"}
+{"text": "Created User Accounts, configured User Profiles, created local and global Groups and implemented Group Policies"}
+{"text": "Shared Folders, planning and assigning of NTFS Permissions and System Policies"}
+{"text": "Performed troubleshooting of DNS, DHCP, IIS and Active Directory."}
+{"text": "Executed on premise migration of Exchange 2010 to Exchange 2013 to include highly available client access/mailbox servers.\u00a0"}
+{"text": "Managing Exchange 2003 servers and troubleshooting issues related to mail delivery, configuring MX records to enable and disable domain. "}
+{"text": "Managed Domain Controllers and additional Domain Controllers."}
+{"text": "Deployment of Microsoft monthly security updates and third-party patches using SCCM and Shavlik Patch \u00a0"}
+{"text": "Deployed VMware App Volumes and User Environment Management for faster application delivery, unified applications and user management to Horizon View Virtual desktops.\u00a0"}
+{"text": "Supported the Infrastructure with 50+ ESXi Hosts in VDI Vcenter.\u00a0"}
+{"text": "Carried out VDI using VMware view 4.0 and ThinApp 4.5 deploying virtual desktops.\u00a0"}
+{"text": "Built VDI desktop pools with non-persistent VDIs and persistent VDI as per the requirement with users\u00a0"}
+{"text": "Configured Resource Pool, V Motion, Alerts, Alarms, HA, DRS and deployed virtual servers using template."}
+{"text": "Migrate Physical Servers to Virtual Serves using VMware Converters and migration of Virtual Machines using V-Motion."}
+{"text": "Migrated VM from one LUN to another LUN using Storage V-Motion."}
+{"text": "Created Templates from VM\u2019s, deploy VM\u2019s from templates and allocate resources"}
+{"text": "Setting up Users and Groups for access to the Virtual Center."}
+{"text": "Performance tuning of VMware servers, Virtual sessions and management of server\u2019s resources between Virtual Machines."}
+{"text": "Implemented disaster recovery utilizing VMware Disaster Recovery."}
+{"text": "Created V-Vols, CIFS Shares and NFS Exports.\u00a0"}
+{"text": "Created new volumes, and cifs shares on File Services SVMs in regional NetApp CDOT Filers throughout environment. "}
+{"text": "Utilized VMware Converter, PlateSpin,PowerConvert, and FastSCP to work on ESXi Environment for P2V conversions."}
+{"text": "Implemented Active Directory infrastructure and Network fundamentals, protocols such as TCP/IP, DHCP, and DNS, Group Policy and Profile Management"}
+{"text": "Expertise in remote control, patch   management, software distribution, operating system deployment, network   access protection, and hardware and software inventory using System Center Configuration Manager (SCCM)."}
+{"text": "Creation and deployment of blade servers, Cisco UCS B200 M3, M4 and Cisco UCS B420 through the use of UCS server profile template\u00a0"}
+{"text": "Utilized SCCM 2007to Distribute and Advertise the Windows Installer Packages and App-V application packages"}
+{"text": "Created Snapshots according to user's requests and requirements"}
+{"text": "Maintained Web Servers by installing IIS, FTP Sites and creating Virtual Directories in IIS "}
+{"text": "Implement automation by programming and/or scripting using VMware\u00a0API\u2019s"}
+{"text": "Create and maintain virtual machines in vCenter (templates) and vCloud Director (complex vApps"}
+{"text": "Implement efficiencies through automations (Able to leverage scripting through PowerShell, Power CLI, and batch to automate processes)"}
+{"text": "Installation and configuration of Virtual machines in physical ESX server"}
+{"text": "Creating and managing Resource Pools and adding the VM's into Resource pools, Installing VM Tools into VM's and allocating for end user and Setting up priorities on CPU, Memory (RAM) and other resources."}
+{"text": "Configuring dedicated vmkernel& multiple service Console for better performance."}
+{"text": "Migrate and manage Virtual machines and ensure high availability of applications."}
+{"text": "Deploy Virtual machines from templates and allocate resources, Manage VM's using VM ware Virtual center and web access, Configurations of Virtual switched and network connections.Controlling ESX Server's in Virtual Center Configuring HA & DRS for ESX Server."}
+{"text": "Configured Windows Server Update Service (WSUS) for the distribution of updates & hot fixes in the domain"}
+{"text": "FTP access list editing and installing on clients in Linux and Windows."}
+{"text": "IIS (Windows) and Apache (Linux) for hosting sites in organization."}
+{"text": "Administrating and Troubleshooting Domain controller. Monitoring and Maintaining Daily, Weekly Backups through Backup Tool."}
+{"text": "Inter and Intra forest Active Directory migration."}
+{"text": "Experience in SCCM, SCOM and SCVMM to provide Enterprise IT Infrastructure. "}
+{"text": "Deploying these tools for O/S Deployment, Configuration Management, S/W distribution, S/W Updates."}
+{"text": "MSI creation and modification for zero touch installation, transform and mst creation."}
+{"text": "Power Shell, Primal, VB Script, Auto programming."}
+{"text": "Collection creation and task sequencing complex software packages and OSD deployment. Advertisement management for S/W distribution."}
+{"text": "Implementation of upgrade/install to Windows 7 from Vista and XP. "}
+{"text": "Extensive use of user state migration tool. Imaging and Virtualization using VM Ware. Virtualization of packages using Hyper-V, MED V."}
+{"text": ""}
+{"text": ""}
+{"text": "Experienced in VMotion, Datastore, HA, DRS, Cluster, Resource pool and Migration."}
+{"text": "Troubleshooting issues on VERITAS net backup and Avamar backup."}
+{"text": "Troubleshooting Disk space issues and Performance errors on windows servers."}
+{"text": "File and folder level share management.Created User Accounts and Groups in Active Directory (AD)."}
+{"text": "Administered a Microsoft Cluster Server with SQL server 2008/2005."}
+{"text": "Involved in troubleshooting the issues related to Servers, Local Services, Data Centers, and Server Configuration for Microsoft Windows Systems."}
+{"text": "Configured HA, DRS clusters and capacity planning for new clusters and configured FT for the important VM\u2019s and also Maintained FTP Sites, Web Servers and created Virtual Directories in IIS7."}
+{"text": "Incident and problem management using remedy."}
+{"text": "Support for VMware ESX, Virtual Center Server and VMware ESX cluster servers."}
+{"text": "Performance, capacity and technology refresh audit for VMware environment"}
+{"text": "Report generation (Performance / resource utilization) for VMware environment."}
+{"text": "Troubleshooting issues on host disconnection, data store disconnections, VM disconnection."}
+{"text": "Monitoring VMware Clusters, ESX servers and virtual servers using Virtual Center Console."}
+{"text": "Taking snapshots and deleting snapshots as per customer request."}
+{"text": "Understanding and working knowledge of Citrix infrastructure, XenApp/Xendesktop 6.5 and 7.x including Citrix Director, Citrix PVS & Citrix Storefront. "}
+{"text": "Manage single and/or multiple sites to carry out day-to-day maintenance and operations of Windows 2000/2003 Active directory, DNS, DHCP, WINS and MS Exchange 2003 with Outlook Web Access. Recommended and established operation requirements, policies and procedures. "}
+{"text": "Maintained and monitored all systems within environment to ensure optimal performance. "}
+{"text": "Provide high-level support for ESXi servers running on HP ProLiant servers and Linux/Windows virtual servers."}
+{"text": "Used VMware vSphere client (5.1 and 5.5) to monitor virtual machine resource usage"}
+{"text": "Configured and installed VMware tools on the custom built VM\u2019s"}
+{"text": "Involved in creating/managing Virtual Machines, creating clones and templates/images for deploying VMs."}
+{"text": "Installed vCenter Server instances to enable centralized management of multiple hosts, maintaining and troubleshooting VMware vCenter, and vCloud Director.Linked Different vCenter Servers using linked mode to have a single instance of vSphere Client to manage the whole Virtual environment."}
+{"text": "Involved in the configuration of VMware High Availability, Fault Tolerance, Distributed Resource Scheduler and Site Recovery Manager."}
+{"text": "Involved in physical to virtual migrations of Linux and Windows servers using VMware Converter."}
+{"text": "Involved in installation, configuration, and maintenance of Windows Active Directory server."}
+{"text": "Administered Windows server 2003/2008/2012 Active Directory, DNS, DHCP, WINS and building new windows physical/virtual servers as per the requirement of the project.Responsible for Windows installations updates."}
+{"text": "Involved in creation of various user profiles and environment variables to ensure security."}
+{"text": "Configured and Administered RAID Configuration.Experience in configuring services like DHCP, DNS, SFTP, and HTTP."}
+{"text": "Worked on the configuration of server monitoring tool."}
+{"text": "Administrating DNS, DHCP & IIS servers. Created and managed user and group accounts in User Manager and in MS Exchange Administration. "}
+{"text": "Experienced with x86 / x64 Intel, HP, IBM & Dell hardware like rack-mounted servers, tower servers, desktop, laptop and other peripherals. "}
+{"text": "Responsible for Active directory, GPO, LDAP, Domain users, Administrating users and groups and given appropriate permissions and privilege to access our LAN and Domain environment. Installed & configured Windows 2003 and 2008 R2 with Active Directory service. "}
+{"text": "Responsible for Desktop, Laptop, Network and Outlook support & troubleshooting client's issues. "}
+{"text": "Installed and implemented Manage Engine monitoring application and configured SNMP and WMI on Servers and other network devices. "}
+{"text": "Monitoring print queues regularly for smooth operations. Creating a backup job and also took backup of data center on daily, weekly and monthly basis."}
+{"text": ""}
+{"text": ""}
+{"text": "Creating VMware templates as per the design.VCenter server build and configuration."}
+{"text": "Implemented Migration by performing\u00a0P2V, V2V and V2P conversions using vConverter and PlateSpin."}
+{"text": "Created documentation for Server Builds, Application Installations, Mapping the drives and Issues which occur during software upgrades."}
+{"text": "Troubleshoot network issues between Distributed vSwitch, Layer 2 switches\u00a0and resolved slow performance between SAN network and VM networks."}
+{"text": "Monitoring and managing Virtual servers. Taking care of pre -equisites for servers before going for production"}
+{"text": "Updating service account passwords.Deploying HA & DRS Cluster, Managing resources. "}
+{"text": "Migrated Virtual Machine configuration files and virtual disks from one Data store to another Data store. "}
+{"text": "Involved in Customizing VM\u2019s (Memory, hard disk, NIC) and Analyzing log files, Resources utilizing monitoring."}
+{"text": "On-call support using the Remedy Ticket System for routine system administration issues. Install and configure manage VMware vSphere"}
+{"text": "Using VM converter converting Physical machines to virtual machines."}
+{"text": "Build OS according to design specification or Create work package for building OS as per the customer requirement."}
+{"text": "Installed and configured domain controllers, DNS, DHCP as per the design."}
+{"text": "Install and configure Failover clusters for SQL servers."}
+{"text": "Window 2003, 2008 R2 physical server builds as per the client request."}
+{"text": "Window 2003 virtual server build using VMware templates build."}
+{"text": "Updating/patching Linux, Windows Virtual Machine in VMware clusters"}
+{"text": "Creating VMware Lab setup as per Internal QA team\u2019s requirement using VMware ESXi servers.    "}
+{"text": "Tuning of the TCP/IP stack for troubleshooting application and OS issues."}
+{"text": "Used NetBackup for backing up & restoration of file systems."}
+{"text": "Built new servers using Custom jumpstart installation and Kickstart.Worked with Firewalls using IP Tables."}
+{"text": "Open SSH configuration, Sudo Configuration.Created Logical Volumes (LVM) for Linux operating system."}
+{"text": "Installed, configured and managing network file servers, print servers and maintaining various logs."}
+{"text": "Created Virtual machines using Hyper-V and deployed prepared pre-production environment."}
+{"text": "Maintaining Active Directory system data and file server volume backups. Monitoring Active Directory integrity and replication."}
+{"text": "Experienced in VMotion, Datastore, HA, DRS, Data Center, Cluster, Resource pool and Migration."}
+{"text": "Adding license for VMware ESX server and vCenter server."}
+{"text": "Attached new ESX Servers and LUN to VMware environment to maintain the resource availability."}
+{"text": "Blade server (HP and Cisco) remote console management for server build."}
+{"text": "Patch and Antivirus Management using PatchLink, WSUS for windows servers."}
+{"text": "Backup management for servers.Work on Change Management plan and highly escalated issue for route cause analysis."}
+{"text": "Window 2000, 2003 Server builds as per the client requirement. (RAID configuration, network routing, NIC Teaming and HP SIM agent configuration)."}
+{"text": "Configuration of HP SIM and version control agent.Configure ILO, install ILO license and update firmware"}
+{"text": ""}

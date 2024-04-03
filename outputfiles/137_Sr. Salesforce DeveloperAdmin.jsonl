@@ -1,0 +1,233 @@
+{"text": "Name: agnes agnes"}
+{"text": "E-Mail: agnes.agnes@gmail.com"}
+{"text": "Address: Fuzhou, China"}
+{"text": "Github: https://github.com/agnes"}
+{"text": "LinkedIn: https://linkedin.com/agnes"}
+{"text": "Phone No. 15094105259"}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": "Experience in all phases of Software Development Life Cycle (SDLC) which involves requirement gathering, requirement analysis, design, development, implementation & enhancement of projects in SalesForce.com."}
+{"text": "Experience in working across various SFDC implementations covering Sales Cloud, Service Cloud, Salesforce1 Mobile Administration."}
+{"text": "Extensively workedon SOAP and REST APIs Integration and design necessary data flow integration."}
+{"text": "Experience in Object Oriented Analysis / Design / Development / Testing and Implementation, Client/Server Architecture."}
+{"text": "Experience in\u00a0Salesforce\u00a0Lightning\u00a0components design & amp, designing compact layouts using Apex triggers, Page layouts, Visualforce pages, workflows for Mobile platform."}
+{"text": "Experience in Service cloud and Sales cloud administration."}
+{"text": "Knowledge on Marketing Cloud- Marketing Campaigns, Campaigns hierarchies, Lead Queries, Assignment Rules, Web-to-Lead and Auto Response Rules."}
+{"text": "Experienced in creating the\u00a0Lightning\u00a0components and\u00a0Lightning\u00a0Applications."}
+{"text": "Worked with Salesforce Marketing Cloud to gather customers from social media."}
+{"text": "Set up Marketing Campaigns, Campaign Hierarchies, and Lead Queries, Assignment rules, Web-to-Lead and Auto-Response rules."}
+{"text": "Developed Table View for related lists using Lightening Components, Controller, Helper class ."}
+{"text": "Extensive experience in developing APEX classes, Triggers, Visual force pages, Controllers, writing Workflows, Integration and Force.com API."}
+{"text": "\u00a0Experience in working for Financial domain based projects."}
+{"text": "Experience working across various SFDC full life cycle implementations covering Service Cloud, Sales Cloud, Custom Cloud, Marketing Cloud, Knowledge Management, Sales / Service Cloud Custom Application Development and configuring cloud applications."}
+{"text": "In-depth understanding of CRM business processes like Forecasting, Campaign management, Lead Management, Order Management, Account Management, Case Management and merging management."}
+{"text": "Experience working with Force.com IDE, data migration and updates through the tool App Exchange Data Loader in Salesforce.com."}
+{"text": "Good understanding of CPQ."}
+{"text": "Extensive work experience on designing of custom objects, custom fields, role based page layouts, custom Tabs, custom reports, report folders, report extractions to various formats, design of Visualforce Pages, Snapshots, Dashboards."}
+{"text": "Strong working experience with various salesforce.com standard objects like Accounts, Contacts, Opportunities, Products and Price books, Cases, Leads, Campaigns, Forecasting, Reports and Dashboards."}
+{"text": "Experience in installing Salesforce AppExchange Apps, configured and maintained user security permissions in compliance with organizational needs."}
+{"text": "Experience in creating many Work Flows, Validation rules, Approval Processes, Triggers, Sharing Rules and also the most complex Apex classes to meet the client\u2019s requirement and functionality."}
+{"text": "Proficient in Creating Custom Page layouts based on record types design and implementation."}
+{"text": "Experience in designing junction objects and implemented various advanced fields like Pick list, Custom Formula Fields, Field Dependencies, Validation Rules, Work Flows, and Approval Processes for automated alerts, field updates, and Email generation according to application requirements."}
+{"text": "Expertise in designing & developing dynamic web content using Ajax, JSF, JSP,HTML, XML, JavaScript & other web development tools/technologies."}
+{"text": "Expertise with Object Oriented Design (OOD), Analysis (OOA), based on Unified Modeling Language (UML) architecture."}
+{"text": "Hands on Experienced in database development using SQL/PL-SQL in MySQL, SQL Server 2005, Oracle."}
+{"text": "Good exposure to RDBMS, SQL and PL/SQL, writing SQL scripts for efficient report generation."}
+{"text": "Excellent communication and inter-personal skills, accustomed to working in both large and small team environments."}
+{"text": "Highly motivated self-starter with Excellent Communication, Presentation and Problem Solving Skills and committed to learning new technologies."}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": "SFDC Technology      :Apex classes, controllers and extensions, Apex, Triggers,"}
+{"text": "    Visual Force Page, SOQL, SOSL, Jquery."}
+{"text": "SFDC Tools                :Apex Data Loader, Informatica Cloud, Cadence, COGNOS"}
+{"text": "\t                        Force.com IDE (Eclipse)."}
+{"text": ""}
+{"text": ""}
+{"text": "Certifications:"}
+{"text": "Certified in ADM 201."}
+{"text": "Certified as a Platform Developer 1."}
+{"text": ""}
+{"text": ""}
+{"text": "OPTUM - UHG, Minneapolis MN\t\t\t\t Aug 16 \u2013 Present"}
+{"text": "Sr. SalesforceDeveloper"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Performed the role Salesforce Developer in the organization."}
+{"text": "Design and Develop Technical Document following best practices."}
+{"text": "Implemented Apex classes as per the needs of the application."}
+{"text": "Extensively worked on REST and SOAP Integrations."}
+{"text": "Worked on Service Cloud and Sales Cloud simultaneously. "}
+{"text": "Hands on experience in using the Aura framework and\u00a0Salesforce\u00a0lightning\u00a0Design System (SLDS)."}
+{"text": "Developed Process Flow for custom objects using Lightening Design System components which helped business units to have an overview of the record status."}
+{"text": "Setup LiveAgent as part of case management implementation inside service cloud."}
+{"text": "Extensively worked on End-to-End real-time web Service integration"}
+{"text": "Customized Service cloud with service console, Cases, Chatter Answers."}
+{"text": "Developed Triggers, Apex classes and visual force pages as per the needs of the application"}
+{"text": "Created mini page layouts, search layouts and page layouts to organize custom fields, custom links and other components on detail and edit pages of the record."}
+{"text": "Worked on standard objects like Accounts, Contacts, Leads, Campaigns, Reports, Cases (case management) and Opportunities."}
+{"text": "Experience on Data Loader."}
+{"text": "Worked on\u00a0Salesforce\u00a0Lightning\u00a0Design Systems (SLDS) components in the\u00a0Lightning Application."}
+{"text": "\u00a0Implemented the new country and state pick list."}
+{"text": "Created custom objects, custom fields, pick lists, field dependencies and validation rules."}
+{"text": "Created page layouts, search layouts, custom links, related lists, workflows and other components on a record detail and edit pages."}
+{"text": "Developed Process Flow for custom objects using Lightening Design System components which helped business units to have an overview of the record status."}
+{"text": "Maintained user security permissions as per the organizational needs."}
+{"text": "Created Custom Objects and defined lookup and master-detail relationships on the objects and created junction objects to establish many-to-many relationship among objects."}
+{"text": "Configured the business login hours, Profile based login IP address restrictions and Organization wide login IP address restrictions."}
+{"text": "Implemented the application requirements on Force.com IDE Plug-in using Eclipse."}
+{"text": "Migration of code to deployment after the successful testing on the sandbox Communicated regularly with the SFDC designated super users to support them in their role and provide information and training on new features and functionality."}
+{"text": "Worked on Custom Labels and Custom Settings. Setting up different languages."}
+{"text": "Implemented Salesforce.com web services client using Salesforce web services API, Java, XML and partner WSDL."}
+{"text": ""}
+{"text": "Environment:Salesforce.com, Visual force (Pages, Component, & Controllers), Lightning Component, Sales Cloud, Service Cloud Security Control."}
+{"text": ""}
+{"text": ""}
+{"text": "AT&T, Chicago, IL.\t\t\t\t\t Jan 15\u2013 Jul 16"}
+{"text": "Sr.SalesforceDeveloper/Admin"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Extensively worked on End-to-End real-time web Service integration"}
+{"text": "Performed the role Salesforce Developer and Admin in the organization."}
+{"text": "Implemented Apex classes & Triggers as per the needs of the application."}
+{"text": "Created Users, roles, profiles, public groups and implemented role hierarchies and sharing rules to provide shared access among different users."}
+{"text": "Experience on Data Loader."}
+{"text": "\u00a0Design and Develop Technical Document following best practices."}
+{"text": "Setup LiveAgent as part of case management implementation inside service cloud."}
+{"text": "Implemented the duplicate management rules on contact and Account."}
+{"text": "Implemented the new country and state pick list."}
+{"text": "Experience with Salesforce &Force.com Platforms in all aspects (customization, design and security, managing an App at AppExchange). Lightning, Process Builder, Dataloader."}
+{"text": "Customized Service cloud with service console, Cases, Chatter Answers."}
+{"text": "Worked on Service Cloud and Sales Cloud simultaneously. "}
+{"text": "Worked on standard objects like Accounts, Contacts, Leads, Campaigns, Reports, Cases (case management) and Opportunities."}
+{"text": "Set up Marketing Campaigns, Campaigns hierarchies, Lead Queries, Assignment Rules, Web-to-Lead and Auto Response Rules (Marketing Cloud)."}
+{"text": "Created custom objects, custom fields, pick lists, field dependencies and validation rules."}
+{"text": "Created page layouts, search layouts, custom links, related lists, workflows and other components on a record detail and edit pages."}
+{"text": "Worked on CPQ."}
+{"text": "Worked with Salesforce Marketing Cloud to gather customers from social media."}
+{"text": "SetupMarketingCampaigns, CampaignHierarchies, and LeadQueries, Assignmentrules, Web-to-Leadand Auto-Responserules."}
+{"text": "Maintained user security permissions as per the organizational needs."}
+{"text": "Developed Triggers, Apex classes and visual force pages as per the needs of the application"}
+{"text": "Creating custom objects, custom fields, tabs, Record types and list views."}
+{"text": " Created mini page layouts, search layouts and page layouts to organize custom fields, custom links and other components on detail and edit pages of the record."}
+{"text": "Created Custom Objects and defined lookup and master-detail relationships on the objects and created junction objects to establish many-to-many relationship among objects."}
+{"text": "Created the workflows for automated lead routing, lead escalation, alerts and custom coaching plans."}
+{"text": "Configured the business login hours, Profile based login IP address restrictions and Organization wide login IP address restrictions."}
+{"text": "Developed Apex classes, Lightning components, triggers and explored FSC functionalities customize as per the business needs."}
+{"text": "Implemented the application requirements on Force.com IDE Plug-in using Eclipse."}
+{"text": "Created test scenarios and packages in sandboxes and migrated them to the production."}
+{"text": "Migration of code to deployment after the successful testing on the sandbox Communicated regularly with the SFDC designated super users to support them in their role and provide information and training on new features and functionality."}
+{"text": "Worked on Custom Labels and Custom Settings. Setting up different languages."}
+{"text": "Worked on different types of email templates."}
+{"text": "Implemented Salesforce.com web services client using Sales force web services API, Java, XML and partner WSDL."}
+{"text": "Involved in authoring Business Requirement Documents (BRD) into System Requirement Specifications (SRS) and identifying interface and business process specifications."}
+{"text": ""}
+{"text": "Environment:Salesforce.com, Visual force (Pages, Component, & Controllers), Sales Cloud, Service Cloud Security Controls, Escalation rules, Marketing Cloud, Assignment rules, Record types, Custom objects and Fields, Time based triggers, Triggers, Workflow Rules, Data loader, SOQL, SOSL, Lightning Component, Apex Schema Builders, and Custom Tabs, Advanced use of Microsoft Excel."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Dell | Dell Financial Services, Austin TX.                    Sep 13 \u2013 Dec 14"}
+{"text": "Sr. Salesforce Developer/Admin"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Performed the roles of Salesforce.com Administrator in the organization."}
+{"text": "Interacted with various business user groups to gather the document requirements."}
+{"text": "Experience on Data Loader."}
+{"text": "Worked closely with sales team and business analysts to perform detailed analysis of business and technical requirements and designed the solution by customizing various standard objects of SalesForce.com (SFDC)."}
+{"text": "Created Web to Lead for partner on boarding and deal registration forms."}
+{"text": "Developed Queues for the specific leads based on the lead assignment rules."}
+{"text": "Created approval process for the partner and deal registration users."}
+{"text": "Set up Marketing Campaigns, Campaigns hierarchies, Lead Queries, Assignment Rules, Web-to-Lead and Auto Response Rules."}
+{"text": "Service Cloud enhancements - Portal entitlement wizard changes (discovery & design)."}
+{"text": "Implemented the logic to find the existing matches for the account, contact and opportunity."}
+{"text": "Wrote various queries in generating reports using combination of custom objects and standard objects."}
+{"text": "Designed and deployed Custom tabs, Custom Objects, Components, Visual Force Pages, Entity-Relationship data model, validation rules, Approval Processes and Auto-Response Rules for automating business logic."}
+{"text": "Used Force.com developer toolkit including Apex Classes, Apex Triggers and Visualforce pages to develop custom business logic."}
+{"text": "Performed administration tasks as needed, managing custom fields, integration and data cleanup."}
+{"text": "Involved in security levels and privileges by customizing Salesforce.com Profiles and Roles."}
+{"text": "Migrated Accounts, Leads, Contacts, Opportunities and sales data from external systems into Quest Salesforce.com instance."}
+{"text": "Worked with field & page layout customization for the standard objects like Account, contact, Leads."}
+{"text": "Involved in customizing custom objects, tabs, fields, page layout as per the business need. "}
+{"text": "Worked on moving data from external legacy system into Salesforce application using Informatica cloud, Apex Data loader& CSV files."}
+{"text": "Used the sandbox for testing and migrated the code to the deployment instance after testing."}
+{"text": "Worked on Unit testing, for the customizations and developments done during the project."}
+{"text": "Provided the training to the internal business users to use the application and develop their own custom reports."}
+{"text": "Prepared user manual and technical support manual."}
+{"text": ""}
+{"text": "Environment: Saleforce.com platform, Sales Cloud, Service Cloud, Apex Language, Visualforce Pages, Custom Component, Marketing Cloud, Custom Controllers, Workflow & Approvals, Custom Objects, Custom Tabs, Page Layouts, Data Loader."}
+{"text": ""}
+{"text": ""}
+{"text": "Northern Trust - Chicago, IL\t\t\t  Mar 12 \u2013 Aug 13"}
+{"text": "Sr. Salesforce Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in Salesforce.com Application Setup activities and customized the applications to match the functional needs of the organization."}
+{"text": "Performed the roles of Salesforce.com Administrator / Implementer in the organization."}
+{"text": "Interacted with various business team members to gather and documented the requirements. Implemented the requirements on Salesforce.com platform and Force.com IDE Plug-in using Eclipse."}
+{"text": "Experience in working across various SFDC implementations covering Sales Cloud, Service Cloud."}
+{"text": "Customized Service cloud with service console, Cases, Chatter Answers."}
+{"text": "Closely worked with SalesForce.com consultants while implementing the solutions for the requirements."}
+{"text": "Worked on various salesforce.com standard objects like Accounts, Contacts, Leads, Campaigns, Reports and Opportunities."}
+{"text": "Customized the Dashboards to track usage for productivity and performance of business centers and their sales teams. "}
+{"text": "Designed, Implemented and deployed the Custom objects, Page layouts, Custom tabs, Components and S-Control to suit to the needs of the application."}
+{"text": "Created Custom Objects and defined lookup and master-detail relationships on the objects and created junction objects to establish many-to-many relationship among objects. "}
+{"text": "Implemented Marketo in detail for setup for users in such a way that Campaigns help users to evaluate each marketing activity (Marketing Cloud)."}
+{"text": "Installed and configured Marketo AppExchange app to automate and measure demand generation campaigns that generate more high-quality leads (Marketing Cloud)."}
+{"text": "Created the workflows for automated lead routing, lead escalation, alerts and custom coaching plans. "}
+{"text": "Implemented escalation rules, automatic case generation and their escalation to call center representative, and generated email alerts for quick issue resolution."}
+{"text": "Performed the role of support engineer for the internal users and helped them in getting used to the application, generated reports and saved them for further access to the users."}
+{"text": "Used the sandbox for testing and migrated the code to the deployment instance after testing."}
+{"text": "Supported the data migration activities for migrating the data from various business centers and business center users with the support of Saleforce.com."}
+{"text": "Involved with Salesforce.com Premier Support and handled the support cases with the help of salesforce.com support."}
+{"text": ""}
+{"text": "Environment:Force.com, Marketing Cloud, Platform, Salesforce Enterprise Edition, S-Controls, Salesforce.com Custom/Standard Objects, Custom Tabs, Page Layouts, Sales cloud, Service Cloud, Force.com Web Services API, SOQL/SOSL Queries, Workflow & Approvals, Reports, Eclipse, Force.com Eclipse Plug-in, SalesForce.com Sandbox, Email Services, Security Controls, Marketo, HTML, Java Script, CSS,  WSDL, SOAP."}
+{"text": ""}
+{"text": ""}
+{"text": "Infor Global Solutions, India.                                                            Oct 10-Dec 11                                                        "}
+{"text": "Java Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Extensively involved in designing the system and documenting Use Cases, Class diagrams, Sequence diagrams using Visio."}
+{"text": "Created graphical user interfaces (GUIs) using the JSP components."}
+{"text": "Client-side validations are done using JavaScript."}
+{"text": "Involved in installing and configuring WebSphere Application Server for development and deployment."}
+{"text": "Deployed JSP\u2019s, Servlets and EJB\u2019s onto WebSphere application server."}
+{"text": "Extensively developed Java Beans Components."}
+{"text": "Used JUnit for unit testing and for regression tests."}
+{"text": "Used Ldap for user Authentication."}
+{"text": "Involved in configuring JDBC connection pooling to access the database server."}
+{"text": "Wrote SQL queries, stored procedures, modifications to existing database structure as required per addition of new features."}
+{"text": ""}
+{"text": "Environment:  Java 1.4, J2EE, JSP 2.0, Servlets 2.3, JDBC, EJB 2.1, XML, Struts 1.1, WebSphere Application Server 5.1, WSAD, Oracle 9i, Tomcat 5.0, CVS, HTML, Rational Rose, Junit, JavaScript, UNIX and Windows."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Intec Interface GM Pvt Ltd, India.\t\t\t\t    Mar 09 \u2013 Oct 10                                               "}
+{"text": "Java/J2EE Programmer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Developed the code using agile methodology with daily meetings to keep track of the progress and Issues pertaining to the project."}
+{"text": "Worked on implementation of GUI module with Struts Framework."}
+{"text": "Used Java Database Connectivity (JDBC) to connect from the Java application to the Database."}
+{"text": "Involved in the Database design like creating tables with constraints and writing SQL queries, Views and functions on Oracle database using TOAD."}
+{"text": "Designed and developed front end using HTML, CSS, JSP\u2019s, Struts (tiles and tag libraries) and user validations using Java Script, JQuery."}
+{"text": "Involved in fixing defects using testing tool known as Mercury Quality Center."}
+{"text": "Worked on My Eclipse and deployed the GTM application using WebLogic Application server."}
+{"text": "Used Log4j for logging."}
+{"text": "Used CVS for version control."}
+{"text": "Involved in testing using JUnit."}
+{"text": "Involved in designing sequence and class diagrams with UML and Data flow diagrams using eUML2."}
+{"text": ""}
+{"text": "Environment: Java, Servlets, JSP, Struts, JavaScript, JQuery, HTML, CSS, XML, JDBC, Oracle, TOAD, JUnit, Log4j, Ant, eUML2, Mercury Quality Center, CVS, WebLogic, MyEclipse."}
+{"text": ""}
+{"text": "Education: Bachelor\u2019s in computer science from India. "}
+{"text": ""}
+{"text": "References:  Will provide up on Request. "}
+{"text": ""}
+{"text": ""}
+{"text": ""}

@@ -1,0 +1,167 @@
+{"text": "Name: anna anna"}
+{"text": "E-Mail: anna.anna@gmail.com"}
+{"text": "Address: Taizhou, China"}
+{"text": "Github: https://github.com/anna"}
+{"text": "LinkedIn: https://linkedin.com/anna"}
+{"text": "Phone No. 6683391550"}
+{"text": "Profile:"}
+{"text": "Over 8 years of solid SAP Sales and Distribution functional consulting experience."}
+{"text": "Two Full Life Cycle implementation experience including ECC 6.0 version and ASAP methodology: project preparation, business blueprint, realization, final preparation and go live & support."}
+{"text": "Exposure to gathering requirements from business users and doing Gap analysis to convert As Is to To Be system."}
+{"text": "Configuration, customization, production support and coordination aspects of SD Master Data, customer & material master data. "}
+{"text": "Extensive expertise in the Order-to-Cash cycle of Sales and Distribution module."}
+{"text": "Configuration of sales documents (Quotation, Inquiry, Orders, Credit Memo Requests, Debit Memo Requests, Contracts), deliveries and billing document."}
+{"text": "Configured item categories, schedule lines and maintained copying controls. Worked with special sales orders, complaints and Internet scenarios."}
+{"text": "Expertise in Logistics Execution (LE) functionalities like outbound delivery processing, picking, packing, goods issue, transportation, and ware house management and also worked on material listing & exclusions, transfer of requirements, availability checking and route determination. "}
+{"text": "Strong knowledge of Billing Procedures- invoices, credit memo, debit memo, rebates, individual & collective billing, and invoice split."}
+{"text": "Customization of Pricing in sales and distribution by defining Pricing Procedures and conditions types using condition technique. Created price, freight, rebate, discount condition types as per business requirements. "}
+{"text": "Expertise in Variant Configuration (VC), Bills of Materials (BOMs). "}
+{"text": "Well versed with Text and output determination, account determination, partner determination, order management, Credit Management."}
+{"text": "Strong knowledge in MM/Purchasing, Material Master, Vendor Master, Goods Receipt and Purchase Order."}
+{"text": "Extensive knowledge on special sales scenarios: Third party sales, inter-company invoicing, intra-company stock transport order, inter-company stock transport order, subcontracting, Scheduling Agreements. "}
+{"text": "Hands on cross module experience of SAP SD integration with MM, FI."}
+{"text": "Strong knowledge in SAP ABAP, EDI/IDOC, ABAP Query, LSMW."}
+{"text": "Effective team player with excellent work/time management skills and cross-functional awareness. Excellent leadership, communication and interpersonal skills."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": "BJs Wholesale, MA\t\t\t\t\t\t\t\t\tApril 2018-till date"}
+{"text": "SAP SD Consultant\t\t\t\t\t\t\t\t           \tSAP ECC 6.0"}
+{"text": "BJ\u2019s Wholesale Club, Inc., is a leading operator of membership warehouse clubs in the Eastern United States. "}
+{"text": ""}
+{"text": "RESPONSIBILITIES:"}
+{"text": "Interacted with core team members to identify and understand business requirements, Process flow, and participated in development of business blueprinting for Sales and Distribution."}
+{"text": "Configuring Enterprise Structure, customer master data, article master data."}
+{"text": "Creating lead, prospect and account in SAP C4C and extracting those accounts as customer master in ECC. "}
+{"text": "Worked on inbound IDOC configuration for message type DEBMAS for importing customer master from SAP C4C to SAP ECC."}
+{"text": "Prepared functional specifications and monitoring batch jobs for sending article master data from ECC to BJs Order Management System and Warehouse Control System."}
+{"text": "Familiar and having knowledge on SAP Fiori for creating orders, delivery, invoice, following the OTC cycle for B2B sales in BJs."}
+{"text": "Worked on SAP Callidus Cloud for calculating commissions for BJs sales representatives by monitoring and importing their monthly sales data from SAP BW."}
+{"text": "Worked on SAP-CAR (Customer Activity Repository) for validating all the BJs Point of Sale transactions based upon different wholesale clubs."}
+{"text": "Configuring new order types such as Optical orders, B2B sales orders, and eComm orders. Item Categories, schedule line categories, delivery types, pricing and billing."}
+{"text": "Defined and assigned pricing procedure using condition types, condition records and condition tables. "}
+{"text": "Defined Output determination for delivery and shipping documents as well as for all Sales Orders and Billing Documents. "}
+{"text": "Prepared functional specifications and worked on various enhancements as per the business requirement and maintained Z \u2013 tables for enhancements."}
+{"text": "Worked on Standard EDI (850,855,856,816) functionality by writing Functional Specifications and worked closely with ABAP team."}
+{"text": "Worked on configuration of outbound interfaces from POSDW to other systems such as membership, enterprise data warehouse, etc."}
+{"text": "Worked on integrating applications using ALE Configuration and IDOC, including integrating with non-SAP applications such as Warehouse Management System."}
+{"text": "Configuring new order types such as Optical orders, B2B sales orders, eComm orders. Item Categories, schedule line categories, delivery types, pricing and billing."}
+{"text": "Created unit testing and integration testing scenarios for various sales and distribution business processes."}
+{"text": ""}
+{"text": "Edgewell Personal Care, MO                                                   \t\t\t\t(Aug 2017 \u2013 April 2018)"}
+{"text": "SAP SD consultant (Support)\t\t\t\t\t     \t\tSAP HANA release 2.0"}
+{"text": "Edgewell Personal Care is an American consumer product company which owns a number of brands like Schick, Wilkinson, Edge, etc."}
+{"text": ""}
+{"text": "RESPONSIBILITIES:"}
+{"text": "Working as SAP SD system analyst and experience in Design, configuration and End to End testing of Order to Cash cycle in SAP system in line with agreed timeframes, business requirements and global standards & providing production support. "}
+{"text": "Perform detailed requirements gathering/ documentation, conceptual design/prototyping, and functional testing in for new ABAP development tasks or modifying the existing one."}
+{"text": "Develop functional/technical design specifications to develop new or modify existing ABAP programs, reports, interfaces, enhancements & user exits."}
+{"text": "Worked on integrating applications using ALE Configuration and IDOC, including integrating with non-SAP applications, ALE / EDI interfaces, and extension of existing IDOC types. "}
+{"text": "Worked on configuration of ALE environment, developing outbound and inbound process, configuring partner profile with inbound process code."}
+{"text": "Modifications of current configuration in sap, addition of new configuration. "}
+{"text": "Configuring new order types such as sample orders, export orders, van sales orders, DSD orders. Item Categories, schedule line categories, delivery types, pricing and billing."}
+{"text": "Configuring new pricing procedures, Pricing Routines, and Pricing Formulas to meet the business requirements. Defining Transportation groups, Modes of Transportation, Shipping types and configured Route Determination."}
+{"text": "Worked on SD configuration like text determination, output determination, Availability Check, material determination and designing new functionalities as per business requirements."}
+{"text": "Working on SD business processes such as customer consignment, third party sales, stock transfer process, intercompany sales, foreign trade, & customer specific processes such as Logistic 940, EAC and C4C. "}
+{"text": "Supporting inbound & outbound interfaces such as Incoming sales orders by EDI/IDOC from customer, to EDI inbound (850,856) and outbound (850,855,810)."}
+{"text": "Create/change/support custom transaction for delivery creation, sending shipping notification IDOC to TPM system, Getting inbound IDOC from TPS system for shipment creation. Supporting outbound interface to warehouse system through shipment for delivery picking, packing using handling unit. Inbound interface from warehouse system for shipment start & PGI of deliveries."}
+{"text": "Creating background job of customer invoice creation. Working on existing reports modification or issues. Working on Tickets and Change requests received through Service Now tool."}
+{"text": ""}
+{"text": "Bridgestone, TN                                                                           \t\t\tFeb 2017 to Aug 2017"}
+{"text": "SAP SD/LE Consultant, (Full Life cycle)  \t\t                               \t\t SAP ECC 6.0"}
+{"text": "Bridgestone Corporation is a multinational auto and truck parts manufacturer and one of the largest manufacturers of tires in the world."}
+{"text": ""}
+{"text": "RESPONSIBILITIES:"}
+{"text": "Defined and assigned the enterprise structure for sales and distribution module as per the business requirements."}
+{"text": "Worked in Agile implementation and was Involved in 'AS IS' analysis, 'TO BE' model, Gap Analysis, interacted with users and process owners for business requirements gathering."}
+{"text": "Involved with the end-to-end Order to Cash (OTC) team, which included configuring new order types, item categories, delivery types, billing document types, sales agreements, pricing, output determination, text determination, credit control, etc."}
+{"text": "Configured various sales document types like standard orders, free of charge orders, credit memo requests, debit memo requests, return orders as per requirements."}
+{"text": "Created Pricing Procedures based on the client\u2019s requirements using the condition technique through the creation of new condition tables, access sequence & condition types assigning them to customized pricing procedure. Pricing included material price, price list, customer specific prices, customer discount and material discount."}
+{"text": "Designed functional specification documents for complicated pricing routines to achieve the desired pricing requirements."}
+{"text": "Designed functional specifications for calculating delivery dates based on custom table. Configured Availability To Promise (ATP) and transfer of requirements."}
+{"text": "Created Partner functions and assigned them to the existing Partner determination procedure as per business requirements"}
+{"text": "Configured Billing types including invoices, invoice lists, credit memos, debit memos and rebates."}
+{"text": "Worked on shipping relevant functions, creating deliveries, picking, packing and goods issue"}
+{"text": "Configured Route determination based on shipping points and destination country, Transportation Group, departure zones "}
+{"text": "Worked closely with MM and FI functional consultants on SD integration aspects like Third-Party Order Processing, intra-company stock transport orders, inter-company stock transport orders and Revenue Account Determination and Credit management."}
+{"text": "Extensively interacted with ABAP programmers for preparing reports to meet Management Requirements and for developing enhancements/user exits by way of explaining the detailed requirements, giving specifications and other details of tables. "}
+{"text": "Worked on standard EDI (850,855,856,870) functionality by writing Functional Specifications and worked closely with ABAP team."}
+{"text": "Conducted workshops on training end users for SD Business processes and provided Post Go Live Support in the areas of Sales & Distribution."}
+{"text": ""}
+{"text": "Topco, IL\t\t                                                                      \t\t\tJan 2016 to Jan 2017"}
+{"text": "SAP SD/LE Consultant, (Support)\t\t\t\t                      \t\tSAP ECC 6.0"}
+{"text": "Topco Associates LLC\u00a0is the largest American retail food\u00a0GPO\u00a0(Group Purchasing Organization) and the third largest private company in\u00a0Illinois."}
+{"text": ""}
+{"text": "RESPONSIBILITIES:"}
+{"text": "Involved in support for numerous production problems in SD and cross-functional applications."}
+{"text": "Defined and Assigned Sales Organization, Distribution Channel and Division and have set up Sales areas for customers."}
+{"text": "Configured new order types, Item Categories, schedule line categories, delivery types, pricing and billing."}
+{"text": "Worked on delivery blocks, Billing Blocks and on Special sales documents such as rush sale, returns, free of charge samples."}
+{"text": "Worked in various SD functionalities like text determination, output determination, Availability Check, material determination and designing new functionalities as per business requirements."}
+{"text": "Designed Copy Control Routines to facilitate copying necessary data from sales documents to delivery and billing."}
+{"text": "Involved in testing end-to-end Order to Cash cycle for various products."}
+{"text": "Involved in problem solving and configuration related to EDI inbound (850,856,867) and outbound (850,855,810)."}
+{"text": "Configured new pricing procedures, Pricing Routines, and Pricing Formulas to meet the business requirements."}
+{"text": "Configured price relevant master data creating new pricing group for customers, new customer price list category and also defined pricing limits."}
+{"text": "Created Loading Groups, Shipping Conditions and configured Shipping Point Determination."}
+{"text": "Delivery document types, Delivery Item Categories, Shipping Point Determination, Route Determination, MRP and TOR, Availability Check. "}
+{"text": "Defined Transportation groups, Modes of Transportation, Shipping types and configured Route Determination."}
+{"text": "Strong experience in configuration of LES Shipping and Transportation."}
+{"text": "Worked with MM team to configure Third Party Order Processing, stock transport orders and setting up sales bill of materials (BOM) in material master."}
+{"text": "Designed a process for Credit Management, which helped in maintaining good system performance though the volume of sales orders is high."}
+{"text": "Prepared functional specification documents for mass processing of Idoc\u2019s and their error handling procedures. Worked with ABAP programmers by writing functional specifications for user exits."}
+{"text": "Trained end users for SD Business processes and provided Post Go Live Support in the areas of Sales & Distribution and Logistics Execution"}
+{"text": ""}
+{"text": "Cemex USA Inc., TX                                               \t                \t\t\tFeb 2015 to Jan 2016    "}
+{"text": "Sr. SD Functional Analyst, (Full Life cycle)\t\t                                \tSAP ECC 6.0"}
+{"text": "Cemex provides industry-leading products and solutions for customers around the world."}
+{"text": "   "}
+{"text": "RESPONSIBILITIES:"}
+{"text": "Translated AS-IS business process requirements into TO-BE SAP functional and   configuration blue prints to provide high-level estimates for design implementation efforts. Performed GAP analysis. "}
+{"text": "Set up Enterprise Structure and created customer master data, material master data and customer-material information record."}
+{"text": "Configured order types, delivery types, billing types, incompletion procedures,    copy controls and text controls."}
+{"text": "Configured Item Category determination, schedule line category determination, customer material information and text determination."}
+{"text": "Defined new Pricing Procedures with manual and automatic condition types, access sequence, condition tables and condition exclusions. "}
+{"text": "Worked on setting up Tax Determination with external tax package system, Vertex, by ensuring necessary data maintained in SAP and proper tax value returned."}
+{"text": "Configured Shipping point determination, route determination, batch determination, scheduling, delivery types, picking, packing and Transportation."}
+{"text": "Prepared functional specifications and worked on various enhancements as per the business requirement and maintained Z \u2013 tables for these enhancements."}
+{"text": "Designed settings for automatic credit control by defining customer risk categories and credit groups for blocking sales documents if credit limit is exceeded. Worked closely with Account Receivables (AR) department."}
+{"text": "Prepared functional specification documents for customized reports and interfaces."}
+{"text": "Worked on Partner Determination, material determination and output determination procedures."}
+{"text": "Performed the analysis of the legacy system and legacy master data files to build the conversion strategy."}
+{"text": "Created unit testing and integration testing scenarios for various sales and distribution business processes."}
+{"text": ""}
+{"text": "Phoenix Motorcars, CA                                              \t               \t\t Jun 2014 to Feb 2015    "}
+{"text": "Senior SAP-SD Consultant, (Support) \t\t\t                                \tSAP ECC 6.0"}
+{"text": "Phoenix Motorcars is a leader in developing light and medium duty electric vehicles for the service and government fleet markets. "}
+{"text": ""}
+{"text": "RESPONSIBILITIES:"}
+{"text": "Responsible for the creation of Variant Configuration Master Data including Classification, Dependencies, Material Masters, Bill of Materials, Routings and Pricing Tables and Conditions. "}
+{"text": "Worked closely with various business units and ERP team in identifying and solving VC related problems."}
+{"text": "Configured incompletion procedures, Copy Controls, availability check, delivery blocks and their status."}
+{"text": "Worked like third party order, Inter-company sales, cash sales, rush orders, returns (credit memo & debit memo), contracts, schedule agreements and consignments processes."}
+{"text": "Configured new Pricing Procedures, pricing routines and pricing formulas. Determination of the best discount among multiple Condition types using Condition exclusion groups."}
+{"text": "Configured output determination, partner determination, account determination and text determination."}
+{"text": "Managed configuration of complicated Inter-Company transactions (SD/MM/FI), including special multiple values for transfer pricing to allow for different reporting views. "}
+{"text": "Delivery Scheduling and transportation scheduling were configured. Output determination and control for sales order documents order acknowledgment, pick list, shipping note, bill of lading, pro forma invoice, invoice etc were also configured."}
+{"text": "Rebate Processing - Configuration and design of rebate processing and sales deals, pricing procedures, account assignment, accruals and payment and settlement procedures."}
+{"text": "Third party processing through the plant and the vendor were defined, account keys were assigned to G/L accounts and pricing procedure determination was defined. "}
+{"text": "Assisted the ABAP programmer with the testing of the programs, developing the implementation plans, and training."}
+{"text": ""}
+{"text": "Kansai Nerolac Paints Limited, INDIA                                      \t\t\tMay 2011 to Jun 2014     "}
+{"text": "SAP SD Functional Consultant, (AMS) \t\t                                          \t\tSAP ECC 6.0"}
+{"text": "Nerolac Paints, a leading paint company in India offers a wide range of paint colors & decorative wall painting solutions for homes & offices."}
+{"text": ""}
+{"text": "RESPONSIBILITIES:"}
+{"text": "Configured the enterprise structure with sales areas and plants."}
+{"text": "Configured account groups for customer master: field selection, assignment to partner functions, definition of new partner functions and partner determination. "}
+{"text": "Defined item categories, schedule line categories, order reasons and blocking reasons."}
+{"text": "Involved in designing various sales and distribution module functionalities like availability check, picking and packing, credit management, stock transport orders, output determination and billing. "}
+{"text": "Configured pricing procedures, material determination and text control."}
+{"text": "Worked with MM, FI and CO consultants in maintaining integration areas."}
+{"text": "Provided production support."}
+{"text": ""}
+{"text": "Education Qualification"}
+{"text": "Bachelor\u2019s in Computer Engineering, Mumbai University"}
+{"text": ""}

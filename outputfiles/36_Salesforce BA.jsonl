@@ -1,0 +1,97 @@
+{"text": "Name: margaret margaret"}
+{"text": "E-Mail: margaret.margaret@gmail.com"}
+{"text": "Address: Tianjin, China"}
+{"text": "Github: https://github.com/margaret"}
+{"text": "LinkedIn: https://linkedin.com/margaret"}
+{"text": "Phone No. 116275265118"}
+{"text": "SUMMARY"}
+{"text": "A Business Analyst with over 6+ years of experience."}
+{"text": "Diverse experience in Information Technology with focus on Business Analysis, Business Modeling, Requirement Gathering, Technical Documentation, and Software Validation."}
+{"text": "Experienced in all phases of Software Development Life Cycle (SDLC), quality management systems and project life cycle processes. Highly skilled in Salesforce.com (SFDC) development and implementation."}
+{"text": "Extensive knowledge about Salesforce setup menu, Configuration, custom Application Development, Administration, Data Migration and Deployment of applications to Force.com platform."}
+{"text": "Strong Requirements gathering experience using JAD Sessions & Conducting User Interviews, and preparing functional documents like Use Cases, Software Requirements Specifications (SRS)."}
+{"text": "Experience creating custom objects and integrating existing desktop and web apps with legacy mainframe systems."}
+{"text": "Expert in retrieving database information writing SQL Queries and transforming data to information as needed. "}
+{"text": "Created page layouts, search layouts to organize fields, custom links, related lists, and other components on a record detail and edit pages."}
+{"text": "Implemented pick lists, dependent pick lists, lookups, junction objects, master detail relationships, validation and formula fields to the custom objects."}
+{"text": "Possess comprehensive understanding of CRM business processes like Campaign Management, Lead Management, Account Management, Case Management, Quote, Forecasting, and Call Center."}
+{"text": "Extensive knowledge of Salesforce.com implementation cycle in Sales, Marketing, Service and support modules."}
+{"text": "Skilled in customizing standard objects like Accounts, Contacts, Opportunities, Products, Price books, Cases, Leads, Campaigns as per client\u2019s need."}
+{"text": "Experience in data migration from ACT, Excel, MS outlook and Legacy Systems using Data Loader, Import Wizard, Informatica Data Loader, and Cast Iron."}
+{"text": "Expert in generating and analyzing custom reports and dashboard for management and various business unit personnel to provide detail information on key performance indicators."}
+{"text": "Developed process enhancements through automations including Workflow, Approval Processes, and Escalation Rules."}
+{"text": "Performed extensive Backend Testing of the applications using SQL Queries. "}
+{"text": "Experience in SalesForce Testing and Administration spanning all facets of package software and SaaS application implementation."}
+{"text": "Strong knowledge & experience working in teams implementing Agile Methodologies."}
+{"text": "Knowledge in Salesforce.com SFA, Force.com Apex Classes, Apex triggers, Integration, Visual force, Force.com API, SOQL, and SOSL."}
+{"text": "Excellent communication and inter-personal skills, accustomed to working in both large and small team environments."}
+{"text": "TECHNICAL SKILLS "}
+{"text": "Programming Skills: APEX, C, C++, JAVA, .NET."}
+{"text": "Web Tools: HTML, Concepts of JAVASCRIPT, SOSL, SOQL, AJAX."}
+{"text": "SFDC Tools: Data Loader, Connect Offline, SalesForce to SalesForce, Apex Eplorer."}
+{"text": "Force.Com: Apex Custom Controllers and Extension, Apex triggers, S-controls, SOQL, SOSL, Ajax Toolkit, packaging and migrations, Force.com IDE (Eclipse)."}
+{"text": "Development Tools: Eclipse"}
+{"text": "Operating Systems: Windows 9X, XP, 2000, Vista."}
+{"text": "RDBMS:MS Access, SQL Server, PostgreSQL"}
+{"text": "EXPERIENCE"}
+{"text": "Hilton Hotels Corporation\t\t\t\t\t                                        Sep\u201916 \u2013 May\u201918\nSalesforce Business Analyst\nDevelop Project Charters, Requirements Gathering efforts, Scope Statement creation, Functional Information Specification document participation and Management of Content entry process for project"}
+{"text": "Responsibilities:"}
+{"text": "Interacted with various business team members to gather the requirements and documented the requirements."}
+{"text": "Analyzed the Scope of the Requirements, and managed requirements to avoid Scope Creep."}
+{"text": "Participated in Requirement Gathering Sessions & JAD Sessions."}
+{"text": "In charge of conducting the UAT with the Business users, and gathering feedback and providing the same to the Development team."}
+{"text": "Reviewing the test cases provided by the QA team, and providing feedback."}
+{"text": "Created user Roles and Profiles and sharing settings."}
+{"text": "Supported technical team members in installation, configuration and maintenance of Postgresql Databases."}
+{"text": "Used field level security along with page layouts to manage access to certain fields."}
+{"text": "Designed and deployed Custom tabs, Validation rules, and Auto-Response Rules for automating business logic."}
+{"text": "Assisted in designing and management of PostgreSQL database schemas and tables."}
+{"text": "Created workflow rules and defined related tasks, email alerts, and field updates."}
+{"text": "Downloaded and installed AppExchange packages like Google Ad words for campaigns and UPS for shipping."}
+{"text": "Developed a web-to-lead functionality to vertrue.com site which directs leads to Salesforce CRM."}
+{"text": "Created various Reports and Report folders to assist managers to better utilize Salesforce as a sales tool and configured various Reports for different user profiles based on the needs of the organization."}
+{"text": "Familiar with Syntellect Phonelink CTI salesforce application which is used to provide agents with click-to-dial and screen pop capabilities."}
+{"text": "Created custom Dashboards for manager\u2019s home page and gave accessibility to dashboards for authorized people."}
+{"text": "Conducted GAP Analysis and enhanced business process by integration"}
+{"text": "Worked on Agile and Scrum Methodology for Salesforce custom app implementation."}
+{"text": "Created new custom objects, assigned fields, designed page layouts, custom tabs, components, custom reports"}
+{"text": "Implemented pick lists, dependent pick lists, lookups, master detail relationships, validation and formula fields to the custom objects."}
+{"text": "Visa Inc San Francisco, CA \t\t\t\t\t\t\t            Oct \u201814 \u2013 Aug \u201816\nSalesForce Business Analyst  \nWorked on negotiations and communications among business functional teams and defined lead generation process to restructure entire sales process to be scalable and more efficient. Responsible for project management, Salesforce.com administration and configuration for overall project"}
+{"text": "Responsibilities:"}
+{"text": "Created Custom objects and fields- Leads, Marketing, Compaign, Dashboard, Sales, Account etc."}
+{"text": "Configured security and organizational hierarchy for sales for salesforce implementation."}
+{"text": "Customized page layouts for Salesforce standard and custom objects."}
+{"text": "Configured Reports for custom objects and associated them to Dashboard."}
+{"text": "Involved in Design and development of Workflows rules, triggers, validation rules and other customizations with Salesforce."}
+{"text": "Administered Salesforce CRM applications for Sales, Marketing and Support Departments. Involved in creating multiple analytical reports, with varying degree of complexity."}
+{"text": "Wrote various SQL queries to validate data inserted, deleted and updated in the Oracle database. "}
+{"text": "Created APEX triggers, classes, test methods and visual force pages to implement custom functionality."}
+{"text": "Responsible for all the activities related to configuring Data Loader, uploading data in CSV files into salesforce.com, checking for integrity of the data."}
+{"text": "Used SOSL and SOQL queries during the data migration and custom development."}
+{"text": "Developed S-Controls to manage sales plan call sheets within salesforce, capturing prep data and call activity."}
+{"text": "Customized agile methodology in a service based, reverse mortgage specialized for seniors."}
+{"text": "Analyzed the business processes for the three divisions in the organization that are using sales force."}
+{"text": "Redesigned the old sales force architecture to new design based on best practices."}
+{"text": "Organized business and end user meetings for discovery, business needs gathering and gap analysis."}
+{"text": "Focused on Cycle time reduction during the process between the leads through opportunities, processing, funding, underwriting and till post closing."}
+{"text": "Set up visibility securities like roles, profiles, field level securities. Set up person accounts in sandbox."}
+{"text": "MyBuys, Inc. - Ann Arbor, MI                                                                                                          Mar 12 - Sep 14\t                           \nBusiness/Systems Analyst"}
+{"text": "Confidential need to migrate Marketing/Sales process to SFDC from the existing Oracle CRM system and also perform all the opportunity process in SFDC instead of Siebel. SFDC needs to be integrated with MDM for account CMAT\u2019ng process and Integrate with Siebel for Opportunities, Quotes, Sharing teams and FPVRs. Eloqua should be the primary source of Campaign/Lead creation and should be integrated with SFDC."}
+{"text": "Responsibilities:"}
+{"text": "Experience in daily customer service through telephone and email communication. Provided basic, premier, and administrative level support for users of the Salesforce application."}
+{"text": "Conducted administrative duties which include working with C- level executives, system administrators, and end users to gather their business requirements then developing customized solutions to meet their needs"}
+{"text": "Interacted with business operations, understand business model, involved in gathering requirements, communicated business process, translated needs into salesforce terms, developed data model, defined objects and relations."}
+{"text": "Performed complete analysis of existing systems in organization and corresponding business process for sales and marketing."}
+{"text": "Developed functional specifications document for Accounts and Opportunities module leading the business tracks."}
+{"text": "Defined Lead assignment rules based on Territory management rules."}
+{"text": "Responsible for product validations with business for accounts and opportunities."}
+{"text": "Conducted several technical design solutions meetings to sense possible difficulties that might arisefor development team along with architects."}
+{"text": "Configured standard salesforce objects and custom objects as per business needs implementing validation rules and formula fields."}
+{"text": "Gathered requirements for all automation workflows as per business requirements and translated in to salesforce business terms."}
+{"text": "Implemented approval process for deal registration process which involve several approvals from sales managers."}
+{"text": "Involved in requirements gathering for account assignment rules for account owner for various geographies and defined them using sharing rules ."}
+{"text": "Involved in defining roles and profiles for internal users."}
+{"text": "Defined several workflows including creating tasks, email alerts ,outbound messaging and field updates for accounts and opportunities module."}
+{"text": "Closely implemented the automated sales process with developers and responsible for getting product approval from business owners."}
+{"text": "Environment:\u00a0Salesforce, Agile, APEX, Visual force, Webservices, Oracle Fusion Middleware(10.1.3.5), Force.com IDE, Integration, Triggers, Work flow rules, Validation rules, XML, WSDL, SOQL, Custom components, Reporting. Data Management, Test classes, Deployments."}
+{"text": ""}

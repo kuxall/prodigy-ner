@@ -1,0 +1,179 @@
+{"text": "Name: clara clara"}
+{"text": "E-Mail: clara.clara@gmail.com"}
+{"text": "Address: Bogot\u00e1, Colombia"}
+{"text": "Github: https://github.com/clara"}
+{"text": "LinkedIn: https://linkedin.com/clara"}
+{"text": "Phone No. 633725893519"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": "Over 6+ years of IT experience in Development of Business Applications and Solutions.\u00a0"}
+{"text": "Total 6+ years of experience in Designing, Developing and Administrating applications using\u00a0BizTalk\u00a0Server."}
+{"text": "6+ years of experience in.Net Technologies C#, IIS.\u00a0"}
+{"text": "Extensive Integration experience includes integrating Mainframe(HIS), WCF-SQL, IBM-DB2, SharePoint, SSIS Packages, EDI systems, WCF-BasicHttp, SFTP, FTPS, SMTP, SFDC-Rest Services, Oracle, SAP, and (Schedule adapter).\u00a0"}
+{"text": "Good experience in using EDI transactions.\u00a0"}
+{"text": "Installed and configured\u00a0BizTalk\u00a0Server both on Single and cluster environment.\u00a0"}
+{"text": "Implemented various\u00a0BizTalk\u00a0design patterns such as Scatter-gather, Singleton, parallel convoy, sequential convoy, Aggregator, Message Broker, Splitter, Content based routing, dynamic routing, calling pipeline components from orchestration, Error handling.\u00a0"}
+{"text": "Good understanding of implementing Service-Oriented Architecture (SOA) using Windows Communication Foundation (WCF), Message Broker.\u00a0"}
+{"text": "Worked on various Advanced functions available in\u00a0BizTalk\u00a0that includes Table Looping, Scripting (XSLT, C#), Mass Copy functions, DB Lookup, Iteration , ( custom fantods) etc.\u00a0"}
+{"text": "Rigorously utilized Windows Communication Foundation (WCF), Defined Contract Definitions, Endpoint Definitions, Client, and Service.\u00a0"}
+{"text": "Implemented Enterprise SSO to store non windows based system credentials and sensitive information.\u00a0"}
+{"text": "Encrypted format.\u00a0"}
+{"text": "Hands on experience on Business Activity Monitoring (BAM), Enterprise Service Bus (ESB) and Business Rule Engine (BRE).\u00a0"}
+{"text": "Experience on ADO.NET objects such as Data Adapter, Dataset, and Data Reader to interact with databases like SQL Server & Oracle (ODP.NET)\u00a0"}
+{"text": "Responsible for installing the MSI packages in both QA and Production Environments.\u00a0"}
+{"text": "Implemented\u00a0BizTalk\u00a0Deployment framework (BTDF)\u00a0"}
+{"text": "Experience leading and mentoring a small team.\u00a0"}
+{"text": "Experience with Administration, Troubleshooting\u00a0BizTalk\u00a0applications.\u00a0"}
+{"text": "Used different tools for better maintenance of\u00a0BizTalk\u00a0like Message Box Viewer, Performance Analysis of Logs (PAL), and Ditching.\u00a0"}
+{"text": "Highly motivated with excellent analytical and communication skills, and an ability & enthusiasm to learn new systems and technologies.\u00a0"}
+{"text": "Ability to work independently with a high degree of personal initiative.\u00a0"}
+{"text": "Excellent testing, analysis, troubleshooting and problem-solving skills with attention to detail.\u00a0"}
+{"text": "Ability to quickly acclimatize to ongoing projects and complete the work in a timely manner."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "Evident Health, Richmond, VA                                                                                                 Aug, 2016 - Present"}
+{"text": "Senior\u00a0BizTalk\u00a0developer\u00a0and .NET\u00a0Developer"}
+{"text": ""}
+{"text": "Responsibilities:\u00a0"}
+{"text": "Involved in all phases of Software Development Life Cycle SDLC including Requirement gathering, Design, Coding, Debugging, Testing and deployment.\u00a0"}
+{"text": "Good experience in installing and configuring\u00a0BizTalk\u00a0server 2013/2010, wife LOB adapter, adapter pack, HIS adapter, ESB Toolkit.\u00a0"}
+{"text": "Played Tech lead role, responsible for providing Proof of Concepts, delegating work to other resources and getting deliverables on time."}
+{"text": "Practiced Water-fall, Agile (SCRUM) Software Development methodologies.\u00a0"}
+{"text": "Very strong experience in integrating\u00a0BizTalk\u00a0with mainframe (AS400), extensively used\u00a0BizTalk HIS (Host Integration Server) adapter to call Cobol/CLP programs."}
+{"text": "Experience in the Creating the ESB 2.1 Itineraries, implemented dynamic transformation using BRE Resolver.\u00a0"}
+{"text": "Integrated\u00a0BizTalk\u00a0with IBM-DB2 and implemented insert, update, delete and select operations with DB2.\u00a0"}
+{"text": "Interacted with legacy system and third party services to design and develop new interfaces.\u00a0"}
+{"text": "Worked on WCF-WebTop adapter to consume and expose JSON formatted REST services.\u00a0"}
+{"text": "Responsible for upgrading projects from\u00a0BizTalk\u00a02010 to 2013R2.\u00a0"}
+{"text": "Configured EDI Parties and Certificates for the Partner profiles."}
+{"text": "Created X12 connections to receive both EDI and Non EDI files from external vendors.\u00a0"}
+{"text": "Extensively used SOAP UI while testing sales force (SFDC) REST services i.e. upset, login, delete methods\u00a0"}
+{"text": "Implemented automation of SSIS packages by using Message Broker design pattern of\u00a0BizTalk.\u00a0"}
+{"text": "Build and maintain BAM Activities for different applications using BAM API's.\u00a0"}
+{"text": "Implemented batch jobs for both quarterly purge files, daily update files using WCF-SQL adapter and stored procedures.\u00a0"}
+{"text": "Experience with consuming and Publishing\u00a0BizTalk\u00a0Artifacts as WCF Services\u00a0"}
+{"text": "Upload/download files to Customer SFTP site using\u00a0BizTalk\u00a0software SFTP adapter.\u00a0"}
+{"text": "Implemented BRE using concepts such as Static class, handling repeated node in the message, calling .net components in BRE using RuleEngine.XMLHelper methods.\u00a0"}
+{"text": "Worked on Automating PGP Encryption and Decryption by using GNUPG software that involves generating our Public key, adding Customer key to our key ring.\u00a0"}
+{"text": "Thoroughly worked on SMTP adapter, implemented concepts such as HTML formatted emails, PDF attachments, dynamic and static SMTP adapter\u00a0"}
+{"text": "Created a traffic cop singleton orchestration that controls the execution of messages in FIFO fashion.\u00a0"}
+{"text": "Configured and set up App pools, web sites and creating self-sign certificates in IIS.\u00a0"}
+{"text": "Implemented aggregator Design pattern by using the combination of Sequential convoy and calling a send pipeline from orchestration.\u00a0"}
+{"text": "Created .net component that unzips the original file in a custom pipeline component.\u00a0"}
+{"text": "Used both Start Orchestration, Call orchestrations.\u00a0"}
+{"text": "Created Path Queries to Read and set values inside message Orchestration.\u00a0"}
+{"text": "Experience in using XSD.EXE tool Creating Serialized Classes using XSD Imports and Object based Mapping using serialized classes\u00a0"}
+{"text": "Utilized SSO configuration tool for storing and retrieving configuration data dynamically.\u00a0"}
+{"text": "Used BRE in the custom pipeline component to set the document schema for flat assembler at runtime using Fact Retriever.\u00a0"}
+{"text": "Applied advanced WCF techniques such WCF behavior at Send port to customize the SOAP header.\u00a0"}
+{"text": "Integrated SharePoint portal with\u00a0BizTalk, so that business users can override actual threshold values.\u00a0"}
+{"text": "Generated pdfs using the FO.NET pipeline component and XSLT templates."}
+{"text": "Invoked Various WCF Services Using WSHttp bindings with Fault Handling."}
+{"text": "Consumed and Exposed JSON and XML formatted REST services in\u00a0BizTalk.\u00a0"}
+{"text": "Used PowerShell scripts for administrative purpose such as 'start host instance\u2019, resolve 'stop pending' state and send automated emails for suspended instances.\u00a0"}
+{"text": "Developed Microsoft SQL Server stored procedures and staging tables for pushing and pulling data to/from\u00a0BizTalk.\u00a0"}
+{"text": "Developed custom pipeline component to extract and change the Data part of xml.\u00a0"}
+{"text": "Analyzed all the available logging mechanisms for\u00a0BizTalk\u00a0and Implemented CAT Framework to trace the run time functional flow.\u00a0"}
+{"text": "Handled exceptions in all\u00a0BizTalk\u00a0processes using common error handling orchestration for routing failure errors and configured process to send alerts to System Admins.\u00a0"}
+{"text": "Developed Test scripts for business users & coordinate with QA team to for end to end testing.\u00a0"}
+{"text": "Used WMI scripts for Host Management and Sending emails for suspended messages.\u00a0"}
+{"text": "Utilized BTDF scripts to implement automated deployment in multi server environment.\u00a0"}
+{"text": "Tracked the message instances and trouble shouted the problem as part of\u00a0BizTalk\u00a0Server Administration.\u00a0"}
+{"text": "Worked on Visio for designing various design documents in parallel to development.\u00a0"}
+{"text": "Involved in writing Technical Specs, Deployment Checklists for the Applications developed."}
+{"text": "Involved in supporting the\u00a0BizTalk\u00a0applications that involves creating tickets, assigning priority for the tickets.\u00a0"}
+{"text": "Involved in TFS Architecture, Categorizing solutions into common components,\u00a0BizTalk\u00a0artifacts, .net components and other.\u00a0"}
+{"text": "Environment: EDI, WCF-WebTop, WCF Services, Host Integration Server, DB2, PGP, SFTP, WCF-SQL, FO.NET, TortoiseSVN , TFS,\u00a0BizTalk\u00a02010/2013 R2, VS 2012/2013, SQL Server 2012/2014, Share Point Server 2010"}
+{"text": "Well Care, Tampa, FL\t                          \t\t\t                                              Oct, 2014 \u2013 Aug, 2016"}
+{"text": "Senior\u00a0BizTalk\u00a0developer\u00a0and .NET\u00a0Developer"}
+{"text": "Responsibilities:"}
+{"text": "Analyzed request to provide accurate implementation time estimates, participated in solution design, functional and technical requirements documentation.\u00a0"}
+{"text": "Involved in installation and configuring of\u00a0BizTalk\u00a0Server 2010/2013 that includes adapter pack 2.0, BAM, ESB and SharePoint services.\u00a0"}
+{"text": "Performed EDI HIPAA transactions 837D, 837I, 837P in\u00a0BizTalk\u00a02010\u00a0"}
+{"text": "Interacted with delivery team and clients to understand business requirements and Involved in deterring, how to best leverage technology to support those requirements in developing effective\u00a0BizTalk\u00a0solutions.\u00a0"}
+{"text": "Responsible for creating canonical schemas for EDI applications."}
+{"text": "De-batching multiple EDI transactions and Created Parties & Agreement for trading partners."}
+{"text": "Followed Agile Software Development methodology.\u00a0"}
+{"text": "Used BRE for formatting, validation of the messages and to check mandatory fields. Also Published and Deployed Rules into the Rule Engine Database.\u00a0"}
+{"text": "Created Custom Pipeline Components Decoder with .NET Encryption/Decryption Components.\u00a0"}
+{"text": "Worked on complex EDI maps, used most of the advanced functions, and wrote XSLT scripts, debugged maps.\u00a0"}
+{"text": "Performed integrations for both B2B and EAI transactions using WCF services.\u00a0"}
+{"text": "Published Schema as WCF Service for the external partners.\u00a0"}
+{"text": "Used both Network Monitor 3.4, Wire Shark to identify the issues at the application layer level.\u00a0"}
+{"text": "Developed XSLT for complex logic which was not possible using native\u00a0BizTalk\u00a0mapper tool.\u00a0"}
+{"text": "Developed orchestrations with error handling logic and worked on Partner ports, Direct and Dynamic binding in Orchestrations.\u00a0"}
+{"text": "Used both VMware, Virtual pc to create a\u00a0BizTalk\u00a0development machine.\u00a0"}
+{"text": "Implemented Composite operation in WCF-SQL adapter.\u00a0"}
+{"text": "Created new relationship with trading partners by enabling the exchange of EDI documents with the companies.\u00a0"}
+{"text": "Experience property schema with Context Property Base and Message Data Property Base.\u00a0"}
+{"text": "Experience in designing ESB itineraries.\u00a0"}
+{"text": "Developed .Net components and accessed from\u00a0BizTalk\u00a0Pipeline components, Orchestrations, Map.\u00a0"}
+{"text": "Deployed\u00a0BizTalk\u00a0exposed services in IIS and done unit testing using SOAP UI.\u00a0"}
+{"text": "Proficient in developing and deploying WCF Services to IIS.\u00a0"}
+{"text": "Used intercom tool to debug the complex pipeline components.\u00a0"}
+{"text": "Experienced with\u00a0BizTalk\u00a0360 to analyze, monitor and debug business process.\u00a0"}
+{"text": "Created Canonical schemas and also complex Flat file schemas by setting both Positional and delimited values.\u00a0"}
+{"text": "Created Stored Procedures to retrieve and Insert data from and to Databases.\u00a0"}
+{"text": "Developed Enterprise Service Logging Application to Track transactions for .Net Interfaces using BAM API's.\u00a0"}
+{"text": "Used Rule engine deployment wizard for exporting and importing the policies.\u00a0"}
+{"text": "Worked with the almost all the shapes in Orchestrations.\u00a0"}
+{"text": "Implemented logging by logging messages from the orchestration flow to SQL database.\u00a0"}
+{"text": "Developed orchestration with untipped message type to accommodate future schema changes.\u00a0"}
+{"text": "Used Nun it to test the individual .net modules.\u00a0"}
+{"text": "Utilized Mozilla's Path tool (Fire path) to extract the path.\u00a0"}
+{"text": "Experience in creating flow diagrams using tools like Microsoft Visio, MS Word designer.\u00a0"}
+{"text": "Involved in Pre-cutover and Post-cutover activities for Go-Live from\u00a0BizTalk\u00a0perspective.\u00a0"}
+{"text": "Involved in 24 hour on call support and preparing issue resolution documents during warranty period.\u00a0"}
+{"text": "Involved in KT (Knowledge transfer) and reverse KT sessions while working with offshore team.\u00a0"}
+{"text": "Played\u00a0BizTalk\u00a0administrator role and be the single point of contact for deployments of new projects and upgrade of existing projects.\u00a0"}
+{"text": "Used Microsoft Team foundation server (TFS) for the purpose of version control and source code maintenance needs.\u00a0"}
+{"text": "Environment: - EDI/HIPPA 5010, BAM, BRE, Visio, TFS,\u00a0BizTalk\u00a02010, VS 2010/2012, SQL Server 2008/2012."}
+{"text": "\t"}
+{"text": "BCBS, Jacksonville, FL                                                                                                            Aug, 2012 \u2013 Sep, 2014"}
+{"text": "BizTalk\u00a0Developer/Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in Full Software Development Life Cycle (SDLC) and identifying the requirements and defining the business rules to user requirements."}
+{"text": "Involved in working with\u00a0BizTalk\u00a0native adapters like FILE, BAHS 2.0, WCF-SQL and SharePoint using Messaging, Orchestrations, Pipelines and Adapters.\u00a0"}
+{"text": "Involved in Integrating Mainframe System using the Host Integration Server (HIS), Transaction Integrator (TI).\u00a0"}
+{"text": "Developed Proof of Concept to demonstrate the capability of LOB SAP adapters using .Net Web Services.\u00a0"}
+{"text": "Migrated Maps from XslTransform class to XslCompliedTransform class for better performance and security.\u00a0"}
+{"text": "Developed\u00a0BizTalk\u00a0multi root node schemas to accept multiple message types through the same Interface and common Error schemas.\u00a0"}
+{"text": "Implemented\u00a0BizTalk\u00a0with ORACLE-DB by using both WCF-Oracle DB adapter approach and ODP.NET approach.\u00a0"}
+{"text": "Replaced the existing legacy SFTP and PGP components with new software 4.1 components."}
+{"text": "Integrated\u00a0BizTalk\u00a0with SSIS packages by both using stored procedure route and calling .NET route.\u00a0"}
+{"text": "Developed XSLT for complex logic which was not possible using native\u00a0BizTalk\u00a0mapper tool.\u00a0"}
+{"text": "Used BAM (Business Activity Monitoring) to track the messages going through different systems.\u00a0"}
+{"text": "Worked on Automating PGP Encryption and Decryption, by generating our Public key, adding Customer key to our key ring, Encrypting and Decrypting using GNUPG software\u00a0"}
+{"text": "Created SSIS Packages for Data Movement and database maintenance.\u00a0"}
+{"text": "Created simple SSIS packages.\u00a0"}
+{"text": "Created simple SSRS reports and deployed in various environments.\u00a0"}
+{"text": "Performed bug fixes in XML to flat-file Maps for\u00a0BizTalk\u00a0server.\u00a0"}
+{"text": "Experience with T-SQL for writing Stored Procedures and modifying them.\u00a0"}
+{"text": "Worked with Entity Framework, Enterprise Library, and Log4net for logging and database calls.\u00a0"}
+{"text": "Documented my entire work to facilitate the knowledge transfer process to the clients.\u00a0\n\u00a0"}
+{"text": "Environment:- Host Integration Server, SAML, Gung, X509, Single Sign-On (SSO), TFS,\u00a0BizTalk2010, SQL Server 2008R2, VS 2008 Team Suite."}
+{"text": ""}
+{"text": ""}
+{"text": "Apollo Hospitals, Hyderabad, INDIA                                                                                      Jun, 2011\u2013 Jul, 2012"}
+{"text": "BizTalk\u00a0and .NET\u00a0Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in Requirements Gathering, preparing Mapping Documents, Data Analysis.\u00a0"}
+{"text": "Maintained both\u00a0BizTalk\u00a02006R2, 2009 projects."}
+{"text": "Developed automated B2B applications sending/receiving EDI files, which are converted to XML and imported in SQL Server thru stored procedures using SQL\u00a0BizTalk\u00a0Adapter. Also worked on other native adapters like FILE, HTTP, SMTP and WCF.\u00a0"}
+{"text": "Implemented a new EDI solution using Microsoft\u00a0BizTalk\u00a0"}
+{"text": "Worked in both 32 bit and 64 bit environments.\u00a0"}
+{"text": "Use of Long Running and Atomic Transaction for consistency.\u00a0"}
+{"text": "Used ADO.NET Command & Connection Objects, Datasets, Data Adapters and Data Readers for Data Access Layer.\u00a0"}
+{"text": "Created and configured various Hosts, Host instances and adapter handlers as part of\u00a0BizTalk\u00a0Server Administration.\u00a0"}
+{"text": "Responsible for maintaining versions of code using Team Foundation Server (TFS).\u00a0"}
+{"text": "Environment:- EDI, BRE, SAML, Single Sign-On, WCF Services, TFS,\u00a0BizTalk\u00a02006R2/2009, VS 2008 Team Suite, SQL Server 2005/08."}
+{"text": "\t"}
+{"text": "EDUCATION"}
+{"text": "B-Tech , JNTU, India"}
+{"text": ""}

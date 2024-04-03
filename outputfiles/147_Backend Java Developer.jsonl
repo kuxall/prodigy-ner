@@ -1,0 +1,204 @@
+{"text": "Name: josephine josephine"}
+{"text": "E-Mail: josephine.josephine@gmail.com"}
+{"text": "Address: Huaihua, China"}
+{"text": "Github: https://github.com/josephine"}
+{"text": "LinkedIn: https://linkedin.com/josephine"}
+{"text": "Phone No. 61470425193"}
+{"text": ""}
+{"text": "SUMMARY OF QUALIFICATIONS:"}
+{"text": "6+ of professional experience in software development and maintenance in the areas of object oriented technologies client/server applications internet/intranet web applications, J2EE Architecture and OO Design patterns."}
+{"text": "4+ years of knowledge and experience in Agile, Iterative, Scrum, Extreme Programming (XP) and Scrum software development."}
+{"text": "Good Experience on Quality Control, JIRA for tracking the tickets like accepting the tickets/defects, Submitting the tickets, Reviewing Code and closing the tickets etc."}
+{"text": "Designed and developed multiple J2EE MVC Model based Web Application using J2EE technologies (EJB, Servlets, and JSP), Design Patterns and popular open-source framework Struts, Hibernate and Spring."}
+{"text": "Expert in Software Development Life Cycle (SDLC) such as Water Fall, Agile, SCRUM, RUP and Spiral - ranging from gathering business requirements, system enhancements, development, performance testing, user training, and support activities. "}
+{"text": "Experience with Core Java, J2EE, IO Streams, Struts, ANT, Log4j, JUnit, JDBC, Servlets, JSP, Exception Handling, Multithreading, Java Beans, JNDI, XML/XSL, HTML, JavaScript, CSS, UML."}
+{"text": "Experience in desktop GUI solutions, abstract windowing toolkit (AWT), AngularJS, Eclipse SWT, JFace."}
+{"text": "Working Knowledge in MVC Architecture Apache Struts Framework."}
+{"text": "Experience with different development IDE tools like Eclipse, MyEclipse."}
+{"text": "Experience in working with Version Control Tools like SVN, Git, CSV."}
+{"text": "Involved in creating test cases using JUnit , Mockito and Easy Mock for Java classes and Abstract spring dependency Injection test for spring beans"}
+{"text": "Strong knowledge in UML, Use Cases, Collaboration, Class, Activity and Sequence Diagrams"}
+{"text": "Strong experience in implementing web services SOAP / RESTful"}
+{"text": "Skills in modeling, design and development of SQL programming with Oracle RDBMS."}
+{"text": "Experienced in distributed application in Multi-Tier/Three-Tier Client-Server Application using popular J2EE Web / Application Servers (Tomcat). Extensive programming in presentation layer (View) and middle tier (Control layer) for MVC design pattern."}
+{"text": "Expertise in interacting with Users and Business Experts in gathering functional requirements in a variety of industries such as Telecom, Healthcare, Transportation, Insurance, Finance and Banking Applications."}
+{"text": "Highly motivated team player capable enough to work within a team environment besides being capable to work independently."}
+{"text": "Ability to learn/migrate to different platforms, applications and languages quickly."}
+{"text": "Possess strong analytical and problem solving skills with the ability to adapt to a new environment and meet stringent deadlines."}
+{"text": "Experienced with conducting Joint Application Development (JAD) sessions, and feasibility studies."}
+{"text": "Strong verbal and written communication skills."}
+{"text": ""}
+{"text": "TECHNICAL PROFICIENCIES:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "WORK EXPERIENCE"}
+{"text": "Paypal, San Jose, CA\t\t\t\tSeptember 2014 \u2013 Present"}
+{"text": "Backend Java Developer\t"}
+{"text": "Description: PayPal is an international e-commerce business allowing payments and money transfers to be made through the Internet. Onboarding Platform exposes RESTful APIs through which Front Tier components, Batches, API callers, Partners, Developers, Mobile apps etc. can onboard customers. It is a coarse grained API to be able to serve different kinds of use-cases and customer onboardings via a single interface. The actual contract is in the HTTP message whose schema and format varies depending on the type of use-cases. The Onboarding platform imposes very little or no restrictions on its clients in terms of how they interact with the platform. Clients can be very chatty with the platform and send data incrementally to the platform or if they choose, call the platform at the end as if they were making an API call. The platform supports both interaction models and all the others in between.When a new customer comes to Paypal and expresses an intent on what they want to use Paypal for, it initiates an onboarding flow. Based on the customer intent, it creates an account or no. Behind the scenes, onboarding platform is an orchestration engine. It coordinates with various core and peer mid tier services. The coordination is expressed as a workflow which is defined based on the intents the customer started with. Customer\u2019s data is persisted in respective domains. Core domains that Onboarding is dependent upon are \"Risk, Compliance, User, Merchant and FI\"."}
+{"text": "Responsibilities:"}
+{"text": "Used Git (Stash) for code repository for legacy Java code."}
+{"text": "Used Spring Inversion of Control, to make application easy to test and integrate."}
+{"text": "Implemented & maintained the branching and build /release strategies utilizing Github."}
+{"text": "Hibernate framework is used in persistence layer for mapping an object-oriented domain model to a relational database (Oracle)"}
+{"text": "Coding in Java on PayPal's Helix/Sparta framework."}
+{"text": "Used Spring annotations, dependency injections to implement business logic"}
+{"text": "Used PL/SQL in stored procedures to insert or retrieve the data from the Oracle database."}
+{"text": "Used Maven to clean, compile, build, install and deploy application."}
+{"text": "Applied design patterns and OO design concepts to improve the existing Java/J2EE code base"}
+{"text": "Have used Hudson/Jenkins for build process and Continuous integration"}
+{"text": "Implemented the development using Agile/Scrum methodologies."}
+{"text": "Utilized Jira as defect tracking tool on the project."}
+{"text": "Documented software defects using bug tracking system and reported defects involving program functionality,"}
+{"text": "Used core Java and Spring dependency injection."}
+{"text": "Provided project demo to QA."}
+{"text": "Performed various CRUD operation using RESTful web services"}
+{"text": "Planned, created and tracked user stories using Rally dashboard."}
+{"text": "Utilized Jackson processor to handle JSON data binding for Request & Response objects."}
+{"text": "Provided XML and JSON response format to support various service clients."}
+{"text": "Created a deployment procedure utilizing Jenkins CI to run the unit tests on stages."}
+{"text": "JUnit is used to do the Unit testing for the application."}
+{"text": "Designed and developed the request and response data to and from database."}
+{"text": "Planned bug-fix schedules and releases, coordinated communication between QA and development team to handle client-side defects"}
+{"text": "Implemented Maven as a build system"}
+{"text": "Environment:\u00a0Java, Agile, Rally, Jira, Spring IOC, JSON, RESTful Web Services, Tomcat, JBoss, Postman, JUnit, Oracle, Eclipse, GitHub, Junit, TestNG, Maven."}
+{"text": ""}
+{"text": "Excelacom, Reston, VA\t\t\t\tApril 2013\u2013September 2014"}
+{"text": "Java/ UIDeveloper\t\t"}
+{"text": "Description: Excelacom focus its efforts and resources on its clients' projects, from systems strategy to implementation and maintenance, which combined with its deep industry knowledge and technology expertise, create services that deliver real value to its clients. At the heart of its strategy is the simple goal of business innovation and optimization. I am working on enhancements of its Century Suite which provide a competitive advantage by reducing time and effort required to create and deploy new products, services and portals. Excelacom's Century Platform is a Customer Lifecycle Management CLM) suite designed from the customer's point of view, not from a products or billing system standpoint, and hence fully capable of managing customer needs including CRM and ordering, Test Automation, and operational cost. Along with Century Suite, I was also part of the team that worked on customizing their Century Suite for their client Avaya, to accommodate service selection, social media analytics, and Avaya Cloud Live Video."}
+{"text": "Responsibilities:"}
+{"text": "Actively involved in gathering requirements from the users followed by analysis and design of the system to meet the requirements."}
+{"text": "Created wireframes/ prototypes to get approval from end clients using pencil project,moqups and Axure for interactive prototypes."}
+{"text": "Implemented the development using Agile/Scrum methodologies \u2013 user story, phase-wise development, iterative development."}
+{"text": "Design and Implementation of Configurable UI components for the Fast Path using GXT and GWT Framework"}
+{"text": "Created web pages using HTML, CSS, Java Script and JQuery"}
+{"text": "Developed the front end of the application using Struts2"}
+{"text": "Used JMS to send messages securely, reliably and asynchronously."}
+{"text": "Wrote Action and Form class as per struts environment and maintained struts-config"}
+{"text": "Experience in developing web services (Java Web Services, XML, RestFulWebservices, SOAP, WSDL, JAX-WS,, CXF) using JBOSS and MySQL."}
+{"text": "To limit page-loading delay and visible browser-server interaction used MVC framework with Ajax, JavaScript, Angular.js, Backbone.js and Marionette.js"}
+{"text": "Worked on complex legacy web application built on Struts 2/tiles and Hibernate framework to convert to client side AngularJS framework."}
+{"text": "Worked on converting schemas to JSON documents."}
+{"text": "Created reusable and used existing Restful web services for single page applications (SPA)"}
+{"text": "Translated flat file data to relevant MySQL database columns and extracted business logic's data manipulation within legacy code."}
+{"text": "Used Git (Stash) for AngularJS and SVN code repository for legacy Java code."}
+{"text": "Implemented the development using Agile/Scrum methodologies while using JIRA to track user stories and propagate through SDLC cycle. "}
+{"text": "Created single page applications (SPA) using AngularJS directives."}
+{"text": "Designed and Implemented MVC architecture using Struts Framework, Coding involves writing Action Classes/Custom Tag Libraries, JSP. "}
+{"text": "Used JMS to communicate with enterprise beans."}
+{"text": "Created a deployment procedure utilizing Jenkins CI to run the unit tests."}
+{"text": "Used Spring JDBC template to access database table."}
+{"text": "Responsible to develop a system to synchronize database repositories every month with external databases using entity beans and servlets."}
+{"text": "Used Hibernate for programmatically generating the data base tables and mapping files"}
+{"text": "JUnit is used to do the Unit testing for the application."}
+{"text": "Modified spring config.xml for bean dependency injection & auto wiring."}
+{"text": "Prepare Java/J2EE development structure for Maven."}
+{"text": "Used Apache Ant to compile java classes and package into jar archive."}
+{"text": "Managing/Fixing bugs and Client Issues in the application."}
+{"text": "Wrote JavaScript code, CSS code and used jQuery"}
+{"text": "Created PL/SQL stored procedures, function for the database layer by studying the required business objects and validating them with Store Procedures using Oracle 11g. Also used JPA with Hibernate persistence provider."}
+{"text": "Used JUnit test cases for unit testing and to validate the SOAP services."}
+{"text": "Used Eclipse IDE for application development and deployment"}
+{"text": "Used Spring WS to implement RESTful web services. "}
+{"text": "Environment:\u00a0Java, Agile, Spring, Struts, Hibernate, AJAX, jQuery, JSP, JavaScript, CSS, RESTful Web Services, Angular.js, Backbone.js, MVC, JAXB, Log4j, JUnit."}
+{"text": ""}
+{"text": "Healthways, Boston, MA\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\t\t\t\tOctober 2011\u2013April 2013"}
+{"text": "Java/J2EE\u00a0Developer"}
+{"text": "Description:DocLocate, this web application is an online provider directory to help find a participating health care provider. You can search in DocLocate by name, zip code, miles willing to travel, city and state, or county and state, to easily locate participating providers including physicians, hospitals, pharmacies and other healthcare professionals. Users of DocLocate can find additional information like plans accepted by each doctor, medical schools attended, board certification status, languages spoken, office locations, handicap access, maps and driving directions, and much more."}
+{"text": "Responsibilities:"}
+{"text": "Understand the existing business application, review and analyze the project requirements."}
+{"text": "Estimate preliminary and definitive efforts for the requirements."}
+{"text": "Developed\u00a0Use Case Diagrams, Object Diagrams\u00a0and\u00a0Class Diagrams\u00a0in UML using\u00a0Rational Software Modeler."}
+{"text": "Involved in developing applications using\u00a0Java, J2EE\u00a0and\u00a0Spring."}
+{"text": "Develop user interfaces using\u00a0JSP, HTML, CSS\u00a0and JSP tag libraries."}
+{"text": "Used\u00a0JavaScript\u00a0and\u00a0Struts\u00a0for performing front end validations."}
+{"text": "Create the configuration files like\u00a0web.xml, spring.xml, struts-config.xml and validation.xml\u00a0files."}
+{"text": "Implement\u00a0Dependency Injection\u00a0in\u00a0Spring"}
+{"text": "Create\u00a0Controller\u00a0classes\u00a0and implemented\u00a0Model\u00a0and\u00a0View, View Resolvers\u00a0and the created configuration file,\u00a0dispatcher-servlet.xml\u00a0for various modules."}
+{"text": "Implement\u00a0DAO\u00a0classes using Spring Hibernate ORM."}
+{"text": "Create\u00a0Hibernate POJO\u00a0and mapped using Hibernate mapping files (.hbm)."}
+{"text": "Develop\u00a0REST-ful style Web Services layer to interface with DB2 and AJAX."}
+{"text": "Writing service methods and\u00a0SQL queries, PL/SQL to interact with the DB2."}
+{"text": "Write\u00a0Triggers, Stored Procedures,\u00a0functions\u00a0and also designing and documenting them."}
+{"text": "Developed test scripts to automate process of testing in Selenium WebDriver"}
+{"text": "Used design patterns like\u00a0Business Delegate, Singleton, SessionFactory, DAO."}
+{"text": "Implement\u00a0Agile methodology\u00a0and\u00a0Scrum\u00a0software development process."}
+{"text": "Developed\u00a0Maven\u00a0scripts to build the J2EE application."}
+{"text": "Used\u00a0LOG4J, JUnit\u00a0for debugging, testing and maintaining the system state."}
+{"text": "Used\u00a0SVN\u00a0to track and maintain the different version of the application."}
+{"text": "Environment:\u00a0Java, Spring, Struts, Hibernate, AJAX, jQuery, JSP, JavaScript, CSS, RESTful Web Services, JAXB, Maven, Log4j, JUnit, Selenium, Rational Software Modeler, IBM WebSphere 6.1, SQL Server 2005, IBM-DB2 client, UML, Tortoise SVN."}
+{"text": ""}
+{"text": "Aetna, Hartford, CT\t\t\t\tAugust 2010 \u2013 October 2011"}
+{"text": "J2EE Developer"}
+{"text": "Description: Customer Care Web Applicatio,Aetna is one of the nation's leading diversified health care benefits  companies, serving members with information and resources to help them make better informed decisions about their healthcare . I had involved in developing a customer care web application to provide the solution of Customer Complaints, Interaction through e-mail, Providing Information, Provide the Benefits."}
+{"text": "Responsibilities:"}
+{"text": " Involved in system architecture designing, development, integrating, testing and   implementing."}
+{"text": " Preparing/Reviewing Use cases, UML diagrams and Code reviews."}
+{"text": " Developed the Presentation Layer Technologies using JSF."}
+{"text": " Designed, developed and maintained the data layer using the ORM framework called Hibernate."}
+{"text": " Involved in the Creation and documentation specification and interacting with the business users."}
+{"text": " Used Spring Framework with Hibernate to map to Oracle database."}
+{"text": " Developed set of persistent classes using Hibernate API in the data layer for data manipulation."}
+{"text": " Used Hibernate persistence framework on the backend over Oracle database"}
+{"text": "Developed SQL queries and utilized stored procedures and triggers to perform transactions with the Oracle Database."}
+{"text": "Responsible for developing the common server side components generators, query builders, output helpers to generate the report."}
+{"text": "Understanding the use case document."}
+{"text": "Implemented Log4J and configured for logging to UAT and PROD Environments."}
+{"text": "Integrating the newly written code with the existing application and performing integration and        complete functionality"}
+{"text": "Worked in setting up Testing Environment and tested the project according to Business Rules and specifications."}
+{"text": "Created scripts to monitor the application health."}
+{"text": "Unit Test the application and fixed bugs. Worked along with the Testing Team."}
+{"text": "Documented the requirements and Change Requests for the application."}
+{"text": "Developed build script using ANT to build, package, test and deploy application in web logic application server."}
+{"text": "Involved in the enhancements and maintenance of the application."}
+{"text": "Integrating the newly written code with the existing application and performing integration and complete functionality testing."}
+{"text": "Integration of Front end design with server side code."}
+{"text": "Implemented quality control procedures, programming standards and documentation."}
+{"text": "Developed the JSP using custom tags, created TLD tags and tag handler class."}
+{"text": "Used validator framework of struts to implement client-side and server side validations. "}
+{"text": "Environment:JSP, Servlets, XML, XSLT, DOM, HTML, JSF, JMS, Spring, Hibernate, Java Script, Log4j, Web Logic, Eclipse, Oracle, UNIX, Windows XP"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PNC BANK, Pittsburgh, PA\t\t\t\t\t\t       Febuary 2009 \u2013 July 2010"}
+{"text": "Java/J2EE Developer"}
+{"text": "Description: Automated Enrollment Solution is one of the old web based application used by Wholesale Division of PNC  Bank to enroll corporate customers for various financial products like DDA, Cash Vault, CEO Treasury Information Reporting, Controlled Disbursement, Autolink, Gift Cards, Desktop Deposit etc. I was responsible for the development, requirement clarification and post-production support for above products."}
+{"text": "Responsibilities:"}
+{"text": "Involved in testing of the projects and fixing bugs."}
+{"text": "Developed projects with back-out ability and component level error handling."}
+{"text": "Implemented E-mail alert notification system for Cash Vault, EPNUPIC products."}
+{"text": "Assigned as deployment lead for Wave 43 for SIT, UAT, PFIX and production environments."}
+{"text": "Write document for Purge Process logic, SQL queries to delete data that is not longer needed."}
+{"text": "Developed JSP, HTML, Business Object, DAO, Action Handler, DSB, View Handler using Insync (similar to Struts), Spring and wicket framework."}
+{"text": "Developed & tested WebService URLs to write read and delete data from global repository."}
+{"text": "Clarified requirements and resolved issues from SA and BA."}
+{"text": "Provided project demo to QA, production support team, SA and BA."}
+{"text": "Developed the project using Agile/Scrum methodologies. Project was divided into different waves, each wave representing a complete working version of the product."}
+{"text": "Provided detailed code review and post-production support to production team for wave 41 to 45 projects."}
+{"text": "Participated code review, project plan development and status update meeting."}
+{"text": "Developed the project using Agile/Scrum methodologies. Project was divided into different waves, each wave representing a complete working version of the product."}
+{"text": "Developed backout& master DDL and DML PL/SQL scripts for various projects."}
+{"text": "Prepared and reviewed cost estimation for wave 43 & 45 projects."}
+{"text": "Worked on CVS NT & Subversion code repositories during development."}
+{"text": "Used JavaScript & AJAX library for client side validations."}
+{"text": "Used Apache Ant to build WAR file for deployment."}
+{"text": "Deployed application in SIT, UAT, PFIX & Production using AntHill Pro deployment tool."}
+{"text": "Used XML Schema for processing XML."}
+{"text": "Installation, Configuration & administration of Weblogic environment, including deployment of Servlets."}
+{"text": "Used CEM (Tealeaf) tool to understand user experience by capturing, analyzing and replaying details of customers' visits to find site errors or issues and understand the impact that transaction failures have on business processes."}
+{"text": "Environment: JDK 1.4 & 1.5, Agile, J2EE, XML, XSLT, Eclipse, MyEclipse, Tealeaf, Weblogic Server 8.1 & 10, Ant 1.5, TOAD, Quality Center, Oracle DB 8i, 10g, DCM, Wicket, AnthillPro, Win CVS, Tortoise CVS, TortoiseSVN, EJB 2.0, JSP, JDBC, JavaScritpt, UNIX, LINUX, JMS, Windows XP."}
+{"text": ""}
+{"text": "ACADEMIC BACKGROUND:"}
+{"text": "Bachelor of Computer Science from University District of Columbia (UDC) of Washington, DC"}
+{"text": "Bachelor of Engineering Systems from Technological Peru University of Lima, Peru                                                                  "}
+{"text": ""}
+{"text": ""}

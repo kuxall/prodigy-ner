@@ -1,0 +1,117 @@
+{"text": "Name: lucy lucy"}
+{"text": "E-Mail: lucy.lucy@gmail.com"}
+{"text": "Address: Mumbai, India"}
+{"text": "Github: https://github.com/lucy"}
+{"text": "LinkedIn: https://linkedin.com/lucy"}
+{"text": "Phone No. 6562426359"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "6 years of experience in Software design, development in.Net framework usingSQL Server 2008/2012, 3 Tier applicationusing ASP.NET MVC, HTML,CSS, JavaScript/JQuery, Angular JS, ADO.ENT, Entity Framework,LINQ, T-SQL, C#, VB.NET, Web Services, AJAX, XML and WCF, Service Oriented Architecture (SOA) with RESTful services."}
+{"text": "Extensive experience with source control systems such as Subversion,TFS andVisual Source."}
+{"text": "Extensive Object Oriented Design and Development skills."}
+{"text": "Knowledge on SQL Reporting Service SSRS, SSIS and SSAS."}
+{"text": "Experience inSoftware life cycle development and NUnittesting."}
+{"text": "Strong Skills in developing 3-Tier and N-Tier Architecture systems deployed on windows platform."}
+{"text": "Strong analyticalskills with Proficiency in debugging and Problem Solvingskills coupled with excellent written, verbal and interpersonal communication skills."}
+{"text": "Strong experience in Object Oriented Programming Concepts (OOP) and Object Oriented Design (OOD), Iterative Agile Programming Methodologies and Test-Driven Development and maintenance."}
+{"text": "Versatile team player as well as independent contributor."}
+{"text": "Ability to conceptualize, document, and communicate project ideas and plans."}
+{"text": "Enthusiastic and quick to learn new applications and tools and willing to take individual responsibilities."}
+{"text": "Good team player with strong ability to learn and adapt new skills and makes efforts to do the work at hand and manage time effectively"}
+{"text": "Experience in working with version control systems like TFS, SVN and Visual Source Safe."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": "EDUCATION"}
+{"text": "MSC, Politecnico di Milano, Italy"}
+{"text": "MSC, Adama University, Ethiopia"}
+{"text": "Bachelor of Science, Adama University, Ethiopia       \t\t\t\t\t"}
+{"text": "Certification"}
+{"text": "MCTS: Microsoft SharePoint 2010, Application Development"}
+{"text": "\t"}
+{"text": ""}
+{"text": ""}
+{"text": "Children\u2019s National Medical Center, Fairfax VA\t\t\t      Jul 2014 \u2013 Present"}
+{"text": ".NET Developer"}
+{"text": "Integrated Medical Care"}
+{"text": ""}
+{"text": "Children\u2019s National Medical Center is the premier provider of pediatric care and pediatric subspecialists in greater Washington area. I worked on the Medical Center application to keep the record of the information of patient visit to the hospital. The system involves entering the information of patient, assign appointment to doctor, also keep record of patient previous medical history, diagnosis history, generate the prescription and send the copy of it to medical store. \u00a0"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Selected and implemented agile development practices according to the application requirements for the project. "}
+{"text": "Followed Agile Methodologies and Test Driven Development."}
+{"text": "Actively involved in Database design and developed optimized stored procedures."}
+{"text": "Customized various controls for Application by developing User Controls."}
+{"text": "Used ASP.NET MVC, AJAX and updated web pages to implement the AJAX functionality to enhance the application."}
+{"text": "Developed Master Page and used the same template throughout the application to maintain consistent layout."}
+{"text": "Searching for Insurance policies depending on various search criteria is implemented as Windows."}
+{"text": "Communication Foundation (WCF) service."}
+{"text": "Created Data Access Layer for retrieving the data from the database."}
+{"text": "Used several Cache management techniques to improve the overall performance of the application."}
+{"text": "Actively involved in designing, documentation of application flows and developing functional diagrams using MS Visio."}
+{"text": "Involved in customizing the Web Forms Data grid for GUI."}
+{"text": "Developed custom controls for Web Forms and generating reports."}
+{"text": "UsedBootstrap, CSS, AJAX, Angular JS, HTML, and jQuery to improve the look and feel of the ASP.NET web application page. "}
+{"text": "Involved in creating and consuming services using WCF."}
+{"text": "Created Service Contract, Data Contract for services using WCF."}
+{"text": "Created and used Web User Controls for reusability."}
+{"text": "Used Entity Framework (EF) to establish connection with SQL server and LINQ for database transactions."}
+{"text": "Extensively worked on stored procedures, triggers, functions, views, temporary tables and table variables."}
+{"text": "Designed and developed the components for implementing business logic in middle tier of the development architecture interacting with SQLServer database using Entity Frame work/ADO.Net"}
+{"text": "Involved in the Code Review Process and testing the application using NUnit."}
+{"text": "Generated reports using SSRS, SSAS and SSIS."}
+{"text": "Used Team Foundation Server for Version Control Environment."}
+{"text": "Client-side scripting using JavaScript, JQuery and Angular JS and Ajax."}
+{"text": ""}
+{"text": "Environment: ASP.NET MVC, C#, Bootstrap, ADO.NET, WCF, MS VS 2012, SQL Server 2008/2012, TFS 2012, \u00a0\u00a0XML, \u00a0JQuery, IIS 7.5, Windows 2008, Angular JS"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Ministry of Urban Development /MUD             Addis Ababa, EthiopiaFeb 2011 - July 2013\t"}
+{"text": ".Net Developer\t\t\t"}
+{"text": ""}
+{"text": "MUD is a large federal government office in the country. The project was an intranet application to develop and manage the inventory management system. The basic aim was to maintain the inventory in an effective manner for thousands of different items for their construction projects. The system allows keeping track and processing their entire range of operations from Purchase Order Generation, Vendor Supply, Storage and control."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Developed Web forms and application logic in ASP. Net, C# utilizing the power of Microsoft .Net Framework."}
+{"text": "Used ADO.Net in connecting to Data Access management with SQL Server. "}
+{"text": "Designed and developed the C# components for implementing business logic which is used to do the transactions on database in middle tier using ADO. Net."}
+{"text": "Designed and developed the required SQL stored procedures."}
+{"text": "Handled Configuration (Session, authentication and authorization) and creating user login and privileges."}
+{"text": "Deployment of web services using C# and exposed them through SOAP and HTTP."}
+{"text": "Involved in designing UML and documentation of flows, class and functional diagrams."}
+{"text": "Conducting meetings to establish and enforce best practices and standards."}
+{"text": "Actively participated in Peer reviewing of the code for maintaining the quality of coding and application."}
+{"text": "Designed web pages using ASP.net server controls, HTML, AJAX, CSS, and JavaScript."}
+{"text": "Implemented client side validation using JavaScript and server side validation using built in ASP.net validation controls."}
+{"text": "Used Update Panel, Update Progress with Data Grids in AJAX and JavaScript"}
+{"text": "Implemented Page Level Caching (i.e. Output Caching) for more static pages."}
+{"text": "Used Team Foundation Server for version control."}
+{"text": "Environment: Visual Studio 2010/2013, .Net Framework 3.5/4.0, ASP.NET, VB6.0, C#, WCF, HTML, CSS, Ajax, AngularJS, JavaScript, JQuery ADO.Net, Entity Framework (EF), Web Services, MVC,SQL SERVER 2008R2, TFS, XML, LINQ,T-SQL, SSRS, XML, NUnit, Agile Methodologies"}
+{"text": "Maichew Technical College, Maichew, Ethiopia\t\t\tJune 2007 - Dec 2008"}
+{"text": ".Net Developer"}
+{"text": ""}
+{"text": "The aim of this project was to implement a web application, where students can register for  courses, borrow library books, view their grade, view announcements If the user is an administrator, he can add and remove courses and modify the student information. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in all phases of Software Development Life-Cycle (SDLC) for the application."}
+{"text": "Followed Agile Methodology \u2013 Extreme Programming."}
+{"text": "Used UML for object modeling."}
+{"text": "Actively involved in writing functional specifications and documentation of the project."}
+{"text": "Implemented the Object Oriented programming concepts in C# and ASP. Net."}
+{"text": "Involved in developing server-side code using ASP.Net and C#."}
+{"text": "Used HTML and Web Form Controls to create web pages."}
+{"text": "Took the leadership and participated in meetings and discussions regarding solving production issues."}
+{"text": "Developed MS SQL server Stored Procedures, Triggers, Views, and Cursors for accessing the database."}
+{"text": "Developed web and windows applications using multi-threading to run transactions successfully. "}
+{"text": "Design of ASP.NET pages including Master and Navigation pages."}
+{"text": "Design and Development of various Web Server Controls including Data List, Grid View, Validation Controls."}
+{"text": "Used Data Access Controls, XML, and XSL to display data from the database."}
+{"text": "Used Dataset, Data Table, Data Adapter controls for some web pages."}
+{"text": "Developed codes in Data access layer for retrieving and storing data to and from the database using ADO.NET connectivity controls."}
+{"text": "Developed partial post back validations to manipulate data on web pages using AJAX."}
+{"text": "Developed dynamic partial page updates using AJAX and added AJAX features to the existing web applications."}
+{"text": "Involved in unit testing and integration testing of the application."}
+{"text": "Used Visual Source safe extensively for version control of the source code along with the maintenance of the builds and the relevant documents of the same."}
+{"text": "Environment: C#. NET, ASP.NET, ASP, .NET Framework 3.5, VB 6.0, Web Forms, HTML, SQL server 2005, ADO.NET,AJAX, Visual Studio 2005,Visual Source safe."}
+{"text": ""}

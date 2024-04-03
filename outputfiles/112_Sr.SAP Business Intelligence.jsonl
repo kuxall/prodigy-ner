@@ -1,0 +1,166 @@
+{"text": "Name: ruth ruth"}
+{"text": "E-Mail: ruth.ruth@gmail.com"}
+{"text": "Address: Philadelphia, United States"}
+{"text": "Github: https://github.com/ruth"}
+{"text": "LinkedIn: https://linkedin.com/ruth"}
+{"text": "Phone No. 598363080399"}
+{"text": "   \t"}
+{"text": "\t\t\t\t"}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": ""}
+{"text": "IT professional with over 8 years of working experience in different technologies including Business Intelligence, BW, HANA "}
+{"text": "Strong working experience in all of Business Objects Analytical tools using different versions of Business Objects Enterprise (6.5/XIR2/R3.x/4.x), Crystal Reports XI/2008/11"}
+{"text": "Worked with different databases including SQL Server, Oracle, Teradata, BMC Remedy 7.5/8.1"}
+{"text": "Experience in working with BI project development agile methodology including Analyze, Specify, Design, Plan, Develop, Test and Deploy projects.  "}
+{"text": "Created parameterized, Cross-tab, Drill down and Summary reports in Crystal Reports. "}
+{"text": "Streamlined client reporting requirements and successfully developed and delivered Business Objects Universes and Webi reports based on Business requirements."}
+{"text": "Business Objects Migration experience migrating contents from older versions to newer versions of Business Objects Enterprise."}
+{"text": "Expertise in gathering business requirement by interacting with client directly and creating business requirement specification document, design and functional documents. "}
+{"text": "Expert in handling SAP BW Front end tool Bex Analyzer, Query Designer, Report Designer and Web Application Designer (WAD)."}
+{"text": "Expert in generating reports on the Multi Providers, Info Providers and Info Cubes using Restricted/Calculated Key Figures, Structures, Characteristic/Text/Formula Variables, Exceptions, Conditions."}
+{"text": "Designed and developed flexible Bex queries, utilizing variables, conditions, exceptions, and hierarchies in Query Designer and Bex Web Application Designer. Conducted performance tuning of Queries by maintaining Aggregates, Compression."}
+{"text": "Involved in Full development life cycle while developing contents (building Universes and creating Reports) for different projects and different clients."}
+{"text": "Expertise in creating Universes using database tables, Stored Procedures, free hand SQL, Bex Queries, HANA Tables/views and developed complex ad-hoc and canned Reports using Web Intelligence/Crystal Reports/Analysis Edition for OLAP/SAP Lumira/Design Studio"}
+{"text": "Expertise in building/enhancing/migrating Business Objects universes and moving contents from one environment to another (i.e. Dev, QA, UAT, Prod) using Promotion Management Tool or Import Wizard/Upgrade Management Tool"}
+{"text": "Business Objects Administration experience working with CMC to support existing BOE Environment."}
+{"text": "Created complex Dashboards by using different data sources like Live Office, Qaaws, BI web services"}
+{"text": "Involved in POC of Xcelsius/Live Office to the client, also trained users on Business Objects functionality and tool set."}
+{"text": "Mentored and helped developers to enhance their skills in using BI tools and utilize them following best practices."}
+{"text": "Used Tableau desktop for blending databases and creating different interactive views and dashboards"}
+{"text": "A self-motivated and self-directed person with Excellent Communication, interpersonal skills and ability to work under Tight Schedules."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE "}
+{"text": ""}
+{"text": "Client: Cargill Inc, Hopkins, MN"}
+{"text": "Role: Sr.SAP Business Intelligence/Business Objects Consultant                     \t\t\t       "}
+{"text": "Apr 2015\u2013(Till Date)"}
+{"text": ""}
+{"text": "Interacted with Business users/Project Managers to better understand reporting requirement and to purpose solutions."}
+{"text": "Involved in development of existing Universes and reports in Business Objects 4.1 environment by adding Dimension/Characteristics, Measures/Key Figures, Contexts and Custom Objects."}
+{"text": "Developed additional new Universes such as ITSM Cargill Incident Mgmt/Change Mgmt/Problem Mgmt/Task etc in UDT/Information Design Tool(IDT) using Relational/Multidimensional/HANA Views as a source"}
+{"text": "Design and Developed flexible BEx queries, utilizing variables, conditions, exceptions, and hierarchies using Query Designer. And, request newly developed objects to Transport them to QA and Production System."}
+{"text": "Design and developed complex adhoc and canned reports in BI Launchpad 4.1 for Incidents, Service request, Change/Problem request raised by Organizations globally. Used multiple data providers, Union, cross tab, Pie/Line/Column Charts."}
+{"text": "Developed reports on the Multi Providers, Info Providers and Info Cubes using Restricted,  Calculated Key Figures, Structures, Characteristic Variables, Formula Variables, Exceptions, and Conditions define in BEx queries."}
+{"text": "Created Content groups in CMC for different Universes to provide respective access (Supervisor and Consumer) to the end users based upon Job role to access the reports in BI Launchpad 4.1"}
+{"text": "Used Central Management Console (CMC) in setting up security in BO 4.1 and also manages security configuration for various reports and universes in development, test and production environment. Monitoring of jobs in CMC and resolving them as need."}
+{"text": "Published universes and reports documents to the repository as part of the production deployment and made them available to the users using Promotion Management tool"}
+{"text": "Involved in production support during and/or after office hours on Incidents/Service Requests report tickets with Critical/High/Medium/Low priorities on daily basis running against remedy 7.5/8.1/SAP BW/Oracle databases and data analysis on data related issues to team members and end users."}
+{"text": "Design and developed Production Assurance dashboard in Dashboard using BI Web services which Provides executive summary information on Incidents/Service request/Change/Problem tickets, and monitoring accuracy of data reflecting on the dashboard on a daily basis for Global IT Infrastructure"}
+{"text": "Scheduled business reports on a Monthly/Weekly/Daily basis and distributed reports in multiple formats such as Excel/PDF/Webi URL to business users and file share location."}
+{"text": "Design and developed adhoc reports(Raw Data) for Incidents/Change/Problem request using Remedy 7.5/8.1 Reporting tool"}
+{"text": "Created reports using Crystal Reports with Standard, Summary, and Cross Tabs and Grouping. Maintained and Supported existing Crystal Reports for enhancements, modifications"}
+{"text": "Responsible for improving the query performance of the reports by tuning the Queries and creating business views."}
+{"text": "Design adhoc reports for business users using Analysis Edition for OLAP for data analysis"}
+{"text": "Developed interactive dashboards in SAP Lumira/Design Studio/Tableau for data visualizations as per business needs"}
+{"text": "Worked with DBA to tune the report queries for improving performance of the reports "}
+{"text": "Coordinated with Off-shore team on the project development, validation and deployment of the Universes and reports."}
+{"text": "Presented the advanced features of Business Objects to Customers/Users and developers in developing various adhoc reports in BI Launchpad 4.1 "}
+{"text": ""}
+{"text": "Environment:  SAP BW 7.3, SAP BI/Business Objects 4.1, SAP HANA, Crystal Reports 2011, Dashboard, Oracle 11g, and BMC Remedy 7.5/8.1, Oracle-SQL Developer, and SAP Lumira1.27, Tableau 9.0, Analysis Edition for OLAP, Design Studio 1.5"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Client: UAB, Birmingham,AL\t  "}
+{"text": "Role: Business Objects Developer\t\t\t\t\t\t\t\t        "}
+{"text": "Jan 2013 \u2013Mar 2015"}
+{"text": ""}
+{"text": "Interacted with Business user community to gather and analyze the business requirements in developing and modifying Universes and building the reports. "}
+{"text": "Created Single & Multi Source Universes based on Relational and OLAP connections from scratch using Information Design Tool (IDT) and also modified existing Universes based on reporting requirements."}
+{"text": "Improved the performance and reduced the coding with the use of @functions like @Prompt(for user defined queries), @Where (for creating conditional filters), and @Select (to create duplicate objects) in the process of building the Universes(UDT & IDT)."}
+{"text": "Provided recommendations in Analyzing, Design, Implementation and administration of  security models with row level data security, role based security etc in Universes and Central Management Console (CMC)"}
+{"text": "Design and developed various ad-hoc and canned reports using BI Launchpad 4.1 and Webi Rich Client on Market and Regions for marketing team to do trend Analysis, using new features as well such as Element Linking, Stacked Bar/Column Chart, Heat Map, Tree Map, Bubble Chart etc."}
+{"text": "Used Crystal Report 2008 Enterprise to design the front end reports."}
+{"text": "Migrated the Crystal Reports, Universes, Webi Reports, Users and User Groups  from BO XI to BO 3.1 using Import Wizard and from BO 3.1 to BO 4.1 using Upgrade Management Tool"}
+{"text": "Extensively used Central Management Console (CMC) in setting up security in BO 4.1 and also manages security configuration for various reports and universes in development, test and production environment"}
+{"text": "Migrated the Universes, reports, Users, User Groups in BO 4.1 from Development to Quality environment and Quality to Production environment using Promotion Management Tool and made them available to business users"}
+{"text": "Interacted with DBA/ETL team to implement report logics at Database/ETL Level to improve performance of the reports."}
+{"text": "Developed Operation Dashboards for summary level data analysis in Dashboard(Xcelsius) using Qaaws for Higher level Management to Monitor Project/Budget allocation"}
+{"text": "Assisted Business Objects user community with day to day Business Objects guidance/issues "}
+{"text": "Developed interactive dashboards in Design Studio to show summary level data based on business requirements."}
+{"text": "Create the simple reports/Dashboards in SAP Lumira and Business Objects Explorer to show the user experience plus the layouts which met the business requirements."}
+{"text": ""}
+{"text": "Environment: Business Objects 4.1/3.1/XI, Crystal Reports 2008, Dashboard 4.0, Windows R2008, Oracle 11g, SQL Server 2008, SAP Lumira (Data Visualization)1.18, Design Studio1.2, Business Objects Explorer, asp.Net, Tableau 8.1"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Fidelity Investments, Durham, NC\t  "}
+{"text": "Role: Business Objects Consultant\t\t                            "}
+{"text": "Aug 2011-Dec 2012"}
+{"text": ""}
+{"text": ""}
+{"text": "Actively worked with Business Users/Managers in gathering reporting requirements and Converting business requirements into functional requirements"}
+{"text": "Modified the existing Universes by adding Dimensions, Measures, Custom Objects and Contexts, using star schemas and snowflakes as source for these universes. Used @functions (@select, @aggregate aware, @where, and @prompt) to create predefined conditions, and prompts to filter the data in the universes."}
+{"text": "Design additional new Universes for eDelivery, National Financial, Service Center, StreetScape etc for ad-hoc reporting. "}
+{"text": "Develop, Test and enhance existing Business Objects 3.1/4.0 Universes & Reports, including modifying, testing and exporting to the Repository."}
+{"text": "Created Content groups in CMC for different Universes to provide respective access (Owner, Power User, and Consumer) to the end users based upon Job role to access the reports."}
+{"text": "Worked extensively with the major functionality of Business Objects like Breaks, Sections, Alerter, Filters, Sorts, Query Prompt, User response function etc"}
+{"text": "Created reports using Crystal Reports with Summary and Cross Tabs, and also modified the existing Crystal Reports as per business needs."}
+{"text": "Used Toad/Aginity  to verify data pulled by the report is correct compared to the database data and also to verify the joins used in designing the Universe are correct"}
+{"text": "Presented the advanced features of Business Objects 4.0 to users and developers to enable them to develop queries and reports easily. "}
+{"text": "Involved in conversions of Brio reports into Webi reports"}
+{"text": "Worked with DBA to tune the report queries for improving performance of the reports."}
+{"text": "Involved in developing FI Release Management dashboard using Xcelsius/Dashboard for Quality Center department"}
+{"text": "Involved in user training on Xcelsius/Dashboard and live office, Qaaws, BI Web services "}
+{"text": "Design and developed FIT Management Dashboard for higher level management to view IM/PM/CM Tickets, project allocation using Qaaws."}
+{"text": "Involved in Production Support during and/or after office hours on technical Business Objects related issues and/or data analysis on data related issues to team members/business users. "}
+{"text": "Resolved Incident Management tickets to support production environment on a daily basis."}
+{"text": "Scheduled business reports on a daily/Weekly/Monthly basis and distributed reports in multiple formats such as Excel/PDF/Webi URL to users and SharePoint location."}
+{"text": "Coordinated with Off-shore team on the project development, validation and deployment of the Universes and reports."}
+{"text": "Involved in Migration process from Business Objects XI 3.1 to 4.0"}
+{"text": "Provided complete documentation(Hard cards) to help users in developing various reports using different functionalities and methods used in creation of reports in BI Launchpad 4.0 "}
+{"text": ""}
+{"text": "Environment: Windows XP/7, Business Objects 4.0/3.1 tools (Designer and Business Object-Report), Unix/Linux, Hyperion Brio, Dashboards4.0, Crystal Reports XI/2008, Oracle 10g/11g, SQL Server 2008,Netezza 6/7, DB2"}
+{"text": ""}
+{"text": " "}
+{"text": " Client: Fifth Third Bank, Cincinnati, OH\t  "}
+{"text": " Role: Business Objects Developer                                                                         "}
+{"text": " Nov 2009 - July 2011"}
+{"text": ""}
+{"text": "Involved in gathering reporting requirements and analyzing existing legacy system."}
+{"text": "Modify the existing marts by adding dimensions or measures as needed."}
+{"text": "Created classes, subclasses and objects including complex measure objects according to the business requirements from the Universe schemas and database tables"}
+{"text": "Created Custom Hierarchies for several groups in Universe and also provided row level security for the end users."}
+{"text": "Worked extensively with (@select, @aggregate aware, @where, and @prompt) to overcome the problems with database when integrating with Business Objects."}
+{"text": "Coordinated with the ETL team to discuss the business rule/logic used to develop mapping and processes to populate the marts/tables."}
+{"text": "Create standard reports in Business Objects as per the specs finalized. Most of these reports are complex reports having multiple data providers and use advance formatting like Sections, Master Detail and Cross-tab."}
+{"text": "Developed complex Crystal Reports like sub-reports, Drill-down, Dynamic Grouping, Cross-Tab, Graphical, On-Demand, Ad-Hoc Reports, Frequency Reports, Summary reports, Linked reports, Mailing labels, Aging reports"}
+{"text": "Responsible for Business Objects Universe development, support and enhancement for major business units"}
+{"text": "Used AQT (Advanced Query Tool) to verify data pulled by the report is correct compared to the database data and also to verify the joins used in designing the universe are correct"}
+{"text": "Interact with the users to get approval of the developed reports, Promote reports in the production environment through Change Management."}
+{"text": "Modified the existing Universes by merging different Classes, resolved the Loops and Chasm Traps by context."}
+{"text": "Design and developed flexible BEx queries based on business reporting requirements"}
+{"text": "Depending on the business requirements created Universes against SAP BW (BEx Queries) and Oracle data bases."}
+{"text": "Developed BO webi reports against Universes build on top of BEx queries."}
+{"text": "Provided production support during and/or after office hours on technical Business Objects related issues and/or data analysis on data related issues to end users. "}
+{"text": "Created interactive dashboards in Xcelsius with summary level data for higher management"}
+{"text": "Designed and developed dashboards/Scorecards using Query as a Web Service (Qaaws) in Xcelsius"}
+{"text": ""}
+{"text": "Environment: SAP BI 7.0, SAP ECC 6.0, Windows 2000 x, Business Objects 3.1,Crystal Reports 2008, Xcelsius, Oracle 9i/10g, Teradata, DB2 Database, Hyperion Essbase 11.1"}
+{"text": ""}
+{"text": " Client: Hibbert Group, Trenton, NJ"}
+{"text": "Role: Business Objects/Crystal Report Developer                                           "}
+{"text": "July 2007- Oct 2009"}
+{"text": "Involved in user training, trained users on InfoView and Xcelsius Applications, and provided technical guidance to users."}
+{"text": "Wrote functional specification documents for the project scope to be created in security to be implemented in Business Objects XI R 3.1  "}
+{"text": "Created universes with Classes and Objects for Investment management system. "}
+{"text": "Created universe on top of views build in composite coming from multiple data sources."}
+{"text": "Worked extensively with @functions (@select, @prompt, @where) in designer, created optional prompts, also created objects using complex case functions."}
+{"text": "Addressed chasm trap and Fan Trap using Multi Parse SQL. Resolved Loops using Aliases and Context."}
+{"text": "Created Multiple Custom Hierarchies for several groups to provide drill across functionality."}
+{"text": "Responsible for maintenance existing universes, Webi reports and Crystal reports."}
+{"text": "Extensively involved in developing Web Intelligence reports, publications, scheduling and monitor publications."}
+{"text": "Implemented Row level restriction for managers profiles using designer."}
+{"text": "Resolved tickets to support production environment, Modified and tweaked report content and distributed reports in multiple formats such as Excel/PDF/Webi "}
+{"text": "Used @aggregate aware () function and Aggregate tables for optimized query performance. "}
+{"text": "Developed reports using Crystal Reports with Standard, Summary, and Cross Tabs and Grouping. Used conditional formatting as per business user reporting requirement in Crystal reports."}
+{"text": "Created Webi Reports with multiple variables (Context) at report level to meet complex business requirements."}
+{"text": "Provided user training documents for basic implementation. Design and create User guide and Training Guides."}
+{"text": ""}
+{"text": "Environment:  Business Objects XI R 3.1, Crystal Reports XI, ITSM Software, Hyperion Essbase, SQL Server 2000, Oracle 9i, and UNIX."}

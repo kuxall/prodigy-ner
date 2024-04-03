@@ -1,0 +1,126 @@
+{"text": "Name: gladys gladys"}
+{"text": "E-Mail: gladys.gladys@gmail.com"}
+{"text": "Address: Yuncheng, China"}
+{"text": "Github: https://github.com/gladys"}
+{"text": "LinkedIn: https://linkedin.com/gladys"}
+{"text": "Phone No. 644789045322"}
+{"text": ""}
+{"text": "Over 8 years of experience in Software Development Life Cycle (SDLC) and Agile methodology including Analysis, Design, Development, Testing, Implementation, Migration, Enhancement and Support of BI applications which includes experience in Data Warehousing (ETL\u00a0& OLTP/OLAP) environment as a Data Warehouse Consultant"}
+{"text": "5+ Years of experience in MS SQL SERVER 2014/2012, 2008R2/2008/2005 Database Administration in Production, Test and Development environment. "}
+{"text": "Experience in Installing, Upgrading and Migrating databases in and from SQL Server 2014/2012/2008R2\\2008\\2005."}
+{"text": "Experience in Design and develop database objects, tables, stored procedures, views, triggers and SSIS packages"}
+{"text": "Experience on Installing, configuring and supporting solutions on Microsoft Business Intelligence tools"}
+{"text": "Hands on Exp  on  database query optimizations and large datasets"}
+{"text": "Experience in designing and developing mappings and applying various transformations such as lookup, source qualifier, update strategy, router, sequence generator, aggregator, rank, stored procedure, filter, joiner and sorter."}
+{"text": "Good working knowledge of T-SQL with using DDL/DML, Subqueries, Inner queries, Nested joins, Clustered/Non clustered Index, Common table expression (CTE) etc.\u00a0"}
+{"text": "Proficiency in Complete\u00a0ETL\u00a0Lifecycle from end to end and Data validation.\u00a0"}
+{"text": "End to end experience in designing and deploying data visualizations using Tableau."}
+{"text": "Build and manage the experience design process, workflow, and integration with agile with SDLC\u00a0"}
+{"text": "Generation of Dashboards with Quick filters, Parameters and sets to handle views more efficiently in Tableau."}
+{"text": "Knowledge of System Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC)."}
+{"text": "Extensive Tableau Experience in Enterprise Environment and Tableau Administrator Experience including technical support, troubleshooting, report design and monitoring of system usage. "}
+{"text": "Experience in Analysis, Design, Development, Testing and Maintenance, Capacity Planning, Performance support of application systems of OLTP and OLAP databases in the client-server, internet\\internet environments."}
+{"text": "Expertise in installing Slipstreams, rolling patches, rolling upgrades in Clustered Environment."}
+{"text": "Good knowledge on new features Data Compression, Transparent Data Encryption (TDE), Resource Governor, Policy Based Management, Backup Compression and Change data capture in SQL SERVER 2008. "}
+{"text": "Hands on experience Design, develop, and implement interactive visualizations by processing and analyzing large datasets\u00a0"}
+{"text": "Designed AutoSys based solutions for communication of issues to technical teams."}
+{"text": "Participated in complete process of functionality testing of all versions of AutoSys applications."}
+{"text": "Communicated with team members for regular updating of software product development packages for Solaris and Linux systems."}
+{"text": "Designed/Implement solutions from Requirements Documentation using best practices, latest methodologies and technologies.\u00a0"}
+{"text": "Turn data into clear visualizations and provided end-users an ability to view related data in new and innovative ways\u00a0"}
+{"text": "Technical skills"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Footlocker, Camphill, PA     \t\t\t\t                                                                                   Jan 2016- Present"}
+{"text": "Sql Database Developer"}
+{"text": "Responsibilities:"}
+{"text": "Installation, Configuration, Upgrade, patching of Oracle RDBMS and applications Work on\u00a0IBM z/OS\u00a0with\u00a0OEM Grid control\u00a0to maintain the database effectively.\\"}
+{"text": "Setup and configured Oracle Physical Standby database (Data Guard) for disaster recovery as well as to offload the running of huge reports."}
+{"text": "Tuning T-SQL queries to improve performance"}
+{"text": "Assisted in configuration, development and testing of AutoSys JIL and other scripts."}
+{"text": "Responsible for developing various\u00a0data\u00a0connections to Oracle, Hadoop, Hawq and Pivot. Also have experience in connecting with denies.\u00a0"}
+{"text": "Responsible for creating views based on user and/or reporting requirements, wrote Teradata\u00a0"}
+{"text": "Performed\u00a0Cloning/Refresh\u00a0to setup Test and Development database"}
+{"text": "Installing, configuring, deploying, administering, maintaining, tuning, and upgrading databases on an Amazon Web Services platform. Databases currently reside in\u00a0Redshift\u00a0and Oracle\u00a0"}
+{"text": "Installing, configuring, deploying, and maintaining Informatica PowerCenter and PowerExchange with CDC.\u00a0"}
+{"text": "Installed and configured SQL Server 2014/2012 Enterprise and standard edition in the production/ Development and test environment and applied latest service packs and security fix servers."}
+{"text": "Configured SQL Server Mirroring for High Availability across all production servers in SQL Server 2008 R2. "}
+{"text": "Involved in migration of databases from SQL Server 2008 R2 to SQL Server 2012. "}
+{"text": "Configured mirroring on SQL Server 2012 Data Bases."}
+{"text": "Involved in migration of databases from SQL Server 2008 R2 to 2012 and SQL Server 2012 to 2014 "}
+{"text": "Implemented High Availability in SQL 2012 by configuring Always On Availability groups across Windows Server Failover Clustering using Failover Clustering Instances "}
+{"text": "Worked on pre-live BCP exercise to make sure mirroring will work after live migration."}
+{"text": "Implemented Log Shipping for warm backup solution for MS SQL Server databases."}
+{"text": "Understanding and converting business requirements into functional requirements doc, review and sign off with the customer. "}
+{"text": "Perform Impact analysis and provide optimal solutions to the Client, Business users. "}
+{"text": "Developed and Optimized\u00a0Stored Procedures, Views and User-Defined Functions\u00a0for the Application. "}
+{"text": "Extensively worked on Profiler, Perfmon Counters, DMVs, DMFs and DTA to tune the databases, servers and query tuning. "}
+{"text": "Used DMV's to diagnose problems and monitor health of server instance. "}
+{"text": "Rebuilding indexes with different fill factors and update statistics manually. "}
+{"text": "Detected and Resolved Locks and Deadlocks using the Trace Flags Tand Native tools like Profile and the Activity Monitor. "}
+{"text": "Installing/administrating\u00a0SQL Server Reporting Services (SSRS), creating schedule reports and delivering via email."}
+{"text": "Scheduled weekly jobs and Maintenance tasks for better performance, created the alerts with Database Mail SMTP. "}
+{"text": "Used Quest Foglight and Quest Spotlight tools to monitor SQL Server Performance and to generate Performance reports. "}
+{"text": "Configured Transitional Replication (Creating Distribution Databases, updating Publishers, creating & managing Publications, managing Replication monitors) and troubleshoot replication issues."}
+{"text": "Used SQL server Profile to identify and analyze deadlocks. "}
+{"text": "Recovering the databases from backup in disasters. Implementing Point-In-Time Recovery solutions. "}
+{"text": "Perform Impact analysis and provide optimal solutions to the Client, Business users. "}
+{"text": "Design/Build Extract Transform Load procedures in SQL Server Integration Services "}
+{"text": "Created reports using SSRS from OLTP and OLAP data sources and deployed on report server."}
+{"text": "Migrated database from SQL Server 2008 R2 to SQL Server 2012. "}
+{"text": "Worked extensively in performance tuning of databases including query tuning, server tuning. "}
+{"text": "Created and scheduled maintenance plans for Database backups, log backups and cleanup. "}
+{"text": ""}
+{"text": "T .Mobile Seattle WA\t\t\t\t\t\t\t                                                   Aug 2014-Dec 2015"}
+{"text": "SQL Server DBA/ Application DBA"}
+{"text": "Responsibilities:"}
+{"text": "Created new procedures, functions, triggers, packages, and SQL*Loader scripts, and modified existing codes, tables, views, and SQL*Loader scripts"}
+{"text": "Incorporated business rules and constraints and created new tables for all modules."}
+{"text": "Worked on claims processing reports on investigation and payment."}
+{"text": "Generated claims report weekly, monthly and yearly."}
+{"text": "Strong Experience in implementing Data warehouse solutions in Amazon\u00a0Redshift, Oracle and SQL Server."}
+{"text": "Worked on reports to give parallel comparison of different-2 fiscal year of claims."}
+{"text": "Fine-tuned long running claims reports."}
+{"text": "Developed expense reports to provide claims from accessing different-2 tables."}
+{"text": "Wrote heavy stored procedures using dynamic SQL to populate data into temp tables from fact and dimensional tables for reporting purpose."}
+{"text": "Tuned SQL queries to improve response time."}
+{"text": "Wrote UNIX shell scripts to run SQL scripts daily."}
+{"text": "Fine-tuned SQL queries using hints for maximum efficiency and performance."}
+{"text": "Developed Claims reports that would produce Excel outputs for users."}
+{"text": "Developed a customer data warehouse to understand customer behavior to various Claims related programs and identify critical customers in support of improved decision-making across the organization"}
+{"text": "Extensively worked in performance tuning of programs and processes."}
+{"text": "Worked closely with Administrator for proper backup and recovery plans."}
+{"text": "Monitored performance and changed performance requirements through application of Database tuning and performance optimization techniques."}
+{"text": "Worked under tight schedules for successful development and implementation."}
+{"text": "Client: Virtusa Consulting, Hyderabad, INDIA\t\t\t\t                                                Sep 2010-  May 2014"}
+{"text": "Oracle PL/SQL Developer\u00a0                     "}
+{"text": "Responsibilities:"}
+{"text": "Installing and configuring Windows and SQL clusters including 3 node clusters, 4 node clusters, and adding a node to an existing cluster. "}
+{"text": "Involved in the migration of databases from SQL server 2005 to SQL server 2008 R2."}
+{"text": "Implemented and configured Central Management Servers to centralize and manage about 30 instances of SQL Server 2008 R2 and SQL 2005."}
+{"text": "Implemented Data Collector and Data Management Warehouse to collect performance data of all the SQL instances."}
+{"text": "Enabled Transparent Data Encryption on critical databases."}
+{"text": "Configured Transactional Replication and Log Shipping with SQL Server Management Studio as well as basic account management and troubleshooting with connectivity, security and firewall issues."}
+{"text": "Configured SSRS using configuration manager, created and maintained security roles and created new reports."}
+{"text": "Deployed SSAS cubes to the server and created security roles."}
+{"text": "Created and scheduled maintenance plans (database and log backups and cleanups)."}
+{"text": "Used server scoped DMV\u2019s and database scoped DMV\u2019s to trouble shoot issues."}
+{"text": "Identified and analyzed deadlocks in databases using SQL Server Profiler."}
+{"text": "Responsible for creating the Entity-Relationship diagrams, Class diagrams, Sequence diagrams and Flow diagrams using Visio 2002 and documenting the project architecture."}
+{"text": "Trouble shooting and fine-tuning of databases for its performance and concurrency."}
+{"text": "Backing up the databases and restoring them in different environments."}
+{"text": "Recovering the databases from backup in disasters. Implementing Point-In-Time Recovery solutions."}
+{"text": "Created stored procedures, views, triggers, user defined functions to apply business rules to the data."}
+{"text": "Worked on replication and Change Data Capture."}
+{"text": "Responsible for creating the\u00a0reports\u00a0based on the requirements using\u00a0SSRS."}
+{"text": "Responsible for maintaining versions of source code using Team Foundation Server."}
+{"text": "Involved and communicated test results for application level testing, and Integration Testing."}
+{"text": "Involved in writing System Documentation and Code Documentation. "}
+{"text": ""}
+{"text": "Environment: Oracle 9i, PL/SQL, Forms/Reports 9i, HTML, PowerBuilder, SQL*Plus, Oracle Designer and Toad, UNIX (HP-UX 11.11)"}
+{"text": ""}
+{"text": "Education Qualifications:\nBachelors from Kakatiya University in 2009 with 3.5 GPA\nMasters from Virginia International university 2015 with 3.9 GPA"}
+{"text": ""}
+{"text": "\n"}
+{"text": ""}

@@ -1,0 +1,137 @@
+{"text": "Name: marie marie"}
+{"text": "E-Mail: marie.marie@gmail.com"}
+{"text": "Address: Bijie, China"}
+{"text": "Github: https://github.com/marie"}
+{"text": "LinkedIn: https://linkedin.com/marie"}
+{"text": "Phone No. 622113695972"}
+{"text": ""}
+{"text": "                                                      "}
+{"text": "Professional Summary:"}
+{"text": ""}
+{"text": "Over 9+ years of experience as a Software Quality Assurance and Programmer Analyst with Healthcare IT Industries."}
+{"text": "Experience in Managed Healthcare system prime focus on Enrollment, RT Eligibility Enquiry, Claims Adjudication, and RT Claim Status for different providers and payers."}
+{"text": "Experience in planning, designing, developing and deploying testing strategies for large-scale Web applications, Enterprise Data Warehouse (EDW), Mainframe, Electronic Data Interchange (EDI) and Client/Server systems."}
+{"text": "Experience with testing for HealthCare applications like Trizetto Facets, Automated Enrollment applications like AE v2, TPM, Business Objects , BAM(Business Accounting Management) Dashboard and for Clearing House OPTUM (Healthy-E-Network), ACE, Claredi for EDW ODS, Client Portal, TMG Operation Dashboard (ODM) included all CH transactions (270, 271, 276, 277, 820, 834, 837 and 835)."}
+{"text": "Adequate knowledge in Managed Healthcare Administration \u2013 Automated Enrollment, Clearing House Process (auto adjudication), HIPAA Compliance 4010/5010, TriZetto Facets, EDI Transactions for Medicare, Medicaid, Commercial and Federal Health Plans(Tricare)."}
+{"text": "Experience on designing and developing the quality assurance testing solution for Commercial, Medicare, and Medicaid Provider and Payers integration into Trizetto Facets 5.10, 5.0, 4.81, 4.71, 4.5, 4.3 and EDI X12 healthcare transactions."}
+{"text": "Strong analytical and QA/ testing skills, capacity for work and diagnostic ability, extensively covered Agile and Waterfall models of SDLC"}
+{"text": "Experience with applications based on Pega PRPC, TIBCO, EDIFECS, CLAREDI, ACE, and IEDI."}
+{"text": "Experience in troubleshoot file transmission problems with EDI transactions like 834, 824, 820, 837, 835, 276, 277, 278,  270, 271 related inquires and enforce HIPAA guidelines with ANSI X12 Version 4010, 5010."}
+{"text": "Experienced in Smoke Testing, Functional Testing, Regression Testing, Back-end Testing, Ad-Hoc Testing, Sanity Testing, End2End Testing, Unit Testing, Beta Testing, Alpha Testing, Load testing, Performance testing and contributed in User Acceptance testing."}
+{"text": "Experience in Data Analysis, Data Validation, Data Cleansing, Data Verification and identifying data mismatch."}
+{"text": "Experienced with other QA onshore/offshore testing resources across the world like India and Philippines."}
+{"text": "Experience in web services testing Service Oriented Architecture (SOA), Enterprise Bus Service(EBS) with HTML, XML, and JSon for REST WADL, WSDL in SoapUi."}
+{"text": "Experienced in the Bug Reporting, Bug Tracking and Analysis according to the Defect management process."}
+{"text": "Highly proficient in working with manual and automated testing tools like Mercury (HP) Interactive Test Suite (Win Runner 7.0, QTP 10.0, Rational Test Manager, Quality center 8.2, ALM 11/12.00) and Rally "}
+{"text": "Experience in Backend Testing using SQL statements on MS SQL and Oracle servers."}
+{"text": ""}
+{"text": "Education: "}
+{"text": "BTech in Computer Science"}
+{"text": "MTech in Computer Science\t"}
+{"text": "Certifications:"}
+{"text": "PAHM (Professional, Academy Healthcare Management)"}
+{"text": "ISTQB (International Software Testing Qualifications Board)"}
+{"text": "OCP (Oracle Certified Professional) Oracle 9i, SQL, PL/SQL, Forms, Reports"}
+{"text": "Certificate in DBMS"}
+{"text": "Certificate in Computing"}
+{"text": ""}
+{"text": "Professional Work Experience:"}
+{"text": ""}
+{"text": "TMG HealthCare "}
+{"text": "Edison, NJ/Jessup, PA                                                                       Feb 2015 \u2013 Present"}
+{"text": "Sr. Test Analyst/Lead "}
+{"text": ""}
+{"text": "The Project \u2018EDW-Medicaid Operating Model and Strategy (MOMS)\u2019 to implement a strategy and operating model for the TMG first line of business \u2018Texas Medicaid\u2019 which involved ETL and SOA applications testing activities for TMG Client Portal and Dashboard applications based on Facets modules Provider, Member, Claims, Benefits, Billings, Authorizations and Customer Services  included inbound EDI X12 file processing."}
+{"text": "Interact with Business Analysts, Developers and End-Users to designed detailed testing requirements for EDW-MOMS."}
+{"text": "Analysis business requirements (user story), performed Quality Analysis for test case requirements and validate system workflows."}
+{"text": "Involve in Scrum call during pre-planning meeting to help the estimation process for the user stories based on the complexity."}
+{"text": "Test ETL jobs and SOA services included applications SSIS, ODS, Gemfire, Greenplum, Enterprise Service Bus, Client Portal, ODM, MCRR and Data lake."}
+{"text": "Troubleshooting, resolving and escalating data related issues and validating data to improve data quality."}
+{"text": "Work on different kind of Claim, Claim status and Eligibility files format like in X12 and XML for quality testing."}
+{"text": "Create QE test plan, test scenarios and test cases using Application Life Management for System, Regression and UAT on SIT environments."}
+{"text": "Work with data selection, testing and handling to write complex SQL queries for testing EDW jobs and SOA Services databases."}
+{"text": "Work in ETL process consisting of data transformation, sourcing, mapping, conversion and loading."}
+{"text": "Created and executed SQL queries to perform source to target testing Data completeness, validity, uniqueness, data integrity, data transformation, data quality, initial and incremental load tests."}
+{"text": "Troubleshoot EDI file transmission problems and business rules related inquiries which enforced HIPAA guidelines in the X12 Version 4010, 5010 Transactions Implementation guides with FTP/SFTP Servers by SOAP, API, and HTML applications."}
+{"text": "Validate EDW ETL processes like Facets (CDC)-SSIS-Gemfire, Gemfire \u2013 ODS (GreenPlum), ODS (Greenplum)-ODM, Facets (CDC)-Data Lake etc."}
+{"text": "Validate SOA web services for client portal and dashboard modules like Authorization, Billing, Benefit, Client, Claims, Member, Provider, and Program."}
+{"text": "Writing SQL queries to validate data tables for count, data values, attributes, conversions and incremental for database testing."}
+{"text": ""}
+{"text": "Environment:  SQuirreL 3.6, MS SQL Server 2012, SSIS(Sql Server Integration Service), PgAdmin 1.16, MS Office, Agile Methodology, Scrum and Sprint environment, SoapUI 5.1.3, HP ALM 12.00, Facets 5.01, HIPAA X12 4010/5010, Oracle 11g, SQL, TortoiseSVN, MS Lync"}
+{"text": ""}
+{"text": ""}
+{"text": "OptumInsight (UHG)"}
+{"text": "Colorado Spring, CO                                                                                Jan 2013 \u2013 Feb 2015"}
+{"text": "Sr. Software Engineer (QE)"}
+{"text": ""}
+{"text": "The project \u2018Optum Intelligent EDI\u2019 is to implement  comprehensive approach for Clearing House that puts unprecedented actionable intelligence into your data stream, so you reduce claims denials, stay current with new and changing regulatory guidelines and ultimately achieve the most timely and accurate payments that technology can deliver."}
+{"text": ""}
+{"text": "Responsibilities included analysis business requirements, functional requirements, overall design, use-case analysis, initial summary, risk analysis, test plan development, test case generation, requirement tractability matrix (RTM), and documentation."}
+{"text": "Developed QE test plan, test scenarios, test cases and test case execution using Application Life Management and updated testing tables for automation testing on regression suite during testing Functional, Regression and UAT for given environments."}
+{"text": "Involved in Scrum call during pre-planning meeting to help the estimation process for the user stories based on the complexity."}
+{"text": "Troubleshoot EDI file transmission problems and business rules related inquiries which enforced HIPAA guidelines in the X12 Version 4010, 5010 Transactions Implementation guides with FTP/SFTP Servers by SOAP, API (Stomp Client), and HTML applications."}
+{"text": "Validated IEDI transactions 837, 835, 270, 271, 276, and 277 related inquires along with ICD9 and10 Codes implementations with tools like SoapUI, API, SFT, FTP, ENS, and File Upload."}
+{"text": "Worked as a proactive member of Quality engineering team for projects like Transaction Exchange (ENS), IEDI CH, ACE, CORE, Claredi, Facets 5.0 for X12 837, 835, 270, 271, 276, 277, and 278."}
+{"text": "Worked on different kind of files format like in X12, DDE, Print Image, and HTML for Quality testing of Claims (Professional, Institutional, Dental), Remittance, Real Time Eligibility and Claim Status."}
+{"text": "Performed different kind of testing like System Integration, Functional, Regression, Unit Testing, Beta Testing, Alpha Testing, Black Box and User Acceptance Testing (UAT)."}
+{"text": "Performed backend testing with writing complex SQL queries for testing Databases of Clearing House IEDICH applications."}
+{"text": "Tested IEDI applications like ENS(Electronic Network System) Health-E-Network, Claredi, ACE, ERA Admin, ERA Manager, and Customer Service"}
+{"text": "Executed Automation scripts and review failure analysis, update scripts and data tables for Hybrid Framework in QTP"}
+{"text": ""}
+{"text": ""}
+{"text": "Environment:  TOAD, MS Office, Agile Methodology, Scrum and Sprint environment, SoapUI, Stomp Client, ACE, HP ALM, QTP, Facets 4.71& 4.81, HIPAA X12 4010/5010, Oracle 11g, SQL, HP ALM, Rally, X12, Print Image, HTML, Ortelius, Cisco Communicator, webex."}
+{"text": ""}
+{"text": "CareFirst (BCBS)"}
+{"text": "Washington, DC                                                                                             June 2009 \u2013 Dec 2012\t"}
+{"text": "Sr. Quality/Programmer Analyst"}
+{"text": ""}
+{"text": "Projects like Automated Enrollment (AEv2), Facets Upgrades, Vendor Extracts, CareFirst Letters, StartUp, Mass Transfer, CJA Codes which involved in design and developed the software solutions for Enrollment, Billing, Membership and Provider modules of TriZetto Facets system which is Health Care ERP system in CareFirst. AEv2 project which involved the maintenance of trading partner management workstation that automatically handles the entire enrollment life cycle."}
+{"text": ""}
+{"text": "Analyze the business requirements, performed Gap Analysis, generate system workflows to initiate Quality Assurance process for AE v2, Facets Upgrades, Vendor Extracts, CareFirst Letters, StartUp, Mass Transfer, and CJA Codes."}
+{"text": "Created test plan, test case writing, test case execution, report defects, bug documentation and issues investigation for all projects."}
+{"text": "Worked in validating more than 500 TIBCO and PEGA business rules for Automated Enrollment EDI 834 transaction in Facets for Group and IMD business which related to every submitter."}
+{"text": "Troubleshot file transmission problems in enrollment related inquiries by EDI and enforced HIPAA guidelines in the X12 Version 4010/5010 Implementation guides (834, TA1, 997, 824)."}
+{"text": "Used FTP and SFT environments to dropping transaction file to test the complete enrollment process of the organization."}
+{"text": "Ran Automation scripts and review failure analysis, update scripts and data tables for Hybrid Framework in QTP."}
+{"text": "Worked on testing system upgrades in TriZetto Facets 4.3 to 4.5 and 4.5 to 4.7, TIBCO, PEGA and Automated Enrollment systems."}
+{"text": "Worked on Vendor Extracts, Extensions, Enrollments, Startup, Mass Transfer, CJA, CareFirst Letters, TIBCO, PEGA, BO Report, HPX and AE2 Applications (TPM, BAM, Error Handling, Broker Express and eHealth) for TriZetto Facets, Mainframe."}
+{"text": "Performed Functional, Regression, System Integration for Test environment and User Acceptance testing for Production environment."}
+{"text": "Created test scripts in Loadrunner for performance testing based on Load, Stress, Volume and Capacity of big EDI transaction files."}
+{"text": "Analyzed experience with Data validation by testing and handling to write complex SQL queries for database testing for TriZetto Facets and all other applications."}
+{"text": ""}
+{"text": "Environment: Pega PRPC, SFT, FTP, TriZetto Facets 4.3, 4.5, 4.7, HP ALM Quality Centre, SoapUI, Load Runner, HP Output Server, RUP Methodology, 4010/5050 X12 Format, COBOL, MS Office 2007/10, Lotus Notes, Mainframe 3270, SQL, SQLDBX, TRMS, HP Extreme, Oracle Developer,  EDI X12, Business Objects 6.5,DB2, MS Lync."}
+{"text": ""}
+{"text": "Infocrossing (Wipro)"}
+{"text": "Saint Louis, Missouri                                                                    Oct 2007 \u2013 June 2009"}
+{"text": "QA Tester "}
+{"text": ""}
+{"text": "This project involved creating the medical claim processing system implemented by Infocrossing for MMIS (Medicaid Management Information System). It consisted of different modules like Claim Status, Eligibility Enquiry and Claim. This project also involved the maintenance of claims workstation that automatically handles the claims lifecycle."}
+{"text": ""}
+{"text": "Tested Facets application based on business requirements and validates system workflows for Claim and Membership Modules."}
+{"text": "Used TSO/ISPF Mainframe to test data files of claim process, including DB2 and VSAM files."}
+{"text": "Tested troubleshoot file transmission process with EDI claim related inquiries and enforced HIPAA guidelines in the X12 Version 4010 Transactions Implementation guides (837, 270, and 276) for submitters."}
+{"text": "Validated scheduled batch jobs using COBOL in Mainframe for downloading data into temporary tables to generate the data required for some of the Facets related claim applications."}
+{"text": "Created and executed testing for trading partners and validate HIPAA guidelines mapping for 837, 270, 271, 276, and 277. "}
+{"text": "Used FTP and SFT environments to dropping transaction file to test the complete EDI transaction process of the project."}
+{"text": "Developed Test Scripts, Test Cases and Test Plans for Functional, Regression and User Acceptance testing for Testing and Production environments."}
+{"text": "Troubleshooting X12 transactions files and configured facets application for real time test scenarios for quality work which adherence to design test specifications for testing in TEST and PROD environments."}
+{"text": ""}
+{"text": "Environment: Tibco, Pega PRPC, Mercury Quality Centre, TriZetto Facets 4.3, RUP Methodology, COBOL, Lotus Notes, SQL, Oracle Pl/SQL,  EDI, BEA Aqua Logic , Business Objects 6.5, DB2, Mainframe 3270."}
+{"text": ""}
+{"text": "Group Health Insurance "}
+{"text": "Chicago, IL                                                                                  Feb 2006 \u2013 Oct 2007"}
+{"text": "Business/QA Analyst"}
+{"text": ""}
+{"text": "GHI contracted with the Centers for Medicare and Medicaid Services (CMS) to provide quick, easy, and affordable access to the health care service of their choice. Project involves integrating Market Prominence and the Claims processing System with the data warehouse to support the reporting requirements. It were included designing the model of ODS to automate and maintain the ETL process."}
+{"text": "Analyzed Requirements such as BRD along to FRD for ETL process."}
+{"text": "Extensively prepared Test Plan, Test Scenarios, Test Cases as well as test data creation based on user point of view."}
+{"text": "Prepared ETL/Back-End Test cases to validate the business requirement outcome."}
+{"text": "Involved in review process and meeting and also involved in the transformations testing."}
+{"text": "Performed the record count validation, data integration, incremental and data validations."}
+{"text": "Performed functional testing, system testing, re-testing and regression testing."}
+{"text": "Documented the Requirement Traceability Matrix for tracing the Test Cases and requirements related to them."}
+{"text": "Involved Test Scripts, Test Cases and Test Plans for Functional, Regression and User Acceptance testing for Testing and Production environments."}
+{"text": "Troubleshooting X12 transactions files and configured ETL process for real time test scenarios for quality work which adherence to design test specifications."}
+{"text": ""}
+{"text": "Environment: Windows XP professional, MS Office suite, UNIX/Oracle Platform, XML, Oracle Application server, SQL, Oracle Pl/SQL, DataStage, Quality Center."}
+{"text": ""}

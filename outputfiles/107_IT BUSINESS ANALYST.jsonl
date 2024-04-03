@@ -1,0 +1,96 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Liaocheng, China"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 656411798027"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": ""}
+{"text": "An IT professional with over 6+ years of experience in the areas of Business Analysis, JAD sessions, stakeholder interviews, Business Process Management, risk analysis/management, data analysis, UAT, and Project management"}
+{"text": "Expertise in multiple Software Development Life Cycle - Waterfall, Hybrid, Rational Unified Process, and Agile methodology."}
+{"text": "Efficient in writing Business Requirements Documents (BRD), System Requirements Document (SRD), Use Case Specifications, Functional Specifications, and Technical Specifications across the Deliverables of a project."}
+{"text": "Extensive Experience in UML and Process modeling using Use Case Diagrams, Process Flow Diagram, System Context Diagram, Activity Diagrams, and Sequence Diagrams."}
+{"text": "Experienced in conducting Joint Application Development (JAD) sessions through interviews and workshops with subject matter experts and business users."}
+{"text": "Experienced in conducting GAP analysis, User Acceptance Testing (UAT), Risk Analysis and mitigation plan, Cost benefit analysis and ROI analysis."}
+{"text": "Performed AS-IS and TO-BE business process flow for clear translation of Functional to system requirement specification."}
+{"text": "Support the Test Team and the rest of the Development Team in compliance related issues while working with them in the development phases of the projects."}
+{"text": "Experienced in various MS Windows platforms, OS, Office Suite, etc."}
+{"text": "Excellent knowledge of Health Insurance Portability and Accountability Act (HIPAA) transaction, code set rules such as EDI 837, 835, 834, 270, 271, and 277."}
+{"text": "Extensive knowledge of Medical Management Information Systems (MMIS), Medicaid, Medicare, Procedural and Diagnostic codes, and Claims Processes."}
+{"text": "Strong knowledge of Health Insurance Portability & Accountability Act (HIPAA) standards, Electronic Data Interchange (EDI), Implementation and knowledge of HIPAA code sets."}
+{"text": "Strong knowledge of Health Insurance Plans, managed care concepts (Medicaid and Medicare) and experienced in determining the membership eligibility, billing experience within life and disability in health plans."}
+{"text": "Excellent knowledge of HIPAA standards, EDI (Electronic data interchange)"}
+{"text": "Quick learner, detailed-oriented team player with good communication, analytical, leadership, interpersonal, and problem-solving skills."}
+{"text": "Experience in multi-tasking such as managing numerous simultaneous projects with great attention to detail."}
+{"text": "Experience in solution assessment, validation and applying critical thinking for problem solving approach."}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": ""}
+{"text": "Select Medical\u00a0-\u00a0Abington, PA \tNovember 2018 to Present"}
+{"text": "Business Analyst/EDI\u00a0Analyst"}
+{"text": "Description: The scope of the project was to enhance the\u00a0EDI\u00a0data verification system. The system was capable of verifying and reporting the completeness of claims document & HIPAA compliance. The purpose of the project was to reduce claims rejections due to avoidable errors."}
+{"text": "Responsibilities:\n"}
+{"text": "Gathered Business Requirements and managed them using Requisite Pro."}
+{"text": "Interacted with the Users, Designers and Developers, SMEs, Project Manager to get a better understanding of the Business Processes."}
+{"text": "Prepared Business Requirement Documents (BRD) based on the gathered requirements and broke it down to SRS in consultation with the technical team."}
+{"text": "Performed UAT and regression testing on\u00a0EDI\u00a0835 and 837 X12 formats in Facets."}
+{"text": "Analyze, design, document, test, coordinate HL7 implementations and provided support to team for HL7 interfaces between Health Information Systems (HIS) and ancillary application systems."}
+{"text": "Conducted the SRS reviews and walkthroughs with designers, developers and stakeholders."}
+{"text": "Assisted Project Manager in Project Management Documentation and got MS Project experience."}
+{"text": "Analyzed business needs and developed use-cases &use case diagrams using Rational Rose and complied them into System Requirement Specification (SRS) document."}
+{"text": "Documented Claims processing lifecycle and got good exposure of X12 837, 270 transactions for HIPAA 4010& 5010."}
+{"text": "EDI\u00a0file testing for checking the HIPAA 4010 compliance of the inbound 837 claims."}
+{"text": "Worked on\u00a0EDI\u00a0transactions: 270, 271, 834, 835, and 837 (P.I.D) to identify key data set elements for designated record set. Interacted with Claims, Payments and Enrollment hence analyzing and documenting related business processes."}
+{"text": "Created and maintained source-to-target Data Mapping and Data conversion spread sheet."}
+{"text": "Utilized Inner join and Outer Join SQL queries to analyze the integrity of data."}
+{"text": "Assisted the QA team in writing test cases and test scripts for testing the migration of\u00a0EDI\u00a04010 to 5010 and the processing of member Enrollment and benefits, batch jobs corresponding to the claims (837) and real time transactions like 270/271/276/277"}
+{"text": "Re-engineering the capturing of transactions with legacy systems, Eligibility Transaction 270, 837 Claim Status Request and Response 276."}
+{"text": "Prepared Test Strategy, Test Plan, test report and Requirement Traceability Matrix using HP QC."}
+{"text": "Maintained a change request log, conducted impact analysis when a request for change (RFC) was raised, escalated the results to Change Control Board (CCB) and updated documents on to SharePoint."}
+{"text": ""}
+{"text": ""}
+{"text": "Community Health Choice - Houston, TX                                           \tJanuary 2016-October 2018"}
+{"text": "Business\u00a0Analyst/EDI\u00a0Analyst"}
+{"text": "The scope of this project included HIPAA 4010 conversion to HIPAA 5010. The change affected all the major\u00a0EDI\u00a0transactions including 270/271, 276/277, 820, 834, 835 and 837.\u00a0"}
+{"text": "\u00a0\nResponsibilities:\u00a0"}
+{"text": "Analyzed existing\u00a0business\u00a0units,\u00a0business/Application and their Interfaces with their capability through open-ended discussions, brainstorming sessions, and prototyping, prioritizing them and converting them as\u00a0business\u00a0requirements that must be included while developing the software.\u00a0"}
+{"text": "Created Data Flow Diagrams (DFD's), ER diagrams for data modeling and web-page mock-ups using MS - Visio for acceptance from end users.\u00a0"}
+{"text": "Experience in\u00a0Data\u00a0Warehousing; responsible for\u00a0data\u00a0mapping activities including maintaining mapping\u00a0"}
+{"text": "Analyzed data and created reports using SQL queries for all issued Action Items."}
+{"text": "Experience working with ETL specifications and ANSI X-12 data translations"}
+{"text": "Define\u00a0business\u00a0requirements and\u00a0business\u00a0process and policy changes related to the client Medicaid system during the conversion from the existing HIPAA 4010A formats to the future HIPAA 5010A format\u00a0"}
+{"text": "Analyze and document Medicaid\u00a0EDI\u00a0transactions issues related to implementation of HIPAA 5010 and ensure these issues are documented and addressed in the approach to the HIPAA 5010 version.\u00a0"}
+{"text": "Converted the XML files into X12 and X12 to XML files on GIS for sending and receiving the\u00a0EDI files.\u00a0"}
+{"text": "Also worked on multiple 837s and multiple Eligibility (270/271) and healthcare claim status (276/277)\u00a0"}
+{"text": "Responsible for the development and implementation of HIPAA\u00a0EDI\u00a0Map sets 270, 271, 276, 277, 820, 834, 835, 837 and 5010.\u00a0"}
+{"text": "Reviewed the application systems and determined how to map the new applications data to the\u00a0EDI System.\u00a0"}
+{"text": "Create\u00a0EDI\u00a0interface to send purchase order requests and receive acknowledgments and invoice data.\u00a0"}
+{"text": "Mainly assisted with documenting processes, used agile methodology to write the System Requirements documents and designed Functional specifications.\u00a0"}
+{"text": "Conducted UAT. Wrote SQL queries in MS Access and Oracle for data manipulations.\u00a0"}
+{"text": "Used Agile and Rational methodology in the project development for Rational Test Suite for various phases of RUP.\u00a0"}
+{"text": "Proficient with QNXT claims processing platform.\u00a0"}
+{"text": "Developed Use Cases, Use Case Diagrams, UML Diagrams, Activity Diagrams, Sequence Diagrams, Class Diagrams in Rational Rose\u00a0"}
+{"text": ""}
+{"text": "McKesson\u00a0-\u00a0San Francisco, CA \t\t\t\t\t\t        March 2013 to Dec 2015"}
+{"text": "Business Analyst"}
+{"text": "Worked on the requirements for the Medication Administration module of this application, this part of the application is used by Nurse/Physicians to chart the administration of various regimens and drugs. This data get its feed from the Ordering module and feeds back into the Charting and Billing modules. Aspects include functional, usability, reliability, and supportability of the updates."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Teamed with clients to gather requirements; changed into Epics and later to User stories; translated into functionality. Liaised with end-users during UAT."}
+{"text": "Helped user experience team to understand the requirements for wireframes "}
+{"text": "Created workflow diagrams using Visio."}
+{"text": "Wrote User acceptance for user stories via Jira."}
+{"text": "Handled issue log & tracked to closure; reviewed & managed all change control requests and liaised with end-users during UAT."}
+{"text": "Consulted with functional unit management and personnel to identify, define and document business needs and objectives, current operational procedures, problems, input and output requirements, and levels of systems access.\u00a0"}
+{"text": "Acts as a liaison between end-users, technical analysts, information technology analysts, consultants and other governmental organizations in the analysis, design, configuration, testing and maintenance of case management systems to ensure optimal operational performance.\u00a0\u00a0"}
+{"text": "Responsible for managing and mentoring team for each sprint cycle phases."}
+{"text": "Responsible for programs or projects involving department or cross-functional teams focused on the delivery of a product or program through the design process and into a finished state for internal or external customers.\u00a0"}
+{"text": "Oversee and coordinate all aspects of project and serves as manager for project team who are the liaison between project management, line management and other departments and reported to Sr. Manager."}
+{"text": "Highlight project issues and develop resolutions to meet productivity, quality, and client-satisfaction goals.\u00a0"}
+{"text": ""}
+{"text": "Education"}
+{"text": "Bachelors in Information Technology"}
+{"text": ""}

@@ -1,0 +1,156 @@
+{"text": "Name: annie annie"}
+{"text": "E-Mail: annie.annie@gmail.com"}
+{"text": "Address: Jakarta, Indonesia"}
+{"text": "Github: https://github.com/annie"}
+{"text": "LinkedIn: https://linkedin.com/annie"}
+{"text": "Phone No. 964928063172"}
+{"text": "Summary"}
+{"text": "8+ years of experience as a software developer on .NET platform, Client/Server, windows and web applications."}
+{"text": "Strong inobject oriented design, analysis, development and implementation and troubleshooting of internet/intranet/ client-server applications using WPF, ASP.NET, C#, XAML, XBAP, XML, XSLT, IIS, Web Services, SOAP, Web Forms and WinForms."}
+{"text": "Extensive experienced in developing Supervisory Control and Data Acquisition (SCADA)  applications using XBAP, WPF, XAML, VC# and ADO.NET."}
+{"text": "Designed and developed complex and scalable WPF user controls that can be easily integrated in SCADA systems. "}
+{"text": "Experienced in MVVM(Model View ViewModel) and MVC (Model View Control) architectural patterns in developing C# WPF and ASP.NET applications."}
+{"text": "Solid understanding of Object Link Embedded(OLE) Process Control Platform Communications of real time data between control devices and applications."}
+{"text": "Experience in creating scalable and maintainable OLE Process Control Client applications."}
+{"text": "Reviewed software code projects, identified bugs and resolved compile and runtime errors for code in C#WPF, ASP.NET, XHTML, AJAX, XML, JavaScript and JQuery."}
+{"text": "Proficient in web application development using C#, XAML Browser Applications, ASP.NET, XHTML, JavaScript, JQuery, Bootstrap, CSS, AJAX, XML and web-services using tested design pattern frameworks, possess good understanding of MVC 4."}
+{"text": "Extensive experience in data modeling, schema design and query building in SQL & PL/SQL. Up to date knowledge of emerging technologies and frameworks."}
+{"text": "Solid understanding of various communication protocols such as HTTP, REST, SOAP and JMS with XML, JSON."}
+{"text": "Experienced with Unified Modeling Language and Object Oriented Program and Design in 3 Tier and N-Tier Applications."}
+{"text": "Experience is working with .NET features like Inheritance, Polymorphism, Interfaces, Events & Delegates, Generics and Collections, Multithreading, Exception Handling and Tracing in .NET applications."}
+{"text": "Experience in generating reports in Excel, Macros, Word and PDF formats using .NET."}
+{"text": "Working Experience in manipulating XML, Converting Data between ADO.NET and XML and proven knowledge in DTD, Schema, XSL, and LINQ to query XML documents."}
+{"text": "Experience in documenting and working with business partners to define business processes and development requirements."}
+{"text": "Experienced in installation, migration and maintenance of software & hardware systems."}
+{"text": "Proven experience of professional and exceedingly reliable production support and end-user, stakeholder response skills."}
+{"text": "Excellent communication skills, proven team-building history with responsible and collaborative work ethics."}
+{"text": "Technical Skills"}
+{"text": ""}
+{"text": "Languages\t\t\t\t\t:  C#, C, C++, Object C, JAVA"}
+{"text": "Framework/Web Technologies\t:  ASP.NET MVC 4.0, WinForms, WPF, XBAP,LINQ, MVC, "}
+{"text": "ADO.NET,AJAX, JQuery, JavaScript, XHTML, XML,  "}
+{"text": "JSON,HTML5, CSS3, Bootstrap, JSP,Servlets."}
+{"text": "Databases\t\t\t\t\t:  Server 2000/2005/2008/2014, 2008 R2, MS Access, MySQL, "}
+{"text": "Microsoft SQL Server"}
+{"text": "IDE & Design Tools\t\t\t:  Visual Studio 2008/2010/2012/2013, XCode 5.1,"}
+{"text": "Eclipse, Editplus, Notepad++, Rational Rose"}
+{"text": "Networking Protocol\t\t\t:  SOAP, HTTP, REST, TCP/IP and FTP "}
+{"text": "Server Technologies\t\t\t:  IIS 4.0/5.0/6.0, Apache Tomcat"}
+{"text": "Operating Systems\t\t\t:  Windows Server 2008, Windows 8.1/8/7/Vista/XP,"}
+{"text": "   MAC OS X 10.7/10.6, Ubuntu 11.10/12.04"}
+{"text": ""}
+{"text": ""}
+{"text": "Experience"}
+{"text": "tQ Automation LLC, Houston, TX\t\t"}
+{"text": ".NET Developer \t\t\t\t\t"}
+{"text": "Project: OPC Quick Web Apps"}
+{"text": "Jan \u201915 \u2013 Till Date"}
+{"text": "tQ Automation provides automation control solutions in the field of Oil and Gas. OPC Quick Web Apps is an Oil Well monitoring application, which fetches data from an embedded system in Rod Pump Controller, by creating connections to an OLE process control (OPC) server. The application performs several manipulations on the data fetched and displays it as graphical controls. The overall application is developed as a XAML Browser Application, which is programmed in C# and uses WPF to display graphical content."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for reviewing Business Requirements Specification(BRS), System Requirement Specification(SRS) and preparing high level design(HDD), and Design Detail Document(DDD)."}
+{"text": "Designed large number of WPF forms, Custom Controls and User Controls using XAML for UI and Dynamic Web Parts."}
+{"text": "Created XAML Browser Application for interactive web based data visualization using XAML in Visual Studio 2013."}
+{"text": "Designed and developed custom graphical WPF user controls that simulate rod pump and its features, take data from PLC and can be integrated into any SCADA application."}
+{"text": "Programmed logic for allowing the user to connect to multiple OLE Process Control (OPC) servers across several machines in the network and fetched information from them. "}
+{"text": "Identified parameters for controls, processed raw data fetched from OPC servers and converted it into information that can be used by the application."}
+{"text": "Responsible for creating WCF service libraries to exchange data between desktop and central application and implement business logic."}
+{"text": "Integrated the WPF Controls in a XBAP application and deployed it onto client\u2019s server."}
+{"text": "Responsible for code testing and preparing technical documentation for defects and order of change."}
+{"text": "Resolved errors and bugs in the application."}
+{"text": "Environment: .NET Framework 4.5, C#, WPF, SQL Server 2008, XBAP, XAML, AJAX, WCF, Visual Studio 2013"}
+{"text": ""}
+{"text": ""}
+{"text": "UBS, NJ"}
+{"text": ".Net Developer "}
+{"text": "Project: Trader/Broker Compensation System"}
+{"text": "Apr \u201911 \u2013 Dec\u2019 14"}
+{"text": "Compensation system was developed for the Client, a premier global financial services firm, to calculate compensation, commission/incentive information for the Traders and Brokers.  System calculates Commission, Profit and Loss for every equity trade.  Traders, analysts, regulatory and upper management use this application to view reports on commission and P&L of every equity trade.  It has modules to receive intraday and EOD trading data and portfolio, price, trader/broker info etc., and calculation engine calculates the commission and P&L and post it against every account/trade/trader/broker.  The application was developed using .NET with SQL Server 2005.  It has reports on compensation, performance comparison of traders and brokers, monthly/yearly compensation reporting for brokers and P&L reports generated using Crystal Reports.   "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Associated with the entire lifecycle of the project. "}
+{"text": "Derived functional requirements, both by analyzing legacy application and interviewing user group. "}
+{"text": "Analyzed legacy front end, middle tier and backend structures in the reengineering effort. "}
+{"text": "Implemented business logic in the form of custom classes written in C#. "}
+{"text": "Developed the web application using .Net technologies like Caching, Paging, and State Management."}
+{"text": "Wrote classes for data access in ADO.NET and C#. "}
+{"text": "Extensively used Data Grid, Data list and Repeater controls"}
+{"text": "Developed XML and XSL based menus which are compatible with IE and Netscape browsers"}
+{"text": "Developed custom controls and used validation controls available in .NET environment"}
+{"text": "Designed and Created Web Page templates and layouts. "}
+{"text": "Wrote Web Services in C# to interface with external service providers. "}
+{"text": "Implemented XML Web Services to provide efficient search functionality"}
+{"text": "All data transfers (requests/ retrievals) comply with XML Schemas and transformation was performed using XSLT"}
+{"text": "Specified SQL queries, stored procedures, functions and triggers in T-SQL on back-end SQL Server database. "}
+{"text": "Designed and developed data driven Web Forms using ASP.NET, HTML and C#. "}
+{"text": "Responsible for designing and developing Reports in Crystal Reports for .NET."}
+{"text": "XML is being used to message transfer between the modules."}
+{"text": "Performed internal component testing on developed web forms and custom classes. "}
+{"text": "\nEnvironment: ASP.NET, C#, SQL Server 2005, T-SQL, ADO.NET, VS.NET, HTML, XML, IIS, FrontPage, Windows 2000"}
+{"text": ""}
+{"text": ".NET Developer"}
+{"text": "HSBC, North Brunswick, NJ"}
+{"text": "Project: HSBC Bank Resource Loan"}
+{"text": "Jul \u201909 \u2013 Mar \u201811"}
+{"text": "A new credit based loan program was designed for HSBC Bank, to help cover the educational costs of students at various level of their study, enrolled in a degree or certificate program. HSBC Bank Resource Loan can be used for any school-approved expense, including study abroad, computers, and distance learning.  HSBC Bank Resource Loan was designed using ASP.NET and & SQL-Server 2000, which makes the whole system online, dynamic, fast & convenient. It allows student to apply online & check loan status online 24/7. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Analyzing and reviewing the business requirements, design document, use cases and functional requirement document."}
+{"text": "Actively participated in Team Meetings, frequently communicate with Business Analysts to clarify the business requirements and working QT Team to make clear the issues."}
+{"text": "Followed Agile methodologies and Test Driven Development."}
+{"text": "Implemented MVC design pattern to build the application."}
+{"text": "Implemented membership management for managing the users (Create, Delete, etc.) "}
+{"text": "Client side validations using JavaScript, JQuery."}
+{"text": "Provided seamless user experience by utilizing JQuery, AJAX and JSON to communicate with ASP.NET WCF web services and handlers without disrupting usage."}
+{"text": "Logging exceptions, caching using Microsoft Enterprise Library."}
+{"text": "Specified SQL queries, stored procedures and functions in T-SQL on back-end SQL Server database"}
+{"text": ""}
+{"text": "Extensively involved in .Net Exception Handling Management, Debugging and Tracing of Application"}
+{"text": "Used different state management techniques to maintain the state between the pages."}
+{"text": "Creation of Web User Controls (ascx) for reusability of code."}
+{"text": "Used LINQ for database transactions."}
+{"text": "Created and consumed WCF service to retrieve the customer information."}
+{"text": "Used different bindings for WCF service to support different protocols."}
+{"text": "Extensively used AJAX control toolkit for masking, collapsing and expanding the panels etc\u2026"}
+{"text": "Worked with test team and fixed the issues as part of the bug life cycle."}
+{"text": ""}
+{"text": "Environment: Windows 2003/2007 Server, Visual Studio.NET 2008/2010, Microsoft .Net Framework 3.5/4.0, ASP.NET, C#, HTML, CSS, JavaScript, JQuery, MVC 3.0,ADO.Net, Web Services, WCF, WPF, LINQ, SQL Server 2000, XML,XSLT, XPATH, VSS,TFS,AJAX,IIS 6.0/7.0."}
+{"text": ""}
+{"text": "Insignia Infotech Pvt. Ltd., Bengaluru, India"}
+{"text": "Software Developer"}
+{"text": "Feb \u201908 \u2013  Jun \u201809"}
+{"text": ""}
+{"text": "Computerization of patient activity in a specialty hospital. The project aimed at having total control of all the operations, from the point of patient entering the Hospital to discharge. All the patient and doctor activity was tracked and reports were generated for the management to examine activities at the hospital."}
+{"text": "\t"}
+{"text": "Responsibilities:"}
+{"text": "Project development include full development life cycle of software development. "}
+{"text": "Developed purchases, sales and inventory modules of the project. "}
+{"text": "Developed ActiveX components and created database objects. "}
+{"text": "Design and Development of front end and context related help to users."}
+{"text": "Used printer object is used for printing bills and investigation reports. "}
+{"text": "Coded the front-end application using ASP, JavaScript and CSS. "}
+{"text": "Involved in generating daily/weekly/monthly/quarterly/yearly MIS reports"}
+{"text": "Responsible for fixing and trouble-shooting various issues in production. "}
+{"text": "Environment: ASP 3.0, DHTML,C#, Java Script IIS, SQL Server 2000 &Windows 2000."}
+{"text": ""}
+{"text": "Muffakham Jah Computing Club, Hyderabad, India"}
+{"text": "Web\tDeveloper "}
+{"text": "Mar \u201907 \u2013 March \u201808"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Managed their website and provided production support."}
+{"text": "Designed website for Adsophos, a National level technical symposium."}
+{"text": "Lead a team of 3 members, defined tasks, made division of responsibilities and assigned it to team members."}
+{"text": "Met with the clients, gathered requirements and designed the various modules of application from the requirements."}
+{"text": "Designed master pages for the entire website."}
+{"text": "Designed html forms for the users to register for events at the symposium."}
+{"text": "Designed the database for the application."}
+{"text": "Integrated web services with the application to send SMS from the website."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "References"}
+{"text": "Available upon request"}

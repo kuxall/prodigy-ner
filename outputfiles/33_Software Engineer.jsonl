@@ -1,0 +1,83 @@
+{"text": "Name: annie annie"}
+{"text": "E-Mail: annie.annie@gmail.com"}
+{"text": "Address: Lahore, Pakistan"}
+{"text": "Github: https://github.com/annie"}
+{"text": "LinkedIn: https://linkedin.com/annie"}
+{"text": "Phone No. 540266626686"}
+{"text": "\n"}
+{"text": "SUMMARY:-"}
+{"text": "Having with 5+ years of experience in developing Enterprise applications using Java Platform Enterprise Edition (J2EE) technologies and developed Automation tools using Java and Selenium for operations  like Health care."}
+{"text": "In-depth knowledge of Software Development Life Cycle (SDLC), Agile methodology."}
+{"text": "Hands on experience in Healthcare, represents the Insurance options for individuals and families."}
+{"text": "Experience in creating complex SQL and used JDBC connectivity to access the database."}
+{"text": "Worked on Struts based application and worked in creating Action classes for the provided business logic and worked on mapping issues with provided wireframe of views."}
+{"text": "Strong and extensive experience in using Java, J2EE, JDK, Servlets, JSP, CSS, HTML, EJB, Spring MVC, Hibernate, Struts, JDBC, JSTL, Google Guice, WCF."}
+{"text": "Having excellent experience in XML, SOAPUI, AJAX, HTML, Web 2.0, Angular JS, Jenkins Automated building, testing and continuous integration using Maven, Ant, and Junit.  "}
+{"text": "Technical Skills"}
+{"text": "\nProfessional Experience \nClient      : United Healthcare                                                                                                                                       April 2017 to Till Date\nRole        :  Java Developer\nLocation:  Florida\t\t\t\t\t                                             \nDescription: United Healthcare United Health One is a brand name that represents a portfolio of insurance options for individuals and families. Independence American Insurance Company and United Health One entity is responsible for its own contractual and financial obligations. \n\nResponsibilities:"}
+{"text": "Worked as Senior Developer for MMS Application. "}
+{"text": "Gathered user requirements from the Client Relationship Managers."}
+{"text": "Documented the requirements and there by analyzed and involved in design, code."}
+{"text": "Designed and developed the system using J2EE based on Struts MVC architecture."}
+{"text": "Used Spring ORM Hibernate Template as the ORM tool to communicate with the database"}
+{"text": "Involved in coding for the presentation layer using Apache Struts Framework."}
+{"text": "Involved in writing middleware components EJB session beans, message driven beans to handle business modeling."}
+{"text": "Configured JMS and Data sources on WebSphere 6.1 Server and provided appropriate JNDI names for them."}
+{"text": "Implemented design patterns like DAO, Factory and Front Controller."}
+{"text": "Used Apache JSP, JSTL, etc. for presentation which invoke the Java Beans to interact with Controlling Servlets."}
+{"text": "Used RAD 7.1 as IDE."}
+{"text": "Used JavaScript, Regular Expressions for Form Validations."}
+{"text": "Developed complex queries, PL/SQL and stored procedures for data retrieval & updating."}
+{"text": "Used CVS for Version Controlling."}
+{"text": "Performed Unit Testing and interacted with QA for testing."}
+{"text": "\nEnvironment: Java, Struts1.1, HTML, JavaScript, JDBC, Hibernate, ANT, XML, XSD, XSLT, DOM Parser, SAX Parser, Servlets, JSP, EJB 2.0, Oracle, Log 4j, Junit, Edit plus, Rational Clear case, Rational Clear quest.\n___________________________________________________________________________________\nClient     : State of Michigan                                                                                                                                    June 2016 \u2013 Mar 2017\nRole        : Software Engineer\nLocation: MI"}
+{"text": "Responsibilities:"}
+{"text": "Worked in Agile Methodology using Scrum based implementations for the entire module."}
+{"text": "Configured Struts, Hibernate framework with Spring MVC."}
+{"text": "Implemented application level persistence using Hibernate and spring."}
+{"text": "Created set of classes using DAO pattern to decouple the business logic and data"}
+{"text": "Implemented Persistence layer using Hibernate to interact with Oracle and SQL Server databases. "}
+{"text": "SOAP web service interface implemented in Java using Apache SOAP and Axis to expose user master data to all the subsidiaries."}
+{"text": "Produced and Consumed RESTful Web Services for transferring data between different applications. "}
+{"text": "Used AJAX to call the REST API methods and connect to the backend. Restful web services have been used to retrieve and update the data using this AJAX."}
+{"text": "Developed user interface by using JSP, AngularJS, HTML5, CSS, JavaScript, jQuery and Ajax."}
+{"text": "Installing and Configuring Eclipse and WebSphere application Server."}
+{"text": "Written Junit test cases for testing UI Framework classes and wrote many Java Scripts to do client-side validations."}
+{"text": "Used JIRA Tool for Bug, issue tracking, assigning task among the Team in the Agile Board."}
+{"text": "Designed and implemented Report Module (using Jasper Report framework) in phase 2."}
+{"text": "Implemented the logging mechanism using Log4j framework."}
+{"text": "Build the application using Test Driven Development (TDD) approach."}
+{"text": "Responsible to handle any deployment issues with build release team at the time of deployment by using Oracle WebLogic Server"}
+{"text": "Designed and implemented Rules infrastructure by wrapping up core JRules API."}
+{"text": "Experience with SOAP based Web Services using axis and RESTful web-services using REST Easy framework."}
+{"text": "Used JProfiler to identify memory leaks in the application."}
+{"text": "Environment: J2EE, JSP, Servlets, Spring MVC, Hibernate, Spring Boot, Spring DAO, Spring IOC, HTML5, JSP, CSS, jQuery, JavaScript, Angular.JS, JSON, AJAX, XML, GIT, Oracle WebLogic Application Server, Junit, Log4j, Mockito, JIRA, Gradle, JProfiler. "}
+{"text": ""}
+{"text": "Client   : BCBS                                                                                                                                 \t\t\t Jan 2014 \u2013   May 2015\nRole     : Software Engineer\nLocation: MN"}
+{"text": "Responsibilities:"}
+{"text": "Created complex SQL and used JDBC connectivity to access the database. "}
+{"text": "Designed and developed a web site application using J2EE, XML, EJB, Servlets, and JSP under the Apache Struts Framework. "}
+{"text": "As Jr. Developer, I was actively involved in architecting various Business Layer and Data Management components of this multi-tiered web based system over J2EE architecture. "}
+{"text": "Designed and developed the messaging framework for communication between workflow manager and other Enterprise Applications over XML and MQ-Series using JAXB 1.0 "}
+{"text": "Responsible for developing and maintaining all the entity and session beans. "}
+{"text": "Developed various Customer and Network capacity flows. Developed various server side components using J2EE."}
+{"text": "Responsible for developing codes for external and internal web applications."}
+{"text": "Trouble shoot problems encounter during routine web application usage. "}
+{"text": "Assisted in maintaining and updating existing application programs using HTML and Java. "}
+{"text": "Prepared detailed reports concerning project specifications and activities."}
+{"text": "Responsible for Web Logic administration, maintenance and performance tuning. "}
+{"text": "Environment: Java, JDK1.3, EJB, RMI, Servlets, JAVA CORE,JSP, JAXB 1.0, XML, Hibernate, spring frame work, JSP, J2EE, Servlets, EJB, IBM WebSphere App Sever 4.0, WebSphere Developer Studio, JDBC, HTML, Java Beans, C++, Unix., MS SQL Server, SQL. \n"}
+{"text": "\nClient     : UHG                                                                                                                                                \t\tJan 2012\u2013  Dec 2013\nRole        : Java Developer\nLocation: MN"}
+{"text": "Responsibilities:"}
+{"text": "Created complex SQL and used JDBC connectivity to access the database. "}
+{"text": "Preparing technical specification document"}
+{"text": "Worked on setting up the application environment in the development region and developed the configuration files."}
+{"text": "Involved in interaction with Business analysts, technical architects to identify the functional and requirement gaps."}
+{"text": "Used multithreading to improve performance in generating the reports in Java."}
+{"text": "Development of cash management alert components using Java, JDBC and JAXP.\nDevelopment of interactive user interfaces for viewing, editing, copying, sharing and deleting the reports and alerts using JSP, HTML, DHTML, JavaScript, CSS and AJAX."}
+{"text": "Extensively involved in writing the SQL queries to fetch data from database for reports."}
+{"text": "Used JavaScript and AJAX for performing client side validation and implemented server side validating business rules in Java."}
+{"text": "Examined the Oracle 9idatabase tables, stored procedures and views used in the project as part of testing using PL/SQL Developer tool."}
+{"text": "Involved in integration testing and Documentation."}
+{"text": "Environment: Java, Servlets, JSP, JAXP, XML, JavaScript, AJAX, CSS, Oracle 9i, Tomcat 5.1. \n"}
+{"text": ""}

@@ -1,0 +1,138 @@
+{"text": "Name: elizabeth elizabeth"}
+{"text": "E-Mail: elizabeth.elizabeth@gmail.com"}
+{"text": "Address: Nairobi, Kenya"}
+{"text": "Github: https://github.com/elizabeth"}
+{"text": "LinkedIn: https://linkedin.com/elizabeth"}
+{"text": "Phone No. 94886896748"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": ""}
+{"text": "Extensive experience in object-oriented programming, design and development of Multi-Tier distributed, Enterprise applications using Java and J2EE technologies with Software Development Life Cycle (SDLC)."}
+{"text": "Experienced in developing applications using Java, Spring MVC, Hibernate, SpringBoot, JSP, Servlets, Apache Struts, JDBC, JNDI, JUnit, Mockito, Oracle, MSSQL, DB2."}
+{"text": "Experienced in the design, development and implementation of Model View Controller (MVC) using Spring MVC and DAO using Hibernate, Software Engineering, UML, Sequence Diagram, API Documentation in Swagger & WSO2 Manager."}
+{"text": "Proficient in developing Restful SpringBoot Microservices. "}
+{"text": "Experienced in configuring and installing Spring Config Server for externalizing application specific configuration."}
+{"text": "Client-side design and validations using HTML5, CSS, JavaScript, JSP, jQuery, AngularJS."}
+{"text": "Experienced in setup and configuration of Jenkins in the Linux server. Experienced in writing Groovy pipeline scripts in Jenkins for Continuous Integration and Deployment (CICD)."}
+{"text": "Experience in deploying and configuring on Application & Web Servers such as JBOSS, BEA WebLogic, and Apache Tomcat Web Server."}
+{"text": "Experienced in setup, configuration and implementation of monitoring tool such as Prometheus, Elastic Stack and visualization tool such as Kibana and Grafana."}
+{"text": "Hands on experience in JMS over messaging to exchange the information in more reliable and asynchronous way in enterprise Applications. Used Apache ActiveMQ as JMS provider."}
+{"text": "Experienced in configuring Elastic Search, Kibana, Logstash. Used Elastic Stack as logging and monitoring framework in a distributed architecture."}
+{"text": "Good exposure on using various tools like IntelliJ, Spring Tool Suite, Eclipse, DataGrip, SQL Developer."}
+{"text": "Excellent analytical, communication and interpersonal skills. "}
+{"text": "Experienced software development in Agile/Sprint and Waterfall model."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": "Languages:\t\tJava, C, C#, SQL, Bash, Python, Shell Scripting, Groovy"}
+{"text": "Web: \tHTML5, CSS3, JavaScript, jQuery, AngularJS2+, React, JSON, XML, DOM, JAX-B, XSD, XSLT, Spring MVC, SpringBoot, Struts 2"}
+{"text": "Enterprise:\tJava core, I/O, Swing, Java Beans, JDBC, JSP, Servlets, Spring, Hibernate, Java Security  "}
+{"text": "Frameworks:\tJavaFX, JUnit, Mockito, Log4j, Maven, Swagger 2, Spring Config Server, Spring Admin "}
+{"text": "Web Services:\t\tREST, SOAP, JAX-RS "}
+{"text": "Web/App Servers:\tJBoss, Tomcat, WebLogic"}
+{"text": "Tools:\tJenkins, Consul, Docker, ElasticStack\u2014ElasticSearch, Kibana, Logstash, Beats, Splunk, PUTTY, JIRA, Oracle VM, XLR, eCP Cloud Console, WSO2 Manager, Prometheus, Grafana, Soap UI, Postman, SonarQube"}
+{"text": "IDES: \tEclipse, IntelliJ, Spring Tool Suite (STS), Microsoft Visual Studio, Sublime Text 3, Visual Studio Code, JetBrains DataGrip, SQL Developer"}
+{"text": "Version Control:\tGit, GitLab, GitHub, Bitbucket, SVN"}
+{"text": "Databases:\t\tOracle, MS-SQL Server, MySQL, DB2 "}
+{"text": "Platform:\t\tWindows, Linux, UNIX"}
+{"text": "SDLC:\t\t\tAgile/Scrum, Waterfall"}
+{"text": "Design Patterns:\tMVC, Front Controller, Singleton, DAO"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "EXPERIENCES"}
+{"text": ""}
+{"text": "American Express, Phoenix, AZ | July 2018 - Present"}
+{"text": "Role: Java Full Stack"}
+{"text": ""}
+{"text": "Description"}
+{"text": "Legacy application in Java that has customer travel and agents\u2019 demographics information. There are various components that support different aspects of the business and are also interdependent with each other\u2019s databases. Most services written in monolithic SOAP based services along with legacy Stored Procedures. As part of Software Modernization, our task was to migrate these legacy services to Restful web services according to Rest Standards and Microservice Architecture. "}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Worked in various stages of Software Development Life Cycles such as design, development, deployment and testing."}
+{"text": "Worked in latest open source Framework such as SpringBoot, Spring MVC, Java, Hibernate."}
+{"text": "Migrated existing legacy applications to SpringBoot Rest APIs. "}
+{"text": "Worked in Agile development methodology and used Agile concepts such Continuous Integration and Deployment with XLR for deployment, Jenkins for Integration, etc."}
+{"text": "Wrote wrapper service to call database stored procedure and exposed it to consumers as Rest API."}
+{"text": "Wrote custom utility jars that is used by multiple applications."}
+{"text": "Created API documentation using Swagger 2.0. Used JBOSS server to deploy WARs."}
+{"text": "Replaced existing legacy front-end framework with Spring MVC and called backend services to make the application modern and efficient."}
+{"text": "Used Rally to add and update daily tasks and progress. Used Bitbucket as repository."}
+{"text": "Front end development using Spring MVC, Apache Tiles, HTML, JavaScript, CSS."}
+{"text": "Converted existing SOAP-based services to SpringBoot Rest services. Wrote unit tests in Junit/Mockito."}
+{"text": "Used XSDs file to convert to POJOs using JAX-B."}
+{"text": "Involved in troubleshooting and debugging of existing legacy codes using debugger in IntelliJ."}
+{"text": "Deployed application using XLR and Jenkins to OpenShift ePAAS."}
+{"text": "Maintained code analysis and quality using SonarQube."}
+{"text": "Used Splunk for Server-side logging along with eCP Cloud Console. Used Elastic Search as document database."}
+{"text": "Used Docker to create images of the application and run it locally. "}
+{"text": ""}
+{"text": "Environment: Java 8, Hibernate, Spring MVC, SpringBoot, Jenkins, CI CD, XLR, eCP, OpenShift, JUnit, Mockito, Docker, Maven, JBOSS, MicroService, Swagger, JAX-RS, RESTful, JSON, IntelliJ, DataGrip, Postman, Log4J, Oracle 11g, SonarQube, Linux/Unix, Rally"}
+{"text": ""}
+{"text": "CVS Health, Northbrook, IL | Jan 2016 \u2013 June 2018"}
+{"text": "Role: Java Developer"}
+{"text": ""}
+{"text": "Description"}
+{"text": "This application is a Prescription Routing and Dispensing system in the health care domain. It involves various stages such as receiving the orders, validating customers, validating the medicine, preparation, routing and dispensing. The legacy application had maintenance costs, difficulty in scaling and performance issue. With a team of developers and architects, our team engineered a newer distributed architecture where applications would be highly available, highly performing, maintenance-friendly, scalable, and loosely coupled. Our role was to develop components after series of Proof of Concepts on various products, tools and technologies that would fit together in this architecture. This platform has a backbone of RESTful APIs along with responsive and highly performing front end platform developed in Angular. Our team configured huge set of tools such as Jenkins, SpringBoot, Angular, GitLab, Spring Admin, WSO2, Consul, Spring Config Server, Elastic Search, Prometheus, etc."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Involved in various phases of Software Development Life Cycle (SDLC) such as requirements gathering, modeling, development estimates and analysis, design, development, testing and production."}
+{"text": "Prepared technical design document for Java Restful API. Generated Use Case diagrams, UML Sequence diagram and Class diagrams using Visual Studio."}
+{"text": "Developed Restful Java API to retrieve data from MS SQL database as JSON. Implemented Spring MVC Framework and Hibernate for persistence."}
+{"text": "Developed SpringBoot Microservices in a distributed architecture and prepared Application Design Document to incorporate technical designs. "}
+{"text": "Used WSO2 API Manager and Swagger to design API and document the Service Contract of Microservices."}
+{"text": "Performed unit testing of Java Classes using JUnit and Mockito Framework. Implemented SLF4J and Log4J for Server-side/Client-side logging."}
+{"text": "Worked with tables, views, types, triggers, complex join queries, stored procedures and functions on Oracle and MS SQL database along with configuration of data source using JNDI."}
+{"text": "Used Consul as Service Registry and Discovery tool."}
+{"text": "Used Spring Cloud Config Server to externalize properties in the Microservice Architecture. "}
+{"text": "Analyzed, reviewed and compared several tools and software as Proof of Concept (POC) to support and establish Distributed Microservice Architecture. "}
+{"text": "Installed and configured several tools such as Jenkins, Spring Config Server, Elastic Search, Kibana Dashboard, Beats agent in the servers. "}
+{"text": "Performed POC on Elastic Suite-Elastic Search, Kibana Dashboard, X-Pack, Beats. Analyzed Elastic search and compared its monitoring capabilities with other tools. Installed Elastic Stack in server. Enabled SSL, Alerting and Reporting using X-Pack. Monitored API servers, using Metricbeats."}
+{"text": "Wrote Java classes to post JMS Message to queues in RabbitMQ."}
+{"text": "Maintained code quality using SonarQube server."}
+{"text": "Used GitLab as source code repository for Java codes and externalized configuration repository for Spring Cloud Config Server. Developed branching strategies that fit the Microservice Architecture and to facilitate Continuous Integration and Deployment with Jenkins. Took the responsibility to do the code merges from feature branch to release and regression branch."}
+{"text": "Wrote Groovy pipeline scripts in Jenkins to automate application Continuous Integration and Deployment. Wrote Linux shell script for deployment."}
+{"text": " "}
+{"text": "Environment: Java 8, Hibernate, Spring, SpringBoot, Jenkins, CI CD, Consul, Service Discovery/Registry, Elastic Stack 6+, Kibana Dashboard, Prometheus, Spring Config Server, GitLab, JUnit, Maven, UML, SOA, Microservice, JAX-RS, RESTful, JSON, Spring Tool Suite, Postman, Log4J, Oracle 11g, HP Quality Center, SonarQube, Linux/Unix, Bash Scripting, RabbitMQ"}
+{"text": ""}
+{"text": "Alliance Bernstein, Piscataway Township, NJ | Sep 2013 \u2013 Dec 2015"}
+{"text": "Role: Java Full Stack Developer"}
+{"text": ""}
+{"text": "Description"}
+{"text": "This product is developed to capture customer information\u2014personal details, assets, verification, family details, income and expenditure details. Here, the client uses this information for banking purposes. The product also talks and interacts with multiple other business modules such as loans, insurance and mutual funds."}
+{"text": "\u00a0\nResponsibilities"}
+{"text": "Involved in various phases of Software Development Life Cycle (SDLC) such as requirements gathering, modeling, analysis, design, development and testing."}
+{"text": "Generated the use case diagrams, Activity diagrams, Class diagrams and Sequence Diagrams in the design phase."}
+{"text": "Developed the User Interface using JSP, Spring MVC frameworks, jQuery, HTML and CSS. "}
+{"text": "Experience for building an internal, responsive AngularJS single page application."}
+{"text": "Hands on experience with AngularJS to execute expressions directly within HTML page."}
+{"text": "Used Spring framework AOP features and JDBC module features to persist the data to the database for few applications. Also used the Spring IOC feature to get hibernate session factory and resolve other bean dependencies."}
+{"text": "Developed Hibernate entities and wrote POJO classes for storing data and DAO's to retrieve the data and did other database configurations using EJB."}
+{"text": "Deployment and Configuration of application server JBoss deploying Java and Web Application."}
+{"text": "Worked with teams responsible for development, user acceptance, and performance testing, production & disaster recovery server."}
+{"text": "Used Tortoise SVN to maintain the version of the files and took the responsibility to do the code merges from branch to trunk and creating new branch when new feature implementation starts."}
+{"text": "Wrote Unit Test Cases using JUnit framework and Server-side Logging & Client-side logging using Log4J (Apache open Source API) and Maven scripts for the building the applications."}
+{"text": ""}
+{"text": "Environment: Java, Hibernate, Spring, Servlets, XML, Tortoise SVN, JSP, MVC, JUnit, Maven, UML, RESTful, SOAP UI, Log4J, Oracle 11g, Jenkins, Rally, Linux/Unix, JavaScript, AngularJS, JIRA"}
+{"text": ""}
+{"text": "Blue Cross Blue Shield, Chicago, IL | Jan 2010 \u2013 Aug 2013"}
+{"text": "Role: Java Developer"}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Involved in all phases of the Software development life cycle (SDLC) using Agile Methodology."}
+{"text": "Developed Use Case Diagrams, Object Diagrams and Class Diagrams in UML."}
+{"text": "Developed enterprise application using J2EE."}
+{"text": "Utilizing XML descriptors to describe screens, their actions, and their security roles'/levels."}
+{"text": "Involved in writing Spring Configuration XML file that contains declarations and other dependent objects declaration."}
+{"text": "Developed front end using Struts framework and user interface using JSP and JavaScript to simplify the complexities of the application."}
+{"text": "Developed Java Beans, Action Classes, and Action Mapping and hibernate classes to retrieve and submit using the Struts."}
+{"text": "Developed various Java beans for performance of business processes and effectively involved in Impact analysis."}
+{"text": "Created REST services to receive membership and service data for users."}
+{"text": "Designed and developed Hibernate DAO's using spring framework's Hibernate Dao Support and Hibernate Template."}
+{"text": "Created tables, SQL queries in Oracle 10g using SQL Developer."}
+{"text": "Involved in Unit Testing of various modules by generating the Test Cases."}
+{"text": "Involved in Bug fixing of various modules that were raised by the testing teams in the application during the Integration testing phase."}
+{"text": "Implemented Log4J for Logging Errors, debugging and tracking using loggers."}
+{"text": ""}
+{"text": "Environment: Java, JNDI, JSP, Servlets, JSTL, Spring (Services, DAO, MVC etc.), Struts, JavaScript, jQuery, Log4j, XML, Maven, Ant, SVN."}
+{"text": "request"}

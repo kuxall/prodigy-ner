@@ -1,0 +1,135 @@
+{"text": "Name: minnie minnie"}
+{"text": "E-Mail: minnie.minnie@gmail.com"}
+{"text": "Address: Cangzhou, China"}
+{"text": "Github: https://github.com/minnie"}
+{"text": "LinkedIn: https://linkedin.com/minnie"}
+{"text": "Phone No. 118230517349"}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": "Six plus Years of experience in Quality Assurance/ Software Testing with emphasis on manual testing efforts. Involved in testing Web, Ecommerce, Retail, ETL and Healthcare applications. "}
+{"text": "Well versed with multiple years of proven experience in QC ALM."}
+{"text": "\u00a0Working knowledge of using QTP Scripts with Standard, Text, Bitmap, Image Checkpoints and Synchronization Points, Parameterization etc."}
+{"text": "Proficient in using Test Management tool Quality Center for Test Planning, Test Designing, Test Analysis, Test Execution, Defect Tracking and Reporting."}
+{"text": "Expertise in requirements analysis, preparation of test strategy, test plans and creating test cases."}
+{"text": "Worked in developing and maintaining Test Scripts, analyzing bugs and interacting with development team members in fixing the defects using Quality center."}
+{"text": "Ensure traceability of test cases to requirements, working with the project Business Analyst to ensure all requirements are tested."}
+{"text": "Expertise in different types of testing such as Functional testing, Integration testing, Regression testing, GUI testing, Back-end testing, Black Box testing and System testing, UAT testing etc."}
+{"text": "Worked in testing various Web Based Applications and Client server Applications."}
+{"text": "Tested Web services using Soap UI."}
+{"text": "Worked testing of applications on WEB and Mobile platforms at all the stages of software development and software testing life cycles.\u00a0Hands on experience in Testing Mobile Application & Mobile Web Applications.\u00a0"}
+{"text": "Worked on Rally, JIRA for logging defects, understanding the user stories, uploading test cases."}
+{"text": "Worked in Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC)."}
+{"text": "Expert in validating Databases, Oracle and MS SQL Server using SQL queries."}
+{"text": "Worked in testing the ETL BI Reporting using tool Pentaho and OBIEEwhich includes SAIKU Reporting-created and tested standard reports and custom& DWH reports, dashboards and SAIKU Analytics- created and tested DWH cubes."}
+{"text": "Extensive hands-on experience in testing large, complex software applications designed to automate common business processes, including automated and manual testing"}
+{"text": "Attended daily scrum meetings for the new projects that followed Agile Scrum Methodology."}
+{"text": "Exceptional ability to work well in a team and individually."}
+{"text": "Worked on testing various Applications like Travel Applications, Expenses, Mobile, Retail and Ecommerce based Applications, HIPPA based Health care Applications etc."}
+{"text": "Solid management skills, demonstrated proficiency in leading and mentoring individuals to maximize levels of productivity, while forming cohesive team environments."}
+{"text": ""}
+{"text": "Technical Summary:"}
+{"text": "Operating Systems: Windows 98/2000/NT/XP/7, LINIX, VM, MS-DOS, UNIX (Sun Solaris 8, HP, IBM Compatibles), UNIX,"}
+{"text": "Programming Languages:  C, C++, SQL, PL/SQL, Visual Basic, ASP, .Net, Java technologies."}
+{"text": "Databases: MS Access, MS-SQL, Oracle 8i/9.x/10.x, SQL server, UAT "}
+{"text": "RDBMS: Oracle Developer 2000."}
+{"text": "Testing Management Tools:  Quality Center/ Test Director, JIRA."}
+{"text": "Functional Testing Tools: QTP, Soap UI."}
+{"text": "Technologies: HTML, HTTP, VB script, ASP, XML, Java Script."}
+{"text": "Modeling: UML, Erwin, Visio"}
+{"text": "Reporting: SSRS, Cognos, OBIEE 10g/11g, Micro Strategy, Pentaho   "}
+{"text": "Mobile Platforms: iPhone OS, Android, iPad, BlackBerry"}
+{"text": "Others: Word, Excel, Power Point, Outlook, Visio."}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Client: Concur Technologies, Vienna VA\t\t\t\t\t\t\t\tFeb 2014 to Present"}
+{"text": "Role: SR.BI Reports/ OBIEE Tester"}
+{"text": "[Travel & Expense Management System integration T&E]"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Performed regression testing against the various builds of the application."}
+{"text": "Wrote SQL queries and tested front end developed data in the databases."}
+{"text": "Understand the Requirements, Prepared and executed Test Cases manually according to the BRD, Technical Specification, Functional Design and Use Case documents, identifying applications functionality, test requirements and coverage."}
+{"text": "Tested Concur CGE Application in various environments like Preview, Stable on all Mobile platforms. Performed various Functionality, System, travel and Expense management Integration validations on Mobile platforms."}
+{"text": "Defects were tracked, reviewed, analyzed and reported using Quality Centre, JIRA. Worked on testing End to End flow of Travel and Expense Management Systems integration (T&E integration)."}
+{"text": "Tested various Time Zone Calculations and last Date to Ticket in Travel... Verified this for Government contract and Non-Government Contract, Discount and Non-Refund fares for various Airlines"}
+{"text": "Created the Amendments and verified the Reservation and expenses Summary and compared the Results with Authorizations [integration]."}
+{"text": "Tested various trip changes, updates, cancellations on various GDS.Also verified the Error Services for cancellations and trip Ticketing."}
+{"text": "Verified all Travel bookings- Car, Hotel, Air, rail and expenses on both Web and Mobile Platforms"}
+{"text": "Verified fed rooms program rates appear in CGE during hotel availability search and booking processes. Verified trip request/History Screen accessed by View/Change Reservations in TAVS for a Trip "}
+{"text": "Interfaced with developers to resolve technical issues and investigated software faults."}
+{"text": "Defects were tracked, reviewed, analyzed and reported using Quality Center."}
+{"text": "Involved in testing Web services and XML with tool called \u2018SOAP UI\u2019. Used this tool to locate WSDL file on internet, create Test cases, run them, do load testing, security testing."}
+{"text": "Worked BI reporting Adhoc reporting, Adhoc Analytics- Creating Standard, Custom Reports by BI Reporting tool OBIEE and Pentaho."}
+{"text": "Created Standard Reports based on reservations- Air, Car, hotel, rail, Authorizations, Vouchers, Amendments etc and validated the the Prices, reservation details, Booking information, Expense details."}
+{"text": "Created and Validated DWH Reports for all Reservation updates, cancellations, Booking changes and tested that the data and information that is inserted in the front end  exactly matches with the data in the Reports. "}
+{"text": "Created custom reports and tested based on Trips booked, Authorizations& Vouchers created, Amendments, changes and updates  made to the existing reservations using OBIEE,Pentaho BI Reporting tool and validated that the changes made in the TAVS matches with the data in the Reports."}
+{"text": "Created DWH cubes by using Adhoc Analytics and also validated the data by using filters conditional statements etc."}
+{"text": "Created various types of dashboards and validated the total bookings made by the user and Total trips booked per Airlines using Pentaho and OBIEE BI reporting tools."}
+{"text": "Worked and validated creating reports using various formats. Validated the capability and ease of using prompts to select data on a report with specific attributes. Also validated the use of drilldown on reports and navigation on reports"}
+{"text": "Interacting with Developers to discuss about the requirements/status of the defects"}
+{"text": "Environment: Oracle (OBIEE), QC 10, Java, Soap UI, QC 10, Test planning, UAT, Net, SQL Server, Web Application, AGILE SCRUM, UML."}
+{"text": ""}
+{"text": "Client: Harley-Davidson, WI  \t\t\t\t\t\t\t\t \t\tJan 2012 to Feb 2014"}
+{"text": "Role: QA Tester  "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Reviewed the Requirements and analyzed them."}
+{"text": "Validating web based Ecommerce and documentation based on standards for software development."}
+{"text": "Assisted in Creating Detailed Timelines, Test Plans and Test Strategies for major releases. Conducted extensive Smoke Testing, Functional, Regression Testing and Sanity testing on the application."}
+{"text": "Used Quality Center for Planning, Execution and Bug Tracking and Bug reporting."}
+{"text": "Performed Harley Davidson Application Testing on various Mobile platforms. Tested different Applications and validated all the functionalities on different environments on IOS Testing, Android, iPhone, iPad etc."}
+{"text": "Having good experience in Feature testing, Functional testing, System testing, Compatibility testing, Retesting, in mobile handsets on both IOS and Android."}
+{"text": "Worked on QTP Integrated Environment (Actions, Synchronization, Recovery Scenarios etc.).Created and enhanced the test scripts using descriptive programming."}
+{"text": "Involved in testing General Merchandise like Men\u2019s Apparel, Women\u2019s Apparel, Home Items based on size, price, features, style, Collection.\u00a0Knowledge of retail POS and inventory management applications."}
+{"text": "Experience testing Point of Sale (POS) and AS400 application environments"}
+{"text": "Involved in testing prices of various Items, tax calculations, Add to Cart items, Verifying the shipping and Billing Addresses by using AVS (Address Verification System)."}
+{"text": "Tested Various products like Bikes,Clothing,Home D\u00e9cor , compared the items with various prices, placed orders, made payments and verified various credit and debit card payments integrated by using various third party Payment Gateways like Cyber source, Authorize.net, PayPal etc."}
+{"text": "Worked on Harley Davidson Cross View Customer care application which involves interaction with the customers in registering the customers, selecting the products for them, placing orders, making payments, Editing carts, Shipping Orders and also initiating the Returns for them if required."}
+{"text": "Tested various Shipping methods like Ground, Express, 3 days, 5 day shipping etc. and ensure all the information entered is correct. Verified the different Order Status such as Processing, Job Tickets, Complete order, Tracking order, Payments, Billing & Shipping, Pending order, and cancelled order."}
+{"text": "Verified applying PROMO Codes, Discounts, Coupons while placing the Orders for all types of items and products and also verified that Gift orders."}
+{"text": "Involved in testing all types of Returns for damaged goods and tested that the paid amounts are refunded along with Shipping and handling charges. "}
+{"text": "Done data validation for the OBIEE / Micro Strategy   reports. "}
+{"text": "Installed, configured SOAP UI to test web services using WSDL file given by Development team."}
+{"text": "Developed SQL scripts to verify the data populated in Database and checked successful transaction."}
+{"text": "Attended daily scrum meetings for the new projects that followed scrum methodology."}
+{"text": "Verified the different Order Status such as Processing, Job Tickets, Complete order, Tracking order, Payments, Billing & Shipping, Pending order, and cancelled order."}
+{"text": "Involved in weekly QA meetings, project walkthroughs, and reviews on regular basis."}
+{"text": "Tested entire functionality of the application on different browsers and operating systems based upon system specs."}
+{"text": "Environment: QC 10, Mobile, Java, WMS, Linux, Soap UI, Quality Center 10, Test planning, OBIEE, UAT, Net,SQL Server, Java, UNIX, Web Application, AGILE SCRUM, UML."}
+{"text": ""}
+{"text": "Client: Transverse LLC, Austin, TX\t\t\t\t\t\t\t\t\tSept 2010 to Dec 2011"}
+{"text": "Role: Ecommerce QA Engineer/ETL BI Report Tester"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved In understanding and analyzing the Requirements."}
+{"text": "Worked on Soap UI for testing the Web services (WSDL)."}
+{"text": "Worked in defining Testing Methodologies, Designing Test Plans and Test Cases, Verifying and Validating Web based e-Commerce TRACT application."}
+{"text": "Attended daily scrum meetings for the new projects that followed Agile Scrum Methodology."}
+{"text": "Worked on testing general merchandise and other products like subscription, One-time products etc."}
+{"text": "Worked in testing the prices on various products, tax calculations, invoices. Also verified shipping and billing addresses, payments with credit cards, debit cards, bank transactions, checks, and cash through various payment gateways.Worked on adding coupons, discounts to all the products."}
+{"text": "Understanding the business logic and user requirements for manual and automated testing that includes test objective, Test plans, and test case and test procedures development using Rally."}
+{"text": "Involved in writing and implementation of the test plan."}
+{"text": "Responsible for functional, GUI & Regression testing. Investigated bugs and interacted with developers to resolve technical issues."}
+{"text": "Performed Quality Analysis on problem reports against software and the production system in order to confirm that problems truly exist and can be recreated for testing. Logged the defects and coordinated efforts with the development team to solve the problems using defect-tracking tool (QC ALM)."}
+{"text": "Validated requirements for the application like Invoices, Products, Accounts, Agreements, and Subscriptions. Also validated TRACT reports as well as DWH reports. Created dashboards and validated the monthly, quarterly, yearly Revenues. Also validated the total prices of the products placed by the customers by using dashboards."}
+{"text": "Also created custom Reports validated the various products like subscriptions, one-time products, Subscriptions, Total prices, Agreements, Invoices by changing the System Preferences and adding fields in the filters"}
+{"text": "Tested the back-end Database by preparing Queries with SQL to retrieve data from database."}
+{"text": "Held weekly status meetings showing progress and future testing efforts to the QA manager and validated the DWH Reports."}
+{"text": "Environment: QC ALM, Soap UI, WMS, JAVA, QC ALM, Windows 2000/XP, Windows, UNIX"}
+{"text": ""}
+{"text": "Client: Premier Inc., NC\t\t\t\t\t\t\t\t\t\tJan 2009 to July 2010"}
+{"text": "Role: QA Analyst-Health care"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Assisted in Creating Detailed Timelines, Test Plans and Test Strategies for major releases and organized strategy review meetings."}
+{"text": "Conducted extensive Smoke Testing, Regression Testing and Sanity Testing on the application."}
+{"text": "Used Quality Center for Planning, Execution and Bug Tracking. Coordinated efforts with the development team to solve the problems using defect-tracking tool. Performed detailed test results analysis after each test execution cycle and maintained Test results."}
+{"text": "Developed SQL scripts to verify the data populated in Database and checked successful transaction."}
+{"text": "Attended daily scrum meetings for the new projects that followed Agile scrum methodology."}
+{"text": "Performed Integration, system Testing and executed Regression testing to identify errors in each modified build in the process of testing. Used Rally (Agile Project Management tool) for creating user stories, test cases, tracking defects."}
+{"text": "Proficient in working with testing tools and carrying out Functionality Testing, GUI Testing, Systems Testing, Integration Testing, Black Box Testing, User Acceptance Testing, and Regression Testing of Web based applications."}
+{"text": "Environment: QTP 10, Team track, Linux, Quality Center 10, Test planning, soap UI 3.0, UAT, SQL Server, Java, Unix, Web Application, AGILE SCRUM, Erwin, UML, Visio."}
+{"text": ""}
+{"text": ""}

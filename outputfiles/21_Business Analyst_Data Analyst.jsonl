@@ -1,0 +1,148 @@
+{"text": "Name: jean jean"}
+{"text": "E-Mail: jean.jean@gmail.com"}
+{"text": "Address: Istanbul, Turkey"}
+{"text": "Github: https://github.com/jean"}
+{"text": "LinkedIn: https://linkedin.com/jean"}
+{"text": "Phone No. 66716981103"}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": "Highly motivated IT professional with 7+ years of experience as a Business Analyst, Data Analyst and Quality Analyst in the\u00a0Finance and Insurance\u00a0domains."}
+{"text": "Comprehensive knowledge of Software Development Life Cycle\u00a0(SDLC)\u00a0with thorough understanding of its various methodologies like\u00a0Agile, RUP, Waterfall\u00a0etc."}
+{"text": "Worked closely with project stakeholders, Subject Matter Experts (SMEs) and staff to understand business requirements and analyze specifications for new applications, and to modify existing applications."}
+{"text": "Excellent knowledge of various policy administration & industry standard tools such as Guidewire Policy Center, Guidewire Claim Center, Duck Creek and ACORD standards with insurance laws, regulations and company policies."}
+{"text": "Extensive experience\u00a0in Requirements Gathering, Surveys/Questionnaire Development, Business Requirement Documents\u00a0(BRD),\u00a0Functional Requirement Specifications/Documents\u00a0(FRS/FRD)."}
+{"text": "Skilled\u00a0at facilitating Joint Requirement Planning\u00a0(JRP) sessions with Business User Groups, conducting Joint Application Development\u00a0(JAD)\u00a0sessions with IT Groups, and\u00a0Conflict Management\u00a0with Project team members."}
+{"text": "Approach with CRM to managing a company's interaction with current and future customers"}
+{"text": "Involved using CRM technology to organize, automate, and synchronize sales. "}
+{"text": "Good understanding in Defect Life Cycle for tracking the defects with Severity & Priority."}
+{"text": "Used SOAP UI to validate the response from various WSDL file."}
+{"text": "Excellent knowledge in\u00a0extraction, cleansing and modification of data from/to various data sources like flat files and databases processing in a corporate-wide-ETL solution using ETL Tools like Informatica ,Ab Initio & SSIS."}
+{"text": "Proficient in querying various RDMS Systems like Oracle, DB2, Teradata and SQL server. "}
+{"text": "Extensively used UNIX to run the Ab Initio graph from command line and Control-M error debugging. "}
+{"text": "Validated reports from various BI tools like SSRS, Cognos, Micro strategy for tabular, Pie Charts, Bar Graph, gage, map metrics etc. for alignment, header, and footer and other attributes."}
+{"text": "Tested Informatica mappings to validate the business conditions and extensively involved in analyzing the logs created by Informatica to validate the record counts and other validations."}
+{"text": "Loaded Flat file, fixed length, and delimited files through Informatica into Teradata tables using Unix Shell scripts "}
+{"text": "Experienced in performing data validation and preparation of test data in UNIX environment using various UNIX commands in VI editor."}
+{"text": "Extensively tested Scheduled jobs in Control M as per dependency matrix."}
+{"text": "\u00a0"}
+{"text": "Technical Skills:"}
+{"text": "\u00a0"}
+{"text": "Professional Experience:\u00a0"}
+{"text": "Progressive Corp. Mayfield Village, OH                                                Mar 2018 \u2013 Oct 2019"}
+{"text": "Sr. Business Analyst/Data Analyst/Quality Analyst"}
+{"text": "The Progressive Corporation, through its subsidiaries, provides personal and commercial automobile insurance, and other specialty property-casualty insurance products and related services in the United States. Its property-casualty insurance products protect customers against losses due to collision and physical damage to their motor vehicles, uninsured and underinsured bodily injury, and liability to others for personal injury or property damage arising out of the use of those vehicles. Project includes caching of report in Enterprise Data Service, mapping schemas from External vendor into the building using different Web-Services, integrating Guidewire Claim Center to internal legacy application, business partners, and other multiple applications."}
+{"text": ""}
+{"text": "\u00a0Responsibilities:"}
+{"text": "Gathered, documented, and communicated business requirements into systems design documentation using Business-Modeling concepts."}
+{"text": "Conducted\u00a0Interviews\u00a0and\u00a0Brainstorming Sessions\u00a0with stakeholders (application users, subject matter experts etc.) to gather requirements and end user perspectives in order to identify deficiencies and areas for improvement & enhancement"}
+{"text": "Created Ab Initio graphs that transfer data from various sources like Oracle, flat files and CSV files to the Teradata database and flat files."}
+{"text": "Identified As-is and To-be process maps while working\u00a0on\u00a0Collibra\u00a0tool for\u00a0data mapping and writing transformation rules\u00a0for the data transfer between the source and the target systems successfully."}
+{"text": "Performed different validations in the source file using Excel, Notepad and UNIX commands as necessary. "}
+{"text": "Extract, synthesize and manipulate large data sets using Excel, Access, SQL, Visual Basic, and present them in Cognos. "}
+{"text": "Worked on Integration Mapping between Guidewire PolicyCenter/Guidewire ClaimCenter and Guidewire PolicyCenter/Guidewire BillingCenter"}
+{"text": "Worked on fine tuning the existing Ab initio graphs in order to have optimum performance. "}
+{"text": "As process of testing report, Debugged the Cognos Dashboards /Reports with different analytics views (Pivot table, Chart, Tabular and View Selector), Alerts, Guided Navigation and Dynamic /Interactive Dashboards with drill down capabilities using global and local filters."}
+{"text": "Concentrated on implementing Guidewire batch integration in replacing the existing NextGen legacy functionalities like NY VIN Reconciliation screen"}
+{"text": "Prepared data mapping document in excel based on requirement document for data migration from legacy Data Warehouse EDW to ICDW data warehouse."}
+{"text": "Validated each and every Business Logic incorporated in Target state Data Warehouse (Teradata) when the scheduled job is completed."}
+{"text": "Developed shell scripts to customize the ETL Ab Initio Graphs at runtime."}
+{"text": "Extensively tested all aspect of reports like UI, Functionality and Data validation which were generated using Cognos as reporting portal."}
+{"text": "Wrote complex SQL to validate the Data with legacy Reports in Oracle and Teradata environment."}
+{"text": "Created custom reports in Payables in Cognos according to user requirement"}
+{"text": "Maintained the entire test cases in HP ALM and logged all the defects into the defects module."}
+{"text": "Prepared\u00a0User Interface document\u00a0(UID),\u00a0Wireframes,\u00a0and\u00a0Prototypes\u00a0to help design user interfaces."}
+{"text": "CRM systems helped to track and measure marketing campaigns over multiple networks, tracking customer analysis by customer clicks and sales Interacted extensively with customers.  And user interface\u00a0(UI) designers to determine ways to improve the UI feel and user experience."}
+{"text": "Created\u00a0Mock-up\u00a0forms in\u00a0Just in mind\u00a0for better visualization and understanding of the Graphic User Interface\u00a0(GUI)."}
+{"text": "Modified User Stories in Guidewire PolicyCenter upgrade 8.0"}
+{"text": "Responsible for documenting\u00a0Meeting\u00a0Minutes\u00a0of the Weekly meetings and distributing to PM and other team members."}
+{"text": "Created\u00a0Burn-down Charts\u00a0to monitor the completion of work within the time-boxes."}
+{"text": "Extensively used task board, Poker Planning for better teamwork and results."}
+{"text": "Gained expertise on\u00a0Change Management\u00a0by Performing\u00a0Impact Analysis\u00a0maintained\u00a0Change Log\u00a0for\u00a0Change\u00a0Requests. Escalated the results of the analysis to the\u00a0Change Control Board (CCB)."}
+{"text": "Walkthrough Session\u00a0with development team and QA team to understand the business requirements clearly. Worked with QA team to help create\u00a0Test Plans\u00a0and\u00a0Test Cases."}
+{"text": "Used\u00a0Silk Central\u00a0as defect tracking tool to validate test case\u2019s results."}
+{"text": "Tracked\u00a0open issues\u00a0and documented\u00a0progress reports\u00a0on weekly basis."}
+{"text": "Conducted\u00a0Smoke test\u00a0after each build."}
+{"text": "Created the source SRS articulating the known issues and potential risks for feeding data into PDS repository that will be storing daily positions and reference data subscribed by LRM."}
+{"text": "Analyzed and documented gaps in Sophis\u2019, the source trading system, trade and positions attributes based on the requirements defined in the Risk Management BRD."}
+{"text": "Create and review test plans and test case for\u00a0UAT\u00a0sessions in Collibra\u00a0to see if the request was passing\u00a0vendors correctly for Appraisal, title , flood Orders"}
+{"text": "Generated runtime code using in\u00a0Collibra and\u00a0tested the\u00a0Test Data against the code and\u00a0provided the Java Transforms\u00a0to developers for deploying in different\u00a0Environments (DEV/SIT/UAT and PROD)"}
+{"text": "Created\u00a0step by step manual\u00a0and\u00a0user guide\u00a0for quality assurance team keeping in mind user requirements and how it can be met."}
+{"text": "Performed\u00a0Post Production Validation\u00a0after the Application was released into production"}
+{"text": ""}
+{"text": ""}
+{"text": "CUNA MUTUAL, Waverly, IA \t\t\t\t\t\t\tMay 2016\u00a0-\u00a0Feb 2018\u200b                               "}
+{"text": "Business Analyst/ Data Analyst/ Quality Analyst\t\t"}
+{"text": "CUNA Mutual Group is the leading provider of financial services and Insurance Products (Life, Property & Casualty) to credit unions and their members worldwide, offering lending, protection, financial, employee and member solutions through strategic partnerships, technological innovations and multiple service channels. I was actively involved in various projects playing the role of scoping the project, meeting business representatives to conduct and initial overview of the objective, costs and benefits and gathering, understanding and documenting the requirements spanning various systems which included Lifepro, other client/server based systems and also the Mainframe environment."}
+{"text": "Responsibilities:"}
+{"text": "Conducted\u00a0JAD Sessions\u00a0with the SMEs and managers to understand the business processes and functional details."}
+{"text": "Identified gaps in the existing systems by performing\u00a0GAP Analysis\u00a0on the\u00a0As-is\u00a0business process maps."}
+{"text": "Created the\u00a0To-be\u00a0business process maps to communicate the solutions to the entire team as well as to gain the approval of the SMEs and the management team."}
+{"text": "Conducted meetings and brainstorming sessions with Company Ratings managers, sales advocates to gather user requirements and business process information."}
+{"text": "Documented the gathered business requirements into a detailed Business Requirements Document\u00a0(BRD)."}
+{"text": "Designed, developed, documented, tested and maintained various web-based project using PHP, MySQL, Javascript, XML, HTML and CSS."}
+{"text": "Define Input and Output Mapping requirements between Guidewire PolicyCenter and Duck Creek Rating Integration"}
+{"text": "Reviewed the data model and reporting requirements for Cognos Reports with the Data warehouse/ETL and Reporting team."}
+{"text": "Identified high level requirements in Inception for Guidewire PolicyCenter"}
+{"text": "Translated Business Requirements into functional and non-functional requirements using industry standard documentation processes like Data Flow Diagram\u00a0(DFDs) and\u00a0UML Diagrams\u00a0(Use Case, Sequence and Activities Diagrams)."}
+{"text": "Data visualization using Cognos."}
+{"text": "Supported in every day settlement operations of back office in a joint effort with day by day exchanges for center office operations."}
+{"text": "Gathered requirements for research data mappings for front office."}
+{"text": "Worked with architects to interpret business needs into service oriented, process driven business models using UML"}
+{"text": "Used Cognos to perform regression analysis for managers to make prompt decisions with."}
+{"text": "Identified system requirement for integration with Guidewire System."}
+{"text": "Involved with the development team to ensure that business needs are fulfilled and deliverables are produced within specified budget, quality and time."}
+{"text": "Defined the context of the system by writing various use cases."}
+{"text": "Developed System Requirements Specifications (SRS) encompassing Functional and Non-Functional Requirements."}
+{"text": "Gathered data requirements of subject areas from stakeholders and developed strategies for data profiling and data validation."}
+{"text": "Prioritizing and managing the defects using the Defect Tracking system like JIRA, "}
+{"text": "Developed data maps to track transformation of data elements from source to destination across all phases of staging."}
+{"text": "Coordinated with Data modelers in giving requirements for ER diagrams including data type length and integrity constraints. "}
+{"text": "Developed the financing reporting requirements by analyzing the existing business objects reports"}
+{"text": "Utilized Informatica toolset (Informatica Data Explorer, and Informatica Data Quality) to analyze legacy data for data profiling."}
+{"text": "Responsible in maintaining the Enterprise Metadata Library with any changes or updates"}
+{"text": "Establish standards of procedures. "}
+{"text": "Worked heavily on SQL Server database to extract data and build Business reports."}
+{"text": "Generating a variety of reports based on the Universes, running\u00a0free-hand SQL, and also personal data files."}
+{"text": ""}
+{"text": "CNA INSURANCE, Chicago, IL \t\t\t\t\t\t\tMar 2014 -\u00a0Apr 2016"}
+{"text": "Technical Business Analyst\u00a0"}
+{"text": "CNA offers a complete line of standard casualty products from management and professional liability to commercial automobile protection.  I worked on the different modules like P&C (Property and Causality) Claims, and Quotes.  Worked on a Web-based application accessed by potential customers to file a claim through automated forms, request a quote, get extra liability protection, contact a shelter insurance agent and Report accidents via their website"}
+{"text": ""}
+{"text": "Responsibilities\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0"}
+{"text": "Worked\u00a0with\u00a0Business Users,\u00a0Customers\u00a0and\u00a0Subject Matter Experts (SMEs)\u00a0to understand the existing system and the current business process and methods to\u00a0identify deficiencies and\u00a0areas for improvement and enhancement."}
+{"text": "Accountable for creating, maintaining and ensuring\u00a0User stories to have coverage on\u00a0business values,\u00a0story points\u00a0and\u00a0acceptance criteria.\u00a0"}
+{"text": "Proficiently helped development teams to\u00a0break down\u00a0large user stories for\u00a0execution."}
+{"text": "Advised\u00a0product owners,\u00a0scrum masters\u00a0and\u00a0teams\u00a0to improve their ability to create good\u00a0Product Backlogs\u00a0to prioritize features and subsequently created\u00a0Sprint Backlogs."}
+{"text": "Actively assisted in the\u00a0acceptance\u00a0and\u00a0validation\u00a0of the stories by testing the\u00a0delivered stories.\u00a0"}
+{"text": "Provided detailed\u00a0User Interface Document\u00a0to the development and testing team for clear understanding of the system."}
+{"text": "Conducted\u00a0requirement walkthroughs\u00a0with the development and test teams before the development and testing phases respectively, to ensure that the requirements are accurately understood."}
+{"text": "Created and maintained\u00a0Requirements Traceability Matrix (RTM)\u00a0to trace technical requirements to their business requirements and the test case to their functional requirements."}
+{"text": "Worked closely with the\u00a0QA Team\u00a0and played a key role bringing in\u00a0best practices\u00a0of\u00a0test driven development\u00a0in an\u00a0agile\u00a0environment."}
+{"text": "Actively participated in the\u00a0Daily stand up\u00a0and\u00a0Weekly status meetings."}
+{"text": "Extensively used\u00a0task board,\u00a0poker planning\u00a0for\u00a0better teamwork and results."}
+{"text": "Conducted\u00a0User Acceptance Testing\u00a0(UAT)\u00a0to ensure all the business requirements have been fulfilled by the application."}
+{"text": "Actively participated in\u00a0Smoke Testing,\u00a0Post Production Validation (PPV)\u00a0and handled issues appropriately."}
+{"text": "Prepared detailed\u00a0user manuals\u00a0and conducted\u00a0training sessions."}
+{"text": ""}
+{"text": ""}
+{"text": "Barclays Investment Bank, Bloomington, IL \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0         July 2012 \u2013 Feb 2014"}
+{"text": "Technical Business Analyst"}
+{"text": "\u200bBarclay\u00a0Investment Bank provided a broad range of banking, asset management, wealth management and corporate and investment banking products and services. The aim of the Market Risk Systems (MRS) project was to perform valuation, simulation, aggregation and reporting of risk metrics and models on all simple (bonds) and complex (structured products, derivatives) security products. The MRS are comprised of intraday and overnight batch processes that handle staging for all trading position data and market data required for risk modeling as well as making this data available to the various risk valuation systems.. \u00a0"}
+{"text": "Responsibilities:\u00a0"}
+{"text": "Participated in\u00a0Joint Application Development (JAD) sessions by convening project sponsors, end-user representatives, development team members, subject-matter experts, technical personnel, and different stakeholders to communicate their perspectives with each other, resolve any issues and come to consensus."}
+{"text": "Worked with architectures to analyze the\u00a0Project Definition Document\u00a0(PDD)\u00a0to make an initial estimation of the sizing of the project, as well as potential impacts on existing systems."}
+{"text": "Analyzed the business process as\u00a0Business Process Automation"}
+{"text": "Implemented\u00a0RUP, designed visual models to draft business requirements by using Use Cases"}
+{"text": "Gathered and documented the requirements that were critical to the business mission and used those requirements to design application software using a\u00a0Use Case approach."}
+{"text": "Interacted with the\u00a0Users\u00a0by interviewing them, preparing questionnaires and getting feedback."}
+{"text": "Developed the required\u00a0use case diagrams, business\u00a0work-flow diagrams\u00a0and\u00a0activity diagrams\u00a0so that all stake holders could better understand the business process."}
+{"text": "Developed the\u00a0functional specifications document\u00a0and assisted the project team in preparing Software\u00a0Requirement Specifications (SRS), and the\u00a0user interface design.\u00a0"}
+{"text": "Created\u00a0User Interface documents\u00a0(UID)\u00a0of prototypes and\u00a0wireframes\u00a0to help designing user interface.\u00a0"}
+{"text": "Managed all the\u00a0changes and change requests\u00a0in the projects by using Rational Clearcase."}
+{"text": "Worked with\u00a0SQL\u00a0queries using MS Access for data manipulations"}
+{"text": "Experience in\u00a0walkthrough session with development team\u00a0to ensure the business requirement are clear."}
+{"text": "Walkthrough\u00a0session with\u00a0QA team\u00a0to ensure the test plan and a test case meets the business requirement."}
+{"text": "Conducted smoke test\u00a0after each build."}
+{"text": "Create and review test plan and test case for\u00a0UAT session. As well as conducting\u00a0UAT session."}
+{"text": "Created\u00a0step-by-step manual\u00a0and\u00a0user guide\u00a0for quality assurance team keeping in mind user requirements and how it can be met."}
+{"text": "Performed\u00a0Post Production Validation\u00a0after the Application was released into production. \u00a0"}

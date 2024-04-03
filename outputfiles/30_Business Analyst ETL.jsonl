@@ -1,0 +1,124 @@
+{"text": "Name: margaret margaret"}
+{"text": "E-Mail: margaret.margaret@gmail.com"}
+{"text": "Address: Chengdu, China"}
+{"text": "Github: https://github.com/margaret"}
+{"text": "LinkedIn: https://linkedin.com/margaret"}
+{"text": "Phone No. 24524112138"}
+{"text": "\n "}
+{"text": "SUMMARY"}
+{"text": "Seven years of experience as a   Sr.System Analyst   in Health Care. Extensive working experience with TriZetto\u2019s Facets tool. Data Migration."}
+{"text": "Worked on different EDI healthcare transactions like 837-Institutional, 837-Professional, 837-Dental, 835-Claim Payment/Remittance Advise, 270/271-Eligibility Benefit Inquiry/Response, 276/277-Claim Status Inquiry/Response Transactions."}
+{"text": "Detail understanding of ICD 9/ANSI/HL7 to ICD 10/ANSI/HL7 coding standards in Medicare and Medicaid domains of the healthcare industry."}
+{"text": "Experienced in working with Business Impact Analysis Template (BIAT) to analyze and document the effect of proposed changes on the project schedule and costs. "}
+{"text": "Proficient in business requirements gathering and writing including the EDI transactions from 4010 to 5010."}
+{"text": "Good Understanding of PPACA, HIX and HL7"}
+{"text": "Good understanding of MMIS, MECT and MITA."}
+{"text": "Possess excellent business writing skills required for documenting Business Requirements Document (BRD), Functional Requirements Document (FRD), and Non-Functional Requirements Document (NFRD)."}
+{"text": "Expertise in Business Analysis and various Software Development Life Cycle (SDLC) methodologies like Waterfall, Agile/SCRUM, RAD, Rational Unified Process (RUP) methodology."}
+{"text": "Experienced in Data Warehouse concepts, ETL (Extract, Transform, Loading), DataMigration, Using Informatica"}
+{"text": "Extensive experience in PL/SQL programming: Procedures, Functions, Packages and Triggers"}
+{"text": "Developed detailed Requirements specifications through JAD sessions, interviews, on site meetings with business users & IT team."}
+{"text": "Proficient in creating and transforming business requirements into functional requirements by using Use cases diagrams, Activity diagram, Class diagrams, Sequence diagrams, Test Cases, Test Plans."}
+{"text": "Good knowledge of FACETS, and Transaction Manager for 4010-5010 migration."}
+{"text": "Knowledge and Implementation experience in Eligibility System, Facets Data model, Configuration Implementation of FACETS module."}
+{"text": "Involved in using FACETS for various health insurance areas such as products, enrollment, members and other modules related to FACETS."}
+{"text": "Documented Traceability to ensure all the features for the project has been captured and mapped back to the requirements in the BRD."}
+{"text": "Experience with claims process and adjudication in the Medicare, and Medicaid."}
+{"text": "Expertise in writing SQL Queries, Views and Stored Procedures in Oracle."}
+{"text": "Broad knowledge of testing concepts and hands on experience writing test cases, test plans and planning test strategy using testing tool Quality Center."}
+{"text": "Quick learner, reliable and confident working independently as well as in a team."}
+{"text": "Exceptional track record for meeting deadlines and submitting deliverables on time."}
+{"text": "Highly motivated team leader with excellent communication, presentation and inter-personal skills, always willing to work in challenging environments."}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": ""}
+{"text": "Department of Health and Hospitals, St. of Louisiana. Baton Rouge, LA \u00a0\u00a0     Sr. System  Analyst                                                 May- 2013 \u2013 Jun-2015\nThe main scope of the project was that the Louisiana MMIS should be able to meet the minimum functionality necessary to electronically send, receive and process the transaction for Medicare part D. process design and requirements,\u00a0Data Mapping\u00a0and\u00a0Data Migration\nResponsibilities:"}
+{"text": "Gathered business and Functional requirements from Business Managers, Supervisors, stakeholders, Data Governance Team and the subject matter experts through meetings to understand needs of the system."}
+{"text": "Used the guidelines and artifacts of the Rational Unified Process (RUP) to strategize the Implementation of Rational Unified Process effort in different iterations and phases (Inception, Elaboration, Construction and Transition) of the Systems Life Cycle methodologies. Prepared various artifacts for all the phases of RUP."}
+{"text": "\u00a0Led JAD sessions with stakeholders to analyze system needs and integrate requirement to develop a consistent navigation structure."}
+{"text": "Created business workflows on the claims module for the client to get a better understanding of the software and prepared a detailed BRD including all functional and non functional requirements."}
+{"text": "Responsible for gap analysis in changing old MMIS and Involved in testing new MMIS."}
+{"text": "Used SSIS to read source data from complex flat file structures (e.g. EDI 837 PID, 835, 270/271). "}
+{"text": "Performed the Gap analyses of the earlier systems, generated a detailed Requirements document describing new system architecture through Use Cases and Activity diagrams."}
+{"text": "Worked on new implementations and Data migration projects."}
+{"text": "Worked with the QA (Quality Assurance) team for designing Test Plan and Test Cases, for the User Acceptance testing. Defined test cases, creating test scripts, analyzing bugs, interacting with QA / development teams in fixing errors and User Acceptance Testing (UAT)."}
+{"text": "Created functional flow diagrams, context diagrams and other high level diagrams for documenting the functionality of separate modules using MS-Visio and UML."}
+{"text": "Analyzed HIPAA 5010 related to 837, 835, 270, and 271. Transactions and performed GAP analysis between the 4010 and 5010."}
+{"text": "Responsible for GAP analysis of ICD9 - ICD10. "}
+{"text": "Analyzed business requirements, performed source system analysis, prepared technical design document and source to target data mapping document."}
+{"text": "Used MS Project to maintain the project schedule and track its status."}
+{"text": "Involved in Data Migration testing of data from the existing system to the new system."}
+{"text": "Involved in the statistical analysis of data. Extensively involved in Querying the Database using SQL and PL/SQL as a part of Data Analysis."}
+{"text": "Environment: UML, RUP, MS-SharePoint, data migration ETL, SSIS, Oracle 10g, DB2, MS-Project 2000, MS-VISIO, TestDirector7.6, WinRunner7, PL/SQL, SQL Server 2000,EDI, Facets, HIPAA compliances."}
+{"text": ""}
+{"text": "XL Health, Baltimore, MD\u00a0\u00a0\u00a0                             Systems Analyst\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0                              Aug- 2011 \u2013 Apr- 2013\nThe project was regarding the Electronic Medical Claim Software System that facilitates providers to send electronic claims in short time, and thereby ultimately increase the revenue cycle efficiency. The primary feature of the software included Electronic verification of insurance eligibility, Electronic claims status inquiry, Financial Ledger, Essential system reports and automated reminders. The system\u2019s goals were to maximize the value of online health information; expand utilization of programs, services and products by updating the Data Warehouse solution for reporting.\nResponsibilities:"}
+{"text": "Writing the detailed user needs, Gathered business, functional requirements during inception phase, documented and delivered functional specification documents, and assisted architecture analysis and design using UML and Rational tools."}
+{"text": "Worked on Data migration, FACETS version upgrades Reports Implementation, letters, Inbound/outbound Interfaces and FACETS Extensions. Implemented EDI transactions 837, 835, 270/271, 276/277 and 834."}
+{"text": "Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, and OOD (Object Oriented Design) using UML and Visio."}
+{"text": "Extensively worked with FACETS Implementation, FACETS Billing, Claim Processing and Subscriber/Member module. "}
+{"text": "Identified, researched, investigated, analyzed, defined and documented business process and Use Case scenarios."}
+{"text": "Conduct workflow, process diagram and GAP analysis to derive requirements for existing systems enhancements."}
+{"text": "Led JAD sessions with stakeholders to analyze system needs and integrate requirement to develop a consistent navigation structure"}
+{"text": "Worked on insurance data related to Medicare, Medicaid, and Insurance claims."}
+{"text": "Analysis of inbound and outbound interfaces and extensions to FACETS claims processing system"}
+{"text": "Worked on HL7 to provide framework to carry out transfer of electronic healthcare information."}
+{"text": "Helped manage risk analysis and mitigation plans, status reports, and client presentations; prepared business process models, defined milestone deliverables, and established critical success factors."}
+{"text": "Experience with Trizetto Facets System especially with the Managed Care Credit policies."}
+{"text": "Prepared and maintained requirements traceability matrix (RTM) throughout the project lifecycle."}
+{"text": "Functioned as the primary liaison between the business line, operations, and the technical areas throughout the project cycle."}
+{"text": "Conducted GAP analysis assessment regarding ICD 9 to ICD 10 conversion and business work flows from legacy system to the detailed financial transaction interface"}
+{"text": "The data architecture involved analyzing and addressing data migration and mapping for present and future systems."}
+{"text": "Configured facets modules such as Claims, Membership, Billing, Benefit and plan"}
+{"text": "Used General equivalence Mappings (GEM) to convert ICD 9 to ICD 10."}
+{"text": "Formulating the systems of project to parallel the business strategies. "}
+{"text": "Conducted user training pertaining to old and new Affinity Provider ID appearing on documents providers receive from Affinity (mainly occur with EOPs, capitation rosters, PCP membership rosters, provider directory listings and some system generated letters)"}
+{"text": "Wrote SQL queries in MS Access for data manipulations."}
+{"text": "Assist with user testing of systems, developing and maintaining quality procedures, and ensuring that appropriate documentation is in place."}
+{"text": "Develop the test plan, test conditions and test cases to be used in testing based on business requirements, technical specifications and/or product knowledge."}
+{"text": "Used Test Director with QA team for testing."}
+{"text": "Interfaced with SME\u2019s to prepare BPR documents for ongoing projects."}
+{"text": ""}
+{"text": "Environment: RUP, MS Project, ANSI X12 \u2013 EDI, Rational Rose, Data Mapping, MS Visio, MS Word, MS Excel, Medicare, Medicaid, Rational Requisite Pro, ETL, Oracle , MS Access. PL/SQL"}
+{"text": ""}
+{"text": "Active Health Management, NYC, NY\t   Systems Analyst /Data Analyst    Jan 2010 - Jul 2011                                                                                                                  "}
+{"text": "This project aimed at developing software for auto-adjudication of claims process to improve the efficiency in processing claims. The system primarily aimed at handling Medicare / Medicaid insurance claims and process exceptions. "}
+{"text": "Responsibilities:"}
+{"text": "Assisted in identifying project scope, to conform to the regulatory compliance related to X12 837 (I/P) and 835."}
+{"text": "Worked with Facets data models for Claims, Membership Eligibility etc."}
+{"text": "Prepared the Business requirement Document (BRD) and functional requirement document (FRD), working with Requirements Traceability Matrices (RTM), re-engineering business processes for the enhancement of the existing services."}
+{"text": "Created complex Mappings, Transformations, Tasks and Sessions to optimize the ETL performance in Microsoft SSIS for Data warehousing project."}
+{"text": "Coordinated the upgrade of Transaction Sets 837P, 835 and 834 to HIPAA compliance. Responsibilities include the - Analysis of inbound and outbound interfaces and extensions to FACETS claims processing system"}
+{"text": "Used Oracle SQL* Loader feature for loading the data from Flat files and XML"}
+{"text": "Created standard and Ad hoc reports using Cognos Impromptu designed catalogs and defined User Classes, Security and Privileges. "}
+{"text": "Used Rational Rose/MS Office Suite for creating use cases, workflows and sequence diagramsaccording to UML methodology thus defining the Data Process Models."}
+{"text": "Played a key role in project planning activities, User Acceptance Testing (UAT), and implementation of the system enhancements and conversions."}
+{"text": "Involved in Relational database design and mapping of Data Warehouse."}
+{"text": "Conducted Business Process (As Is/To Be) sessions with various department directors and staff to ensure the Testing Plan and Test Approach would meet the identified Business Requirements, and the Training Program covered all identified new and changed processes."}
+{"text": "Analysis and Design of the Facets data model to ensure optimal system performance and tuning"}
+{"text": "Involved in Data Analysis for data mart system for the process of report generation."}
+{"text": ""}
+{"text": "Environment: Facets ,EDI, Rational Requisite Pro, SharePoint, Rational Clear Case, RUP, Spec Builder, UML, HTML, SSIS, SSRS,SQL Server , Oracle  MS Visio, Data mapping, PL/SQL, T-SQL"}
+{"text": ""}
+{"text": "Baxter Healthcare, Deerfield, IL                                                        Business Analyst/ ETL                                       Jan 2008 \u2013 Dec 2009\u00a0\u00a0\u00a0\u00a0                                                                                                                         \nThe project was to understand the Medicare Claims Adjudication System, end to end, to fill the gaps in the system and incorporate the new CMS directives. Made test scenarios and helped with test cases to test the functionality of the system. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Analyzed business requirements, functional requirements, tested high level and low level Use Cases and Activity Diagrams / State Chart Diagrams using Rational Rose, thus defining the Data Process Models."}
+{"text": "Designed the ETL processes using Informatica PowerCenter to load data from Teradata, MS SQL Server, Oracle   XML, Flat File and Excel spreadsheets into the target Oracle database."}
+{"text": "PreparedBusiness Requirement Document (BRD) and Functional Requirement Document (FRD) for the enhancement of the existing services."}
+{"text": "Held regular JAD sessions with the system architects, developers, database developers, quality testers during the entire project to assure that the critical as well as the minute details of the project were discussed and issues were resolved beforehand."}
+{"text": "Tracked stakeholder requested enhancements and changes using\u00a0Requirement Traceability Matrix\u00a0(RTM)."}
+{"text": "Designed and implemented reports, score cards and dashboards using Cognos"}
+{"text": "Experience in an outsourced healthcare insurance operations environment and understanding of MECT and MITA."}
+{"text": "Involved in working with Multi-Dimensional Model, Star & Snowflake schemas and other Data Modeling and Data Warehouse Applications."}
+{"text": "Analyzed Claims adjudication related transactions\u00a0like 835, 837, 270, 271, 276 and 277 transactions (both inbound and outbound)."}
+{"text": "Prepared UML diagrams (Activity diagrams, Sequence Diagrams, Use case diagrams) for Extensions."}
+{"text": "Implemented the entire Rational Unified Process (RUP) methodology of application development with its various workflows, artifacts and activities."}
+{"text": "Experience with data migration (ETL development), document data manipulation processes and scripts. "}
+{"text": "Data mapping, logical data modeling, created class diagrams and ER diagrams and used SQL queries to filter the data within the Oracle database."}
+{"text": "Worked with QA lead in validating Test Plan and Test Scenarios."}
+{"text": "Executed test scripts in different cycles to get the perfection and logged defects in defect tab of Quality center."}
+{"text": "Executed test cases manually. Compared and analyzed actual with expected results and reported all deviations to the appropriate individual(s) for resolution."}
+{"text": "Involved in the Statistical Analysis of Data. Extensively involved in Querying the Database using OracleSQL as part of Data Analysis"}
+{"text": "Produced a variety of routine and ad-hoc reports, packages for senior management using advanced MS Excel Functions."}
+{"text": "Environment: MS Project, SQL, Rational Requisite Pro, Rational Rose, Microsoft Visio, Load Runner, Rational Clear Quest, Informatica, XML, Teradata, Oracle . "}

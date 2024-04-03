@@ -1,0 +1,166 @@
+{"text": "Name: dorothy dorothy"}
+{"text": "E-Mail: dorothy.dorothy@gmail.com"}
+{"text": "Address: Xinyang, China"}
+{"text": "Github: https://github.com/dorothy"}
+{"text": "LinkedIn: https://linkedin.com/dorothy"}
+{"text": "Phone No. 876702310265"}
+{"text": ""}
+{"text": "Summary of Qualifications:"}
+{"text": "7 years of extensive experience as EDI Analyst with solid understanding of Business Requirement Gathering, Business Process Flow and Business Process Modeling."}
+{"text": "Exposure to Healthcare, Insurance and Finance business domains."}
+{"text": "Worked on HIPAA compliance and experience in designing the healthcare transactions to be HIPAA 5010 compliant"}
+{"text": "Expertise in EDI and HIPAA Testing Privacy with multiple transactions exposure such as 837 for submitting claims, 835 for payments, 834 for benefit enrolment, and 820 for premium payments to insurance products, 270, 271 for healthcare benefits and eligibility, 276, 277 for claims status and 278 for transmitting health care service information."}
+{"text": "Experience in working with QA team to develop the Test plans, Test scenarios, Test procedures, and Test cases to ensure adequate testing of software both before and after completion"}
+{"text": "Worked on various EDI X12 transaction sets 837 I/P, 275/276, 270/271, 834 etc"}
+{"text": "Extensive experience on HealthCare Industry including supporting efforts including response to RFP, Requirements Analysis Documentation, General System Design and Detailed System Design Documentation, conducting JAD and JAR sessions of project life cycle. "}
+{"text": "Extensive knowledge of Object Oriented Analysis and Design (OOAD) using Unified Modeling Language (UML), Rational Unified Process (RUP), Waterfall model, Rational Rose, Requisite Pro, Rational Clear Case and MS Visio."}
+{"text": "Worked on 837 (I, P, D), 834, 835, 820, 270, 271, 276, 277, 278 transactions and BRCs of the transactions."}
+{"text": "Good Experianced with HEDIS (Health effectiveness data and Information Set."}
+{"text": "Experienced in interacting with business users and executives to identify their needs, gathering requirements and authoring Business Requirement Documents (BRD), Use Case Diagrams, Activity Diagrams and Sequence Diagrams using UML modeling."}
+{"text": "Experienced in facilitating and conducting Joint Application Development (JAD), Rapid Application Development (RAD) and Joint Requirement Planning (JRP) sessions, interviews, workshops and requirement elicitation sessions with end-users, clients, stakeholders and development team."}
+{"text": "Experienced in Business Analysis, SWOT Analysis, Gap Analysis, Cost-Benefit Analysis, Risk Analysis, Disaster Recovery Planning, Return On Investment (ROI) Analysis, Testing and Project Planning."}
+{"text": "Extensive knowledge of testing large application, best practices and concepts of testing facets applications"}
+{"text": "Excellent knowledge of HIPAA standards, EDI (Electronic data interchange) Transaction syntax like ANSI X12, Implementation and Knowledge of HIPAA code sets, ICD-9, ICD-10 coding and HL7."}
+{"text": "Good knowledge of Health Insurance Plans and experienced in determining the  Facets membership eligibility, billing experience within life and disability in health plans with thorough understanding of CPT coding, CMS-1500 claim forms and reimbursement forms."}
+{"text": "Experienced in working with various departmental teams, developing interactive relationships with business and IT colleagues, having a thorough understanding of the constraints, needs, and perspectives of both the business users and the technical team.  "}
+{"text": "Experienced in training and mentoring team members with product knowledge and business processes."}
+{"text": "Strong work ethic, taking ownership of all duties and responsibilities and meeting management objectives."}
+{"text": "Strong business acumen, analytical, problem solving, interpersonal and presentation skills.  "}
+{"text": "Excellent written and oral communication skills to keep executive staff and team members apprised of goals, project status, and resolving issues and conflicts."}
+{"text": ""}
+{"text": "Technical Competencies:"}
+{"text": "Business Skills:\tBusiness Process Analysis & Design, Requirement Gathering, Use Case Modeling, JAD/JRP Sessions, Gap Analysis and Impact Analysis."}
+{"text": "Methodology:\tRUP, Agile, OOAD and Waterfall."}
+{"text": "Standard and Codes:\tHIPAA 4010A1/5010, ICD-10, ICD-9, ANSI X12, HL7, CPT and CMS form."}
+{"text": "Languages:\tC, C++, SQL, PL/SQL, HTML and XML."}
+{"text": "Visual Modeling Tools:\tRational Rose, Requisite Pro, Clear Quest, Clear Case and MS Visio."}
+{"text": "Testing Tools:\tHP Quality Center, Win Runner, Load Runner and TOAD"}
+{"text": "Web Servers:\tMicrosoft Internet Information Server (IIS) 4.0/3.0, SunOne Server 5.2."}
+{"text": "Operating Systems:\tUNIX, Windows 95/2000/NT/XP, and MS-DOS."}
+{"text": "Office tools:\tMS Office 2003 (Word, Excel, Power Point, Outlook), MS Visio, MS Project, and MS FrontPage."}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Keystone Mercy Health Plan, Philadelphia, PA\tMay\u2019 13 \u2013 Present"}
+{"text": "EDI Analyst"}
+{"text": "I worked as an EDI Analyst at Keystone Mercy Health Plan (KMHP) on several different projects. KMHP was working with EDS for the State of Florida (AHCA) and Commonwealth of Kentucky besides several other state agencies. The project objective for LOB 1300 was to create a layout document for generating an Outbound 837I file from Facets that would then be sent to EDI so that EDI could convert the file into a standard HIPAA compliant format before the file was sent to EDS. I was also involved in the analysis of EDI transactions including 837 and 835 based on HIPAA 4010 and mapping them in order to comply with HIPAA 5010 standards."}
+{"text": "Responsibilities: "}
+{"text": "Involved in updating and/or reworking previous documentation on their Membership Enrollment System for Florida to get them in sync and up to date with their current new system in place."}
+{"text": "Involved in System Integration, Compliance and User Acceptance Testing and Validation of Medicaid claims processing and Electronic Data Interchange (EDI) translation in compliance with the 4010A and 5010A Health Insurance Portability and Accountability Act (HIPAA) transactions 837 I/P."}
+{"text": "Worked with ICD 9 and 10 Procedure and NDC codes used in HIPAAtransaction code sets."}
+{"text": "Conducted meetings with the project managers to review the project plans"}
+{"text": "Recommend best practices for project plans to the project managers for their successful implementation."}
+{"text": "Extensively involved in data validation between 834 Membership file to Facets backend tables and from Facets Backend tables to different external EDI extracts based on MS CHIP plan requirement."}
+{"text": "Provided Facets related systems expertise (training) to system users, business partners, and other internal/external customers including trouble shooting issues, as well as, identifying and correcting inefficiencies."}
+{"text": "Performed activities to comply with annual HEDIS data collection and analysis, preparing recommendations to increase rates as appropriate."}
+{"text": "Responsible for verifying data integrity from several distributed systems to Facets system."}
+{"text": "Maintained project documentation in a central repository."}
+{"text": "Created a weekly report on the updated project plans and maintained them"}
+{"text": "Gained understanding of Medicaid policy and billing requirements and documented needed changes to policies and billing manuals related to ICD10 through facilitation with internal KMHP program areas."}
+{"text": "Documented business needs for ICD10 resulting from the HIPAA 5010 gap analysis."}
+{"text": "Used requirement elicitation techniques such as JAD Sessions and Document Analysis to gather information regarding the application from the KMHP SME and EDS along with the State of Florida people."}
+{"text": "Involved in bi-monthly Technical and Operational Issues (T&O) Conference Calls with AHCA, EDS and various providers who worked with AHCA to answer and resolve issues pertaining to a smooth transition from AHCA\u2019s previous fiscal agent ACS to EDS."}
+{"text": "Maintained open and clear communication with the team on change requests."}
+{"text": "Worked on the ICD9 to ICD10 crosswalk and coordinated the development of the crosswalk solution."}
+{"text": "Determined the requisite ICD10 training for both internal staff and Medicaid provider groups and assisted in the development of training materials. "}
+{"text": "Environment: HIPAA EDI X12, 834, 835, 837, ICD9/ICD10, MS SharePoint, Windows XP, SQL, SQL Server Reports, Rational Enterprise Suite (Rose, Requisite Pro, Clear Case, Clear Quest), Mercury Suite, Micro focus Optimal Trace, HP Quality Centre"}
+{"text": ""}
+{"text": "Centura Health, Denver, CO    Oct\u201911 \u2013 May\u201913"}
+{"text": "EDI Analyst"}
+{"text": "The project was about making a business assessment to determine readiness of the Centura Health to comply with the new standards mandated by the Health Insurance Portability and Accountability Act (HIPAA) 1996. The assessment process was consisted of a business-impact assessment, compilation of results, gap analysis, and developing business case. The business-impact assessment involved a series of interviews. The results of the business-impact assessment were compared with the related HIPAA standards to determine the current level of compliance and used to develop an action plan for approval by the project steering committee to correct deficiencies."}
+{"text": "Responsibilities:"}
+{"text": "Assisted JAD sessions to identify the business flows and determine whether any current or proposed systems are impacted by the EDI X12 Transaction, Code set and Identifier aspects of HIPAA. "}
+{"text": "Involved in the full HIPAA compliance lifecycle from GAP analysis, mapping, implementation, and testing for processing of Medicaid Claims. Worked on EDI transactions: 270, 271, 834, 835, and 837 (P.I.D) to identify key data set elements for designated record set. Interacted with Claims, Payments and Enrolment hence analysing and documenting related business processes."}
+{"text": "Facilitated interview sessions to identify business rules and requirements and then documented them in a format that can be reviewed and understood by both business people and technical people."}
+{"text": "Involved in Facets System implementation, Electronic Claims and Benefits configuration set-up testing, Inbound/Outbound Interfaces and Extensions, Load and extraction programs involving HIPPA 835 and proprietary format files and Reports development. "}
+{"text": "Created targeted Questionnaires for SMEs to gather requirements."}
+{"text": "Understood and articulated business requirements from user interviews and then converted requirements into functional specifications."}
+{"text": "Defined Functional Test Cases, documented , Executed test script in Facets system."}
+{"text": "Created Business Requirement Document and Functional Requirement document."}
+{"text": "Conducted analysis of HIPAA compliance and took part in discussions for designing the healthcare transactions to be HIPAA 5010 compliant."}
+{"text": "Developed UML Use Cases using Rational Rose and developed a detailed project plan with emphasis on deliverables."}
+{"text": "Used Healthcare Effectiveness Data and Information Set (HEDIS) to measure performance on important dimensions of care and service."}
+{"text": "Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, OOAD using UML and Business Process Modeling."}
+{"text": "Involved in interactions with Subject Matter Expert, Project Manager, Developers, and the end-users in more than one JAD sessions. MS Project proved useful in coordinating activities with project manager and various other team"}
+{"text": "Established basic project lifecycles, milestones, and standardized processes for Plainview program management system."}
+{"text": "Involved in creating automated Test Scripts representing various Transactions, Documenting the Load Testing Process and Methodology. Created meaningful reports for analysis and integrated the Performance Testing in the SDLC."}
+{"text": "Worked on EDI transactions: 270, 271, 834, 835, and 837 (P.I.D) to identify key data set elements for designated record set. Interacted with Claims, Payments and Enrollment hence analyzing and documenting related business processes."}
+{"text": "Conducted user interviews, gathered requirements, analyzed the requirements using RUP methodology and documented the requirements using Rational Requisite Pro."}
+{"text": "Followed the adaptive RUP framework for the whole Project life cycle (PLC)"}
+{"text": "Created Process Flow diagrams, Use Case Diagrams, Class Diagrams and Interaction Diagrams using Microsoft Visio and Rational Rose"}
+{"text": "Used detailed knowledge of the application features and functionality to assess the scope and impact of business needs throughout the analysis and completion of the enhancement specifications"}
+{"text": "Performed Gap Analysis to check the compatibility of the existing system infrastructure, features and functionality with the new business design using the \u201cAs Is\u201d and \u201cTo Be\u201d methodology."}
+{"text": "Conducted business-impact assessment and the results were compared with the new HIPAA 5010 standards to determine the current level of compliance and developed an action plan for approval by the project steering committee."}
+{"text": "Developed business case which included results of the business-impact assessment, gaps identified, alternative solutions, risk assessment, preliminary work plans, resource requirements, and a budget for completing the initiative."}
+{"text": "Identified gaps between Centura\u2019s current policies and procedures and new HIPAA 5010 compliance."}
+{"text": "Analyzed the impact of new HIPAA standards on targeted systems, processes, and business-associate relationships."}
+{"text": "Performed GAP analysis for EDI transactions such as 837, 834 to support state specified X12 5010 file formats."}
+{"text": "Used SDLC (System Development Life Cycle) methodologies like the RUP and the waterfall."}
+{"text": "Identified solutions to close gaps in HIPAA compliance."}
+{"text": "Developed plan for data feeds and data mappings for integration between various systems, including XML, to follow ICD 10 Code set and ANSI X12 5010 formats."}
+{"text": "Developed Request for Information (RFI) and Request for Proposal (RFP) document."}
+{"text": "Designed eLearning Training for the IDS staff using Adobe Captivate."}
+{"text": "Developed and conducted statewide HIPAA 5010 and ICD-10 awareness program for all IDS staff in Centura."}
+{"text": "Environment: Oracle, HIPPA, EDI , XML, QTP, Mercury Quality Center, Facets 4.61, NetworX."}
+{"text": ""}
+{"text": "Group Health Insurance, Chicago, IL\t\t\t                          Jul \u201810 \u2013 Sep\u201911"}
+{"text": "EDI Analyst"}
+{"text": "GHI contracted with the Medicare Centers and Medicaid Services (CMS) to provide quick, easy, and affordable access to the health care service of their choice.Market Prominence\u2122 is the only system that provides management with the ability to tailor each step of the regulatory process based on the health plan's interactions with each of its beneficiaries. Project involves integrating Market Prominence and the Claims processing System with the data warehouse to support the reporting requirements.The project also involved in updating their back-end system so as to facilitate the processing of Insurance application including: Underwriting, Mode change, Letter generation, Annual refunds and Claims processing."}
+{"text": "Responsibilities:"}
+{"text": "Used Requisite Pro for the Requirement Documents Preparation and Prepared Business Process Models that includes modeling of all the activities of the business from the conceptual to procedural level. Followed top down, leveled technique for building Business Process Models. "}
+{"text": "Personally responsible for attaining HIPAA EDI validation from Medicare, Medicaid, and other payers or government carriers.\u00a0 Developed HIPAA EDI Transmissions for both government carriers and commercial entities.\u00a0 Work includes complete business cycle management and hands-on production as well.\u00a0Create EDI Testing process, documentation, and performance matrices."}
+{"text": "Created Mapping Documents, Report Mockups and modified existing report mockups as to CMS requirements and finalized for development"}
+{"text": "Involved in HIPAA EDI transactions such as 834, 835, 837 (P, D, I) 276, 277, 278."}
+{"text": "Produced Gap Analysis documents for HIPAA 5010 and ICD-10."}
+{"text": "Identified gaps and performed gap analysis with respect to CMS requirements"}
+{"text": "Performed Data mapping, logical data modeling, created class diagrams and ER diagrams and used SQL queries to filter data."}
+{"text": "Performed extensive testing in Facets Subscriber/Member, tested Groups, Eligibility, and Enrollment and validated outbound 834 Extracts to different Vendors."}
+{"text": "Analyzed CMS comparison documentation highlighting changes of 5010 format and ICD10 diagnosis and procedure codes."}
+{"text": "Assisted with project planning, requirements development and completing ad hoc change management activities."}
+{"text": "Responsible for architecting integrated HIPAA, Medicare solutions, Facets."}
+{"text": "Played a substantial role in the process definitions and business and functional requirements gathering, in an effort to develop a practical technology solution for automating sales methodology. "}
+{"text": "Used Rational Rose to model the process using UML to create behavioral and structural diagrams."}
+{"text": "Created Use Cases / Activity Diagrams / State Chart Diagrams, Sequence Diagrams, and Collaboration Diagrams thus defining the Data Process Model and Business Process Model. "}
+{"text": "Responsibility included creation, member enrollment, billing, letter generation, contract administration and claim adjudication."}
+{"text": "Created workflow scenarios, designed new process flows diagrams and documented the Business Process and various Business Scenarios and activities of the Business from the conceptual to procedural level.  "}
+{"text": "Met with various HMO, PPO, Medicaid/Medicare, and Tricare / Champus Representatives discussing benefits of contracts on behalf of facilities or appeals from denials and compliance issues"}
+{"text": "Learned Business Process Management (BPM) & Business Process Reengineering (BPR) concepts."}
+{"text": "Collected business requirements to set rules for proper data transfer from Data Source to Data Target in Data Mapping."}
+{"text": "Developed business process models in RUP to document existing and future business processes."}
+{"text": "Prepared Demo on SharePoint for various Business to get new approvals like the Therapist and Nursing divisions."}
+{"text": "Used Rational Clear Quest to track required changes and Rational Clear Case to maintain different versions of the project documentation"}
+{"text": "Configured Claims, Provider and Member Data via EAI tools for RAPS file and TRR files to CMS for Risk Management."}
+{"text": "Worked in mainframe environment and used SQL to query various reporting databases."}
+{"text": "Used SDLC (System Development Life Cycle) methodologies like the RUP and the waterfall."}
+{"text": "Developed Test Plans and Test Cases according to Business Requirements.  "}
+{"text": "Acted as User Acceptance Testing coordinator and monitored business testing and interfaced with the development team regarding defect status and fixes on a daily basis."}
+{"text": "Involved in generation and execution of SQL queries."}
+{"text": "Environment: Rational Rose, Clear Quest, Microsoft Project, Crystal reports, SharePoint, Mercury, Lotus Notes, Erwin, Microsoft Visio, Microsoft Office suite, Business Objects, ETL, Oracle, Windows NT, Mainframes, COBOL."}
+{"text": ""}
+{"text": "Aetna Health Services, Nashville, TN\t\t\t\t"}
+{"text": "Feb\u201908 \u2013 Jun\u201910"}
+{"text": "Business Analyst"}
+{"text": "Aetna Health Services has a history of developing innovative programs to facilitate a better, more positive health care experience for everyone. We combine our strength and stability with nearly three decades experience serving customers of all sizes. This system permits the registered members with Aetna Health Services, to get the details of the long term care insurance schemes and benefits.As a Business Analyst Worked on the Claims processing system within the company for scanning and capturing of data including working on UB-92 claims forms. Involved in using the technology to recognize, validate, and store claims and their attachments using HIPAA compliance interface."}
+{"text": "Responsibilities:"}
+{"text": "Responsible for defining the scope and implementing business rules of the project, gathering business requirements and documentation."}
+{"text": "Responsible for writing Functional Requirement Specifications (FRS) and User Requirement Specification (URS)."}
+{"text": "Analyzed Business Requirements and segregated them into high level and low level Use Cases, Activity Diagrams / State Chart Diagrams using Rational Rose according to UML methodology thus defining the Data Process Models."}
+{"text": "Understand the As Is system and develop the To Be system concept and also prepare the System Process Maps"}
+{"text": "Assigned to the HIPAA 5010 project"}
+{"text": "Developed the systems implementation project management plan with milestones and steps from procurement of vendors to project implementation and maintenance"}
+{"text": "Gathered requirements for procurement of vendor applications for specific modules"}
+{"text": "Successfully conducted JAD sessions, which helped synchronize the different stakeholders on their objectives and helped the developers to have a clear-cut picture of the project."}
+{"text": "Created Web-based reports using SSRS"}
+{"text": "Conducted presentations of the Q/A test results with analysis to the stakeholders and users and documented modifications and requirements."}
+{"text": "Coordinating and Developing QA activities."}
+{"text": "Worked with SQL Server 2005 Analysis Services (SSAS) for reporting and online analytical processing analysis"}
+{"text": "Performed Data Mapping around HIPAA EDI transactions"}
+{"text": "Created Process Flow diagrams, Use Case Diagrams, Class Diagrams and Interaction Diagrams using Microsoft Visio and Rational Rose."}
+{"text": "Wrote Test Cases and performed User Acceptance Testing, documented the in detail defects using the Defect Tracking report."}
+{"text": "Used Test Case distribution and development reports to track the progress of test case planning, implementation and execution results."}
+{"text": "Wrote PL/SQL statement and stored procedures in Oracle for extracting as well as writing data."}
+{"text": "Created Use cases, activity report, logical components and deployment views to extract business process flows and workflows involved in the project. Carried out defect tracking using Clear Quest"}
+{"text": "Worked extensively with the HIPAA EDI transaction sets- 270, 835 and 837"}
+{"text": "Maintained proper communication with the developers ensuring that the modifications and requirements were addressed and also monitored these revisions."}
+{"text": "Involved in compatibility testing with other software programs, hardware, Operating systems and network environments."}
+{"text": "Environment:Microsoft Office 2003 Professional (Outlook, Word, Excel, Visio, Access, etc.), Microsoft SharePoint 2003,UML, RUP, UAT, db2,Mercury Test Director, SQL, .NET, Clear Case "}

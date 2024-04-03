@@ -1,0 +1,139 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: Washington, United States"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 333039537939"}
+{"text": "OVERVIEW:"}
+{"text": ""}
+{"text": "         Well experienced Manual and Automation Engineer with outstanding technical capabilities and skills to solve problems with minimum resources."}
+{"text": ""}
+{"text": "SUMMARY:"}
+{"text": ""}
+{"text": "6 +years of extensive experience in different testing methodologies on multiple platforms and well versed in different kind of testing inclusive of Unit Testing, System Testing, Integration Testing, Functionality Testing, Regression testing, compatibility testing , API Testing and Build verification testing."}
+{"text": "Experience in Automated testing using Selenium and QTP including Selenium IDE, Selenium WebDriver, Selenium Grid, TestNG, Eclipse and Java."}
+{"text": "Experience in Behavior Driven Developmentusing Cucumber and Gherkin"}
+{"text": "Good Knowledge of Web Technologies like HTML, HTTP, Javascript, XML, XPath, WSDL."}
+{"text": "Used core Java APIs to create and maintain automation framework in Selenium."}
+{"text": "Experience in testing SOAP based Web Service using SOAP UI."}
+{"text": "Experience with Performance and Load testing using JMeter"}
+{"text": "Exposure to Mobile App testing using Appium"}
+{"text": "Experience in testing SOA applications."}
+{"text": "Experience in QA & Testing tasks like bug reporting and tracking, unit testing, GUI testing, and integration testing. "}
+{"text": "Experience in bug reporting tools like Quality Center, BugZilla, JIRA"}
+{"text": "Proficient in using basic SQL queries to perform back end testing for data integrity."}
+{"text": "Expert level knowledge in all modules of Quality Center (Requirements, Test Plan, Test Lab, Dashboard and Defects)."}
+{"text": "Excellent understanding of waterfall model and agile methodology \u2013 SCRUM."}
+{"text": "Knowledge and experience of all phases of SDLC (Software Development Life Cycle) and STLC."}
+{"text": "Excellent interpersonal skills, proven team player with an analytical bent to problem solving and delivering under high stress environment."}
+{"text": "Good analytical and communication skills and ability to work independently with minimal supervision and also perform as part of a team."}
+{"text": "Highly motivated team player with analytical, organizational and technical skills."}
+{"text": "Unique ability to adapt quickly to challenges and changing environment."}
+{"text": "Assertive, self-motivated, goal oriented, organized and efficient."}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "DirecTV, EL Segundo, CA\t                     \t\t\t                                   Mar 2016- Dec 2017"}
+{"text": "FSTP - Field Services Tech Passport/Salesforce"}
+{"text": "Mobile QA Engineer\t"}
+{"text": ""}
+{"text": "Description:"}
+{"text": "Field Services Tech Passport (FSTP) is an android native application which is a rewrite of existing SIEBEL WIRELESS application and integrated with Salesforce and the Middleware Services. The Salesforce will provide ability to create different kind of accounts, roles, groups and provide access permissions to the technicians and also able to create the commercial and residential accounts by selecting different packages which will flow through Middle ware to the Edge system FSTP so that technician have the ability to activate the receivers and also modify the sales order on the day of installation while they are onsite. It allows the tech to update sales order for the new and existing, Movers and Winback customers prior to receiver activation. "}
+{"text": "Responsibilities:"}
+{"text": " As a mobile application, responsible for planning, scheduling and implementation of FSTP mobile application and test plan. The tasks include,"}
+{"text": "Review functional or business requirement documents and use cases."}
+{"text": "Translation of requirements into test plan and test cases."}
+{"text": "Coordinate with other team members like Business Analysts, Developers, and Business people Advice or provide feedback on test activities and deliverables, conforming to appropriate quality requirements."}
+{"text": "Experience interacting with internal and external development teams, Business Analysts and vendors."}
+{"text": "Installed and configured Eclipse and Test NG for automating the test cases."}
+{"text": "Mobile automation of Android app using Appium and Selenium Web driver."}
+{"text": "Designed and executed automation tests using test scripts on Selenium Web driver and Selenium IDE"}
+{"text": "Configure and Test Salesforce CRM (Residential & Commercial)"}
+{"text": "Responsible to validate the data flow from SFDC and Middleware to the FSTP Mobile Application."}
+{"text": "Performed Integration testing to validate the data flow from Salesforce through Middleware web services to the FSTP Handheld mobile application."}
+{"text": "Integration testing of Salesforce Chatter functionality by creating groups, email configurations, permission sets and verify the access permissions flowing from Middleware to the FSTP Handheld Sales force1 app."}
+{"text": "Integration testing of the Tech Answer Center by creating Articles, groups and validate the web service calls are making through FSTP Handheld."}
+{"text": "Performed integration testing by creating Commercial Accounts and offers in Salesforce and validating the Accounts are created and made available in the edge systems with the correct offers tied to them."}
+{"text": "Responsible to create custom profiles, Public Groups and Roles to distribute user rights and the functionality."}
+{"text": "Responsible to test various Salesforce.com standard objects like Accounts, Contacts, Cases, Products, Opportunity line items, Leads, Campaigns, Reports and Dashboards."}
+{"text": "Responsible to test the Customized API built in SFDC and the new functionality in the Salesforce.com."}
+{"text": "Responsible to Test Work flow rules and defined released tasks, email alerts, field updates to implement the business logic."}
+{"text": "Responsible to test email templates, Approval Processes, approved page layouts and defined approval actions to them.   "}
+{"text": "Test various mobile devices with a various platform (iOS, Android)Preparation of High Level Scenarios, Test Cases and Test Data using the COR and HLD documents and business requirements."}
+{"text": "Test cases execution and test management with help of HP Quality Center. "}
+{"text": "Performed Functional, database, Regression Testing and System Integration Testing."}
+{"text": "Reporting high quality defects, retesting, tracking the defects to closure."}
+{"text": "Attend Project Test Strategy Reviews and provide feedback and approval based on knowledge and experience."}
+{"text": "Review Test Analyst Requirements Traceability Matrix for understanding of requirements and scope. "}
+{"text": "Provide input and feedback on high level test scenarios and test plans based on knowledge and experience to IBM test team"}
+{"text": "Track testing progress and provide a Daily Status Report to the project stakeholders during test planning and execution using the standard template."}
+{"text": "Ensure that all test areas (Functional, Regression) have successfully completed testing and issue Application Certification. "}
+{"text": ""}
+{"text": "Environment: Agile Methodology, Rally, Salesforce, Siebel, Oracle, HP ALM, Java, J2EE, JMS, Web Logic, Android SDK, IOS."}
+{"text": "Thomson Reuters, NY\t\t\t\t\t\t\t    May 2014 \u2013 Feb 2016"}
+{"text": "QA / Mobile Tester"}
+{"text": "Industry: Finance, News & Media"}
+{"text": ""}
+{"text": "Reuters \u201cNewsPro\u201d Native app delivers breaking news, analysis and market data from the world's most trusted news organization. Explore a seamless stream of articles, pictures, and videos on your phone or tablet. Breadth of Coverage: Navigate between stories to explore a wide range of topics from Politics to Opinion to Oddly Enough and more. Customization: Create and edit your personal watch list of tickers. Flexible Access: Read online or save stories and read them later offline. On-demand, Up-to-date, Customized to each viewer's interests and location, Downloadable for offline viewing"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Analyzed system requirements and developed detailed Test Plan."}
+{"text": "Reviewed the Business Requirement documents with the business and development team to understand the architecture and functionality of the application in an agile environment."}
+{"text": "Worked in Agile methodology."}
+{"text": "Validating Mobile native app on hand held mobile devices supporting iOS & Android for its functionality, usability and consistency"}
+{"text": "Active participation in QA process improvement activities like adding defect, problem resolution, bug tracking using FTP and Bug tracker.\u00a0"}
+{"text": "Extensively used Selenium WebDriver for automating UI for IPhone, android devices, to enroll users to devices and submitted in Perforce location. "}
+{"text": "Worked with mobile application simultaneously: iOS (iPhone & iPad) & Android "}
+{"text": "Performed Sanity and Smoke Testing of the application manually after each build."}
+{"text": "Designed, developed and implemented Test Automation frameworks from scratch for iOS and Android using Selendroid, Appium, Selenium WebDriver, JUnit written in Java. "}
+{"text": "Documented and reported defects within established process and tracking systems using Scarab."}
+{"text": "Used SQL queries to do backend testing to perform data validation, data migration/data conversion validation."}
+{"text": "Performed functional testing of individual modules Easy Access application on iOS, Android, MAC &Windows OS operating systems."}
+{"text": "Maintain and modify\u00a0smartphone\u00a0software\u00a0programs and make approved changes."}
+{"text": "Requested different versions of iOS and Android mobile devices"}
+{"text": "Used emulator and device anywhere to perform mobile testing for AUT."}
+{"text": "Prepared test scenarios designed for iOS and Android according to each OS"}
+{"text": "Performed rigorous End to End testing before a release."}
+{"text": "Doing Regression testing by using selenium tool. "}
+{"text": "Reporting defects using JIRA. "}
+{"text": "Performed UAT, Functional & Regression testing coordinating with BA, Developers, and SMEs and actively involved in Tested the UI of the end product on mobile, PC , Android and Apple platforms to ensure that latest feeds are loading and supporting different languages as required"}
+{"text": "Used Scarab & Bugzilla for reporting, tracking bug and generating reports."}
+{"text": "Participated in release meetings."}
+{"text": ""}
+{"text": "Environment: J2EE, MS SQL Server, MAC OS, Windows, Selenium, iOS, Android OS, T-SQL, MS Office Suite"}
+{"text": ""}
+{"text": ""}
+{"text": "Safeway Inc., Pleasanton, CA,                                                                      \t\t     Nov 2011 \u2013 Apr 2014"}
+{"text": "QA Automation Engineer                                                                                                                "}
+{"text": ""}
+{"text": "Safeway is a leading grocery store chain in USA always striving hard to deliver the quality Products.\u00a0 The project involved\u00a0planning and end-to-end functional testing of the online Ordering system\u00a0-\u00a0in the front end (safeway.com), processing the order, and pick up the order, intelligent cartonization, billing and delivery of the items."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Analyzed business requirements, system requirements, and data mapping requirement specifications interacting with client, developers and QA team. "}
+{"text": "Created and implemented Test Plan and Test Strategy Document outlining the scope, objectives, timeline and focus of software testing effort for functional, regression, user acceptance and stress testing."}
+{"text": "Involved in analyzing system specifications, design, development and execution of test plans and test cases for Manual and Automated testing."}
+{"text": "Created and enhanced numerous test scripts to handle changes in the objects, in the tested application\u2019s GUI and in the testing environment using Selenium WebDriver."}
+{"text": "Developed Automation scripts for new enhancements using Selenium WebDriver and Junit."}
+{"text": "Performed Data driven testing using Selenium WebDriver and Junitfunctions which reads data from property and XML files. "}
+{"text": "Developed ANT Build scripts to run Sanity Test scripts developed in Selenium WebDriver."}
+{"text": "Run script as a batch file through ANT and generated testing report."}
+{"text": "Modification and execution of Test case Scripts (Java-Selenium WebDriver) in Eclipse IDE, design of automation test framework (Junit and ANT)."}
+{"text": "Used Java language and Junit framework for scripting. Used Ant for building the WebDriver project. Integrated with Continuous Integration tools Jenkins for running test on nightly basis automatically. "}
+{"text": "Integrated Automation scripts (Selenium WebDriver API) in Continuous Integration tools (Jenkins) for nightly batch run of the Script. "}
+{"text": "Defect testing and exploratory testing/Ad-hoc testing was performed after each build."}
+{"text": "Performed UI testing, Database testing after reviewing the story cards and database diagram."}
+{"text": "Worked closely with development and project management teams for effective defect management and verify resolved bugs and track enhancements made to product."}
+{"text": "Used REST client for testing REST web services"}
+{"text": "Provided back end testing for data validation using SQL on Oracle."}
+{"text": "Extensively executed SQL Queries on database tables to verify the database."}
+{"text": "Worked with developer to reproduce the bugs and to resolve usability issues during UAT."}
+{"text": "Created Regression Document to track and report testing activities during each phase of testing, including testing results, test case coverage, required resources, logged defects and their status, performance baselines."}
+{"text": "Participated in Stand-up meeting, walkthrough meeting, weekly automation meeting with all other QA, weekly assessment meetings with business analysts and developers."}
+{"text": ""}
+{"text": "Environment: Java 1.6, Selenium WebDriver, Jenkins, Junit, Ant, REST client, Jira, SVN, Eclipse IDE, SQL, Internet Explorer, Firefox, Chrome, Oracle, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": ""}

@@ -1,0 +1,153 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: Nanyang, China"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 300125387815"}
+{"text": "Professional Summary:"}
+{"text": "Over 7 years of experience working as QA Engineer for Software Development and Testing life Cycle including preparation of Test Strategies, Test Plans, Test Cases, Test summary reports for both Web and Client-Server Applications like Banking, Financial System, Telecom, Energy & Utilities and Insurance."}
+{"text": "Extensive Knowledge of Quality Assurance standards, methodologies and strategies with better understanding of Software Development Life Cycle (SDLC)."}
+{"text": "Expertise in using both Manual and Automated Testing tools Selenium WebDriver, HP ALM and QTP."}
+{"text": "Exposure to Manual Testing of applications developed on Windows and UNIX platform."}
+{"text": "Strong experience in cross browser, cross platform web testing with Selenium RC and WebDriver."}
+{"text": "Expertise in using Selenium WebDriver API to automate tests on cross browser and cross platform environment. Key expertise includes testing & debugging GUI & Multi-Applications environment & automated testing using Selenium WebDriver."}
+{"text": "Proven knowledge in automated web application testing using Cucumber with BDD style programming using Gherkin and Selenium Web Driver."}
+{"text": "Experienced in developing Test Plans, Test Cases based upon the business requirements."}
+{"text": "Experience in Black Box, Positive, Negative, Data-driven, Integration, System, and Back-end testing."}
+{"text": "Performed Sanity testing, Smoke testing, Usability testing and Security testing of various applications."}
+{"text": "Experienced in Regression and Functional Testing."}
+{"text": "Hands on experience with end-to-end API Automation testing using SOA test and SoapUI."}
+{"text": "Experience in conducting Integration testing, Stress testing, and Load testing."}
+{"text": "Experience as Quality Assurance analyst for Web Based and Client server applications of the projects."}
+{"text": "Facilitated UAT (User Acceptance Testing) with the stakeholders and the business users."}
+{"text": "Strong experience in conducting User Acceptance Testing (UAT) and documentation of Test Cases. Expertise in designing and developing Test Strategy and Test Scripts."}
+{"text": "Experience programming in Java, Python, JavaScript, HTML, XML and SQL on Windows XP, Vista Operating Systems and UNIX environments."}
+{"text": "Proficiency in interacting with Oracle, SQL Server and DB2 databases using SQL."}
+{"text": "Expertise in Oracle table data manipulation using SQL queries and UNIX commands/UNIX scripts."}
+{"text": "Extensive knowledge agile, waterfall methodologies."}
+{"text": "Part of a Scrum team to discuss new features and functionalities, software walkthrough in daily scrum meetings."}
+{"text": "Participated in design Walkthroughs and Inspection meetings to review Test scripts and results."}
+{"text": "Excellent in communication, presentation, and interpersonal skills. Good team player with the ability to lead, manage and work independently in a time sensitive environment."}
+{"text": "Outstanding communication skills and ability to work effectively with technical teammates in order to translate requirements into an effective technical solution in Mortgage Loan Servicing, Mortgage loan origination, Asset management."}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "Client: AllState Insurance, Chicago, IL.                                        \t                                                                      Apr 15 \u2013 Till date"}
+{"text": "Enhancement to Wealth Management E-Commerce portal and development of customer datamart for holistic view of all customer accounts for cross selling of products. This would involve disparate sources of data Business, Home, Auto, Boat, Life, Renters, and Motorcycles. This also involved financial reporting using Business Objects."}
+{"text": "Role: QA Automation Engineer"}
+{"text": "Responsibilities:"}
+{"text": "Coordinate and schedule test milestones by engaging the development team, QA team and project manager. "}
+{"text": "Responsible for creating and tracking QA project plan, test plan, test strategy document."}
+{"text": "Identify dependencies, constraints, risks and issues."}
+{"text": "Responsible for QA execution and timeline adherence."}
+{"text": "Skilled using Selenium with JAVA, UFT, VB Script."}
+{"text": "Skilled on Mainframe software using UFT, VB Script."}
+{"text": "Identified test cases to Automated using Selenium WebDriver."}
+{"text": "Responsible for delivery of defect status reports."}
+{"text": "Created\u00a0Python\u00a0scripting to test REST API functionality for regression setup.\u00a0"}
+{"text": "Performed Developed functional and regression test automation for mainframe software applications using UFT."}
+{"text": "Involved in testing web application API Restful."}
+{"text": "Responsible in design and implementation of Selenium WebDriver automation Framework for Smoke and Regression Testing."}
+{"text": "Developed Python scripts to automate the test cases."}
+{"text": "Extensively work with Selenium, generate multiple requests and execute them to identify the server responses under load based on various real time scenarios."}
+{"text": "Worked with designing and building automation frameworks in\u00a0Cucumber\u00a0BBD.\u00a0"}
+{"text": "The entire Ruby scripting done using\u00a0Cucumber\u00a0framework\u00a0Wrote and executed SQL queries to verify the data updates to various tables and ensure data integrity."}
+{"text": "Performed extensive SOAP and RESTful Web Services Testing using Soap UI Tool."}
+{"text": "Created and maintained a traceability matrix of the requirements and created test cases, as well as testing matrix of the test cases and any corresponding defects in HP ALM."}
+{"text": "Prepare test scenario and test case; log the defects using identified defect management tool and process. "}
+{"text": "Execute test case and test execution logs, pull the test case execution report."}
+{"text": "Participate in periodic meeting for defect triage, project status and test execution status meeting."}
+{"text": "Responsible for managing the offshore testing team, assigning work, interacting with client team during the testing life cycle. "}
+{"text": ""}
+{"text": "Environment: Java, Selenium WebDriver, Cucumber, UFT, SOAP UI, Ruby, JavaScript, VB Script, Oracle OMS, iSeries/AS400 JDA, Hybris, Oracle Xstore POS, Quality Center, HP ALM, Windows."}
+{"text": ""}
+{"text": "Client: Wells Fargo, Des Moines, IA.                                                                                                                          Dec 13 \u2013 Mar 15"}
+{"text": "RESPA/TILA Mortgage Compliance Originations project will address all system and process changes necessary to support CFPB rules published on November 20, 2013. These changes will include, but not limited to migration of the existing GFE, TIL and HUD-1 to the new Loan Estimate and Closing Disclosure, process adjustment to ensure compliance with new timing requirements, new calculations to support new fields on the forms, fee alignment, tolerance changes, revised changed circumstances, training and communications."}
+{"text": "Role: QA Automation Engineer"}
+{"text": "Responsibilities:"}
+{"text": "Responsible for defining the Test Plan, analyzing the Test Scenarios, preparing Test Case Documents."}
+{"text": "Worked in a structured and team-oriented environment with Agile/Scrum methodology."}
+{"text": "Identified test cases to Automated using Selenium WebDriver."}
+{"text": "Skilled using Selenium WebDriver and executing Selenium test cases and creating reports."}
+{"text": "Developed automation script using Selenium WebDriver for cross browser testing."}
+{"text": "Developed Test Framework in Selenium for UI Regression Test Automation and when necessary, and potentially execute Unit Test automation (Java)."}
+{"text": "Design and Implementation of BDD framework using Ruby-Cucumber."}
+{"text": "Worked with Mainframe software using UFT and VB Script."}
+{"text": "Used Cucumber, Ruby gems, Watir and Page Object Model Framework."}
+{"text": "Developed automated script for back-end testing using Selenium WebDriver."}
+{"text": "Maintained Test Matrix and Project Matrix using an excel sheet to keep track of the Project's schedule and status."}
+{"text": "Setup the Automation framework using Selenium WebDriver to run test cases in multiple browsers and platforms."}
+{"text": "Performed functional testing to identify various critical points in the application and automated it by using Selenium. "}
+{"text": "Used Quality Center to report bugs and follow up."}
+{"text": "Used SOAP UI tool to test SOA based architecture application to test SOAP services and REST API."}
+{"text": "Developed data driven test scripts to check the same functionality with multiple sets of data."}
+{"text": "Conducted System Testing and User Acceptance Testing for every client and Conducted Backend testing writing extensive SQL queries."}
+{"text": "Performed Database Validation to check the updated data in the database using SQL queries."}
+{"text": "Reported test execution, defects and overall system status to the management team."}
+{"text": "Interacted with development and product management teams for the quick resolution of reported bugs and various technical issues."}
+{"text": ""}
+{"text": "Environments: Selenium WebDriver, Watir WebDriver, Cucumber, Ruby, UFT, VB Script, Quality Center, SOAP UI, Agile, SQL, Mainframe, Windows."}
+{"text": ""}
+{"text": "Client: Commerce Bank, Baltimore, MD.                                                                                                                  Aug 12 \u2013 Nov 13"}
+{"text": "Commerce Bank is a leading financial services company catering to commercial, small business and retail clients.\t\t"}
+{"text": "The scope of this project was to enhance the online banking portal using Agile methodology, where upon a customer can view online banking demo, choose to receive alerts when bills are due, view and save up to seven years of online statements."}
+{"text": "Role: QA Engineer"}
+{"text": "Responsibilities:"}
+{"text": "Reviewed and analyzed the Business Requirement Documents and Technical requirement documents."}
+{"text": "Participated in writing High level Test plans, Test Scenarios, Test cases and Analysis and Presentation of Results"}
+{"text": "Developed detailed Testing Methodologies, Test Matrices and Test Procedures."}
+{"text": "Design and Implementation of ATDD framework using Ruby-Cucumber."}
+{"text": "Experience with acceptance test driven development using Cucumber, Ruby gems, Watir and Page Objects"}
+{"text": "Responsible in design and implementation of Selenium WebDriver automation Framework for Smoke and Regression Testing."}
+{"text": "Developed test scripts using Selenium WebDriver, Executed Automated Test Scripts & analyzed the results."}
+{"text": "Performed Regression testing on new builds, every modification in the application using Selenium WebDriver."}
+{"text": "Tested compatibility of application for dynamic and static content under various cross browsers using HTML IDs and XPath in Selenium."}
+{"text": "Stored Test Cases in the HP Quality Center /ALM Tool."}
+{"text": "Responsible in debugging the automation tests & fixing the errors in the automation tests."}
+{"text": "Responsible in database testing using SQL commands."}
+{"text": "Participated in Daily Stand-up meetings and provided status on work progress."}
+{"text": ""}
+{"text": "Environments: JIRA, Cucumber, Watir WebDriver, Selenium WebDriver, Xpath, Ruby, ALM, Oracle, Windows."}
+{"text": ""}
+{"text": "Client: Associated Bank, WI.\t                                              Apr 11 - Jul 12"}
+{"text": "\tScope of project spanned\u00a0Migration\u00a0from isolated functional\u00a0Data Marts\u00a0for diverse subject areas to holistically analytical infrastructure. New analytical environment would provide\u00a0enhanced business intelligence, flexible reporting and scalable architecture. Subject areas encompassed savings, checking, accounts, demographics, statements, loans, investments and program management."}
+{"text": "Role: QA Tester"}
+{"text": "Responsibilities:"}
+{"text": "Participated in walkthroughs with BA team for Requirements review and Data Analysis."}
+{"text": "Tracked and reviewed the Requirements to make sure the Functionality of the Application is covered completely."}
+{"text": "Participated in creating Test Plan and overall Test Strategy for the Application."}
+{"text": "Developed Test Cases, Test Data and Test Scenarios for Functional, Integration and System Testing."}
+{"text": "Validated the Member, Billing, Provider and Authorization data in Front End."}
+{"text": "Performed Manual Testing for Functional, Regression, User-Interface (UI), End-to-End Testing."}
+{"text": "Tested the SOAP Requests and Responses using the tool SOAP UI."}
+{"text": "Created data sources to validate the web service with\u00a0multiple sets of data, and was able to store the data in the Excel file using data sink."}
+{"text": "Inserted assertions in SOAP UI to validate\u00a0the expected response from the web services (SOAP, RESTFUL)."}
+{"text": "Developed Test summary reports and participated in meetings."}
+{"text": "Validated the reports and files using SQL statements."}
+{"text": "Tracked defects and conducted Bug review meetings."}
+{"text": "Continuously worked to check the Functionality of the Application after the stories are complete."}
+{"text": "Coordinated with Business Analyst, Developers and team members for fixing issues."}
+{"text": "Provided status reports to the test lead and participated in test status review meetings with the team members."}
+{"text": ""}
+{"text": "Environments: Jira, SQL Developer, SOAP UI, Windows."}
+{"text": ""}
+{"text": "Client: Farmers Insurance Company, Simi Valley, CA.                                                                                           Aug 09 \u2013 Mar 11"}
+{"text": "Farmers Insurance Group of Companies is a big name in both private passenger automobile and homeowners insurance, which offers Whole life insurance, Universal life insurance and Term Life insurance. This project involved the maintenance and development of a Web based intranet application for employees within the company. The employees can access complete customer account information, process insurance claims and authorize claims of the customers."}
+{"text": "Role: QA Tester"}
+{"text": "Responsibilities:"}
+{"text": "Created test plans & test cases for integration testing of the application and execute manual test cases and automate test scripts."}
+{"text": "Identified the scenarios which can be automated and wrote test scripts."}
+{"text": "Developed automation scripts for functional testing and Data driven testing of the application using QTP."}
+{"text": "Performed Data Driven testing using QTP to test the application with different sets of data for positive and negative test cases."}
+{"text": "Verified data integrity by back-end testing of the application by writing SQL queries."}
+{"text": "Reported and tracked the Bugs through HP Quality Center. "}
+{"text": "Performed regression tests and load tests to identify performance bottlenecks and provided improvement recommendations for the developers and closely worked with them in the development process."}
+{"text": "Responsible for dealing with developers and business analysts to better understand requirements, functionality and business process for QA testing."}
+{"text": "Executed SQL Queries and made sure that values entered in front end is stored successfully in the appropriate data tables."}
+{"text": "Coordinated with the Project Team and Configuration Management Team for build release."}
+{"text": "Involved in Coordinating with offshore teams."}
+{"text": ""}
+{"text": "Environment: QTP, HP Quality Center, BugZilla, Oracle, MS SQL Server, UNIX/ LINUX, Windows."}
+{"text": ""}
+{"text": "References: Will be provided upon request."}

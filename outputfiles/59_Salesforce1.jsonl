@@ -1,0 +1,104 @@
+{"text": "Name: frances frances"}
+{"text": "E-Mail: frances.frances@gmail.com"}
+{"text": "Address: Jining, China"}
+{"text": "Github: https://github.com/frances"}
+{"text": "LinkedIn: https://linkedin.com/frances"}
+{"text": "Phone No. 244287458457"}
+{"text": "_____________________________________________________________________________________"}
+{"text": "PROFESSIONAL SUMMARY\t"}
+{"text": ""}
+{"text": "4+ years of overall professional IT experience in Salesforce.com and Force.com platform administrator."}
+{"text": "Experienced in analyzing business requirements, Entity Relationship diagram and implementing them to Salesforce Custom Objects, Junction Objects, Master-Detail relationships, LookUp relationships."}
+{"text": "Experience in Administration, Configuration, Implementation and Support on Salesforce.com platform."}
+{"text": "Worked on various salesforce.com standard objects like Accounts, Contacts, Opportunities, Products, Cases, Leads, Campaigns, Reports and Dashboards."}
+{"text": "Played a key role in UAT, SAT and training business users on SFDC system and process."}
+{"text": "Designed custom formula fields, field dependencies, validation rules, workflow rules and approval processes for automated alerts, field updates and email generation according to application requirements."}
+{"text": "Configured security and sharing rules at object, field and record level for different users at different levels of organization."}
+{"text": "Customized page layouts, search layouts, custom links, related lists and other components on a record detail and edit pages as per the business needs."}
+{"text": "Experience in Data Migration from ANT, Excel, MS outlook and Legacy Systems using Data Loader, Import Wizard, Cast Iron and other ETL tools."}
+{"text": "Worked with Dynamic Apex to access S-Objects and field describe information, execute dynamic SOQL, SOSL and DML queries."}
+{"text": "Experience in developing Apex Classes, Apex Triggers & Web services."}
+{"text": "Designed and developed SOAP based web services to integrate Salesforce with different external system."}
+{"text": "Experience in building Custom Applications that includes administration, configuration, implementing and support experience with Salesforce.com platform."}
+{"text": "Developed test classes and test methods to ensure maximum Code Coverage in Production Instance."}
+{"text": "Managing Business Process through various phases of a Project life Cycle (SDLC) Management, using methodologies like Agile, Business and Information Re-engineering. "}
+{"text": "Expertise in building Visualforce Pages, Visualforce Custom Controllers, Components, Custom Objects, Reports, Dashboards, Tabs and Customer Portal."}
+{"text": "Proficient in using JavaScript, J Query, CSS, HTML, DHTML, AJAX."}
+{"text": "Extensive knowledge about working processes such as time management and process optimizations."}
+{"text": "Capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations."}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": ""}
+{"text": ""}
+{"text": "Salesforce Administrator"}
+{"text": "Avaya Inc, Denver, CO         \t\t\t \t                                           (Oct 2015 \u2013 Jan 2018)"}
+{"text": ""}
+{"text": "Avaya is a provider of next-generation business collaboration and communications solutions, providing unified communications, real-time video collaboration, networking and related services to companies all around the world. Implemented Salesforce mainly to track budgets for individual departments. Campaign in Salesforce was used for Campaign Management. Approval processes for Budget approvals. Reports and dashboards were also developed for graphical representation of data."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Responsible for performing Administrative functions in salesforce.com."}
+{"text": "Daily duties include creating user accounts for customers, partners, dealers and prospects."}
+{"text": "Created custom tabs for external URLs (Web Tabs) within Salesforce.com per user needs."}
+{"text": "Created custom objects, tabs, fields, related lists, custom views, etc."}
+{"text": "Created validation rules to ensure high quality data is being put into Salesforce."}
+{"text": "Created simple workflow rules that will send out an email to the appropriate or concerned manager when a relevant case is submitted into Salesforce."}
+{"text": "Monitoring mass emails and their templates."}
+{"text": "Familiar with audit trails and field history tracking tools."}
+{"text": "Experience in setting up roles and profiles."}
+{"text": "Experience in setting up and creating cases for selective dealers."}
+{"text": "Guided users to create new opportunities."}
+{"text": "Experience in implementing chatter (desktop and messenger) and communities functionality in Salesforce.com."}
+{"text": "Created custom views in cases to allow managers to see and track issues specific to their product line."}
+{"text": "Responsible for data migration."}
+{"text": "Maintaining Salesforce.com data quality and integrity."}
+{"text": "Coordinated and integrated third party applications."}
+{"text": "Helping users to export their contacts from outlook to Excel and import from Excel to Salesforce."}
+{"text": "Experience in deployment and rolling out updates to various departments."}
+{"text": "Effectively created the Picklists, dependent Picklists and junction objects to establish the connectivity among objects."}
+{"text": "Responsible for writing SOQL & SOSL queries with consideration to Governor Limits for data manipulation needs of the application using platform database objects."}
+{"text": "Worked effectively to ensure that the data is protected and is made available to the authorized users by customizing the user Roles, Role hierarchies, Profiles and Sharing settings."}
+{"text": "Trained users to customize their profile, chatter settings, update reminders, views, tabs, alerts, and reports."}
+{"text": "Monitored user adoption rates, user engagement percentage and responded as needed (additional training sessions, communication, etc.)."}
+{"text": ""}
+{"text": "Environment: Saleforce.com platform, Apex Language, Visual Force Pages, Custom Component, Custom Controllers, Workflow & Approvals, Custom Objects, Custom Tabs, Page Layouts, Email Services, Security Controls, HTML, Web Services, Reports, Sandbox."}
+{"text": ""}
+{"text": "Client: Dex Media, Santa Monica, CA                                                                         "}
+{"text": "Salesforce\u00a0Administrator                                                                                               (Nov 2013 \u2013 Aug 2015)"}
+{"text": ""}
+{"text": "Dex Media is an advertising company, which helps many of the small and medium-sized business people in growing up their business levels. The company advertises its customers in industries, such as financial services, telecommunications, and healthcare, where reliable non-stop computing power is essential. The Dex Media keeps track of all their pre-sales and post sales operation in Salesforce with continuous integration."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Implemented the requirements on Salesforce.com platform and Force.com IDE Plug-in using Eclipse."}
+{"text": "Performed the role of Salesforce.com Developer in the organization."}
+{"text": "Agile Development Methodology was followed for the implementation."}
+{"text": "Worked closely with sales team and business analysts and performed detailed analysis of business and technical requirements. Designed the solution by customizing various standard objects of Salesforce.com (SFDC)."}
+{"text": "Worked on various AppExchange products according to the needs of the organization."}
+{"text": "Worked on various Salesforce.com standard objects like Accounts, Contacts, Content, Reports and Workspaces."}
+{"text": "Designed, Implemented and deployed the Custom objects, Page layouts, Custom tabs, Custom Buttons, Custom Links and Components."}
+{"text": "Developed SOQL and SOSL queries to get data from different related objects."}
+{"text": "Created many Email Templates and Mail Merge Templates and was involved in doing the mail merge for different standard and custom objects."}
+{"text": "Created Custom Objects and defined lookup and master-detail relationships on the objects and created junction objects to establish connectivity among objects."}
+{"text": "Involved in creating a sync of contacts, email alerts, events and tasks between Salesforce to Outlook and Outlook to Salesforce successfully."}
+{"text": "Created various profiles and roles and configured the permissions based on the organizational hierarchy requirements."}
+{"text": "Used Chatter profiles for different users."}
+{"text": "Experience with Web services, API and Customer Portal sites."}
+{"text": "Created different Formula Fields for the various standard and custom objects."}
+{"text": "Created workflow rules and defined related tasks, time triggered tasks, email alerts, filed updates to implement business logic."}
+{"text": "Created many Approval Process needed in the different stages of the application."}
+{"text": ""}
+{"text": "Environment: Windows 7, Force.com Platform, Salesforce Unlimited Edition, Salesforce.com Custom/Standard Objects, Custom Tabs, Page Layouts, SOQL/SOSL Queries, Workflow & Approvals, Reports, Crystal Reports, Force.com Eclipse Plug-in, Salesforce.com sandbox, MySQL, Data Loader, Email Services, Security Controls, java, WSDL, AJAX."}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelor in Computer Science from Gulbarga University, India"}
+{"text": "Master\u2019s in Business Administration from Gulbarga University, India "}
+{"text": ""}
+{"text": "Status:"}
+{"text": "I am a permanent resident of USA"}
+{"text": ""}
+{"text": ""}
+{"text": ""}

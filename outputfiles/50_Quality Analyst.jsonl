@@ -1,0 +1,156 @@
+{"text": "Name: pauline pauline"}
+{"text": "E-Mail: pauline.pauline@gmail.com"}
+{"text": "Address: Tongshan, China"}
+{"text": "Github: https://github.com/pauline"}
+{"text": "LinkedIn: https://linkedin.com/pauline"}
+{"text": "Phone No. 424107336671"}
+{"text": ""}
+{"text": "Professional Summary"}
+{"text": "Over 6+ years of extensive experience as Quality Analyst and EDI QA in namely health care domain."}
+{"text": "Proficient experience in Manual testing of GUI and functional aspect of Client-Server and web based Application on multiple level of SDLC and STLC."}
+{"text": "Extensive experience in Functional Testing, Regression Testing, SystemTesting, User Acceptance Testing and Black Box Testing."}
+{"text": "Extensive experience in Test Plan development, writing and executing Test Cases."}
+{"text": "Extensive experience in Agile Methodology and Waterfall Methodology in handling SDLC."}
+{"text": "Experience in planning, documenting and coordinating End to End Testing, User Acceptance Testing (UAT) and Client Testing."}
+{"text": "Experience in working version control tools like Clear Case and SVN."}
+{"text": "Hands on experience in Project change control mechanisms, Impact Analysis, Risk Analysis,\u00a0Defect\u00a0Management, End to End\u00a0Testing\u00a0and Production issues/defects\u00a0ad-hoc and regression\u00a0Testing\u00a0&support\u00a0Having expert level experience with Functional\u00a0testing\u00a0in Functional System Integration\u00a0testing, User Acceptance\u00a0Testing, End to End Test Management, Running Automation scripts in Regression Suites and Non - functional security\u00a0testing\u00a0areas. "}
+{"text": "Worked on the scripting languages like VB Script, Java Script."}
+{"text": "Strong skills in Back-End Testing on Relational Database. Writing SQL queries, generating reports to ensure data integrity and validating business rules."}
+{"text": "Attended JAD sessions and SCRUM meeting to go over the progress of the project."}
+{"text": "Profound understanding of Insurance policies like HMO and PPO and experience with HIPAA EDI transaction codes such as 834(Enrollment and Maintenance), 820(Premium Payment), 270/271(Inquiry/response health care benefits), 276/277(Claim status request and response), 835(Remittance), 837(Health care claim)."}
+{"text": "Good knowledge of Medicaid/Medicare claim processing. "}
+{"text": "Proficiency in Defect management including Defect creating, modification, tracking and reporting using Industry Standard tools like Quality Center, Clear Quest, TFS (Team Foundation Server)."}
+{"text": "Performed Testing Life Cycle during various phase of application."}
+{"text": "Strong knowledge of Business Intelligence and Data Warehousing."}
+{"text": "Analyzed Gap Analysis documents to write Test cases and Test plans."}
+{"text": "Hands-on experience in Project change control mechanism, Impact Analysis, Risk Analysis."}
+{"text": "Worked on different modules of FACETS application like Membership, Claims and Providers."}
+{"text": "Having excellent experience working EDI HIPAA Medicare, Medicaid, (837I/P/D, 270/271,276/277,278,820,834,835) X12 transaction for both version (4010A, 5010)."}
+{"text": "An excellent communicator, having a strong sense of organization and being able to manage time efficiently. Ability to lead the team, to work as an efficient team player, to learn the new technologies, handle the job responsibilities and easy adjust to local company\u2019s disciplines and requirements."}
+{"text": "Technical Skills/Tools"}
+{"text": ""}
+{"text": "Professional Experience"}
+{"text": "Client: Independent Health, Buffalo, NY       \t\t\t\t\t\t          Mar 2017 \u2013  Oct 2017"}
+{"text": "Position: Quality Analyst"}
+{"text": ""}
+{"text": "Description: Independent Health plan has been one of the leading health care providers in Buffalo, NY. It offered patients with online access to their practice using interactive web pages. Patients could schedule appointments, request prescriptions, manage account statements, maintain personal records, and receive email notifications. The system also facilitated the health care providers to place claims request, which is processed with the aid of the Claims Processing System."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in writing Test plans, Test cases and responsible for executing the Test Scripts."}
+{"text": "Responsible for designing, developing test plans use cases and executing test scripts."}
+{"text": "Processing of member enrollment and benefits (834) batch jobs corresponding to the claims (837)."}
+{"text": "Used QTP to perform Functional Testing and Regression Testing."}
+{"text": "Conducted Frontend and GUI Testing manually as per the requirement for the end client."}
+{"text": "Resolved issues with member attributes, enabling multiple rules associated with member lookup process in FACETS."}
+{"text": "Involved in all phases of SDLC and implemented Test management best practices through Agile method working with Globally spread teams."}
+{"text": "The ECM (Enterprise Content Management) System Analyst supports the firm\u2019s effort to manage both structured and unstructured data using HP Exstream."}
+{"text": "Created the SVN Repository and managed the central file repository."}
+{"text": "Worked with providers to Validate EDI transaction sets. This includes gap, impact and business rule validation for all 12 standard HIPAA 5010 transactions: 270/271, 276/277, 278/278, 820, 834, 835, 837 (IPD).  \u00a0"}
+{"text": "Documented Functional\u00a0Specifications for Enrollment (834), Customer Service Interface, Claim (837) including Encounter Claim and Capitation Payment (820) and Authorized Representative for Medicaid Members."}
+{"text": "Performed front-end validation using Java Script."}
+{"text": "Formulated reusable test cases using HP QC for functional, Integration, GUI/UI, end-to-end, usability, security, smoke, black-box and regression testing."}
+{"text": "Tested the Medicare and\u00a0Medicaid\u00a0preferred Eligibility and EOB claims extract files."}
+{"text": "Managed defect tracking process, which include prioritize bugs, assign bugs and verifying bugs using ALM."}
+{"text": "Coordinated with concerned developer/developer teams for design reviews per the business requirements for both UAT and Production Testing."}
+{"text": "Performed test management and defect management using HP ALM."}
+{"text": "Performed Back End Testing running SQL queries in Oracle database using TOAD, generating reports to ensure data integrity and validate the inserted and updated data."}
+{"text": "Worked on different Modules like Membership, Claim and Provider in FACETS application. "}
+{"text": "Worked on HIPAA Transactions and Code Sets Standards according to the test scenarios such as 270/271, 276/277,837/835 transactions."}
+{"text": ""}
+{"text": "Environment: FACETS 5.3,SQL, Oracle 12c, HIPPA 5010, XML, QTP, Agile, HP Exstream, Java Script, SVN, TOAD, HP ALM, MS Office, EDI 834, 820, 835, 837, 270/271"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Molina HealthCare, Long Beach, CA                                                                      Jan 2015 \u2013 Jan 2017"}
+{"text": "Position:  Quality Analyst"}
+{"text": ""}
+{"text": "Description: Molina health plan is a Health payer organization which enrolls members through government web portal using Federal Exchange program by processing 834 EDI transactions for Individual and Small Group Enrollments using TriZetto Facets. As a BA Analyst, I am responsible for creating user stories, processing 834 Files and verifying the standards and complete the Membership Enrollment Process in TriZetto FACETS using Agile/Scrum Methodology."}
+{"text": "Responsibilities:"}
+{"text": "Defined Test plan, Test strategies, Test cases based on the requirements outlined in the test plan as part of the development cycle."}
+{"text": "Execute Functional Testing, Regression Testing, Security Testing, Database and Usability Testing. Support User Acceptance Testing phase of the life cycle."}
+{"text": "Converted most of the manual test cases into Quick Test Pro automated scripts."}
+{"text": "Participated in developing test plans templates and guidelines to be used by the project team with detailed screen layouts with regards to various types of corporate actions."}
+{"text": "The\u00a0834\u00a0transactions were broken down into several components depending upon the functionality achieved from each\u00a0component and the integrity of these components."}
+{"text": "Worked to assess and respond with corrective actions for control gaps found in the UAT."}
+{"text": "Performed Front End Testing, Regression Testing, Functionality Testing using QTP"}
+{"text": "Involved in the development of Test Plans and Test Cases."}
+{"text": "Involved in FACETS Implementation, involved in End to End testing of FACETS Claim Processing, Subscriber/Member module and Claim adjudication process."}
+{"text": "Creating claims for validating members benefits against different Medicare and Non-Medicare products."}
+{"text": "Performed Positive Testing and Negative Testing Manually."}
+{"text": "Extensively worked on all kind of Joints and Operators to fetch data from multiple tables."}
+{"text": "Tested and validated the database tables using SQL queries and stored procedures and performed Data Validation and Data Integration."}
+{"text": "Provided Efforts Estimate and coordinated the test schedule using Agile Testing methodology in UAT phase."}
+{"text": "Used Java Script for client validations."}
+{"text": "Followed Agile/Scrum Process throughout the SDLC."}
+{"text": "Create ALM Quick Test Professional Template to create new script in Test Suite Script."}
+{"text": "Conducted Data integrity and Data validation test manually."}
+{"text": "Checked the data flow from Front end to Backend and used SQL queries to extract the data from the database."}
+{"text": "Extensively used SQL statements to query the Oracle Database for Data Validation and Data Integrity."}
+{"text": "Used QTP to perform Functional Testing and Regression testing for monthly releases."}
+{"text": "Performed test execution and wrote and executed Test scenarios/Test scripts."}
+{"text": "Developed design specification writing Test Reports and documenting Test Results. "}
+{"text": "Identified customer requirements besides reviewing test plans and documented the development of these plans."}
+{"text": "Interacted with the technical team for the claims transactions design"}
+{"text": "Logged and tracked defects using Application Lifecycle Management (ALM)."}
+{"text": ""}
+{"text": "Environment: Windows, Toad, QTP, Oracle 11g, HP ALM, FACETS 4.8, Java Script, MS Office, Agile, EDI 834, 837, 820."}
+{"text": ""}
+{"text": "Client: Genesis Healthcare, Kennett Square, PA                                                                      Jun 2012 \u2013 Nov 2014"}
+{"text": "Position: Quality Analyst"}
+{"text": ""}
+{"text": "Description: Genesis healthcare is Pennsylvania\u2019s Medicaid program. This is a public health insurance program, which provides needed health care services for low-income individuals including families with children, seniors, persons with disabilities. Genesis healthcare is financed equally by the State and federal government. Health Care Business Analyst on a HIPAA assessment project for a State government. My specific assessment areas Up-gradation of HIPAA X12 4010 transaction to HIPAA X12 5010 and ICD 9-CM (Clinical modification) to ICD-10-CM/PCS (Clinical modification/procedure coding system) ."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Development of test scenarios, test cases, execution of test cases and documentation of test results occurs as per the defined program schedule for each implementation event  "}
+{"text": "Maintaining knowledge of Medicare and Medicaid rules and regulations pertaining to the FACETS configuration and evaluating the impact of proposed changes in rules and regulations."}
+{"text": "Upgrading the system from HIPAA 4010 to HIPAA 5010 converting ICD-9 to ICD-10."}
+{"text": "Involved in FACETS Implementation, involved end to end testing of FACETS Membership and Enrollment, Provider and Claim Processing."}
+{"text": "Worked on EDI Transactions (837/834/835/276/277) for Verification and Validation as part of System Testing."}
+{"text": "Use Subversion (SVN) version control system to maintain current and historical versions of files such as source code, web pages, and documentation."}
+{"text": "Worked in fast paced agile environment."}
+{"text": "Performed Java Script Testing, Functional testing to validate how better and feasible is the application to be used by the End-user."}
+{"text": "Identified the bugs and kept track of the defect report using Quality Center, and also performed Root cause analysis for defects."}
+{"text": "Involved in Unit Testing, System Testing, Regression Testing, Security Testing and Usability Testing."}
+{"text": "Played primary role as QA in analyzing requirements by interacting with client and business analysts and discuss with Development team separately to identify the testing scope as well as development (Coding) scope for those requirements.\u00a0"}
+{"text": "Wrote Test cases and developed Test scenarios based on BRD, FRD and Use Case Documents.\u00a0"}
+{"text": "Wrote SQL queries in Toad for Backend testing, Verification and Validation.\u00a0"}
+{"text": "Worked on HIPAAEDI834 use cases and collaboration templates according business requirements.\u00a0"}
+{"text": "Implemented the ANSI X12 Version 5010 EDI transactions (HIPAA) like (834, 837P, 837I, 835 remittances)."}
+{"text": "Responsible for designing Test Steps, Requirement Mapping to Tests, Executing Tests manually, Defect Logging and Defect Reporting.\u00a0"}
+{"text": "Performed Cross platform and Cross Browser Testing.\u00a0"}
+{"text": "Raised defects and assigned to Development teams with appropriate severity levels.\u00a0"}
+{"text": "Worked closely with developers to resolve the technical issues to meet the dead lines.\u00a0\nTested user interface and navigation controls of the application using QTP."}
+{"text": "Experiences working in ANSI X12 837-835 EDI Transaction."}
+{"text": "Tested the HIPAAEDI834, 837/835 transactions according to test scenarios and verify the data on different modules. "}
+{"text": "Conducted Back End Testing Using SQL Commands."}
+{"text": ""}
+{"text": "Environment: Toad, HIPAA, EDI 4010, EDI 5010, XML, QTP, FACETS 4.8, Java Script, Agile, SVN, Quality Center, ICD-9, ICD-10, MS SQL, MS Office."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Tufts Health Plan, Boston, MA                                                                                                   Feb 2011 \u2013 Apr 2012"}
+{"text": "Position: Quality Analyst"}
+{"text": ""}
+{"text": "Description: Tufts contracted with the Medicare Centers and Medicaid Services (CMS) to provide quick, easy, and affordable access to the health care service of their choice. Project involved integrating Market Prominence, Member enrollment and the Claims Processing System with the data warehouse to support the reporting requirements."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Participated in setting up testing environment."}
+{"text": "Involved in preparing Test Cases based on business requirement documents."}
+{"text": "Tested HIPAA Transactions and Code Sets Standards such as 837/835, 270/271, 276/277 transactions."}
+{"text": "Tested 837, 835, 270/271, 276/277 transactions."}
+{"text": "Authored and executed Test cases for Claims and Customer Service Workflow manually. "}
+{"text": "Responsible for writing the Test Cases and Test Scenarios based on the Functional Specification and technical Specification and documented in Quality Center."}
+{"text": "Executed Test scripts using QTP."}
+{"text": "Created VB Script files to automate file downloading and file opening for users."}
+{"text": "Worked closely with Agile Scrum team from several domains to ensure product testability while running Regression tests."}
+{"text": "Worked on configuration management tool SVN."}
+{"text": "Tested business integration between internal and external systems in a Service-Oriented Architecture SOA.\u00a0Defects found during testing were logged in Quality Center."}
+{"text": "Worked on claims, Claims adjudication, Membership, Eligibility in different managed care products like HMO and PPO."}
+{"text": "Recorded scripts in Quick Test Pro to perform Functionality testing."}
+{"text": "Worked with providers and Medicare or Medicaid entities to validate EDI transaction sets or Internet portals.  This includes HIPAA4010,834, 820,837, 835, 270/271."}
+{"text": "Intensively involved in project testing efforts by doing\u00a0Regression Testing\u00a0and by helping\u00a0UAT\u00a0team in\u00a0User Acceptance Testing\u00a0"}
+{"text": "Logged the errors, reported defects, determined repair priorities and tracked the defects until resolution using Quality Center."}
+{"text": "Extensively used SQL statements to query the Oracle Database for Data Validation and Data Integrity."}
+{"text": "Responsible for performing System testing and Integration testing for release."}
+{"text": "Identified, analyzed and documented defects, error and inconsistencies in the application using Quality Center."}
+{"text": "Environment: MS Word, Excel, PowerPoint, FACETS 4.7/4.8, QTP, SQL, VB Script, Oracle, EDI,SVN, Agile, Quality Center"}
+{"text": ""}
+{"text": " "}

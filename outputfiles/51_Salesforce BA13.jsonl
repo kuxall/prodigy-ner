@@ -1,0 +1,140 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Kuala Lumpur, Malaysia"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 527404962743"}
+{"text": "SPECIFIC EXPERTISE"}
+{"text": "Over 7+ years of IT professional experience as Business Analysis in Banking and Healthcare domain"}
+{"text": "Hands on experience gathering requirements, interviewing senior level company officials to gather requirements for documenting project functional specification."}
+{"text": "Strong knowledge & understanding of industry standard methodologies including Software Development Life Cycle (SDLC) and Iterative Software Development Life Cycle Process as per Rational Unified Process (RUP) and Agile Methodology."}
+{"text": "Expertise in gathering, analyzing, defining and documenting end user business requirements and system requirement specifications."}
+{"text": "Experience in administration, configuration, Implementation, and Support of Salesforce CRM, and Salesforce SFA applications based on Apex Language and leveraging Force.com Platform - world's first commercial Software as a Service (SAAS) application running in Cloud Computing Environment.\u00a0"}
+{"text": "Experience in Salesforce.com SFA, Force.com Apex Classes, Apex triggers, Integration, Visualforce, Force.com API, SOQL, SOSL."}
+{"text": "Expertise with Administration and Configuration of Salesforce.com CRM to populate and maintain data.\u00a0"}
+{"text": "Extensive experience in creating and documenting\u00a0Business\u00a0Requirements and System Functional Specifications including use cases.\u00a0"}
+{"text": "Extensive experience in creating Wireframes / UI Design using MS Visio.\u00a0"}
+{"text": "Successful in translating\u00a0business\u00a0requirements and user expectations into detailed specifications employing Unified Modeling Language (UML), drawing UML diagrams, Activity Diagrams, and State Diagrams using MS Visio.\u00a0"}
+{"text": "Hands on experience in Administration setup like managing Users, Security Controls and Data Management on service cloud for HR team.\u00a0"}
+{"text": "Generated custom Reports, Dashboards and\u00a0analytical snapshot\u00a0for management and various\u00a0business unit\u00a0personnel to provide detail information on key performance indicators (KPI)."}
+{"text": "Conducted User Acceptance Testing (UAT)."}
+{"text": "Experience in working with different modules of ALM/Quality Center such as Requirements, BPT, Test Plan, Test Lab and Defects."}
+{"text": "Proficient in using UML in behavioral, structural and architectural modeling \u2013 in creating Use Case, State, Activity, Class and Sequence diagrams."}
+{"text": "Experience in gathering user requirements, application development, testing and documentation using Rational Requisite Pro"}
+{"text": "Experience in development methodologies like RUP, SDLC, AGILE and Waterfall"}
+{"text": "Well-versed in project management tool (MS Project) for status reporting, planning and resource allocation."}
+{"text": "Experience in working with QA Testing Team, creating Test Plans, Test Cases and Test Scripts."}
+{"text": "Expertise in the management of System/User Request Change, and handle User Conflicts."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": "CRM Tools: \t\t\tSalesforce CRM, Salesforce Administration, Siebel"}
+{"text": "Salesforce Technologies: \tApex Class, Workflow, Validation, Approval Process, Trigger, Reports, Dashboards and Visual Force (Pages, Component & Controllers) Security Controls, Email Templates."}
+{"text": "Version Control Tools: \tClearCase, Visual Source Safe"}
+{"text": "Requirements Gathering: \tHP Suite"}
+{"text": "Project Management: \tMS project, MS Office"}
+{"text": "Reporting tools: \tSFDC Report Builder, Microsoft Excel, MS Access and Report                                                                                                                                                                                            Service"}
+{"text": "Languages/Tools: \t\tJAVA, Javascript, C, C++, Rational Requisite Pro, JIRA, MS Suite"}
+{"text": ""}
+{"text": "EXPERIENCE"}
+{"text": ""}
+{"text": "Bank of America, Charlotte, NC           \t\t\t\tNov 2014 to Present"}
+{"text": "Salesforce Business\u00a0Analyst"}
+{"text": "Bank provides consumers and business clients with a wide range of products in Retail banking. As a BA, I worked on the Salesforce.com CRM platform which was implemented across all divisions and sub-divisions in order to manage their clients effectively and more efficiently. "}
+{"text": "Responsibilities:"}
+{"text": "Interacted with various\u00a0business\u00a0team members to gather the requirements and documented the requirements.\u00a0"}
+{"text": "Responsible for Salesforce implementations and training globally\u00a0and looked after as Salesforce administrator and assistant developer.\u00a0"}
+{"text": "Developed various Custom Objects, Tabs, Components and Visual Force Pages and Controllers.\u00a0"}
+{"text": "Understood\u00a0business\u00a0goals and\u00a0business\u00a0context and translated them into technical specifications.\u00a0"}
+{"text": "Worked on Salesforce.com platform Apttus and advanced Apttus configurations.\u00a0"}
+{"text": "Experience with Salesforce data tools such as Data Loader and Eclipse Force.com IDE for data migration.\u00a0"}
+{"text": "Experience integrating salesforce.com with other apps.\u00a0"}
+{"text": "Techno-Functional experience with Salesforce Sales cloud and Marketing cloud as system administrator and guiding clients on CRM solution for sales, marketing and services teams.\u00a0"}
+{"text": "Integrated the Web Services for extracting the data from external systems to display in the pages of Salesforce.com.\u00a0"}
+{"text": "Involved in Salesforce.com application Setup activities and customized the apps to match the functional needs of the organization."}
+{"text": "Used Data Loader for insert, update and bulk import or export of data from Salesforce.com S Objects. Used it to read, extract, and load data from comma separated values (CSV) files.\u00a0"}
+{"text": "Created page layouts, search layouts to organize fields, custom links, related lists, and other components on detail pages.\u00a0"}
+{"text": "Used Apex Data Loader to migrate data such as accounts, campaigns from different legacy systems.\u00a0"}
+{"text": "Implemented Standard and Custom Apex Controllers to handle\u00a0business\u00a0logic and used debug logs to trace the execution.\u00a0"}
+{"text": "Created Custom Email Templates as part of sending alerts to users based on the\u00a0business requirement.\u00a0"}
+{"text": "Created Campaigns to send thousands of emails at a time using just an email alert workflow and a trigger.\u00a0"}
+{"text": "Developed complex formulas to calculate response times and show flags reminding customer service reps to respond to customer queries in due time.\u00a0"}
+{"text": "Used Enterprise WSDL and developed Inbound Custom Web Services to expose native logic to external clients.\u00a0"}
+{"text": "Created Users, Roles, Public Groups and implemented role hierarchies, sharing rules and record level permissions to manage sharing access among different users.\u00a0"}
+{"text": "Designed and deployed dynamic workflows, validation rules, Approval Processes and Auto-Response Rules for automating\u00a0business\u00a0logic."}
+{"text": "Developed Configurations in Salesforce for DocuSign E-Signature, a Digital Transaction Management System used to securely sign, send and manage the documents in the cloud.\u00a0"}
+{"text": "Implemented Test Classes to cover positive and negative use cases for Classes and Triggers and achieved close to 100% coverage.\u00a0"}
+{"text": "Performed IDE and Deployments across sandboxes and to Production Instance"}
+{"text": ""}
+{"text": "Premera BCBS, Mountlake, WA\t\t\t\tApr 2013 to October 2014"}
+{"text": "Business\u00a0Analyst"}
+{"text": "Premera\u00a0is a health benefits company serving 1.6 million people, from individuals to Fortune 100 companies. They provide health, life, vision, dental, long-term care coverage, and other related services. The CRM\u00a0based application is implemented on\u00a0Siebel\u00a08.1\u00a0to develop an enterprise wide customer service platform for Premera.\u00a0eSAWS\u00a0is built on\u00a0.NET\u00a0platform and focuses on non-CSR Premera customers. My role was to perform functional testing on both the applications, testing web services and verify the end to end integration."}
+{"text": "Responsibilities:"}
+{"text": "Interacting with client to gather requirements and seeking clarifications. Creating System Requirements Specification with every possible detail to facilitate the developers in the code development. Review of\u00a0Business\u00a0Requirement Document to be able to validate the content of SRS.\u00a0"}
+{"text": "Translating the requirements to developers and delegating work to them for analysis and code development.\u00a0"}
+{"text": "Involved in Siebel implementation and maintenance of CRM functionality.\u00a0"}
+{"text": "Create STM (Source to Target Mapping) documents for integration.\u00a0"}
+{"text": "Create Functional and Technical documents for Siebel reports, workflows.\u00a0"}
+{"text": "Create various roles, profiles and configured the permissions based on the organizational hierarchy requirements.\u00a0"}
+{"text": "Use of modelling tools to depict various\u00a0business\u00a0processes and activities\u00a0"}
+{"text": "Worked as a product owner /Business\u00a0Analyst\u00a0in an agile environment with monthly release and weekly sprints.\u00a0"}
+{"text": "Managed the product backlog and worked closely with stakeholders to identify features for upcoming release.\u00a0"}
+{"text": "Documented user stories and supported them with UML activity diagram and wire frame.\u00a0"}
+{"text": "Used JIRA as a tool to manage product backlog and document user stories.\u00a0"}
+{"text": "Worked closely with the developers and testers and conducted sprint planning meetings to review user stories.\u00a0"}
+{"text": "Conducted weekly sprint review meeting with stakeholders to demo the features accomplished during the sprint.\u00a0"}
+{"text": "Managed the application support product backlog using JIRA cards\u00a0"}
+{"text": "Conducted Monthly\u00a0Business\u00a0Prioritization meetings with the stakeholders identify JIRA cards to be scheduled for the upcoming release.\u00a0"}
+{"text": "Performed functional and GUI testing to ensure that the user acceptance criteria are met Co-coordinated the User Acceptance Testing (UAT) on a monthly basis with the SME's to make sure that all the requirements are addressed in the application\u00a0"}
+{"text": "Analysis and testing the Acquisition process and FTP Process which are used to pull data from Business\u00a0Objects.\u00a0"}
+{"text": "Documented release notes for every release to provide an overview of features accomplished for that release."}
+{"text": ""}
+{"text": "Medco Health Solution, Franklin Lakes, NJ \t\t\tJan 2011 \u2013 March 2013"}
+{"text": "Business Analyst"}
+{"text": "Medco is a leading pharmacy benefit manager (PBM) with the nation's largest mail order pharmacy operations. Medco assists its customers to moderate the cost and enhance the quality of prescription drug benefits provided to members nationwide. This project was to modify the auto adjudication and processing of inpatient claims. "}
+{"text": "Responsibilities"}
+{"text": "Analyzed business requirements and segregated them into high level and low level Use Cases, activity diagrams/Chart Diagrams using UML, defining the Data Process Models."}
+{"text": "Assisted the team as a liaison between the developers and project manager, and was instrumental in resolving conflicts between Testers and development teams."}
+{"text": "Development of standard documentation package (Requirements, Specification, Design, Operations, and Quality Testing Plans)."}
+{"text": "Derived Business Requirements Document (BRD), Functional Requirement Specifications (FRS) based on User Requirement Specification URS. Understand and articulate business requirements from user interviews and then convert requirements into technical specifications."}
+{"text": "Created test strategies, test plans, wrote and executed positive and negative test cases using testing tools"}
+{"text": "Involved in writing Test Cases based on the Functional Specifications, documenting them using Test Director as per HIPAA standards. \u00a0"}
+{"text": "Involved in HIPPA various levels of testing like Integrity Testing, Requirement Testing, Balancing, Situation Testing, Code set testing and Business Scenario's specific testing over multiple releases."}
+{"text": "Converted various EDI files to different translation layouts and ran pre-edits for different clients."}
+{"text": "Analyzed the pre-edits against Client Profile and the input EDI files. Loops and segments were checked on the EDI files for the data sent for different fields"}
+{"text": "Involved in writing business requirements, test plan, and defects in test director"}
+{"text": "Involved in the HIPAA rules and regulations sessions"}
+{"text": "Developed test cases based on business and functional requirement  "}
+{"text": "Performed functional, Regression, System, Compatibility, User Acceptance Testing, for verifying application functionality. "}
+{"text": "Actively involved in walkthroughs and meetings with development team to discuss related issues."}
+{"text": "Developed SQL queries to conduct front end and backend testing"}
+{"text": "Develop & Automate Data Validation Test Cases to test the application. "}
+{"text": "Enhanced Test cases in Test director as per the new functional requirements."}
+{"text": "Performed data driven tests with positive and negative data sets using flat file and data tables."}
+{"text": "All the issues that came up during this process were logged in Test Director as defects."}
+{"text": "Maintaining status reports and communicating with the Management on progress of work."}
+{"text": ""}
+{"text": "MVP HealthCare, Schenectady, NY\t\t\t\tAug 2009\u2013 Dec 2010"}
+{"text": "Business Analyst\u00a0"}
+{"text": "MVP HealthCare is a leading insurance organization that caters to the health insurance needs of the residents in NY. A FACET has been widely used across the network for the claim adjudication, claim processing and Provider Management. They provide health, life, vision, dental, long-term care coverage, and other related services."}
+{"text": "As a BA I also worked on a conversion project to upgrade their claims system FACETS which was required to accommodate EDI 5010 CMS compliance."}
+{"text": "Responsibilities: "}
+{"text": "Participated and organized requirement gathering sessions with the stakeholders to elicit and analyze requirements. "}
+{"text": "Assisted in preparing Scope Document by analyzing - various business domains interdependencies, end to end business processes of claims adjudication, various business domains scope statement, current business process flows and current system documentations."}
+{"text": "Developed solutions in compliance with the industry models / standards and implementation of Quality Management Systems & HIPPA regulation. "}
+{"text": "Involved in FACETS Implementation, FACETS billing, enrollment, and Claim Processing and Subscriber/Membership module. "}
+{"text": "Followed Workgroup for Facets Electronic Data Interchange standards for testing that need to comply with the HIPAA guidelines."}
+{"text": "Comprehensive understanding of specific provider type reimbursement methodologies. Including Dental, Anesthesia and DME"}
+{"text": "Worked on Member Management, Eligibility, Claims and Billing modules within FACETS."}
+{"text": "Actively analyzed current business processes (Claims, Billing, Recipient eligibility and enrollment etc.) and worked with management to improve and implement enterprise solutions to ensure compliance"}
+{"text": "Used Star Schema methodology in building the design of the logical data model into the Dimensional data modeling."}
+{"text": "Creation of  Gap/Impact Analysis and Operational Analysis  Document for Medicaid Subrogation"}
+{"text": "Created and performed automated (SQL-based) report scrubbing to improve operational efficiency to define requirements and executing to delivery."}
+{"text": "Created and managed project templates, Use Case project templates, requirement types and trace-ability relationships in Requisite Pro."}
+{"text": "Produced various artifacts e.g. Functional Requirement Specifications (FRS) and Wireframes."}
+{"text": "As a point person responsible for resolving business rules/conflict resolution for the development team."}
+{"text": "As member of system architecture team designed and reviewed user interface."}
+{"text": "Developed Business case and assessed the ROI."}
+{"text": ""}
+{"text": "EDUCATION"}
+{"text": "Masters in Business Administration"}

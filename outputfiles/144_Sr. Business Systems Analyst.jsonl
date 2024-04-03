@@ -1,0 +1,168 @@
+{"text": "Name: ann ann"}
+{"text": "E-Mail: ann.ann@gmail.com"}
+{"text": "Address: Guilin, China"}
+{"text": "Github: https://github.com/ann"}
+{"text": "LinkedIn: https://linkedin.com/ann"}
+{"text": "Phone No. 408516580631"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": ""}
+{"text": "A Senior Analyst with Over 8 years of diversified experience in areas like Business / Data Analysis, Project Management, and Testing.with proven ability in leading cross functional and self \u2013 organizing teams."}
+{"text": "Extensive experience in various domains, Possess In-depth knowledge in implementation of project in various phases and stages of Software Development Life Cycle in Waterfall, Hybrid of waterfall and scrum and scrum- Agile methodologies"}
+{"text": "Expert in Requirements Elicitation & Gathering, Analysis, Design &Development, and change management."}
+{"text": "Knowledge and vast experience of PMBOK and BABOK."}
+{"text": "Assisted in Designing the ETL system for populating the Data warehouse from the operational DBMS"}
+{"text": "Extensive experience on interaction with system users in gathering business requirements and involved in developing projects. Chaired and conducted JAD sessions with business and technical teams."}
+{"text": "Expert in analyzing/troubleshooting and providing technical support for Oracle/Unix applications and their interfaces."}
+{"text": "Worked extensively in Data consolidation and harmonization, Experience in Data alignment and Data cleansing. Strong knowledge of Data Integration, validation, and processing methodologies."}
+{"text": "Experience in Data Analysis using PL/SQL.Vast experience of working in the area data management including data analysis, gap analysis and data mapping."}
+{"text": "Worked extensively with Dimensional Modeling and Data Migration."}
+{"text": "Expertise in SQL and PL/SQL programming -Functions, Stored Procedures, and Triggers."}
+{"text": "Well versed in Process Narratives, Flow charting Techniques using UML, and Good Documentation Practices."}
+{"text": "Experienced in developing Object-Oriented Analysis and Design Models Use Case Model and UML."}
+{"text": "Good Knowledge of Unified Modeling Language UML, Class Diagrams, Use Case Diagrams, Activity Diagrams, Sequence Diagrams."}
+{"text": "Experienced in Data Analytics, Big Data Analytics, Data Integration & Migration, Data Integrity, Data Quality, Data Profiling, Taxonomy/classifying, Data Mining, Data Governance and Master Data Management"}
+{"text": "Adept in writing and executing Create Read Update Delete (CRUD)operations and complex SQL queries which includes complex joins, unions, grouping, aggregation, nested subqueries, triggers, stored procedures, etc."}
+{"text": "Strong knowledge of Data Warehouse architectures - Hub and spoke, federated, independent, centralized, along with ETL process, Data Marts, Star/Snowflake Schema, Facts, Dimensions, OLAP, MOLAP, ROLAP, HOLAP"}
+{"text": "Experienced in Big Data, Amazon AWS Cloud technologies, NoSQL databases - MongoDB, Cassandra, and HBase. "}
+{"text": "In-depth knowledge of Hadoop Ecosystem including HDFS, Name nodes, Data Nodes, Map Reduce, YARN and libraries such as Hive, Pig, Spark, Impala, Sqoop, Flume, Storm, Oozie, Ambari, Mahout, and Kafka."}
+{"text": "Participated in multiple big data POC to evaluate different architectures, tools and vendor product"}
+{"text": "Possess good knowledge of validation scripting such as JavaScript, jQuery, Angular JS, and NodeJS"}
+{"text": "Experienced in supervising Black-box Testing, Functionality Testing, System Testing, Integration Testing, Regression Testing, User Acceptance Testing (UAT), Load/Stress Testing, and Performance Testing."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": ""}
+{"text": "Certification:"}
+{"text": "Google analytics- google"}
+{"text": "Apache Hadoop level 2-big data academy-IBM"}
+{"text": "Apache Spark level 2- big data academy-IBM"}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelors of Engineering and Technology - (B. Tech)"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": ""}
+{"text": "Citizens bank, Boston, MA                                                                                                                          April2016 \u2013 Till date"}
+{"text": ""}
+{"text": "Role: Sr. Business systems analyst/Data Analyst"}
+{"text": ""}
+{"text": "Project description: "}
+{"text": "The objective of the project was to enhance the existing system. Implementation of the project was to enhance an existing system which can monitor and respond to the customers feedback and complaints, and develop an Omni channel experience, real-time tracking for complaints, maintain flexibility, scalability, parameterizing complaints, performing sentiment analysis on target audience, a self-enriched complaint ecosystem which provides a 360degree view of the customer the product/service and mainly the complaints."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Interfaced with the client as part of the Requirements Engineering team to finalize the project scope. Assisted the PM in developing Use Cases and project plans and managed changes to the scope of the project."}
+{"text": "Organized Joint Application Development JAD sessions with data steward and ETL teams while having walkthroughs for mapping documents."}
+{"text": "Mapped high-level to-be designs using Business Process Modeling Notation BPMN on MS Visio."}
+{"text": "Monitored and assisted in designing and development of Use Cases, Activity Diagrams, Sequence Diagrams, OOAD using UML and Analyzed and translated business requirements into system specifications utilizing UML and Agile methodology."}
+{"text": "Performed Data Analysis using procedures and functions in PL/SQL. Researched upstream data sources and ensured all source data sources were attested by its owners."}
+{"text": "Responsible for creating mapping documents required for the ETL team. Created report specifications containing mapping to source data sources."}
+{"text": "Performed Data Analysis, writing SQL Queries for Testing and Troubleshooting against Data Warehouse."}
+{"text": "Supported SOA, data warehousing, data mining, and Enterprise Service model standards in designs, and developed standardization of processes."}
+{"text": "Created Testing Requirements Document and Test Case Scenarios to test functional changes to the system/application as per the project requirements."}
+{"text": "Identified the customer\u2019s behavior that are loyal to a specific category and provided the information to the merchants helping them in customer retention by optimizing those customer\u2019s rewards."}
+{"text": "Keeping liaison with development team for data enhancements and new contents developments."}
+{"text": "Worked on querying data and creating on demand reports and involved in data validations and performed Sentiment Analysis in Social Media& used Sqoop to transfer data from RDBMS to HDFS."}
+{"text": "Acted as a liaison between the Hadoop administrator, Hadoop developers and Business owners."}
+{"text": "Piloted research to collect and assemble the data from various data sources. Ensure monitoring of the important data elements for data quality and integrity. "}
+{"text": "Identified areas for improvement and increased sales and marketing opportunities of our clients through various comparative analytics, statistical and data mining techniques."}
+{"text": ""}
+{"text": "AT&T, Philadelphia, PA                              January2015 \u2013 February 2016"}
+{"text": ""}
+{"text": "Role: Sr. Business Systems Analyst/Data Analyst"}
+{"text": ""}
+{"text": "Project Description: "}
+{"text": "The objective of the project was to develop a system that can process high volume data of customers behavior on voice, text, and services by considering several scenarios and provide the management with real time predictive analysis that would enable the organization to spot the upcoming trends and intelligently market them to customers and keeping the customer need up to the mark and customer churn under control."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Elicited business requirements by conducting JAD sessions, Focused groups, one to one session with the SME\u2019S, Interviews, Document Analysis with project stakeholders and business owners."}
+{"text": "Coordinated with the Project Manager in defining the scope/business area and requirements of the project."}
+{"text": "Conducted GAP Analysis to understand limitations of the existing system and contributed to design of future system; assisted in modeling the AS-IS and TO-BE business workflow."}
+{"text": "Performed document analysis to drive business rules and validated them with stakeholders for consistency and completeness."}
+{"text": "Reviewed and analyzed Business Requirements Document (BRD), Functional Requirement Document (FRD) and helped transforming them into a complete System Requirement Specification (SRS) to enable all the stakeholders to accurately understand requirements."}
+{"text": "Collaborated effectively with international teams to develop new survey concepts and designs.Conducted statistical analyses to leverage the results to drive brand decision making."}
+{"text": "Analyzed survey data, UI dashboard, to ensure the survey programming were correctly implemented and anomalies within the data were investigated and resolved in a timely manner."}
+{"text": "Assisted in Designing the real-time analytics and ingestion platform using Storm and kafka. Hands on experience with multiple NOSQL databases including, Couchbase, HBase and Cassandra."}
+{"text": "Improving data processing and storage throughput by using Hadoop framework for distributed computing across a cluster of up to twenty-five nodes."}
+{"text": "Provided documentation for Applying machine learning algorithms to identify the most significant features across different datasets."}
+{"text": ""}
+{"text": "State of Washington, Department of Licensing             January 2014\u2013November 2014"}
+{"text": ""}
+{"text": "Role: Sr. Business Systems Analyst"}
+{"text": ""}
+{"text": "Project Description:"}
+{"text": "The scope of the project was to create Data Warehouse System by integrating different data sources. The new system had better enhanced analysis, financial surveillance, budget allocation, expenditure tracking and reporting capabilities."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Interacted with business users, stakeholders, subject matter experts and evaluated solutions for problems."}
+{"text": "Elicited business requirements by facilitating JAD sessions, interviewing, document analysis, observation, brainstorming and having conducted sessions to create business requirement documents "}
+{"text": "Performed GAP analysis, root cause analysis, impact analysis and also prepared the system process maps."}
+{"text": "Attended sprint planning meeting, daily scrum meeting, product backlog refinement meeting, sprint review meeting and sprint retrospective meeting and updated artifacts in JIRA."}
+{"text": "Helped Scrum Master in solving Impediments and Dependencies faced by the scrum development team."}
+{"text": "Helped the product owner to gather requirements by stakeholders to form the product backlog."}
+{"text": "Actively participated along with the scrum master and product owner for keeping track of user stories and epics."}
+{"text": "Validated requirement churns after sprint review meeting and took feedback from product owner and stakeholders."}
+{"text": "Also worked as a Scribe during JAD sessions and review meetings to document various feedbacks etc."}
+{"text": "Acted as a liaison between management and technical teams and generated testing reports for developers."}
+{"text": "Created Data Dictionary and have developed conceptual and logical entity relationship (ER) diagrams."}
+{"text": "Worked with testing team to design and develop Test Plans, Test Strategies and Test Cases to perform User Acceptance Testing (UAT), Graphical user interface (GUI) testing, Functional testing and Fuzz testing."}
+{"text": "Identified Source systems for financial data profiling of expenditure tracing and budget processes."}
+{"text": "Analyzed and Designed the Data Mart model using Star Schema model with Facts and Dimension table."}
+{"text": "Performed Data Mining in existing data and constructed SQL queries and used data mapper to map the data."}
+{"text": "Assisted in increasing Data Integrity by performing Data Normalization and adding data verification."}
+{"text": "Assisted in the implementation of Data Warehouse with data marts to address areas of business interest."}
+{"text": "Designed and developed all use cases and UML models using MS Visio and created Use Case diagrams, Sequence diagrams, Activity diagrams and class diagrams and used Informatica power center for ETL."}
+{"text": "Assisted Project Manager in developing timelines for project delivery and have assisted in managing projects in successful completion and data team in creating Snow-flake schemas for Dimensional modeling."}
+{"text": ""}
+{"text": "Flipkart, Hyderabad, India                                                                                                December 2011 \u2013 November 2013"}
+{"text": "Role: Sr. Business Systems Analyst "}
+{"text": ""}
+{"text": "Project description:"}
+{"text": ""}
+{"text": "The motto of the project involved to build a system, which could allow the clients to have a safe payment pathway online and choose to pay by cash as their doorstep which evolved into the online shopping store."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Participated in preparing the project scope and objectives."}
+{"text": "Expert in requirement gatherings while following various elicitation techniques for business requirements by conducting client group interviews, focused groups, workshops and online surveys."}
+{"text": "Prepared business requirement document (BRD) and System Requirement Specification (SRS) to provide details of each business and functional requirement, development and implementation plan of these requirements, timelines."}
+{"text": "Assisted in developing the project deadlines/deliverables/strategies to effectively manage projects."}
+{"text": "Prepared and maintained the Requirement Traceability Matrix (RTM) to record the business and functional requirements."}
+{"text": "Prepared use case diagrams and description documentation based on the analysis, and obtained approvals from the clients."}
+{"text": "Prepared Mockup screens with the help of UI components using wireframes for testing the front end."}
+{"text": "Prepared activity diagrams on MS Visio to better understand the flow of activities along with the timelines."}
+{"text": "Coordinated with project stakeholders to track the progress of the project, update status and lead review meeting to ensure that schedules and deliverables are met."}
+{"text": "Coordinated and controlled change request for the clients by conducting impact and cost analysis, prioritizing and mitigating changes."}
+{"text": "Managed the contents using SharePoint 2007."}
+{"text": "Tracked defects using HPALM."}
+{"text": ""}
+{"text": "AIG Insurance, Hyderabad, India                    November 2010 \u2013 September 2011"}
+{"text": "Business Analyst"}
+{"text": ""}
+{"text": "Project description:"}
+{"text": "The purpose of the Insurance Information System program is to create a single, integrated system that will execute the calculation of sales compensation, for both external producers, based on consistent and reliable information captured from pre-determined data sources, improving business processes and controls, ensuringcompliance and reporting for a school that has various branches."}
+{"text": "Roles and Responsibilities:"}
+{"text": "Created Business requirements document and assisted in System Requirement Specification (SRS) document."}
+{"text": "Responsible for creation of targeted questionnaires for SME\u2019s to gather requirements "}
+{"text": "Planned and conducted requirements elicitation meetings with the business to collect functional and non-functional requirements relating to client's Salesforce technology enhancement and initiatives.Performed in-depth analysis of business practices and provided recommendations on ways to improve the processes."}
+{"text": "Actively participated in Pre-Testing that included review of the requirement documents, studying the use cases for developing test plans and collection of test data. "}
+{"text": "Performed Gap Analysis for new functionality requirements, as well as prioritized them based on actual business needs to align them with the product release roadmap."}
+{"text": "Involved in analysis of Test Plans and Test cases, detecting bugs in the system, preparing the Defect reports using QC and interacted with developers for Debugging."}
+{"text": "Collaborated with the stakeholders in defining the scope of the project in context to the Insurance Regulatory and Development Authority (IRDA) regulations."}
+{"text": "Wrote complex SQL queries using complex joins, grouping, aggregation, nested subqueries, cursors, etc.Performed analysis and presented results using SQL, SSIS, MS Access, Excel, and Visual Basic scripts."}
+{"text": "Assisted in Developing and deployed a quality sqlquerys, stored procedures, views, functions, triggers and jobs."}
+{"text": "Monitored day-to-day activities and responsibilities include leading a team of analysts and Insurance specialists in the development of a requirements analysis, advanced planning document and request for proposal. "}
+{"text": "Designed different custom dashboards in salesforce for various user groups based on their business functionalities and needs."}
+{"text": "Designed and Documented Test Cases for user acceptance, functional and integration testing."}
+{"text": "Discussed defects with analysts and then made decisions about modifications and changes."}
+{"text": "Gave access to end-users for Acceptance Testing and sent defect reports to developers."}
+{"text": "Used Rational Clear Quest to track defects, while prioritizing for enhancements after base lining requirements"}
+{"text": "Applied Rational Rose and Power designer for modeling tools."}
+{"text": "Participated in weekly review meetings to report the documented test metrics and defects found in the System."}
+{"text": "Created and deployed several reports for different user profiles based on the need in the organization."}
+{"text": "Used Rational Rose and MS Visio to carry out business modeling of the business process."}
+{"text": "Verified business scenarios on new builds to allow extended testing by the QA team and helped the testing team to expedite User Acceptance and Regression testing to meet the production date. "}
+{"text": "Resolved issues between front-end developers, middle-tier developers, QA team, and provided suggestions/feedback."}
+{"text": "Used tools such as MS-Visio, Excel to define business use cases, activity diagrams, sequence diagrams and state diagrams."}
+{"text": "Maintained the Requirements Traceability Matrix across the deliverables of a project."}
+{"text": ""}

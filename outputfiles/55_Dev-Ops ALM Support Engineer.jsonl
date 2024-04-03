@@ -1,0 +1,249 @@
+{"text": "Name: dorothy dorothy"}
+{"text": "E-Mail: dorothy.dorothy@gmail.com"}
+{"text": "Address: Hanoi, Vietnam"}
+{"text": "Github: https://github.com/dorothy"}
+{"text": "LinkedIn: https://linkedin.com/dorothy"}
+{"text": "Phone No. 816063510632"}
+{"text": "Summary "}
+{"text": "About 7 years of experience in Software Configuration and Release Management as CM and DevOps Specialist"}
+{"text": "Good knowledge with complete Software Development Life Cycle (SDLC) Process that include designing, development, testing and implementation and post-production support "}
+{"text": "Experience in writing hooks/trigger scripts for enforcing various CM policies and procedures"}
+{"text": "Developed branching schemes fir major and minor version releases of software projects."}
+{"text": "Have created repositories and CI/CD Pipeline and deployed to Azure VMs in Visual Studio Team Services."}
+{"text": "Performed Software tasks like branching, merging and tagging source code "}
+{"text": "Created scripts for periodic backups of Subversion repositories and ClearCase for the change management process"}
+{"text": "Utilized ANT and MAVEN for java based builds in LINUX and Windows environments"}
+{"text": "Maintain and enhance application servers, build and deploy C++, .Net, Java, and UNIX based\u00a0binary deliverables, utilize Autosys to configure scheduled jobs, and write and deploy SQL Server\u00a0database scripts to enhance electronic trading software and derivatives deal manager server side\u00a0code\u00a0"}
+{"text": "Utilize Windows PowerShell, Perl, and PHP scripting to automate build and release processes for\u00a0Java and C++ projects and utilize ClearCase and Perforce configuration management tools to\u00a0design branching, merging, base lining and labeling strategies for source code\u00a0"}
+{"text": "Debugged and remedied various ANT issues from the slow builds to modularization"}
+{"text": "Experience in implementing the continuous integration utilizing Atlassian Bamboo"}
+{"text": "Capable of managing multiple projects simultaneously, comfortable troubleshooting and debugging and able to work under pressure"}
+{"text": ""}
+{"text": "Technical Skills"}
+{"text": "Version Control:\t SCM, UCM and Multisite, SVN, TFS/VSTS, GIT"}
+{"text": "Languages:\t\t C, C++, C#, Java/J2EE, SQL, Visual Basic, Visual C++, Perl\u00a0"}
+{"text": "Script:\t\t               Shell Script, Batch Scripts, PowerShell"}
+{"text": "Databases:\t\t Oracle 9i/8i/10g, IBM DB2/UDB, SQL\u00a0"}
+{"text": "Platforms:\t\t Windows, UNIX, and Linux\u00a0"}
+{"text": "Servers:\t\t Apache Web Server, WebSphere, WebLogic, Tomcat, and                     JBoss\u00a0"}
+{"text": "Build and Release:\t IBM Rational BuildForge 7.0, Ant, Jenkins, Maven, Maven2, Maven3, CruiseControl, Team City, VSTS"}
+{"text": "Development Tools:\t IBM RAD 6.0, Eclipse, and Visual Studio\u00a0"}
+{"text": "Case Tools:\t\t UML, Rational Rose\u00a0"}
+{"text": ""}
+{"text": ""}
+{"text": "Work Experience "}
+{"text": ""}
+{"text": "Microsoft Corporation, TX\t\t\t\t\tJuly 2017 \u2013 Present"}
+{"text": "Dev-Ops ALM Support Engineer"}
+{"text": "Very customer centric environment. Take about 10-13 tickets a day assisting customers with their issue."}
+{"text": "Handle all severities of issues (Seva, SevB, Sev C)) depending on the types of contractual agreements."}
+{"text": "Have handled broken identity related issues in Team Found Server and Visual Studio Team Services."}
+{"text": "Handled CI/CD Pipeline issues for clients who needs the deployment within 2-3 business days."}
+{"text": "Have linked the VSTS with Azure active directory and know the benefits of using Azure AD for VSTS."}
+{"text": "Have linked the VSTS with Azure using service hooks/web hooks."}
+{"text": " Handled various types of build and release issues in TFS and VSTS releasing to on-prem or cloud."}
+{"text": "Have experienced working with both version controls TFS and GIT on a large scale for the clients."}
+{"text": "Have assisted clients till late to resolve the ongoing issues which were business threatening."}
+{"text": "Have handled numerous complicated issues at the last hour to maintain the customer relationship."}
+{"text": ""}
+{"text": "File and Serve Xpress, TX\t\t\t\t\tMay 2017 \u2013 June 2017"}
+{"text": "Sr. Dev-Ops Engineer"}
+{"text": "Created Run book/Playbook for the existing applications for better organization. "}
+{"text": "Created the plan to migrate from TFS 2012 to VSTS and implemented it."}
+{"text": "Created the best strategy to automate the SQL deployments onto the new servers."}
+{"text": "Helped resolve merge conflicts and other issues that developers encountered while utilizing TFS 2012"}
+{"text": "Managed the team's source repository and involved in the build, release and continuous integration process."}
+{"text": ""}
+{"text": "CenturyLink, TX\t\t\t\t\t\tAugust 2016 \u2013 April 2017"}
+{"text": "Dev-Ops/Build and Release Engineer"}
+{"text": "Worked for client in Dallas on about 70 applications which they needed to port from old systems where developers had access to new VMWare based systems where developers will be locked out and will have to follow standard deployment practices which will be established as part of the new \"greenfield\" VMWare environment being built."}
+{"text": "Helped migrating the source code repository from TFS 2012 to TFS online."}
+{"text": "Configured and created the setup of initial applications in Visual Studio Online for automated builds and deploy to on-prem and Azure cloud."}
+{"text": "Provided documented training to developers\u2019 team to better understand the functionalities of Visual Studio Team Services and the CI/CD pipeline associated with it."}
+{"text": "Once the automated deployments were configured and implemented, provided on-site ALM support for any application in VSTS."}
+{"text": "Suggested the best strategy to automate the SQL deployments using VSTS."}
+{"text": "Used APM tools to examine one or two applications at a time to understand its components and architecture (DB, Web services, 3rd party software)."}
+{"text": "Documented that to be used as migration plan to new Greenfield VM servers."}
+{"text": "Performed and managed tracking of migration."}
+{"text": "Automate installations post understanding them using PowerShell."}
+{"text": "Documented with best practices that will be established collaboratively with senior team members."}
+{"text": "Developed Application Installation plans."}
+{"text": ".Net application installations and configuration."}
+{"text": "Performed Application monitoring with Solarwinds and AppDynamics."}
+{"text": "Setup and configured Microsoft RMS (Release Management Server)."}
+{"text": "DevOps Automation (PowerShell) and be able to connect to TFS/RM."}
+{"text": "Automated testing experience with TOSCA."}
+{"text": "DevOps and Release Management Tools/Process Implementation."}
+{"text": "Setup the automated build and deployment configurations of the static applications and applications with Databases in RMS."}
+{"text": "Setup the IIS in the webserver with necessary plugins to run the website in under its own application pool."}
+{"text": "Assist the AD Manager with setting client expectations and project timelines."}
+{"text": "Accountable for the delivery of project development items, as well as design across multiple technologies."}
+{"text": "Owned Release to Production Process, Gathered approvals, signoffs from and QAs before going to PROD."}
+{"text": "Coordinated with the team of Infrastructure and Developers to lay out the necessary and cost-efficient plan to migrate the applications using bucketing system."}
+{"text": ""}
+{"text": "Technologies: Team Foundation Server (TFS), Release Management Server,  Jenkins, Jfrog Artifactory, XML, JUnit, Windows, Groovy, Shell scripts, Powershell, ASP.NET, .NETFramework 3.5/4.0/4.5, Heat Systems, VMware, IIS, SQL, Sequel Server Management Studio, Visual Studio, Tomcat"}
+{"text": ""}
+{"text": ""}
+{"text": "Greyhound, TX\t\t\t\t\t     March 2016 \u2013 July 2016"}
+{"text": "Dev-Ops/Build and Release Engineer"}
+{"text": "Planned and created the CI environment and played a major role in creating the CD environment for different consumer and internal applications."}
+{"text": "Collaborated with the team in developing and executing a robust test and release process."}
+{"text": "Ensured that operational processes are followed and improved upon, including proper change management processes and approvals for all types of releases."}
+{"text": "Setup the Linux and Windows servers from start till its functional and ready to use for building jobs and deploying to the remote servers."}
+{"text": "Implemented a Continuous Delivery pipeline with Docker, Jenkins and Github at on-prem servers."}
+{"text": "Proactively identified, recommended and implemented the improvements where needed."}
+{"text": "Documented all the upgrades and setting up the processes and Web and Sitecore deployments on SharePoint."}
+{"text": "Conducted regular deployments for all the applications in QA and STAGING on android and IOS platforms."}
+{"text": "Managed scheduling and communication of deployment activities, including emergency change implementation."}
+{"text": "Reviewed the deployment codes with developers to ensure code is properly staged for deployment."}
+{"text": "Collaborated with one more team member on working on Ansible playbook and developing it to provide services for our CD environment."}
+{"text": "Installed Jenkins on Linux machines and created the Master-Slave architecture for Linux and Windows servers. "}
+{"text": "Installed and managed JFrog Artifactory to store the build packages and deploying to the remote locations."}
+{"text": "Used JIRA efficiently for change management and bug tracking and report it to the right developer/tester."}
+{"text": "Participated in the daily scrum meetings to provide statuses about completed task and next task."}
+{"text": "Technologies: Team Foundation Server (TFS), Git, Jenkins, Ant, Ansible, Jfrog Artifactory, Java/J2EE, Maven, Docker, Linux, XML, WebSphere 6.1, Oracle, JUnit, Unix, Perl Scripts, Groovy, Shell scripts, Powershell, ASP.NET, .NETFramework 4.0, Android, iOS, JIRA"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "JP Morgan Chase, DE                                                           July 2015- February 2016"}
+{"text": "Dev-Ops/Build Release Engineer"}
+{"text": ""}
+{"text": "Job Responsibilities"}
+{"text": "Assist in ensuring proper deployment of the application through the various test environments and production; including coordination with other Developers in the use of common components/frameworks."}
+{"text": "Work with other Developers to create knowledge repository, setup and maintenance of development environments, etc."}
+{"text": "Participate in the software deployment life cycle process including, application configuration requirements, coding, application packaging, unit testing and deployment."}
+{"text": "Configured Jenkins Plugins according to the client application\u2019s environment."}
+{"text": "Ensure adherence to architecture standards, risk management and security policies."}
+{"text": "Recommend, schedule, and perform software maintenance, improvements and upgrades."}
+{"text": "Provide production support and issue resolution for production systems."}
+{"text": "Conducted automated build and deploy processes using Jenkins from one environment to another."}
+{"text": "Involved in building flexible UI, more user interactive and user-friendly web pages, reusable classes, functions using ASP.NET"}
+{"text": "Deployed the archives to Apache Tomcat web server and WebSphere Application Servers. "}
+{"text": "Assist the AD Manager with setting client expectations and project timelines."}
+{"text": "Facilitate & document team status meetings."}
+{"text": "Establish and maintain client relationships. Understand client needs and key issues & partner with AD Manager to resolve them."}
+{"text": "Display flexibility in supporting changing business demands."}
+{"text": "Proactively look for ways to improve processes & procedures and identify/recommend new ideas for process improvement."}
+{"text": "Ensure all existing protocols are correctly followed for deployments."}
+{"text": "Proactively keep manager and team members informed of status, issues, and risks including key dependencies and timeline/schedule impacts."}
+{"text": "Design technical solutions which optimize end user experience."}
+{"text": "Continue to look for opportunities to deliver beyond client expectations."}
+{"text": "Deliver development tasks on time/on budget/and based on original scope."}
+{"text": "Ensures change requests have proper technical estimates and impact."}
+{"text": "Accountable for the delivery of project development items, as well as design across multiple technologies."}
+{"text": ""}
+{"text": "Technologies: Subversion (SVN), Git, Jenkins, AntHill Pro, Chef, Artifactory, Java/J2EE, Ant, Maven, Linux, XML, Splunk, Apache Tomcat, WebSphere 6.1, Oracle, JUnit, Unix, Aix, Perl Scripts, Shell scripts, ASP.NET, .NETFramework 4.0"}
+{"text": ""}
+{"text": "Intel, Chandler, AZ     \t\t\t\t         September 2014- June 2015"}
+{"text": "Dev-Ops/Build and Release Engineer"}
+{"text": ""}
+{"text": "Job Responsibilities "}
+{"text": "Created Subversion repositories and maintained scripts for creating users with authentication"}
+{"text": "Managed the team's source repository and involved in the build, release and continuous integration process"}
+{"text": "Performed SCM tasks like branching, merging and tagging the source code in Subversion"}
+{"text": "Was able to distribute work load among team members equally with different responsibilities."}
+{"text": "Created Subversion post and pre commit hook scripts for enforcing CM polices like naming conventions"}
+{"text": "Created Subversion hooks for integration with JIRA like enforcing the use of ticket numbers in the commit message and for preventing accidental deletion of files by unauthorized users"}
+{"text": "Expertise on working in Microsoft Release Manager for different servers in different env."}
+{"text": "Designed and deployed the Nagios implementation. Nodes were automatically added/removed using Puppet."}
+{"text": "Responsible for configuration, customization, support and implementation of tools like JIRA, Confluence."}
+{"text": "Expertise in PowerShell scripting for different application for the client. "}
+{"text": "Trained developers on Subversion checkout, adding, editing and committing files following CM best practices"}
+{"text": "Automated Subversion based release management process including monitoring changes between various releases"}
+{"text": "Extensive experience in using and writing scripts in Ant and using tools such as Anthill Pro for build management. Moved several operations from external Perl scripts into Ant so the build was easier to understand."}
+{"text": "Implemented the changes/modification like iterative/incremental development and used .NETFramework and Object Oriented Methodologies for application development by using agile scrum methodology."}
+{"text": "Wrote Ant build scripts for creating jar, war and ear artifacts, which were then deployed to Tomcat and WebLogic"}
+{"text": "Ported Ant scripts to Maven and utilized plugins for FTP, SCP etc."}
+{"text": "Created a Perl script to generate tar files for the change-set related to a particular JIRA ticket, which was then uploaded automatically to the FTP server"}
+{"text": "Developed web pages using ASP.NET and VB.NET"}
+{"text": "Configured Bamboo to send out various kinds of build related notifications including email and IDE"}
+{"text": "Setup Continuous Deployment for the various test environments utilizing Bamboo"}
+{"text": "Created and maintained various kinds of documentation related to the CM process using Confluence"}
+{"text": "Set up continuous deployment to Tomcat using Bamboo"}
+{"text": "Targeted and migrated completed Builds to multiple Servers and platforms"}
+{"text": "Trained developers on utilizing Fisheye to keep track of code change sets in a convenient manner.\u00a0"}
+{"text": ""}
+{"text": "Technologies: Subversion, Apache, Anthillpro, Perforce, Tomcat, Java, Linux, Ant, Maven, Perl, JIRA, Fisheye, Puppet, Bamboo, Shell Scripting, PowerShell, WebLogic, Confluence and Perl."}
+{"text": ""}
+{"text": "Gannett Digital, McLean, VA       \t                                       January 2013-August 2014"}
+{"text": "Build and Release Engineer/JIRA Administrator"}
+{"text": ""}
+{"text": "Job Responsibilities "}
+{"text": "Co-ordinate applications parallel releases (Scheduled/Emergency/Weekly) for deploying their code into production servers and training servers consisting of vendor applications"}
+{"text": "Organize weekly release meetings with multiple development teams to identify the releases ahead and bring awareness on milestones as per master release calendar"}
+{"text": "Conduct Post Release Reviews, Implementation Reviews to identify improvements to processes and procedures over time and lessons learned"}
+{"text": "Administered Rational Build Forge and created users and given permissions based on their roles. "}
+{"text": "Developed policy and scripts for automation of build based on Perl, python, ant, VisBuildPro under BuildForge."}
+{"text": "Designed REST/HTTP APIs that allowed sophisticated, effective and low cost application integration."}
+{"text": "Added functionality that ingested data from SOAP web services."}
+{"text": "Worked on Microsoft Release Manager in different servers as per the applications."}
+{"text": " Installed and configured build manager and agents to queue builds in TFS"}
+{"text": "Created groups/users and defined user permissions for the projects in TFS"}
+{"text": "Defined methodology for TFS Source code migration and branching and merging"}
+{"text": "Configured master and agent configuration in Rational Build Forge for better performance"}
+{"text": "Built and maintained Puppet manifests and bootstrap scripts to allow us to bootstrap instances without having to maintain AMIs."}
+{"text": "Imported and managed multiple corporate applications into Subversion (SVN)"}
+{"text": "Provided end-user training for all Subversion (SVN) users to effectively use the tool"}
+{"text": "Developed build using ANT and MAVEN as build tools and used Jenkins to kick off the builds move from one environment to other non-production environments"}
+{"text": "Built and Deployed Java/J2EE to a web application server in an Agile continuous integration environment and also automated the whole process"}
+{"text": "Created and maintained the Shell/Perl deployment scripts for Web Logic web application servers"}
+{"text": "Developed multi-tiered ASP.NET web applications using HTML-5, CSS."}
+{"text": "Integrated JIRA, Confluence, and Bamboo for automating the CM process."}
+{"text": "Tracked all the changes in Remedy tracking tool and provided metrics reporting for the project release activities"}
+{"text": " Work closely with developers to pinpoint and provide early warnings of common build failure"}
+{"text": "Installed and configured GIT"}
+{"text": "Implemented Pre and Post hooks in GIT.\u00a0"}
+{"text": ""}
+{"text": "Technologies: SVN, GIT, Ant, Maven, Gradle, Shell, Perl, WebSphere, WebLogic, Puppet, IIS, JIRA, TFS, ASP.NET"}
+{"text": ""}
+{"text": "Avaya, Coppell, TX \t\t\t\t\t           June 2012-December 2013 "}
+{"text": "Build and Release Engineer"}
+{"text": ""}
+{"text": "Job Responsibilities "}
+{"text": "Modeled the structure for multi-tiered applications orchestrate the processes to deploy each tier"}
+{"text": "Experience in JIRA to capture, organize and prioritize issues. Experience in partially administering JIRA for issue management\u00a0"}
+{"text": "Have used Confluence to create, share and discuss content and projects"}
+{"text": " Familiar and experienced with Agile Scrum development"}
+{"text": " Proposed and implemented branching strategy suitable for agile development in Subversion. "}
+{"text": "Installed and configured Hudson/Jenkins for Automating Deployments and providing an automation solution"}
+{"text": "Integrated Subversion into Hudson/Jenkins to automate the code check-out process\u00a0"}
+{"text": " Used Hudson/Hudson/Jenkins for automating Builds and Automating Deployments\u00a0"}
+{"text": "Used various plug-ins to extend the base functionality of Hudson/Jenkins to deploy, integrate tests and display reports\u00a0"}
+{"text": "Owned build farm and produced effective multiple branch builds to support parallel development\u00a0"}
+{"text": "Owned Release to Production Process, Gathered approvals, signoffs from stakeholders and QAs before going to PROD"}
+{"text": "Managed the Release Communication and Co-ordination Process"}
+{"text": "Developed build scripts using ANT and MAVEN as the build tools for the creation of build artifacts like war or ear files"}
+{"text": "Maintained the Shell and Perl scripts for the automation purposes"}
+{"text": "Involved in editing the existing ANT/MAVEN files in case of errors or changes in the project requirements"}
+{"text": "Performed setup of clustered environment setups with WebSphere Application Server"}
+{"text": "Wrote scripts to perform deploys to tomcat Webserver and WebSphere App Servers"}
+{"text": "Imported and managed multiple corporate applications in Subversion (SVN)\u00a0"}
+{"text": "Managed the entire Release Communication and Co-ordination Process"}
+{"text": "Prepared mock cutover/cutover plans for pre-prod and prod environments and discussed with all the resources involved in the release\u00a0"}
+{"text": ""}
+{"text": "Technologies: IBM Rational Clear Case, Chef, WebSphere Application Server, JBOSS Application Server, UNIX, Linux, ANT, MAVEN, and Jenkins.\u00a0"}
+{"text": ""}
+{"text": "SLK Software Technologies, Bangalore, India         August 2011-December 2011 "}
+{"text": "Build and Release Engineer"}
+{"text": ""}
+{"text": "Job Responsibilities "}
+{"text": "Enhanced & verified the build process conversion to Ant, for several large projects"}
+{"text": "Implementation tools and facilitating the Change Management Board supporting SCM and CM processes"}
+{"text": " Defined strategies for tools deployment which includes the management of installations, patches and distribution Methodologies"}
+{"text": "Used subversion for small projects developed in both Java and C/C++."}
+{"text": "Created a Branching methodology and tagging in Subversion for projects development in parallel releases"}
+{"text": "Used Windows repository server with UNIX clients using Apache webserver for subversion"}
+{"text": "Compiled Subversion binaries for SCO Unix environment"}
+{"text": "Implemented Tortoises and web SVN for Subversion and integrated Jira (change management tool) with Subversion"}
+{"text": "Maintained and implemented all Projects Baseline Management in Main Line Project"}
+{"text": " Provided methodologies for monitoring the performance and the creation of metrics to track service of ClearCase environment"}
+{"text": "Defined backup policies for ClearCase, ClearQuest (schema and databases) and ClearCase Multisite data"}
+{"text": "Designed and administered the corporate ClearCase UCM training program."}
+{"text": ""}
+{"text": "Technologies: ClearCase, ClearCase, SVN, UNIX, Ant."}
+{"text": ""}
+{"text": "Education:  Bachelor of Engineering"}

@@ -1,0 +1,141 @@
+{"text": "Name: clara clara"}
+{"text": "E-Mail: clara.clara@gmail.com"}
+{"text": "Address: Hyder\u0101b\u0101d, India"}
+{"text": "Github: https://github.com/clara"}
+{"text": "LinkedIn: https://linkedin.com/clara"}
+{"text": "Phone No. 904329897116"}
+{"text": "Summary:"}
+{"text": "Results-oriented software developer with 7+ years of experience in developing Rich User Interface applications, integrating with various Databases and Client-Server applications."}
+{"text": " 4+ years of expertise in iPhone/iPad application development using Objective-C, Cocoa Touch, Xcode."}
+{"text": "Experience with Interface Builder, Instruments, Mobility Tester and Static Analyzer including development,debugging, profiling, optimizing, and build process. "}
+{"text": "Hands on experience in Network protocols, Mac/Pc to iPhone data syncing."}
+{"text": "Strong knowledge in implementingCore Frameworks \u2013UIKit, Core Data, MapKit, Core Location, Core Graphics."}
+{"text": "Proficient in source control with Git, SVN, Mercurial."}
+{"text": " Used XML parser, JSON, CSV to retrieve data for display on the iPhone/iPad from server, created and customized Views, Table Views, Collection views, action sheets, segmented controls, Tab Bars and Navigation Bars. "}
+{"text": "Experience in application and web development with emphasis on HTML/ HTML5, XHTML, DHTML, XML, CSS 2/3, AJAX, DOM, JavaScript, jQuery, and JAVA technology."}
+{"text": "Expert in working with cutting edge front-end technologies/ framework and libraries like JQuery, Prototype, XHTML, DHTML, OO JavaScript, JSON, DOM, CSS, XML/XSLT, AJAX. "}
+{"text": " Experience in designing websites with W3C standards using HTML4/ 5, CSS2/ 3 to get best cross-browser user experience for long-term user retention and engagement. "}
+{"text": "Professional in creating Templates, Mockups and Prototypes, Web Interfaces, Layouts and Flow of Future Pages. "}
+{"text": "Working experience of project management methodologies such as SDLC, Agile andScrum. "}
+{"text": "Good understanding of Memory Management: ARC and non-ARC in iOS development."}
+{"text": "Worked on parsing with both SBJson and LibXML, as well as NSXMLParser, NSJSONSerialization and Plist."}
+{"text": "Developed the applications as per specs. This included core development using various iOS frameworks and test drive development using framework. "}
+{"text": "Capable of analyzing the business requirements, software requirement specifications, functional design documents to write technical design documents and unit test plans. "}
+{"text": "Worked on MVC design architecture, cocoa design patterns and concepts like delegation, protocols and categories. "}
+{"text": "Understanding of Apple iPhone App store requirements, HIGs, iTunes Connect, iOS Provisioning Portal (Certificates, App IDs, Provisioning and Distribution) and testing on real device."}
+{"text": "Experience on NSOperation threads, GCD and blocks to perform multi-threaded development. "}
+{"text": "Worked with UI Design on Storyboard and interface builder. "}
+{"text": "Coordinated with the QA team during the process of making the code move to staging server and testing the application for the several test cases and defect testing."}
+{"text": "Excellent communication, organizational skills, attention to detail and the ability to meet tight deadlines."}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": ""}
+{"text": "Education:Bachelors in Electronics and Communication Engineering from JNTU, India"}
+{"text": "\u00a0"}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Liberty Mutual, Dover, NH                                                                                                             Jul 2014 \u2013 Till Date"}
+{"text": "Sr. iOS Application Developer "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked with Objective-C, Swift and Cocoa Touch Frameworks, which includes UIKit, Foundation and Interface Builder. "}
+{"text": "Created View controllers both programmatically and through storyboards."}
+{"text": "Pre-fetching data for different views for smooth screen transition."}
+{"text": "Worked extensively on table view controller and made customized table view cells according to the client."}
+{"text": "Worked on fetching data from web services and parsing data using JSON library."}
+{"text": "Worked with MapKit frameworkin the application to provide location services. "}
+{"text": "Worked on UITableViewController, UICollectionView and UINavigationController for the architectural implementation of the application using Objective-C and Swift."}
+{"text": "Formatted the Data as per Business rule to display in UI. "}
+{"text": "Added animation between UIViews for smooth transitioning and better user experience. "}
+{"text": "Worked with Backend team to display the correct data format in devices. "}
+{"text": "Improved response time for user by implementing NSOperationQueue and created dispatch queues using GCD for background tasks."}
+{"text": "Built on swift but some reusable components which were developed with Objective-C are integrated using bridging header for future product release."}
+{"text": "Continually improved the user experience by analyzing and optimizing the UI, data storage and network communications."}
+{"text": "Implemented customized UIAlertView, UICollectionView to build the user interface of the application."}
+{"text": "Worked on memory management using ARC in swift."}
+{"text": "Involved in handling session management on client side using NSTimer."}
+{"text": "Worked with AFNetworking in performing IP verification and user login."}
+{"text": "Worked on custom Activity indicator for better look of the application."}
+{"text": "Used the storyboard to design for iPhone 6 and iPad, older phones by using Auto-layout. "}
+{"text": "Followed a work data flow principle for design and development. "}
+{"text": "Worked closely within a cross functional team of testers and developers. "}
+{"text": "Worked with GDB and Xcode for debugging. "}
+{"text": "Worked with GIT to checkout and update the codebase changes. "}
+{"text": ""}
+{"text": "Environment:iOS 7.1/8.0/9.0, Mac OSX, Objective C, Swift, iPhone, iPad, Xcode 6.0/7.0, Cocoa Touch, JSON, Agile Methodology,GCD."}
+{"text": ""}
+{"text": "Novartis pharmaceutical, Parsippany, NJ                                                                               Feb 2013 \u2013 Jun 2014"}
+{"text": "iOS Application Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked extensively on UITableviewcontroller and made customized table view cells according to the client.\u00a0"}
+{"text": "Implemented UINavigation and UITabBar controllers for easy navigation throughout the app."}
+{"text": "Worked extensively with objective C and Cocoa Touch frameworks including Core data, foundation, and UIKit."}
+{"text": "Implemented array of UITapGestureRecognizers to allow users to zoom in for more detail."}
+{"text": "Implemented UITabBarController and UINavigationController for easy navigation in the app."}
+{"text": "Created View controllers both programmatically and through storyboards."}
+{"text": "Worked with\u00a0Objective-C, and Cocoa TouchFrameworks which includes UIKit, Foundation, UIImageView.\u00a0"}
+{"text": "Involved inAGILE practices, attending daily agile (SCRUM) meetings and SPRINT retrospective meetings. Worked with an Agile, Scrum methodology to ensure delivery of high quality work with every iteration."}
+{"text": "Worked with the backend team to communicate with RESTful web services."}
+{"text": "Parsed JSON objects obtained from the server side and displayed the contents in the app."}
+{"text": "Implemented NSOpertionQueue and NSURLConnection to integrate with backend web services."}
+{"text": "Used\u00a0Instruments\u00a0to check for processing bottlenecks, memory leaks, and retain cycles."}
+{"text": "Worked on\u00a0iPhone SDK\u00a0and internet connection Protocols."}
+{"text": "Involved in\u00a0Core Data Framework\u00a0using SQLite."}
+{"text": "Developed critical tools for this project like Customized Navigation bar and Scroll view."}
+{"text": "Used a\u00a0Test-Driven Development (TDD)\u00a0environment in a\u00a0Scrum development methodology\u00a0to provide end-to-end development."}
+{"text": "Designed and developed latest trends for iPhone clients."}
+{"text": "Made use of\u00a0Core Animation / UI animation\u00a0concepts."}
+{"text": ""}
+{"text": "Environment:iOS 6.0/7.0, Xcode 5.0/6.1 iPhone, iPad, Mac OSX Cocoa Touch, UIKit, Storyboards, Foundation, RESTful, NSURL Connection, JSON, SQLite, Agile Methodology. "}
+{"text": ""}
+{"text": "Hanes-Brand, Winston-Salem, NC                                                                                           Oct 2011 \u2013 Jan 2013"}
+{"text": "iOS Application Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for tech design and architecture of the project and working with user experience design team, business analysts, and clients to create the needed requirements artifacts."}
+{"text": "Designed the application's architecture using MVC, Singleton and Delegation design patterns."}
+{"text": "Extensive use of singleton and web service response classes for storing of data. "}
+{"text": "Involved in designing the database architecture using Core Data framework. "}
+{"text": "Implemented swipe gestures using UIGesture Recognizer to allow smooth transition between screens."}
+{"text": "Built iPhone Application that uses UITableViewController, UITabBar, UINavigation Controllers, UIImageView."}
+{"text": "Integrated iPhone application with applications across all aspects of the client: performance, memory management, debugging. "}
+{"text": "Multi-Threaded some of the tasks like downloading images, utilization Logging in iOS by running tasks in a separate thread using GCD blocks and NSOperation Queue for optimizing the performance."}
+{"text": "Used JSON Parsing and have excellent knowledge of it. "}
+{"text": "Created Custom UI Table View cells with different styles to accommodate the UX/UI requirements. "}
+{"text": "Consumed JSON web service to fetch the data, reformatted the data to group the departments under a parent product group and bind it to the customized Table View. "}
+{"text": "Worked on iPhone SDK and internet connection Protocols."}
+{"text": "Upgraded to story boards and given ARC support to improve performance and source code organization. "}
+{"text": "Heavy use of API calls deeply revolving around the use of JSON responses and encrypted data. "}
+{"text": "Developed unit tests for testing specific functionality and logic. "}
+{"text": "Fixed bugs as documented by QA team. "}
+{"text": "Used Instruments to fine tune the app performance and memory management. "}
+{"text": "Formatted the Data as per Business rule to display in UI."}
+{"text": "Created notifications to detect the autorotation in the customized sub views. "}
+{"text": "Followed a work data flow principle for design and development. "}
+{"text": "Worked closely within a cross functional team of testers and developers.  "}
+{"text": "Worked with GDB and Xcode for debugging. "}
+{"text": "Worked with Subversion to checkout and update the codebase changes. "}
+{"text": "Followed scrum methodology, an agile development model with 30 day sprints. "}
+{"text": ""}
+{"text": ""}
+{"text": "Environment: iOS 4.0/5.1, iPhone, Mac OS X, Objective C, Xcode 3.2/4.x, Cocoa Touch Framework,Core Graphics, JSON, Agile Scrum Methodology, SVN."}
+{"text": ""}
+{"text": ""}
+{"text": "Netwin Info Solutions, India                                                                                                   May 2010 \u2013 Sep 2011"}
+{"text": "UI Developer\u00a0\n"}
+{"text": "Responsibilities:\u00a0"}
+{"text": "\n\u2022 Coordinated with BA group for better understanding of functional requirements analyzed and designed "}
+{"text": "  The business requirements to documented and implemented.\u00a0\n\u2022 Responsible for Design and development of Web pages using PHP, HTML, CSS including Ajax controls and "}
+{"text": "XML.\u00a0\n\u2022 Coded Business Logic component using PHP.\u00a0\n\u2022 Developed UI using JavaScript, HTML, CSS, JavaScript validations and XML.\u00a0\n\u2022 Implemented applications in JavaScript and MYSQL.\u00a0\n\u2022 Worked extensively with the File management and image libraries.\u00a0\n\u2022 Performed Client-side validations using JavaScript.\u00a0\n\u2022 Fixed bugs and provided support services for the application.\u00a0\n\u2022 Tested/Debugged web browser using Firebug.\u00a0"}
+{"text": "\u2022 Wrote Python scripts to divide XML documents and load data in database.\u00a0"}
+{"text": "\u2022 Developed Python modules to extract data from MYSQL database.\u00a0\n\u2022 Managed and implemented all codes changes via SVN. Deploying builds across development, staging and "}
+{"text": "Production instances and maintained code integrity.\u00a0\n\u2022 Created an inline-edit and widget-collapse feature for the web page.\u00a0\u00a0\n\u2022 Performed graphical design and web site contract work for small business and working professionals.\u00a0\n\u2022 Met one-on-one with clients in exploring the best possible options for their web presence.\u00a0\n\u2022 Handled duties ranging from creative design to code implementation.\u00a0\n"}
+{"text": "Environment: JavaScript, PHP, HTML, CSS, AJAX, Apache, Windows, MYSQL."}
+{"text": ""}
+{"text": "Svarog Software Solutions, India                                                                                         Jun 2008 \u2013 April 2010"}
+{"text": "UI Developer"}
+{"text": ""}
+{"text": "Responsibilities:\u00a0"}
+{"text": "\n\u2022 Worked with System Analyst and the project team to understand the requirements.\u00a0\n\u2022 Converted the Photoshop mockups in to hand-written HTML and CSS pages.\u00a0\n\u2022 Developed web pages applying best standards.\u00a0\n\u2022 Designed dynamic and multi-browser compatible pages using HTML, DHTML, CSS and JavaScript.\u00a0\n\u2022 Responsible for creating the screens with table-less designs meeting W3C standards.\u00a0\n\u2022 Applied JQuery scripts for basic animation and end user screen customization purposes.\u00a0\n\u2022 Used AJAX and JSON to make asynchronous calls to the project server to fetch data on the fly.\u00a0\n\u2022 Designed CSS based page layouts that are cross-browser compatible on all the major browsers like Safari, Chrome, Firefox and IE.\u00a0\n\u2022 Implemented various Validation Controls for form validation and implemented custom validation controls with JavaScript validation controls.\n\u2022 Responsible for fixing all bugs encountered and communicating back over to the QA team.\u00a0\n\u00a0\nEnvironment: HTML, JavaScript, CSS, Eclipse IDE, MS Office, Adobe Photoshop, Oracle, SVN, AJAX."}

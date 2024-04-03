@@ -1,0 +1,226 @@
+{"text": "Name: alice alice"}
+{"text": "E-Mail: alice.alice@gmail.com"}
+{"text": "Address: Chicago, United States"}
+{"text": "Github: https://github.com/alice"}
+{"text": "LinkedIn: https://linkedin.com/alice"}
+{"text": "Phone No. 467867856724"}
+{"text": "Abhilash Reddy "}
+{"text": "Abhilashreddy.oradba@gmail.com"}
+{"text": "919-307-1754"}
+{"text": ""}
+{"text": "Professional Summary: "}
+{"text": ""}
+{"text": " 9 years of working experience in database administration, design, development, performance tuning, and high availability solutions. Database management skills with extensive experience in managing Oracle implementations, upgrades, data replication, database security, PL/SQL development, backup and recovery, space management, disaster recovery solutions, and patch management in a UNIX/Linux and Windows environment. Good experience of setup & configuration, implementation of (Oracle 11gR2 RAC two-node and four-node  on Linux    with ASM)"}
+{"text": "Oracle Database 10g Administrator Certified Associate and Oracle 9i Database Administrator certified professional."}
+{"text": "Oracle DBA, Mysql, Microsoft Sql Server providing 24/7 support for both development and production databases on various platforms. Responsible for round-the-clock database operations and offering solutions for Production/Development of database applications."}
+{"text": "Exposure to several industry sectors \u2013 Finance/Mortgage, Internet/Web advertising, Telecom, State, Retail, Power, Banking/Credit card processing, Federal and Manufacturing."}
+{"text": "Installation, Configuration and Maintenance of Oracle 9i/10g/11g RAC on two node and four node configurations."}
+{"text": "Experienced in installation and configuration of Oracle cluster ware and Automatic Storage Management (ASM) in RAC environment."}
+{"text": "Installation and configuration of 10g Oracle Enterprise Manager (OEM) grid control for Performance, Administration and Maintenance of Databases. Deployed agents on various targets."}
+{"text": "Expertise in Migration and Up gradation of Oracle databases."}
+{"text": "Experienced in applying patches including PatchsetsandCPU/PSU,One-Off patches on Standalone, RAC and Standby Databases using Universal Installer and OPatch Utility."}
+{"text": "Configured and administered replication using Oracle StreamsandOracleGoldenGate technology."}
+{"text": "Proficient in working with DataGuard for production system in case of disaster recovery, maintained primary and standby databases, Data Guard Broker."}
+{"text": " Integration of Exadata monitoring and escalation into existing IT monitoring and actionable events solutions."}
+{"text": "Proficient in Exalogic maintenance/support//backup/recovery."}
+{"text": "Experienced in system Monitoring and Database Performance Tuning using Explainplan, SQL Trace,Statspack,TKPROF, AWR,ADDM and ASH."}
+{"text": "Experience in Upgrade of Oracle E-Business Suite (EBS) to 11.5.0.2."}
+{"text": "Proficient in maintenance of Production, Testing, Development, RAC, Standby databases/ DataGuard for OLTP and DATAWAREHOUSEand experienced in Data Modeling."}
+{"text": "Proficient in flashback technology and other features such as logminer, Automatic StorageManagement(ASM)."}
+{"text": "Provided primary database administrative and Architect support for DB2 databases."}
+{"text": "Expertise in performing Hot and cold backups with and without RMAN. Automated RMAN scripts using cronjoband implemented VERITAS NetBackupto perform daily backups."}
+{"text": "Performed full, incremental and cumulative backups using RMAN. Expert in performing manual recovery using RMAN with and without catalog."}
+{"text": "Installed, configured, and maintained Oracle Fusion Middleware with SOA, OBPM Suite and WebLogic Server.\u00a0"}
+{"text": "Expertise in working with the tools like OEM, TOAD, Export/ Import,SQL * Loader, SQL Analyzer and managed system events and jobs using OEM."}
+{"text": "Performed Data Archiving whenever required for moving data to a separate storage device."}
+{"text": "Skilled in performing Logical backupusingTraditional export/import and Data pump export/import."}
+{"text": "Experienced in Space Management, Resource management and Capacity Planning."}
+{"text": "Extensively worked with NETSTAT,NET Manager and PingUtilityto resolve network problems."}
+{"text": "Setup and Management ofAuditing, Oracle Securityand SQL Navigator.Job scheduling using cron utility and Shell Scripting for automating DBA tasks. Experienced in SQL/PLSQL programming."}
+{"text": "Refreshing the Production over the Dev, UAT and  keeping the Test Instances in sync with other instances"}
+{"text": "Expert in Cloning and Manual creation of Oracle Databases."}
+{"text": "Generated Materialized views to cache data that was frequently needed, to improve performance."}
+{"text": "Good experience in Creation and Maintenance of Database Objects like Packages, Stored Procedures, Functions, Triggers, Database Link, Snapshot, Roles, Privileges, Tables, Constraints, Views and Indexes.Monitoring and managinglocal table partitioning."}
+{"text": "Excellent communication, analytical and interpersonal skills. Good team member and a highly motivated individual, strong commitment to quality and customer service."}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills"}
+{"text": "\n"}
+{"text": ""}
+{"text": "Education"}
+{"text": ""}
+{"text": "Bachelor of Technology from Jawaharlal Nehru Technological University, Hyderabad, India"}
+{"text": ""}
+{"text": "Professional Experience: "}
+{"text": ""}
+{"text": "Bandai America Incorporated, Cypress, CA\t\t\t\t\t\t         Nov 14 \u2013 Present"}
+{"text": "Senior Oracle Database Administrator"}
+{"text": "\t\t"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Primarily responsible for administering and monitoring 76 mission critical Oracle 12c/11g/10g OLTP Production, Development, SIT, UAT and other environment databases."}
+{"text": "Provided 24x7on call production support for ORACLE, MySql and Sql Server Databases."}
+{"text": "Installation, Configuration and Maintenance of Oracle 11g RAC with ASM and single instance database and Administrated Real Application Cluster (RAC) databases running on Cluster File system."}
+{"text": "Installed and configured one to one GoldenGate replication and resolved out of sync issues.Handling GoldenGate replication issues which are responsible for out of sync in Test environment."}
+{"text": "Successfully installed and configured Oracle GoldenGate for Replication in Development and Test environment."}
+{"text": "Generated scripts for daily maintenance activity like analyzing the tables/indexes, and monitoring their growth rate."}
+{"text": "Applied Critical Patch Updates and Patch Set Update(CPU/PSU) on various platforms using Universal Installer and OPatch Utility."}
+{"text": "Created jobs on Mysql and Sql Server for automatic monitoring, differential backup and full backup."}
+{"text": "Upgraded Oracle 10.2.0.3 Applications Database 11i  on Linux."}
+{"text": "Utilized Grid Control, ASM and Flashback tools to administer multi-node RAC database.Performed replication using Oracle Streams and GoldenGate Technology."}
+{"text": "Involved in data modeling techniques using Star Schema, Snowflake Schema, and Entity-Relationship Diagrams.Maintained documents of Oracle database operations. Prepared documentation of database backup and recovery standards."}
+{"text": "Implemented Data Guard with maximum protection and maximum performance configurations and worked with Data Guard fail over and switch over cases."}
+{"text": "Installed Oracle Discoverer and Integrated with EBS."}
+{"text": "Installed, Configured and Managed11g Oracle Enterprise Manager (OEM) grid control for Performance, Administration and Maintenance of Databases.Successfully maintained multiple databases.Experienced in working with tools like TOAD."}
+{"text": "Upgraded Oracle 10.2.0.3 Applications Database 11i  on Linux.Integrated the backup status, reporting for the entire database in the enterprise to enable the web reporting using oracle, SQL, PL/SQL, UNIX shell scripting."}
+{"text": "Successfully installed and configured Oracle GoldenGate for Replication in Development and Test environment."}
+{"text": "Performed performance tuning by using Explain Plan, Tkprof, Statspack, AWR,ADDM andASH."}
+{"text": "Designed and implemented backup and Disaster recovery strategies with RMAN.Performed logical backup usingtraditional export/ import and DataPump."}
+{"text": "Remodeling the existing system using ER/Studio for logical/Physical data modeling."}
+{"text": "Reorganized databases and Sizing of database objects for effective space management and optimal performance."}
+{"text": "Modify database structures as required by developers due to business or application requirements, clonedevelopment databases for testing and training"}
+{"text": "Partitioning tables by determining the suitable methodology to improve performanceand manageability."}
+{"text": "Created Materialized views, groups for performing SQL*Loader jobs for data loading and used data pump jobs for loading the subscriber and history related data at replicated site."}
+{"text": "Conducted analysis and feasibility studies for development of Oracle Exadata solutions."}
+{"text": "Managed and monitoredgrants, roles, privileges to users, analyzed tables to generate and gather stats including verifying daily backup logs and alert logs."}
+{"text": "Implement \u201cStored Procedures and Triggers\u201d based on business plans using PL/SQL."}
+{"text": "Performing conceptual data modeling, data analysis, data profiling, data mapping and ETL implementation for product integration with client's applications. "}
+{"text": "Regular DBA activities like database auditing, space management, database issues, locking, managing user groups, tuning, re-organization, re-building of Indexes."}
+{"text": ""}
+{"text": "Environment: Oracle 12c, OEM 12c, 11gR2Grid Infrastructure, Oracle 11gR2 RAC, Oracle 11gR2 Standalone, 11gR2 ASM, 11g Grid Control, Oracle 10gR2, Oracle 10g, Linux, HP-UNIX Windows,DBCA, OEM Grid Control, Exadata, HP Data Protector, SOA Suite 11.1.1.3, Oracle Streams Data Guard, TOAD,Oracle JDeveloper 11.1.3/4,Solaris 11, GoldenGate, Endeca, Oracle E-Business Suite (EBS), VERITAS Net Backup, Data Pump, Tuning, SQL* Loader"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Verizon Communications, Charlotte, NC\t\t\t\t\t\tNov 13 \u2013 Sep 14"}
+{"text": "Senior Oracle Database Administrator"}
+{"text": "\t\t"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Primarily responsible for administering and monitoring 200+ mission critical Oracle 12c/11g/10g OLTP production databases."}
+{"text": "Installed and configuredOracle (10g&11gr1/r2)databases on Linux 5,HP-Unix 11.X."}
+{"text": "Migrated the database from existing Oracle 10g to Oracle 11g and Upgradation of database (from 10.2.0.3 to 11.2.0.2)."}
+{"text": "Installation, Configuration and Maintenance of Oracle 11g/10g RAC with ASM and single instance database and Administrated Real Application Cluster (RAC) databases running on Cluster File system."}
+{"text": "Applied Critical Patch Updates and Patch Set Update(CPU/PSU) on various platforms using Universal Installer and OPatch Utility."}
+{"text": "Utilized Grid Control, ASM and Flashback tools to administer multi-node RAC database.Performed replication using Oracle Streams and GoldenGate Technology."}
+{"text": "Involved in data modeling techniques using Star Schema, Snowflake Schema, and Entity-Relationship Diagrams."}
+{"text": "Implemented Data Guard with maximum protection and maximum performance configurations and worked with Data Guard fail over and switch over cases."}
+{"text": "Installed Oracle Discoverer and Integrated with EBS."}
+{"text": "Installed, Configured and Managed11g Oracle Enterprise Manager (OEM) grid control for Performance, Administration and Maintenance of Databases.Successfully maintained multiple databases.Experienced in working with tools like TOAD."}
+{"text": "Performed performance tuning by using Explain Plan, Tkprof, Statspack, AWR,ADDM andASH."}
+{"text": "Designed and implemented backup and Disaster recovery strategies with RMAN.Performed logical backup usingtraditional export/ import and DataPump."}
+{"text": "Remodeling the existing system using ER/Studio for logical/Physical data modeling."}
+{"text": "Reorganized databases and Sizing of database objects for effective space management and optimal performance."}
+{"text": "Modify database structures as required by developers due to business or application requirements, clonedevelopment databases for testing and training"}
+{"text": "Partitioning tables by determining the suitable methodology to improve performanceand manageability."}
+{"text": "Created Materialized views, groups for performing SQL*Loader jobs for data loading and used data pump jobs for loading the subscriber and history related data at replicated site."}
+{"text": "Generated scripts for daily maintenance activity like analyzing the tables/indexes, and monitoring their growth rate."}
+{"text": "Conducted analysis and feasibility studies for development of Oracle Exadata solutions."}
+{"text": "Managed and monitoredgrants, roles, privileges to users, analyzed tables to generate and gather stats including verifying daily backup logs and alert logs.Maintained documents of Oracle database operations. Prepared documentation of database backup and recovery standards."}
+{"text": "Assisted developers in getting database connection from the client using SQL *net."}
+{"text": "Involved in data loading using SQL*loader calling UNIX scripts to download and manipulate files."}
+{"text": "Implement \u201cStored Procedures and Triggers\u201d based on business plans using PL/SQL."}
+{"text": "Performing conceptual data modeling, data analysis, data profiling, data mapping and ETL implementation for product integration with client's applications. "}
+{"text": "Installed and configured one to one GoldenGate replication and resolved out of sync issues."}
+{"text": "Regular DBA activities like database auditing, space management, database issues, locking, managing user groups, tuning, re-organization, re-building of Indexes."}
+{"text": "Provided 24x7on call production support."}
+{"text": ""}
+{"text": "Environment: Oracle 12c, OEM 12c, 11gR2Grid Infrastructure, Oracle 11gR2 RAC, Oracle 11gR2 Standalone, 11gR2 ASM, 11g Grid Control, Oracle 10gR2, Oracle 9i, Linux, HP-UNIX Windows,DBCA, OEM Grid Control, Exadata, HP Data Protector, SOA Suite 11.1.1.3, Oracle Streams Data Guard, TOAD,Oracle JDeveloper 11.1.3/4,Solaris 11, GoldenGate, Endeca, Oracle E-Business Suite (EBS), VERITAS Net Backup, Data Pump, Tuning, SQL* Loader"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Ally Financials, Philadelphia PA\t\t\t\t\t\t\tSep 12\u2013 Oct 13"}
+{"text": "Senior Oracle Database Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Supported 100+ databases including RAC Production database, a Data warehouse database and lot of Development and Test databases."}
+{"text": "Primary DBA for 1GB - 2.5TB database for 24/7 support."}
+{"text": "Installed and configured Oracle 10g databases on HP-Unix 10.x and AIX 5.2."}
+{"text": "Installed and configured Oracle RDBMS on UNIX and Windows environments. Createdprimary databasestorage structures (tablespacesetc.)."}
+{"text": "Create and maintain DB templates, RAC environments,"}
+{"text": "Involved in database administration including 10g RACDatabase cloning, tuning, patching and monitoring concurrent manager processing."}
+{"text": "Creating data modeling for new developments using Erwin modeler."}
+{"text": "Initiated 10g new feature implementations such as Automatic Storage Management,Flashback features, DBMS Scheduler, ASMM to improve performance and manageability."}
+{"text": "Integrating Oracle Applications R12/11i with OID/SSO."}
+{"text": "Setting up Physical Standby Database environment using Data guard in Oracle 9i and 10g."}
+{"text": " Participated in analysis and designing of Oracle Exadata Server for infrastructure and related projects."}
+{"text": "Created Dimensional and Relational Physical & logical data modeling fact and dimensional tables using Erwin."}
+{"text": "Created, Configured and Set up RMAN Catalog databases and registered target databases with the Catalog."}
+{"text": "Perform daily incremental backup and full weekly backup using Oracle backup utility RMAN."}
+{"text": "Migrated standalone databases on AIX/Solaris/Windows and file system to Linux RAC on ASM. "}
+{"text": "Setup and configure Standby database (Physical & Logical) for high availability."}
+{"text": "Integrating Oracle Utilities Applications with Spatial GIS database."}
+{"text": "Oracle Database and Oracle Applications cloning/refresh."}
+{"text": "Assisted in integration of Exadata applications into current IT actionable events and solutions."}
+{"text": "Create and troubleshoot DB Link\u2019s issues in Oracle for communicating with external databases."}
+{"text": "Done performance tuning by determining bottlenecks at various points like targets, sources, mappings and sessions."}
+{"text": "Managedundo segments, processes, memory, online redo log files, data files."}
+{"text": "Installed and Configured Oracle Applications 11i e-business suite using Rapid Install."}
+{"text": "Integrated the backup status, reporting for the entire database in the enterprise to enable the web reporting using oracle, SQL, PL/SQL, UNIX shell scripting."}
+{"text": "Configured and installed one to one replication using GoldenGate between heterogeneous environments."}
+{"text": "Performing all daily maintenance tasks. Interacting with Oracle Customer service as and when required."}
+{"text": "Maintained documents of Oracle database operations. Prepared documentation of database backup and recovery standards."}
+{"text": ""}
+{"text": "Environment:Oracle11g,10g,9i,12c, OEM 12c, 11gR2Grid Infrastructure, Oracle 11gR2 RAC, Oracle 11gR2 Standalone, 11gR2 ASM, 11g Grid Control, Oracle 10gR2,,HP-UNIX, AIX, Windows,RAC, DBCA, OEM Grid Control, Exadata, Data Guard, TOAD, SOA Suite 11.1.1.3,ASM, VERITAS Net Backup, RMAN, Solaris 10, Oracle E-Business Suite (EBS), GoldenGate, STATSPACK, SQL* Loader, SQL/PLSQL"}
+{"text": ""}
+{"text": ""}
+{"text": "Amica Insurance, Lincoln, RI\t\t\t\t\t\t\t\t\tJan09-Aug 12"}
+{"text": "Oracle Database Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Installed and configuredOracle Database Software 10g on Sun Solaris and Linux-4x,5x."}
+{"text": "Upgraded the database from Existing Oracle 9i to Oracle 10g and Migration of database."}
+{"text": "Created Oracle partition tables and applied patches as per the requirements of the partitioning module and applied patches for DBMS software."}
+{"text": "Installed,configured and managedOEM (Oracle Enterprise Manager) for routine administration, database monitoring, replication process and performance tuning."}
+{"text": "Configured initial and incremental load using GoldenGate."}
+{"text": "Utilized Grid Control, ASM and Flashback tools to administer multi-node RAC database."}
+{"text": "Evaluated mix of backup and recovery methods based on organizational needs. Implemented, tested and documented various backup/recovery scenarios using RMAN."}
+{"text": "Involved in NoSQL and relational data modeling. "}
+{"text": "Installed, configured, supported and troubleshoot databases on Veritas Cluster on top of Solaris 9."}
+{"text": "Worked with database export & import scripts to backupdatabase structures and automation procedures."}
+{"text": "Monitored and troubleshot top CPU/memory consuming processes."}
+{"text": "Scheduling Automatic scripts for GoldenGate reboot."}
+{"text": "Performed Table space Management and Rollback table space Management."}
+{"text": "Provided maintenance of user accounts, privileges, profiles and roles."}
+{"text": "Converting single instance database to Real Application Cluster (RAC). "}
+{"text": "Created Dimensional and Relational Physical & logical data modeling fact and dimensional tables using Erwin."}
+{"text": "Transaction Management and Security Management."}
+{"text": "Plan, coordinate, and implement network security measures."}
+{"text": "Supported Developers and end-users in troubleshooting issues."}
+{"text": "Provided System support for both development and 24*7production environments."}
+{"text": ""}
+{"text": "Environment: Oracle 10g,9i,Sun Solaris 9, Linux-4x,5x, Windows, RAC, OEM, Oracle Streams, GoldenGate, RMAN, StatsPack, Export/Import, SQL*Loader,SQL/PLSQL"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Capital One, Richmond, VA\t\t\t\t\t\t\t\t\tMay 06 -Nov 08"}
+{"text": "Oracle Database Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Installed, Configured andManaged Oracle9i on HP-UX and IBM-AIX environmentsfor production, testand development."}
+{"text": "Upgraded databases from Oracle 8i to 9i. Other activities like applying RDBMS patches, security patches, proactive monitoring of databases and applications."}
+{"text": "Involved in creation of Data Warehouse database (Physical Model, Logical Model) using Erwin data modeling tool."}
+{"text": "Involved in logical backup using full/ partial export/import and Data Pump."}
+{"text": "Supported and troubleshoot databases on VERITAS Cluster on top of Solaris 8."}
+{"text": "Performing the capacity planning for databases."}
+{"text": "Cloned/Refreshed Database environments to create patch, test, development and QA environments."}
+{"text": "Tuned SQLstatements using explain plan and Tkprof. Monitoring and Performance tuning."}
+{"text": "Designed, developed and maintained UNIX shell scripts to collect and monitor database metrics and Statspack snapshots and reports."}
+{"text": "Installed and controlled Grid Control to monitor RAC and Non RAC instances patched and upgraded the grid control."}
+{"text": "Configured and troubleshoot ASM Cluster File System (ACFS) for Grid/RAC cluster. "}
+{"text": "Writing Oracle scripts for the SQL and PL/SQL requirements for various applications."}
+{"text": "Created and maintainedmaterialized views."}
+{"text": "Modified and debugged stored procedures and triggers."}
+{"text": "Interacted with the users and Troubleshooted the problems related to the privileges & resources."}
+{"text": "Monitor database activity and file usage, and ensure necessary resources are present, so that databases function properly by removing or deleting old or obsolete files."}
+{"text": "Performing all the Database Administration activities like space management in database, user and rolesadministration,schema management, checking alert log of all the databases."}
+{"text": "Contributed to team effort by accomplishing related results as needed."}
+{"text": ""}
+{"text": "Environment: Oracle 10g,9i,Sun Solaris 8, Linux-4x, 5x, RAC, Windows, OEM, Oracle Streams, RMAN, Stats Pack, Export/Import, SQL*Loader,SQL/PLSQL."}
+{"text": ""}

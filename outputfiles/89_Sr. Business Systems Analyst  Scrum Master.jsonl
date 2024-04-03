@@ -1,0 +1,163 @@
+{"text": "Name: lucy lucy"}
+{"text": "E-Mail: lucy.lucy@gmail.com"}
+{"text": "Address: Hangzhou, China"}
+{"text": "Github: https://github.com/lucy"}
+{"text": "LinkedIn: https://linkedin.com/lucy"}
+{"text": "Phone No. 232110082939"}
+{"text": "SUMMARY"}
+{"text": "Over 8years of experience as Business Analyst in the Information Technology Industry."}
+{"text": "Certified Scrum Master."}
+{"text": "3 years of project management."}
+{"text": "In depth knowledge of Software Development Life Cycle process which includes Waterfall,Rational Unified Process methodology (RUP) and Agile Scrum."}
+{"text": "Active participation in discovery sessions, interviews, prototyping, document-reviews, plan setup, plan configuration with customers."}
+{"text": "Worked with Operational Risk Management teams to monitor operational risk."}
+{"text": "Actively involved in setting up an Operational Risk Management Framework to reduce operational risk."}
+{"text": "Created UML Diagrams including Use Cases, Activity Charts, Sequence diagrams, Data Flow Diagrams and ER Diagrams using Rational Rose and MS-Visio thus defining the Business Process Model and preparing complex functional requirement documents."}
+{"text": "Capable in prototyping documents, models and attributes for consistency, completeness and risk minimization."}
+{"text": "Experienced in conducting Joint Application Development (JAD) sessions with end users, SMEs and stakeholders and Rapid application development (RAD) sessions."}
+{"text": "Involved in Client interaction and support to the marketing team. User meetings resolve implementation and performance issues."}
+{"text": "Experienced in Enterprise Business Analysis, Requirements Management, Software / Web Usability, Information Architecture, and Training Materials Development consulting services to corporate clients and maintaining SLAs."}
+{"text": "Simplified existing applications & integration architecture & build for scalability utilizing SOA as framework and Applied the \"As Is\" and \"To Be\" process designs in order to identify any potential process gaps and as well as improvement opportunities."}
+{"text": "Good knowledge of creating SQL Queries for Data Validation and Data Integration."}
+{"text": "Experienced in SSIS, SSAS, SSRSand SharePoint."}
+{"text": "Accomplished at UAT (user acceptance testing), Functionality Testing, Unit testing, System Testing, Integration Testing and Regression Testing."}
+{"text": "Expertise in developing Test cases, Test plans and Test procedures in manual and automated test environments."}
+{"text": "Conducted GAP analysis, User Acceptance Testing (UAT), SWOT analysis, Cost benefit analysis and ROI analysis."}
+{"text": "Defects tracking prioritize outstanding defects in reporting system. Coordinate between development team and the management team to resolve any conflicts/defects in terms of requirements."}
+{"text": "Financial Domain Knowledge:"}
+{"text": "In-depth knowledge and experience in Equities (Stocks, ETF, Equity Linked Notes), Fixed Income (Bonds, Convertibles, MBS, ABS, CDO, Synthetic CDO, CMO, Munis, T-Notes, T-Bonds, TIPS, Inflation-indexed Bonds), Derivatives and Swaps (Options, Futures, Forwards, CDS, CLNs, CDS Index, Interest Rate Swaps, Equity Swaps, TRS, Credit Spread Options, Index Options), FX (FX Options, FX Futures, Currency Swaps, Currency Forwards, FRA), Money Market Instruments (T-Bills, Commercial Paper, Repos), and Mutual Funds."}
+{"text": "Experienced in identifying and documenting detailed business requirements pertaining to Fixed Income Securities, Equities and Equity Trading Cycle, Derivatives, Portfolio Management, and Wealth Management."}
+{"text": "Experienced in analyzing the existing Risk Management platforms and Trading front-office risk business processes and systems, Investment banking, Investments, Capital Markets, Prime Brokerage, Financial Services, Wealth Management, Portfolio Management, Trading Systems, Fixed Income Securities, Bond strategies, Bloomberg Functions, Mortgage-Backed Securities & Securitization, Forwards (Equity, bonds, interest rate, currency), Futures (interest rate, stock index, currency), listed and OTC Options (Stock options, bond options, Interest Rate options on LIBOR, caps & floors) & Swaps (Interest swaps, currency swaps, equity swaps, credit swap, Total Return swap),Warrants, Risk Management. Operational, Market, Credit, Liquidity), Product & Pricing Reference data, Options expiration/assignment process."}
+{"text": ""}
+{"text": "TECHNICAL SKILL-SET"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": "Project Description:BOK Financial Corporation is a US-based financial services holding company in the West South Central States region of the United States. BOK Financials holdings include BOKF, NA, BOSC, Inc. and the Milestone Group. The project was part of the BOSC, Inc., which provides tax-exempt lease financing, financial risk management, municipal bonds advisory and underwriting, investment risk and return assessment, retail brokerage, and investment banking advisory services. The goal was to update the BOSC support site to .net 4.0 technology while re-writing all the java applications, migrate the databases, move SQL jobs to UC4 and update SSAS, SSIS and SSRS packages. "}
+{"text": "Roles & Responsibilities"}
+{"text": "Elicited requirements by conducting JAD sessions with key stakeholders."}
+{"text": "Coordinated with the PM for project planning using MS-Project and to discuss project technologies and methodologies, Operational Risk Analysis, Cost-benefit analysis, Impact analysis, SWOT analysis, WBS and project milestones, budget allocations, scheduling, CPM, and risk analysis & mitigation."}
+{"text": "Involved in designing the SOA framework."}
+{"text": "Used SOAP defined XML-based message format to enable Web service applications to communicate and inter-operate with each other over the Web."}
+{"text": "Responsible for performing Risk Assessment (Risk Validation and Analysis), Due Diligence, Ongoing Monitoring and Controls testing for third party relationships."}
+{"text": "Performed Gap analysis and conducted business modeling by reviewing the existing business artifacts."}
+{"text": "Authored the Functional Requirements Specification (FRS) and Business Requirements Document (BRD) and System Requirements Specification (SRS) for the project."}
+{"text": "Utilized UML for process modeling and created Use Cases, Activity diagrams and Sequence diagrams using Rational Rose and MS Visio."}
+{"text": "Created validation rules and provided verbiage to developers for client-side validation, server-side validation and database validation."}
+{"text": "Defined business and technical requirements to integrate payroll and accounting systems with employee compensation, Trading compensation and Payroll Memo applications."}
+{"text": "Integrated Tax and Accounting regulatory compliance elements in the accounting systems."}
+{"text": "Maintained project documents to be used for collaboration with developers, QA, project manager, etc. on SharePoint."}
+{"text": "Collaborated with DBAs to perform data mapping using MS Excel."}
+{"text": "Participated in creating the design and technical specification for the ETL process of the project and provided the data mapping document to the ETL team."}
+{"text": "Provided test data, monitored UAT and created the Requirements Traceability Matrix (RTM) using MS Excel."}
+{"text": "Used HP Quality Center for loading the test scripts and logging defects."}
+{"text": "Collaborated with the production team by facilitating the implementation of the application, prepared production certification scripts and performed production certification."}
+{"text": "Environment: AGILE Scrum methodology, ASP.net, JAVA, OLAP, JavaScript, HTML, WSDL, XML, JIRA, HP-QC, BPMN, SharePoint 2010, Oracle, SQL Server, MS Access, MS Excel, MS Project, and Test Director."}
+{"text": ""}
+{"text": "Project Description:Bank of America is one of the world\u2019s largest financial institutions serving individual consumers, small businesses, middle-market businesses and large corporations with a full range of banking, investing, asset management and other financial andrisk management products and services. The project was part of the Asset Management Groupand itsgoal was to build a seamless, leading edge portfolio management systemincorporating risk and performanceanalytics directly into investment strategies.Risk management products and services. The project was part of the Asset Management Group and its goal was to build aseamless, leading edge portfolio management system incorporating risk and performance analytics directly into investment strategies."}
+{"text": "Roles & Responsibilities"}
+{"text": "Elicited requirements by conducting JAD sessions with key stakeholders from the Capital Markets IT Group, Business Area and Application Development team for the portfolio, forecast and reporting module of the portfolio management system."}
+{"text": "Created Spotfire report file (DXP) and Database connection in Spotfire server."}
+{"text": "Created functional specification documents, based on the technical specification documents for dashboard and reports using Spotfire."}
+{"text": "Worked with end users to explain Spotfire workbooks, creating ad-hoc reports"}
+{"text": "Coordinated with the PM for project planning using MS-Project and to discuss project technologies and methodologies, Operational Risk Analysis, Cost-benefit analysis, Impact analysis, SWOT analysis, WBS and project milestones, budget allocations, scheduling, CPM, and risk analysis & mitigation."}
+{"text": "Took ownership of the Project and acted as a junior project manager."}
+{"text": "Expertise in Jira for managing sprints."}
+{"text": "Worked with multiple self-organizing, cross-functional teams during sprints, including both on-shore and offshore teams."}
+{"text": "Resolved any impediments that arose during sprints."}
+{"text": "Helped team maintain burndown chart."}
+{"text": "Developed Enterprise wide Third party Compliance Risk Management Program Framework."}
+{"text": "Created Policy and Standard Operating Procedures to manage and govern third party relationships in accordance with OCC, FRB and CFPB."}
+{"text": "Performed Gap analysis and conducted business modeling by reviewing the existing business artifacts."}
+{"text": "Authored the Functional Requirements Specification (FRS) and Business Requirements Document (BRD) and System Requirements Specification (SRS) for the project."}
+{"text": "Utilized UML for process modeling and created Use Cases, Activity diagrams and Sequence diagrams using Rational Rose and MS Visio."}
+{"text": "Created static and dynamic prototypes using HTML and CSS for better visualization and understanding of the software solution."}
+{"text": "Created validation rules and provided verbiage to developers for client-side validation, server-side validation and database validation."}
+{"text": "Maintained project documents to be used for collaboration with developers, QA, project manager, etc. on SharePoint."}
+{"text": "Implemented Agile Scrum methodology of application development and set the velocity for each sprint cycle."}
+{"text": "Conducted daily Scrum meeting, planning meeting, review meeting, retrospect meeting and created the Product backlog."}
+{"text": "Collaborated with DBAs to perform data mapping using MS Excel and executed complex SQL queries to filter data from the MS SQL database."}
+{"text": "Participated in creating the design and technical specification for the ETL process of the project and provided the data mapping document to the ETL team."}
+{"text": "Provided test data, monitored UAT and created the Requirements Traceability Matrix (RTM) using MS Excel."}
+{"text": "Used HP Quality Center for loading the test scripts and logging defects."}
+{"text": "Collaborated with the production team by facilitating the implementation of the application, prepared production certification scripts and performed production certification."}
+{"text": "Environment: AGILE Scrum methodology, ASP.net, C#, JAVA, OLAP, JavaScript, HTML, SOAP, WSDL, XML, JIRA, HP-QC, BPMN, SharePoint 2010, Oracle, SQL Server, MS Access, MS Excel, MS Project, and Test Director."}
+{"text": "Project Description:Capital One Financial Corporation is a diversified banking company focused primarily on consumer and commercial lending and deposit origination. Its principal business segments are Local Banking and National Lending. Local Banking includes consumer, small business and commercial deposits, and lending conducted within its branch network. The National Lending segment consists of three sub-segments: the U.S. Card sub-segment, which consists of domestic consumer credit and debit card activities; the Auto Finance sub-segment, which includes automobile and other motor vehicle financing activities, and the Global Financial Services sub-segment consisting of international lending activities, small business lending, installment loans, home loans, healthcare financing and other diversified activities."}
+{"text": "The scope of the project involved enhancing Capital One\u2019s legacy credit card origination system to an updated in house credit card system. The proposed solution also included implementing a new database, which was responsible for integrating the bank\u2019s new credit card features into the system."}
+{"text": "Responsibilities:"}
+{"text": "Analyzed the business needs of clients and stakeholders to help identify business problems and propose solutions."}
+{"text": "Created workshops to understand requirements for Data Warehouse design. Conducted client side validation to study ETL operations on database."}
+{"text": "Created server-based Spotfireworkbooks (DXP) dashboards and applications from scratch based on clients needs "}
+{"text": "Created dashboards for a managerial overview with drill up and drill down capabilities."}
+{"text": "Performed Gap Analysis, Operational Risk Analysis and analyzed AS IS and TO BE conditions"}
+{"text": "Created Workflow scenarios, designed new process flows, documented the Business Process of the business from the conceptual to procedural level using MS Visio "}
+{"text": "Conducted interview workshops, focus groups, JAD sessions with SME, BO, Sr. Developers, Architects to further breakdown the requirements"}
+{"text": "Conducted Feasibility Analysis and Product backlog planning with the Project Manager"}
+{"text": "Created WBS using MS Project"}
+{"text": "Expressed the requirements through user stories, use cases, business rules, future state mapping and process flow diagrams."}
+{"text": "Created the Product backlog with help of user stories collected through requirements gathering and gap analysis."}
+{"text": "Used Jira for managing sprints."}
+{"text": "  Responsible for setting up sprint retrospective, planning and review meetings."}
+{"text": "  Facilitated daily stand up meetings."}
+{"text": "Created the data-mappingdocument for the integration of existing credit card holders. "}
+{"text": "Acted as a Scrum Master by creating sprint backlogs, organizing and conducting sprint planning meetings, daily scrum meetings"}
+{"text": "Created sprint burn down charts and release backlogs for effective Project Management"}
+{"text": "Utilized SharePoint 2010 as an administrator for document management, version control and creating team dashboards on the team site"}
+{"text": "UsedInformatica to ETL (Data warehouse) data for the project"}
+{"text": "Helped in creating test cases for the system. Develop and Implement test cases on the GUI interfaces to ensure that requirements were met. "}
+{"text": "Worked with SQL queries to extract application data to perform application validations"}
+{"text": "Logged and tracked the defects using HP Quality Center. Created an error repository and managed the testing process with the QA team"}
+{"text": "Environment: HPQC, UML, SCRUM, MS Access, MS Office, ASP, SQL Server (SSIS, SSRS, SSAS), Visual Studio, SDLC, MS Visio, BPMN, VSM, SharePoint 2010, Version One."}
+{"text": "Project Description:Wells Fargo & Company is a diversified financial services company providing banking, insurance, ins, mortgage, and consumer and commercial finance through more than 9,000 stores and more than 12,000 ATMs and the Internet (wellsfargo.com) across North America and internationally. The scope of the project was to deploy an application so as to support the foreign exchange trading, currency management and to build a global straight-through processing (STP) hub to automate processes and increase operational control and efficiency across multiple asset classes. The platform uses a single allocation-matching model using SWIFT. This new application also has messaging features to report the trade flow & process the transactions electronically."}
+{"text": "\u00a0Responsibilities"}
+{"text": "\u00a0Coordinated with SME\u2019s of Foreign Exchange Trading, Futures, and Options to capture requirements & dependencies for enhancements in the application."}
+{"text": "Functional experience in FX (Foreign Exchange) processes, related applications based on technologies such as SWIFT. Also involved in applications for trade processing and Fund reconciliation."}
+{"text": "Extensively used SharePoint for content management, and to share the information with the groups involved during the project."}
+{"text": "Documented existing and proposed process flow and conducted GAPanalysis."}
+{"text": "Identified and Analyzed key potential Risks along with the entire Project Development Life Cycle, Developed Risk Mitigation Plan, and assisted PM in Risk Management."}
+{"text": "Performed Project planning & requirements gathering by using RUP methodology"}
+{"text": "Prepared Use Case Diagrams to explain the business requirements for Trading Customer with the options to buy or sell Foreign Exchange."}
+{"text": "Coordinated with system analysts & Tech lead to create Software requirements document."}
+{"text": "Maintained and kept track of stakeholder\u2019s requests for enhancements and changes using Rational Clear Quest. Written SQL scripts to pull the data from the existing database based on the business rules."}
+{"text": "Planned and defined system requirements to Wire Frames with Use Case, Use Case Scenario and Use Case Narrative using the UML (Unified Modeling Language) methodologies."}
+{"text": "Assisted in creating enterprise banking data model, created SQL stored procedures to access customer information and implementing corresponding data access objects."}
+{"text": "Environment: RUP, Rational Requisite Pro, UML Use Cases, HTML, SQL, Use Case Documentation, MS Visio, SQL, Rational Clear Quest, SharePoint."}
+{"text": "Project Description:Kotak Mahindra is one of India's leading banking and financial services groups, offering a wide range of financial services that encompass every sphere of life."}
+{"text": "The scope of the project was about developing (enhancement project) an Online Banking Application that will help customers accessing their savings account, checking account, and credit card account via Internet. "}
+{"text": "Responsibilities"}
+{"text": "Interacted with the customers and internal stakeholders to gather user requirements and their expectations from the system."}
+{"text": "Involved in analyzing Business Requirements and developing System Specifications."}
+{"text": "Did rigorous load testing using Load Runner."}
+{"text": "Assessed business priorities, and advised business units on risks and Cost-Benefit analysis."}
+{"text": "Used Rational Rose to generate various UML Diagrams."}
+{"text": "Organized cross training of team members and users to become more responsive."}
+{"text": "Participated in the development and preparation of the Test Plan with the testing team as well as ensuring testability, reliability, usability, maintainability and performance of the application."}
+{"text": "Involved in incident reporting and change and configuration management procedures using Clear Case."}
+{"text": "Environment:Load Runner, UML, Clear Case, MS Access, MS Office, ASP, SQL Server, Visual Studio, SDLC."}
+{"text": "Project Description:JK Securities is a private broking firm and a member of Multi commodity Exchange of INDIA having their clientele located in all over India. Thescope of the project was to avoid all manual/physical transaction and create web based application so their spread clientele can login online and receive their Position file, Transaction details, Statements and Confirms, Margin details, Market Watch for their selected Portfolio, Brokerage Statements and Tax information online."}
+{"text": "\u00a0Responsibilities:"}
+{"text": "Facilitated collection of requirements from system users and preparation of Business/Functional requirement documents utilizing UML & RUP methodology to provide appropriate scope of work for technical team to develop prototype and overall system."}
+{"text": "Analyze and prioritize requirements and use them to outline timeline   for completion of goals."}
+{"text": "Performed GAP Analysis with system functionality and existing Business Processes."}
+{"text": "Involved in writing Technical Business Requirements for Automation of Risk Assessment tools in RSA Archer and conducted User Acceptance Testing (UAT)."}
+{"text": "Responsible for completing detailed testing of each regulation / area using test work papers, the testing procedures, and any other necessary tools to compare sample data with regulatory and procedural requirements; using judgment and insight to identify exceptions and anomalies; raise issues for discussion."}
+{"text": "Performed Functional Testing, Integration Testing, System testing and Regression testing."}
+{"text": "Wrote Test cases, test scripts and test plans for UAT."}
+{"text": "Environment:Rational Requisite Pro, RUP, UML, SQL, MS-Office Suite (Word, PowerPoint, Access, Excel, Outlook), MS Visio and Crystal Reports."}
+{"text": "Project Description:ICICI is an Industrial Credit and Investment Corporation of India. ICICI Lombard is a sister concern company of ICICI bank. The scope of the project was to work on screen enhancements of existing health care claim processing system."}
+{"text": "Responsibilities:"}
+{"text": "Designed the business requirement collection approach based on the project scope and SDLC methodology."}
+{"text": "Conducted interviews with project managers, business users to collect requirement and business process information. "}
+{"text": "Developed PowerPoint presentations for monthly meetings with upper management."}
+{"text": "Teamed up with Insurance advisors to perform market survey and learn client requirements to assist technical team in "}
+{"text": "Software development."}
+{"text": "Participated in SLA (Service Level Agreement) writing for different financial productsandinsurance products like "}
+{"text": "Personal Insurance, General Insurance, Property and Casualty Insurance, Car Finance, Personal finance, Education "}
+{"text": "Loan and Housing Loan."}
+{"text": "Created Data Flow Diagrams, Activity diagrams and Use cases for the audit planning process. "}
+{"text": "Coordinated in developing test scenarios, test cases and implemented test plan with QA team. "}
+{"text": "Environment: UML, RUP, SDLC, Rational Requisite Pro, Rational Rose, Windows 2000, MS Office, MS Project, MS Visio."}
+{"text": "Education"}
+{"text": "Bachelors in Mechanical Engineering\t\t\t\t\t\tPunjab Technical University, India"}
+{"text": "Certification"}
+{"text": "Certified Scrum Master"}

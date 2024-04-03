@@ -1,0 +1,152 @@
+{"text": "Name: vera vera"}
+{"text": "E-Mail: vera.vera@gmail.com"}
+{"text": "Address: Atlanta, United States"}
+{"text": "Github: https://github.com/vera"}
+{"text": "LinkedIn: https://linkedin.com/vera"}
+{"text": "Phone No. 669687835465"}
+{"text": ""}
+{"text": "SUMMARY"}
+{"text": "Business Analyst with over 7 years of experience with focus on Salesforce.com, ERP, data analysis, requirement gathering, technical documentation, database development and software validation"}
+{"text": "Proficiency in SFDC Administrative tasks like creating Profiles, Roles, Users, Page Layouts, Email Services, Approvals, Workflows, Validation rules, Reports, Dashboards, Tasks and Actions."}
+{"text": "Experience with Oracle Big Machines Express\u00a0CPQ\u00a0Cloud Service for Salesforce.com to configure, price, quote, and create proposals immediately, and streamline renewals."}
+{"text": "Experience in approval processes for automated alerts , field updates, custom objects and tabs, and security controls "}
+{"text": "Experience in maintaining, enhancing and creating workflows and validation rules."}
+{"text": "Strong experience in creating executive dashboard to display open, closed leads in SFDC"}
+{"text": "Experience in managing reports, data migration, testing and support"}
+{"text": "Documenting business requirements, technical requirements and Use Case diagrams to make the requirements easy to understand for Salesforce Developers "}
+{"text": "Skilled in using change control and bug tracking tools like TFS and Quality Center for identifying, analyzing, assigning and documenting defects including version and change control."}
+{"text": "Experience in Software Development Life Cycle (SDLC) methodologies and Object Oriented analysis"}
+{"text": "Expertise in generating enterprise reports using Crystal Reports, SQL server Reporting Services (SSRS), Power BI, Tableau and Excel spreadsheet, scheduling and deploying reports on report server. "}
+{"text": "Experienced in implementing Sales/Service Cloud and Custom Application Development."}
+{"text": "Experience in Data Analysis including analysis of root cause for Incident and Problem Management"}
+{"text": "Extensive experience in creating test plans, test cases and performed User Acceptance Testing (UAT)"}
+{"text": "Knowledge of Agile Scrum development practices and assessment "}
+{"text": "Worked very closely with the offshore team across the SDLC"}
+{"text": "Possess knowledge of CRM processes like Sales, Marketing, Customer Service and Customer Support, Business processes and recommended solutions to improve their processes using Salesforce.com."}
+{"text": "Oracle developer with in depth knowledge in writing SQL, PL/SQL programs, Packages, Stored procedures, Functions and Triggers to automate the interface processes for daily/incremental loads"}
+{"text": "Created dynamic variables, Action filters, parameters and calculated sets for preparing dashboards and worksheets in Power BI, Tableau, Qlikview. "}
+{"text": "Extensive experience in working in TOAD tool"}
+{"text": "Strong analytical and problem solving skills with ability to work within team environment and independently when needed"}
+{"text": "Proficient in learning new technologies and quickly adapting to new environment"}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": ""}
+{"text": "Nike, Portland, OR              \t\t\t\t\t\t             Feb 2018-Dec 2019  "}
+{"text": "Sr. Salesforce Business Analyst       "}
+{"text": "The scope of this project is to deliver the core components for the consolidated ecommerce platform. The overarching requirement for the consolidated ecommerce platform solution is to provide flexibility driven by the business community, with the ability for the proposed solution to be maintained by the business users and not require significant IT intervention. As a BA, I worked on the Salesforce.com CRM platform which was implemented across all divisions and sub-divisions in order to manage ecommerce platform more efficiently."}
+{"text": "\t\t"}
+{"text": "Responsibilities: "}
+{"text": "Interacted with various\u00a0business\u00a0team members to gather the requirements and documented the requirements.\u00a0"}
+{"text": "Responsible for Salesforce implementations and training globally\u00a0and looked after as Salesforce administrator and assistant developer.\u00a0"}
+{"text": "Salesforce.com Configuration and Design of Service Cloud, Sales Cloud and Force.com solutions, with an emphasis on Service Cloud solutions. "}
+{"text": "Building and managing SSRS, Tableau, Power BI reports."}
+{"text": "Developed various Custom Objects, Tabs, Components and Visual Force Pages and Controllers.\u00a0"}
+{"text": "Understood\u00a0business\u00a0goals and\u00a0business\u00a0context and translated them into technical specifications.\u00a0"}
+{"text": "Experience with Salesforce data tools such as Data Loader and Eclipse Force.com IDE for data migration.\u00a0"}
+{"text": "Experience integrating salesforce.com with other apps.\u00a0"}
+{"text": "Techno-Functional experience with Salesforce Sales cloud and Marketing cloud as system administrator and guiding clients on CRM solution for sales, marketing and services teams.\u00a0"}
+{"text": "Integrated the Web Services for extracting the data from external systems to display in the pages of Salesforce.com.\u00a0"}
+{"text": "Support the UAT team during their testing. "}
+{"text": "Involved in Salesforce.com application Setup activities and customized the apps to match the functional needs of the organization."}
+{"text": "Used Data Loader for insert, update and bulk import or export of data from Salesforce.com S Objects. Used it to read, extract, and load data from comma separated values (CSV) files.\u00a0"}
+{"text": "Created page layouts, search layouts to organize fields, custom links, related lists, and other components on detail pages.\u00a0"}
+{"text": "Created Test Scripts by referring to Acceptance Criteria in User Stories in MS Team foundation Server (TFS)."}
+{"text": "Built many complex reports for reporting team and integrating the reported data to TABLEAU using Integration platform INFORMATICA."}
+{"text": "Used Apex Data Loader to migrate data such as accounts, campaigns from different legacy systems.\u00a0"}
+{"text": "Experience assessing testing processes, creating, implementing testing strategies and SQA strategies using Agile Scrum-testing methodology in UAT phase. "}
+{"text": "Worked with broad range of technologies including SAAS technologies, Custom Button workflow, and validation."}
+{"text": "Implemented Standard and Custom Apex Controllers to handle\u00a0business\u00a0logic and used debug logs to trace the execution.\u00a0"}
+{"text": "Created Custom Email Templates as part of sending alerts to users based on the\u00a0business requirement.\u00a0"}
+{"text": "Created Campaigns to send thousands of emails at a time using just an email alert workflow and a trigger.\u00a0"}
+{"text": "Developed complex formulas to calculate response times and show flags reminding customer service reps to respond to customer queries in due time.\u00a0"}
+{"text": "Used Enterprise WSDL and developed Inbound Custom Web Services to expose native logic to external clients.\u00a0"}
+{"text": "Created Users, Roles, Public Groups and implemented role hierarchies, sharing rules and record level permissions to manage sharing access among different users.\u00a0"}
+{"text": "Designed and deployed dynamic workflows, validation rules, Approval Processes and Auto-Response Rules for automating\u00a0business\u00a0logic."}
+{"text": "Developed Configurations in Salesforce for DocuSign E-Signature, a Digital Transaction Management System used to securely sign, send and manage the documents in the Service cloud.\u00a0"}
+{"text": "Implemented Test Classes to cover positive and negative use cases for Classes and Triggers and achieved close to 100% coverage.\u00a0"}
+{"text": "Performed IDE and Deployments across sandboxes and to Production Instance"}
+{"text": ""}
+{"text": "AXA Equitable, Farmington, CT\t\t\t\t\t\t\t      Mar 2016-Jan 2018"}
+{"text": "Salesforce Business Analyst                   "}
+{"text": "I have worked very closely with the Wholesale Life Distribution sales team of almost 100+ users to enhance and maintain our SFDC instance to meet the changing needs of the team. "}
+{"text": "Also, simultaneously serving as a Salesforce BA in most of the projects. I wrote the Functional Business Requirements, User Stories, Use Cases, and Business Requirement Documents. I wrote and executed the User Acceptance Test Plans and tracked the results through defect resolution."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Actively Assisted Project Manager in developing Scope/Vision Documentation and Project Plan, tracking project progress."}
+{"text": "The Projects were implemented based on Agile Scrum methodology."}
+{"text": "Developed the Scope/Vision Documentation and Project Plan, tracking project progress."}
+{"text": "Created BRD, FRD and converted into System Requirement Specifications Document."}
+{"text": "Presented the project data in views as Gantt charts, pivots, calendars, network diagrams and task sheets in MS Project."}
+{"text": "Analyze existing interfacing systems and understand various technologies involved."}
+{"text": "Performed extensive System Analysis the various business specifications."}
+{"text": "Responsible for Bug free delivery of Sales and Service Oriented applications developed on (Salesforce.com) Force.com Platform."}
+{"text": "Implemented Salesforce Service cloud and Opportunity Management (Case management, Entitlement management, Product & price book, High volume customer portal, Partner portal, Visual force sites) for business support and technical support for its channel customers. "}
+{"text": "Created test scripts and test cases for approved business use case and requirements for System and UAT testing."}
+{"text": "Installed and Implemented Package tools like Box, Anaplan, DocuSign and Tableau."}
+{"text": "Develop Reports/Scheduled Reports, Dashboards, and processes to continuously monitor data quality and integrity"}
+{"text": "Assist users with report design and management."}
+{"text": "Experienced in using Apex Data loader, for exporting and importing/exporting the data into/from SFDC."}
+{"text": "Transformed the customer experience and build great customer connections with Salesforce Service Cloud. "}
+{"text": "Managed the requirements and prioritized user stories them with the help of management tools like TFS, HP ALM and used JIRA for defect management. "}
+{"text": "Created Test Scripts and Writing the test cases and performing Regression tests on them."}
+{"text": "Experience in Creating and editing Users, Accounts in Salesforce."}
+{"text": "Responsible for managing Users in Production and supporting users in UAT."}
+{"text": "Performing UAT Testing for the complete instance of Salesforce for one of the major project."}
+{"text": "Created  Profiles,  Roles  based  on  Organization  role  hierarchy  and Implemented Record-Level and Field-Level security  and  configured  their sharing settings."}
+{"text": "Extensive business knowledge and customization experience on various salesforce.com standard objects like Accounts, Contacts, Opportunities, Products and Price books, Cases, Leads, Campaigns, Forecasting, Reports and Dashboards."}
+{"text": "Designed / developed several Reports in SSRS, Power BI and tableau using SQL Server tables and SSAS Cube. "}
+{"text": "Created/Customized Workflow Rules, Page  Layouts,  Approval  Process,  Tasks,  Email Alerts, Field Updates and Outbound Messages  to  manage  the  Workflow  &Approvals."}
+{"text": "Worked/Designed various salesforce.com standard objects like Accounts, Contacts, Leads, Campaigns, Opportunities, Quotes, Activities, Dashboards and Reports."}
+{"text": "Worked on various salesforce.com Custom objects like Account Addresses, Account Goals, Account Policies, Activity Calculator, Activity Points, Agent Policies, Policy Premiums, Premium Transactions, Retail Branch Performance, and Sales Profiles."}
+{"text": "Worked on the daily policy error reports coming in from a different system into Salesforce."}
+{"text": "Have been an active part in the Risk Assessment for one of the major Projects."}
+{"text": "Created Mockups for the New Objects to be created in Salesforce Instance."}
+{"text": ""}
+{"text": ""}
+{"text": "Fidelity Investments, Jacksonville, FL                                                                                  May 2014-Feb 2016"}
+{"text": "Salesforce Business Analyst   "}
+{"text": "Fidelity Investments is an international financial institution. Their broad and integrated range of investment banking services spans the entire investment spectrum, Front-Office including research, investment management, sales and trading services and investment servicing. Perform various tasks as a member of the business team including, but not limited to: task lead, requirements gathering and implementation, writing functional specifications, knowledge transfer and process improvement, internal team building, client communication and relationship, and quality assurance. "}
+{"text": "     \nResponsibilities: "}
+{"text": "Performed GAP ANALYSIS, created new process flows from AS-IS to TO-BE system."}
+{"text": "Involved in gathering and synthesizing business requirements and translated them into functional and non-functional requirements to be used as input to the functional design specifications."}
+{"text": "Conducted JAD sessions to allow different stakeholders to communicate their perspectives with each other, resolve any issues, and come to agreement terms."}
+{"text": "Conducted different elicitation techniques to gather requirements for Data Warehouse and also performed tests to validate the data."}
+{"text": "Interacted with technical architects to identify and analyze the given information, procedures, decision flows, and also evaluated existing procedures."}
+{"text": "Maintained On-going documentation of standard operating procedures and process improvements for VCS customer account management and call center IVR process, troubleshooting, and escalations. "}
+{"text": "Contributed with Project manager in handled scheduling, resource planning and allocation matters conducted status meetings and compiled reports."}
+{"text": "Extensively worked on creating User Requirement Specifications, Functional Requirement Specifications, and Business Process Documents and also assisted in developing System Requirements."}
+{"text": "Designed use case diagrams to present a better view of the system and enable the technical team to identify the key processes."}
+{"text": "Utilized Informatica to Extract, Transform and Load (ETL) data for the project during Data Migration."}
+{"text": "Prepared diagrams and elaborated them using UML diagrams, Data Flow Diagrams, Business Process and Data Process Model using MS Visio."}
+{"text": "Conducted sprints, created the sprint backlog, product backlog, burn down charts during Salesforce CRM implementation."}
+{"text": "Contributed in customizations, enhancements, updates, and changing functionalities of Salesforce CRM web application. Created and executed Test Cases. Assisted in functional testing for both manual testing and automated testing."}
+{"text": "Oversee VCS portion of VIN reporting project and be subject matter expert, conduct UAT and analysis of program and also participated in creating User Manual."}
+{"text": ""}
+{"text": ""}
+{"text": "Suntrust Banks, Atlanta GA                                                                                                  Nov 2012-Apr 2014"}
+{"text": "Business Analyst "}
+{"text": "The objective of the project was to establish a Common Operating Environment for Traders and Analysts working on the Fixed Income Trading desk and also working in the Migration process involving data gathering stage to the deployment and testing stage (UAT). The Project encompassed coordinating with the traders, data gathering, and platform engineering, and testing. Data conversion and trade floor support on a wide range of issues including business rules, core business applications, policy groups, and configuration settings were additional responsibilities."}
+{"text": "Responsibilities: "}
+{"text": "Presented new business solutions to stakeholders before initiating the project."}
+{"text": "Successfully implemented the Was responsible for implementing a trading application using Calypso for the Fixed Income derivative products: Interest Rate swaps, Currency swaps, Equity Total Return Swaps, Credit swaps, Futures, Forwards and Options. "}
+{"text": "Conducted GAP Analysis and system analysis to determine if solutions to the business requirements are feasible and can be implemented using the product Calypso. "}
+{"text": "Analyzed impact of proposed solution across the business. Developed proposed statement of work."}
+{"text": "Facilitated JAD sessions with the business group (traders and portfolio managers) to gather, analyze and document business requirements and business rules."}
+{"text": "Created UML Models such as Use Case Diagrams, Activity Diagrams and Flow Diagrams using MS Visio. Documented the Business Requirement Document (BRD) and the Requirement traceability matrix."}
+{"text": "Detailed and documented the key features of the application being envisioned. "}
+{"text": "Conducted JAD sessions with the end-users to design essential core features of the system. "}
+{"text": "Prepared logical Process Models by analyzing the process flows of the various system components. "}
+{"text": "Decomposed Business Requirements into Functional, Non-Functional and Reporting requirements. "}
+{"text": "Coordinated research, analysis, development, and implementation of workflow-processes and technology solutions. "}
+{"text": "Created traceability matrices between the various requirement types "}
+{"text": "As cross-functional project coordinator was involved in project planning, project management methodology implementation, and issue/risk tracking, scope and resource management through Agile Scrum Software Development Lifecycle. "}
+{"text": "Also involved in defining a PMO framework for identifying, prioritizing and achieving business objectives. "}
+{"text": "Managed the Change Control process for the entire project as a whole by facilitating group meetings and one-on-one interview sessions with different work stream owners to discuss the impact of Change Request on the project."}
+{"text": "Worked with the offshore Testing team to ensure complete test coverage through test cases and scripts, managed test execution during Integration, System, Regression and Performance testing and UAT. Participated in defect review meetings."}
+{"text": ""}
+{"text": ""}
+{"text": ""}

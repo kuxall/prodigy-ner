@@ -1,0 +1,133 @@
+{"text": "Name: sophie sophie"}
+{"text": "E-Mail: sophie.sophie@gmail.com"}
+{"text": "Address: Changde, China"}
+{"text": "Github: https://github.com/sophie"}
+{"text": "LinkedIn: https://linkedin.com/sophie"}
+{"text": "Phone No. 85485242773"}
+{"text": ""}
+{"text": "Summary"}
+{"text": "Around 5 years of experience in Database Administration, Development and Design Extensive experience with SQL Server 2016/2014/ 2012/2008/2008r2/2005/2000."}
+{"text": "Experience in managing Windows 2000/2003/2008 servers in a clustered environment."}
+{"text": "5+ Years\u2019 experience in upgrading and Migration to SQL Server 2012/2014."}
+{"text": "5+ Years\u2019 experience in Clustering (Active/Active, Active/Passive)"}
+{"text": "4+ Years\u2019 experience in Setting up Always ON availability groups"}
+{"text": "5+ Years\u2019 experience in Mirroring, Log Shipping and Replication"}
+{"text": "Handled multiple SQL Instances on Cluster environment and worked on configuring logical disks and RAID levels."}
+{"text": "Experience in Replication \u2013 Snapshot and Transactional and extensive knowledge in Merge replication."}
+{"text": "Extensively worked on 32 bit, 64 bit and i64 clustered and standalone server environments."}
+{"text": "Experience in Filtered Indexes and Data Compressions for Performance and Optimum space utilization in SQL Server 2008 R2"}
+{"text": "Identifying the bottle necks using SQL Server Profiler and Perfmon."}
+{"text": "Experience in performing Online Indexing. Experience with monitoring, troubleshooting related issues."}
+{"text": "Experience in migrating Sybase, oracle and salesforce databases to SQL server Databases."}
+{"text": "Experience in Backup tools like SQL Safe and LITE SPEED for fast and efficient database backups."}
+{"text": "Expertise in SQL Server 2005 Reporting Services (SSRS) and SQL Server 2005 Integration Services (SSIS) in Business Intelligence."}
+{"text": "Proficient with SQL Server Analysis Services. (SSAS)"}
+{"text": "Extensively worked on RDBMS concepts to design Relational Database model "}
+{"text": "Extensively worked on VMware and Implemented SQL Server 2005/2008/2008R2."}
+{"text": "Rebuilding the indexes at regular intervals for better performance."}
+{"text": "Truncated the tables of size 3TB for the replication purpose. "}
+{"text": "Involved in Monitoring and troubleshooting replication issues."}
+{"text": "Configured Server Memory for maximum Performance and effective utilization."}
+{"text": ""}
+{"text": "Tools and Software"}
+{"text": ""}
+{"text": ""}
+{"text": "Education"}
+{"text": "Bachelor of Technology, Jawaharlal Nehru institute of technology, Hyderabad, India"}
+{"text": "Master\u2019s, University of Houston-Clear Lake"}
+{"text": "\t\t\t\t\t\t\t\t"}
+{"text": "Employee Development Division, Sacramento, CA\t\t\t\t      June 2016 \u2013 Present                        SQL Developer/DBA\t\t\t\t"}
+{"text": "The Disability Insurance (DI) Branch of the Employment Development Department (EDD) provides temporary, partial wage replacement to eligible disabled workers of California who suffers a loss of wages when they are unable to work due to\u00a0illness or injury. DI processes initial disability compensation claims and promptly pays DI benefits to those who prove eligible. Disability Insurance Automation (DIA) is an online application that automates many of the manual work processes carried out by internal DI staff. Access to DIA is also made available to external, online users to submit electronic disability claim forms through the EDD website."}
+{"text": "Responsibilities:"}
+{"text": "Installed and Configured SQL Server 2014, 2012 and 2008r2 in enterprise cluster and standalone environments.\u00a0"}
+{"text": "Maintained High Availability by designing proper backup strategy."}
+{"text": "Prepare systems for disaster recovery and high availability using log shipping and SQL clustering"}
+{"text": "Improve database performance by examining long running SQL queries and creating appropriate indexes on the tables."}
+{"text": "Implemented regular patch management on various production, development and test SQL 2008/2008 R2 servers along with applying the latest service packs in both stand alone and clustered environment."}
+{"text": "Migrating legacy database systems from SQL 2000, 2005, 2008 version to higher versions of SQL server which include SQL 2008R2, 2012 and 2014."}
+{"text": "Understanding AD groups in the new server, creating new logins with proper privileges."}
+{"text": "Checking error logs, SQL logs and fixing the issues to validate and to let them go live."}
+{"text": "Refreshing databases of 300 GB - 1.5 TB size and configuring replication, creating local publications and subscriptions to replicate data between prod and DR server for few applications."}
+{"text": "Partitioning large tables with over billion rows to effectively archive the aged data in different environments including replication environments."}
+{"text": "Create a disaster recovery strategy for the mission critical databases using SQL Log shipping to a different data centre in other states and perform a yearly disaster recovery test"}
+{"text": "Installed SQL 2012 Always On Availability groups in production server systems for DR and High availability"}
+{"text": "Improve database performance by examining long running SQL queries and creating appropriate indexes on the tables"}
+{"text": "Use extended events functionality to monitor dead lock events."}
+{"text": "Tuning Queries and Database performance using tools SQL Server Tuning Advisor, SQL Server Profiler."}
+{"text": "Design and implement Backups and Restore database policies."}
+{"text": "Experience with Point-in-Time Recovery of backups (Full, differential and Logs)."}
+{"text": "Managing security roles in SQL Suite."}
+{"text": "Scheduling and Maintaining FULL, DIFF, and LOG database backups as per the company strategy to meet the recovery point objectives"}
+{"text": ""}
+{"text": "Environment: Windows 2003/2008/2008R2/2012, MS SQL Server 2008/2008 R2/2012/2014, Microsoft.NET, SSRS, SSAS, SSIS, MS Visual Studio 6.0, VSS, TFS. "}
+{"text": "Welk Group, SanMacros, CA\t\t\t\t\t\t        February 2015 \u2013 June 2016 SQL Server DBA"}
+{"text": "Welk Resorts is well known for its lifetime of hospitality to developing, and delivering, first-class accommodations and experiences. IT believes that vacations should be whatever you want them to be. At Welk, you\u2019ll always have the\u00a0freedom to explore, your way."}
+{"text": "Responsibilities:"}
+{"text": "Installed and worked on installing SQL 2012\\2014 SQL servers."}
+{"text": "Experience in implementing High availability solutions like different Replication models (Snapshot and Transactional), Log shipping, clustering and mirroring on physical and virtual machines"}
+{"text": "Performed the database full and differential backup\u2019 for database size more than 7TB."}
+{"text": "Migrated the SQL jobs, SQL logins using the SQL server data tools and SSIS packages."}
+{"text": "Manually configured the 3 PAR SAN, Power Vault (MD3220), Local disks for the cluster servers."}
+{"text": "Configured the Mirroring between the required databases with and without witness server."}
+{"text": "Configured the required end points for the mirroring."}
+{"text": "Configured the log shipping between the databases."}
+{"text": "Creating SQL Server Logins and assigning Roles and Authentication Modes as a part of Security Policies for various categories of User Support."}
+{"text": "Developed ETL Packages and deployed them"}
+{"text": "Configured Database Mail for SQL Servers for the Positive Mail Notification."}
+{"text": "Created Maintenance Plans that helped in effective disk utilization and index maintenance."}
+{"text": "Worked extensively on SQL Server Transactional Replication with sync type as automatic and none."}
+{"text": "Extensively worked on snapshot replication. Used to create the tables manually and then use the snapshot replication for dumping the data."}
+{"text": "Configured Server Memory for maximum Performance and effective utilization."}
+{"text": "Involved in adding the subscribers to the exiting live publishers and running the snapshots."}
+{"text": "Dropped all the publishers and subscribers on the retired servers."}
+{"text": "Created Maintenance Plans for scheduling the full, diff and T-Log Backup\u2019s."}
+{"text": "Effectively managed disk space using LITE SPEED for Data Base Backups"}
+{"text": "Extensively worked on 24 X 7 Production Database on Call Support and involved in troubleshooting SQL Server issues in various levels"}
+{"text": ""}
+{"text": "Environment: Windows 2003/2008/2008R2/2012, MS SQL Server 2008/2008 R2/2012/2014, Microsoft.NET, SSRS, SSAS, SSIS, MS Visual Studio 6.0, VSS, TFS."}
+{"text": "JOHNSON CONTROLS, Racine, WI                                                                       October 2013 \u2013 February 2015"}
+{"text": "SQL DBA "}
+{"text": ""}
+{"text": "Johnson Controls International Plc is a multinational company that produces automotive parts such as batteries and electronics and HVAC equipment for buildings"}
+{"text": "Responsibilities:"}
+{"text": "Manage the SQL Server data systems architecture, including production OLTP/OLAP systems, reporting servers and data warehouses."}
+{"text": "Automation and standardization of SQL Server environment to operationalize repetitive tasks. "}
+{"text": "Install and configured SQL Server 2008 R2/2012on Windows Server 2008 R2 enterprise server in standalone, and extended 5 node Active/Active/Active/Active/Passive cluster environment."}
+{"text": "Implement SQL Transactional and Snapshot replication for the client databases every quarter and provide support for issues that arise with transactional and snapshot replication."}
+{"text": "Assist the team of developers with best development practices in Development, Test and production environments."}
+{"text": "Analyze and tune SQL Server for various workloads including tuning Transact-SQL code, creating Indexes, SQL Server configurations changes, and operating systems for optimal performance. "}
+{"text": "Apply Windows WSUS and SQL server patches every quarter with suitable planning and documentation."}
+{"text": "Install and configured third party tools like Disk keeper, Idera SQL Diagnostic manager, and Red gate tools to monitor the SQL server regularly."}
+{"text": "Monitor the SQL servers for space regularly and perform capacity planning every quarter for new client databases."}
+{"text": ""}
+{"text": "Environment: MS SQL Server 2000/2005/2008/2008R2/2012 Windows 2000/2003/2008, IIS 6.0, Backup, T-SQL,VB.NET, Lite speed, and SQL Job Manager."}
+{"text": ""}
+{"text": "Walgreens, Deerfield, IL                                                                                          August 2012 to October 2013"}
+{"text": "Jr SQL DBA "}
+{"text": ""}
+{"text": "The\u00a0Walgreen Company\u00a0is an American company which operates\u00a0as the second-largest pharmacy store chain in the United States behind\u00a0CVS Health. It specializes in filling prescriptions, health and wellness products, health information, and photo services."}
+{"text": "Responsibilities:"}
+{"text": "Installed and configured SQL Server 2008/2008 R2 Enterprise 64 Bit on Windows Server 2008 enterprise server in Active/Passive cluster environment."}
+{"text": "Design fast, reliable, replication solutions like Peer-to-Peer and transactional replication in a 3-node topology for Test and Production Environment."}
+{"text": "Prepare systems for disaster recovery and high availability using log shipping and Microsoft and SQL clustering."}
+{"text": "Improve database performance by examining long running SQL queries and creating appropriate indexes on the tables."}
+{"text": "Implemented regular patch management on various production, development and test SQL 2008/2008 R2 servers along with applying the latest service packs in both stand alone and clustered environment."}
+{"text": "Have done the capacity planning and provided the Database disk space requirement and lay out to the Engineers to build the servers."}
+{"text": "Responsible for database design, creation of database device, databases, logical and physical design of the database."}
+{"text": "Done range data partitioning for large tables to improve the performance. Designed the database with multiple file groups and files laid out across multiple drives."}
+{"text": "Monitor replication tuned the performance of replication if there were issues with latency and created alerting mechanism for any failures."}
+{"text": "Monitor log shipping and fix the issue with performance and log restores."}
+{"text": "Monitor the IO activity on all the databases and re-architect them on different RAID\u2019s based on the performance metric data."}
+{"text": "Involved in backup and restoration, performance and tuning at the architecture level, query level."}
+{"text": "Export and import data from text files and Excel to SQL Server database using bulk insert and BCP utility."}
+{"text": "Created and managed user security and logins and granting rights and revoking privileges."}
+{"text": "Responsible for tuning Views, Stored Procedures and queries written by the Application Consultants. Assisted them in writing the proper code for better performance from the application."}
+{"text": "Automated and enhanced daily administrative tasks, including space management and backups using Tivoli storage manager and red gate back up tools."}
+{"text": "Created Reports using the SSRS and involved in Authoring, Managing Reporting services."}
+{"text": "Provide monthly rotational on call support to address production issues during off hours"}
+{"text": ""}
+{"text": "Environment: MS SQL Server 2000/2005/2008/, Windows 2000/2003/2008, IIS 6.0, Backup, TSQL,VB.NET, Lite speed, and SQL Job Manager, TFS, SSIS, SSRS & SSAS"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}

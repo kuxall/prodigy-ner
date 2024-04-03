@@ -1,0 +1,190 @@
+{"text": "Name: frances frances"}
+{"text": "E-Mail: frances.frances@gmail.com"}
+{"text": "Address: Maoming, China"}
+{"text": "Github: https://github.com/frances"}
+{"text": "LinkedIn: https://linkedin.com/frances"}
+{"text": "Phone No. 302999137238"}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": "Over 8 years of professional experience in all stages of Software Development involving Planning, Analysis, Design, Implementation, Integration and Testing, Deployment, Documentation and Maintenance of various stand-alone, client-server and web-based projects with exposure to diverse business domains including Financial, Healthcare, Telecommunications and Banking."}
+{"text": "Extensive experience with Agile, SCRUM, Waterfall and Test Driven Development environments"}
+{"text": "Expertise in web application development using Visual Studio.NETtechnologies like C#, ASP.NET, ASP.NET MVC, ADO.NET, XML, Web Services, WCF, and WPF."}
+{"text": "Expertise in developing Client/Server Applications using .Net Framework (2.0/3.0/3.5/4.0) with Three Tier Architecture, N-Tier Architecture, SOA (Service-Oriented Architecture)"}
+{"text": "Experience in developing Web Applications using AJAX controls, Telerik Controls, Web Services and Cross Browser functionalities."}
+{"text": "Proficient in UI development using HTML, CSS, jQuery, JavaScript, Angular JS, JSON, AJAX, and Bootstrap."}
+{"text": "Experience in Silverlight and WPF (Windows Presentation Foundation) including frontend designing with Microsoft Expression Blend and backend programming with Microsoft Visual Studio. "}
+{"text": "Excellent working knowledge of ASP.NET controls like Grid View, Detail View, and Data Source controls like Object Data Source, SQL Data Source,Master Pages for consistent layout of pages within application"}
+{"text": "Extensive knowledge of object oriented programming techniques and Microsoft design patterns like MVC, Service Oriented Architecture (SOA), WCF and Web Services. "}
+{"text": "Experience using LINQ, N Hibernate and Entity Framework mappers to interact with other layers"}
+{"text": "Experience with AWS and Azure services with workload requirements"}
+{"text": "Proficient in database programming to create Joins, Stored Procedures, Functions, Views and Triggers using T-SQL in SQL Server 2005/2008/2012, Oracle SQL developer, IBM DB2"}
+{"text": "Familiar with MongoDB database concepts such as locking, indexes, Sharding, transactions, replication, and schema design"}
+{"text": "Extensive experience with reporting tools like SSRS and Crystal reports for designing and modifying reports and creating shared and embedded data sources to pull data into reports from the database "}
+{"text": "Experience in configuring Internet Information Server (IIS), creating virtual directories, mapping them to physical folders and configuring applications for domain authentication"}
+{"text": "Experience in XML, XSLT, User Controls, Custom Controls, SOAP, WSDL, Web Services, Validation Controls, Authentications like windows authentication and forms authentication."}
+{"text": "Experience with Subversion, Team-Foundation Server, Visual Source Safe for version control"}
+{"text": "Experience with JIRA and HP ALM for Bug tracking and work flow consistency"}
+{"text": "Experience in documenting a Technical Specification Document (TSD) with respect to business requirements and Functional Specification Document (FSD) for that particular project release "}
+{"text": "Excellent analytical and programming abilities to create elegant, flexible and maintainable solutions for complex development problems and willingness to work in a highly dynamic environment"}
+{"text": "Enthusiastic, self-starter, eager to meet challenges and quickly assimilate latest technologies, skills, concepts and ideas"}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelors of Technology in Computer Science"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "Wells Fargo Bank, Charlotte, NC\t\t\t\t\t\t\tAug 15 \u2013 Present"}
+{"text": "Sr.Net Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked with Visual Studio 2013/ .Net Framework 3.5/4.0/4.5 for developing internal application where users can pull over 150 reports from the UI"}
+{"text": "Worked in an Agile environment using Scrum methodology to produce high quality front-end application"}
+{"text": "Involved in design and development of UI application using ASP.NET,C#,MVC,JavaScript, jQuery, HTML, CSS and XML"}
+{"text": "Extensively worked with SSRS to create and design reports according to business requirements and modify them periodically when users required enhancements within those reports"}
+{"text": "Write code to create Shared and EmbeddedData Sources in SSRS to retrieve data from Oracle/SQL Server databases into a variety of reports"}
+{"text": "Involved inDB2 to Oracle migration project and worked extensively on converting, modifying existing SQL queries from DB2 to Oracle"}
+{"text": "Azure\u00a0Supports Portable Class Library (PCL), which targets apps that are built for .NET Framework 4.5, Windows Phone 8, Windows Store."}
+{"text": "Used Aqua Data Studio to create/modify SQL queries and retrieve data from IBM DB2 database while SQL Developer for Oracle Database"}
+{"text": "Used Subversion to checkout, commit the code and manage the source code repository"}
+{"text": "Created and consumed WCF services which are based on Service Oriented Architecture (SOA) architecture."}
+{"text": "Deployed code to various DEV, SIT, UAT environments using AnthillPro"}
+{"text": "Created batch jobs in Autosys to automate the report generation process on a daily basis"}
+{"text": "Used HP ALM tool for application development and application testing "}
+{"text": "Worked with JIRA to login defects and fix them accordingly "}
+{"text": "Involved in debugging the application, analyzing and fixing the code when necessary"}
+{"text": "Implemented MS-Unit Testing, Integration Testing and Regression Testing"}
+{"text": "Analyzed user requirements and Functional Specification Document (FSD) to prepare Technical Specification Document (TSD), unit test plans and test cases"}
+{"text": "Work with Subject Matter Experts (SMEs), Offshore resources and other team members in understanding, documenting, developing and testing business and user requirements"}
+{"text": "Create data load programs and application interfaces according to business requirements"}
+{"text": "Adhere to department, organization and industry guidelines, standards, policies and procedures while meeting deadlines in a rapid release cycle"}
+{"text": "Part of two successful quarterly releases to push the developed code into production environment "}
+{"text": ""}
+{"text": "Environment:.NET\u00a03.5/4.0, ASP.NET, C#, Visual Studio, HTML, SOA,Web Form/Win Form, XML, MVC 3.0, SSRS, BIDS, Silverlight, JavaScript, JQuery, T-SQL, SQL Server 2008 R2 / 2012, Oracle 11g, IBM DB2, CSS, PowerShell scripts, Share Point, MS Visio, IIS , PostgreSQL"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "American Family Insurance, Madison, WI\t\t\t\t\t\t\tOct 14 \u2013Aug 15"}
+{"text": "Sr.Net Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in Requirement Analysis, Design and finalizing the architecture of application"}
+{"text": "Worked with Visual Studio 2012/ .Net Framework 3.5/4.0/4.5 for developing Software Applications"}
+{"text": "Involved in Design and Development of Web Forms using ASP.NET, MVC, Razor (CSHTML), Angular JS and ORM Entity Framework."}
+{"text": "Developed Views, Controllers, Model and Business logic in C#"}
+{"text": "Extensively usedJavaScript, jQuery, HTML, CSS, AJAX and JSON in UI layer"}
+{"text": "Used Nuget Packages for jQuery, jQuery Validation "}
+{"text": "Extensively used third-party HTML Helpers for creating MVC views"}
+{"text": "Created Web servicesusing WCF (Windows Communication Foundation) and ASP.NET Web API"}
+{"text": "Consumed REST Web services, Web API and WCF Web services through client scripts (Ajax, jQuery and Angular.js) and server side code"}
+{"text": "Involved in implementing AJAX and SOA application."}
+{"text": "Created custom directives, services in angular and integrated with Kendo UI to show large amount of data using grid"}
+{"text": "Deployed applications on Windows Azure Cloud base and active Directory configuration"}
+{"text": "Extensively used ADO.NET for connecting the database by calling store procedures and functions. "}
+{"text": "Extensive use of ADO.NET objects like Data Sets, Data Tables, Data Reader, Command and Connection objects, Data Grid, Data list and Repeater objects."}
+{"text": "Used strongly typed dataset for Data Access and Data manipulation to SQL Data Source and Oracle Database."}
+{"text": "Deploy development code using Octopus Deploy to QA environments"}
+{"text": "WroteStored Procedures, Joins and Triggers for Database connections using SQL Server 2008 & 2012"}
+{"text": "Worked on extracting, transforming and loading data using SSIS. Created SSIS Packages to integrate data coming from Text files and Excel files. "}
+{"text": "Provided Full Reporting Life Cycle support using SSRS"}
+{"text": "Used Windows Team Foundation Server (TFS) for version control"}
+{"text": "Implemented MS-Unit Testing, Integration Testing and Regression Testing"}
+{"text": "Monitor the results in real-time production scenario, analyze, and fix the code"}
+{"text": "Responsible for creating and implementing user workflows and use cases"}
+{"text": ""}
+{"text": "Environment:.NET\u00a04.0/4.5, ASP.NET, C#, VB.Net, Visual Studio, SOA, HTML 4/5, XML, MVC 5.0, ADO.NET, Entity Framework, WCF Services, Silverlight, Nuget, JavaScript, VSTO, Angular.js, Windows Azure, JQuery, RWD, T-SQL, SQL Server 2008 & 2012, SSIS, SSRS, SiteCore 7.0, Oracle10g, CSS, Team City, Ajax, MS Visio, PostgreSQL, TFS, IIS"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Ecolab, St. Paul, MNMay 12 \u2013 Oct 14"}
+{"text": "Sr.Net Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Worked with the business client for gathering and analyzing requirements of the application using Agile and Scrum methodology."}
+{"text": "Worked on .NET application development with ASP Web Forms, Win Forms,ADO.Net and C #.Net as code behind and SQL Server 2008/2012 as database."}
+{"text": "Designed & developed web user interface using ASP.net, VB.net, HTML, CSS, JavaScript, server controls, and developed customized Web controls."}
+{"text": "Involved in maintenance and ongoing enhancements of the application developed in .net\u00a0Framework 4.0/3.5, ASP.net MVC, Web services, WCF Service, JavaScript, XML, HTML, T-SQL.\u00a0"}
+{"text": "Worked With ASP.net Web Parts, Navigation Control, User Controls, and Master Pages and developed Cascading style sheets (CSS) for consistent look and feel of the website"}
+{"text": "Developed UI using HTML5, CSS 3, jQuery, JavaScript, Angular JS and Knockout Js."}
+{"text": "Applicationwasdeveloped in C# and UI was created using WPF following the MVVM pattern."}
+{"text": "Supported MVVM implementation by delegating data binding to the front-end using TELERIK controls"}
+{"text": "Worked with LINQ for .Net and Entity Framework, also wrote stored procedures using Microsoft SQL Server 2008 for new applications."}
+{"text": "Implemented Service Oriented Architecture (SOA) and used WCF to expose business logic as services and consumed those services from client applications. "}
+{"text": "Migrated Active Directory and Team Foundation Server from Windows Azure to onsite hosted environment.\u00a0"}
+{"text": "Involved in creating WCF REST services for various policies and benefits, and consumed them into the web application."}
+{"text": "Developed web services to prepare reports using XML web services."}
+{"text": "Defined service contracts, implemented service contracts and hosted in IIS 6.0 where all service (contracts) are configured with secured bindings\u00a0"}
+{"text": "Used ADO.NET for data interaction between web application and database using Data Reader, Dataset, and Data Adapter controls."}
+{"text": "Designed and Created database objects such as stored procedures, packages, functions, triggers and indexes.\u00a0"}
+{"text": "Implemented the Caching Mechanism and set the Expiration Policies in .config files to cache Back End Services"}
+{"text": "Involved in complete SSIS life cycle in creating SSIS packages, building, deploying and executing the packages in the development and production environments."}
+{"text": "Participated in review of issues related to SSRS reports and worked in troubleshooting those issues, fixing, testing and deploying them."}
+{"text": "Performed Unit Testing on both SQL Server and Oracle databases from the product perspective."}
+{"text": "Implemented Integration testing and NUnit testing to test the efficiency of the code developed."}
+{"text": "Team Foundation Server(TFS) is used for controlling the Source Control Management"}
+{"text": "Collaborated efficiently with testing and Management team for successful release of the project."}
+{"text": ""}
+{"text": "Environment:ASP.NET 3.5/4.0, C#, VB.NET, Silverlight, MVC Framework, Entity Framework, HTML, Web Form/Win Form, VS.NET, IIS, CSS, AJAX, JavaScript, jQuery, XML, XSLT, Azure, Web Services, WCF, SOAP, SOA, SQL Server 2008/2012, SSRS, SSIS"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "First Bank, Dallas, TX \t\t\t\t\t\t\t\t\t\tOct 10 \u2013 May 12"}
+{"text": ".Net Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Communication with customers for requirement gathering and analysis using Agile and Iterative SDLC methodology. "}
+{"text": "Involved in implementation of the project using C#, ASP.NET Web Forms, WCF, LINQ, HTML, jQuery, JavaScript, CSS and AJAX. "}
+{"text": "Developed application using ASP.NET, AJAX, jQuery, User Controls, Custom Controls and Web Forms with Visual Studio 2010, .NET 4.0with C# as code behind. "}
+{"text": "Involved in creating and consuming WCF services. "}
+{"text": "Extensively used LINQ to SQL & Entity Framework while designing Data Access Layer"}
+{"text": "Followed the N-Tier Pattern, separating the business, presentation and data models."}
+{"text": "Used WCF services by introducing new operations in Interface and implemented them in service layer."}
+{"text": "Modified Web services using C# to interact with other applications and exposed them using SOAP and HTTP."}
+{"text": "Developed rich front-end UI using AJAX Controls,\u00a0Silverlight, Expression Blend and\u00a0XAML.\u00a0"}
+{"text": "Extensive experience in WPF/Silverlight\u00a0with all the programming and technologies integrated into C# Asp.Net 3.5 framework.\u00a0"}
+{"text": "Involved in design and development of User and Custom controls for application using C# and ASP.NET.\u00a0"}
+{"text": "Created new model classes in Web API to hold data. "}
+{"text": "Grid view and Custom paging were used to display huge amount of data."}
+{"text": "Used the Entity Framework 4.0 for the use of LINQ-based Data Access."}
+{"text": "Used editable\u00a0Data Grid controls\u00a0to display and edit the requested information."}
+{"text": "Created\u00a0DLLs\u00a0to implement business logic and to integrate the application."}
+{"text": "Ease of maintenance was assured with consistent use of\u00a0web.config\u00a0file."}
+{"text": "Created Indexes, Stored Procedures, Triggers and Views using SQL server 2012 and in Oracle 10g to execute various database routines."}
+{"text": "Implemented NUnit testing, Integration testing and Regression testing."}
+{"text": "Worked with Clients and end users for new functionalities as well as any application related enhancements.  "}
+{"text": "Involved in code reviews, standard performance and functional reviews. "}
+{"text": "Experience working in UAT, SIT, Pilot and Production environment in different stages of the project"}
+{"text": ""}
+{"text": "Environment:ASP.NET 3.5, C#, VB.Net,  Web Forms, ADO.NET, XML, Web Services, SQL Server , VS.NET 2005, OOP, OOAD, CSS. SQL Server Reporting Services (SSRS), Java Script, Share Point "}
+{"text": ""}
+{"text": "Mphasis, Hyderabad, India\t\t\t\t\t\t\t\t\tAug 08\u2013 Sep 10"}
+{"text": ".Net Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in all phases of the Project Life Cycle with a focus on n-tier architecture."}
+{"text": "Followed Agile methodology to produce high quality software."}
+{"text": "Designed Graphical User Interface (GUI) using ASP.Net MVC 3, CSS, HTML and JavaScript."}
+{"text": "Used WCF for interoperability with other platforms and technologies to build custom solutions."}
+{"text": "Implemented entire backend of the application using C#.NET and object oriented concepts like classes, interfaces, inheritance, polymorphism and Multi-threading."}
+{"text": "Updates to a\u00a0SharePoint\u00a0PWA Site updating the Project Server SSRS reports.\u00a0"}
+{"text": "Designed Business components and Data Access Layer using C#.Net "}
+{"text": "Implemented Caching, Client and Server side State ManagementTechniques such as View state, Cookies, Application and Session throughout the projects using ASP.NET."}
+{"text": "Created an ASP.Net MVC3 UI that communicates with Windows Communication Foundation (WCF) while interacting with the database."}
+{"text": "Used the AJAX control kit and provided extender AJAX control properties to the existing ASP.NET controls."}
+{"text": "Extensively used JavaScript and ASP.NET AJAX for front end and Ajax web methods. "}
+{"text": "Maintaining the version control of the project in Team Foundation Server (TFS) by merging the module developed with latest version in TFS."}
+{"text": "Extensively worked with LINQ provider and designed user level application that would build and execute a query expression for the Server Side."}
+{"text": "Used ADO.NET objects such as Data Reader, Dataset and Data Adapter for consistent access to SQL data sources."}
+{"text": "Extensively used ASP.NET Data Grid and Data List controls for displaying the data."}
+{"text": "Wrote SQL Queries, Stored procedures, Joins, Triggers to process large collection of products and used Data Reader, Data Adapter, SQL Command and Dataset for retrieving data from database using SQL 2012."}
+{"text": "Used Crystal Reports for generating monthly and quarterly reports for management."}
+{"text": "Worked closely with Business, Technical and QA teams to meet project requirements and deadlines. "}
+{"text": "Responsible for process improvements and providing tools for task automation to generate reports. "}
+{"text": ""}
+{"text": "Environment:.NET Framework 4.0, ASP .NET 4.0, ASP.NET MVC3, Microsoft Visual Studio 2010, C# 4.0, HTML4, XML, CSS, JavaScript, LINQ, Entity Framework, IIS 7.0, TFS, Win Forms, SQL Server 2008, ADO .NET."}
+{"text": ""}

@@ -1,0 +1,187 @@
+{"text": "Name: frances frances"}
+{"text": "E-Mail: frances.frances@gmail.com"}
+{"text": "Address: Lima, Peru"}
+{"text": "Github: https://github.com/frances"}
+{"text": "LinkedIn: https://linkedin.com/frances"}
+{"text": "Phone No. 99509220952"}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "-"}
+{"text": "6 + years of experience in IT industry as Data Scientist with strong background in Databases."}
+{"text": "Analyzed Lending Club data and used various visualization libraries/regression techniques to "}
+{"text": "classify good and bad loans"}
+{"text": "Used python to extract financial data from various sources and integrated them into one "}
+{"text": "single data set"}
+{"text": "Hands-on-experience with pandas, SciPy and Numpy packages in Python for data analytics"}
+{"text": "Large\u00a0data sets manipulation, data\u00a0cleaning, quality control, and data\u00a0management "}
+{"text": "(Python, R, SQL)"}
+{"text": "Worked with various datasets and analyzed data using python/R and used different regression models for datasets"}
+{"text": "Experience with Statistical analysis. Stat packages mainly in R/python"}
+{"text": "Hands-on-experience with pandas, SciPy and Numpy packages in Python for data analytics"}
+{"text": "Large data sets manipulation, data cleaning, quality control, and data management (Python, R, SQL)"}
+{"text": "Worked with various datasets and analyzed data using python/R and used different regression models for datasets"}
+{"text": "Experience with Statistical analysis. Stat packages mainly in R/python"}
+{"text": "Above 3+ years of experience as Data Scientist with experience in Data Mining, "}
+{"text": "Statistical Analysis, Exploratory Analysis and Machine Learning with different forms of data."}
+{"text": "Experience writing queries on large data sets and strong aptitude on learning new technologies"}
+{"text": "Proficient in Tableau data visualization tool to analyze and obtain insights into large datasets, "}
+{"text": "create visually compelling and actionable interactive reports and dashboards"}
+{"text": "Integrated python with tableau using TabPy for using python scripts in calculated fields of "}
+{"text": "Tableau, integrated R with Tableau using Rserv for writing R scripts in calculated fields of Tableau"}
+{"text": "Deep experience with design and development of complex Tableau visualization solutions"}
+{"text": "Experience in writing Sub Queries, Stored Procedures, Triggers, Cursors, and Functions on "}
+{"text": "MySQL and PostgreSQL database."}
+{"text": "Created a Python/Django based web application using Python scripting for data processing, "}
+{"text": "MySQL for the database, and HTML/CSS/JQuery and High Charts for data visualization of the served pages."}
+{"text": "Aware of SDLC, Waterfall, Test-driven development (TDD) and Agile/Scrum Methodologies."}
+{"text": "Well experienced on web development using Java and J2EE technology stack."}
+{"text": "Used Python libraries like NumPy and SciPy to filter unstructured data."}
+{"text": "Used combination of Python and R for predictive analytics."}
+{"text": "Excellent skills in System Analysis, Documentation and Designing the Technical Specifications for Business Processes"}
+{"text": "Proficient in creating customized and interactive Tableau dashboards using multiple data sources - Oracle, SQL Server, Netezza, SAS datasets, CSV files & TDEs"}
+{"text": "Excellent understanding of concepts like Star-schema, Snowflake schema using fact and dimension tables and relational databases (Oracle, SQL), Teradata, MS Access and client/server applications"}
+{"text": "Used Alteryx to provide analysts the unique ability to easily prep, blend, and analyze all of their data using a repeatable workflow. "}
+{"text": "Combined multiple data sources using blending in Tableau to keep track of sensor data, operator inputs, and real-time systems, all in one dashboard."}
+{"text": "Identified Business Data and requirements and modified it to logical data models."}
+{"text": "Skilled in accessing and transforming massive datasets through filtering, grouping, aggregation, and statistical calculation. "}
+{"text": "Good experience in dashboard design using large data sets."}
+{"text": "Experienced in creating different visualizations using Bars, Lines, Pies, Maps, Scatter plots, Gantt charts, Bubbles, Histograms, Bullets, Heat maps and Highlight tables"}
+{"text": "Expert in developing user objects (filters, prompts, metrics, Sets and Groups, Calculated Fields) to develop reports."}
+{"text": "Created ad-hoc reports based on business needs"}
+{"text": "Worked on creating interactive, real-time dashboards using drill down and customization."}
+{"text": "Created incremental refreshes for data sources on Tableau server"}
+{"text": "Scheduled reports to create an Instance and used instance manager to feed the current data, to optimize the performance of data feeding the reports."}
+{"text": "Designed the architecture of Tableau security by customizing the access levels and creating various user groups by assigning row and column level security at application level, folder level and user level."}
+{"text": "Experienced in Trouble Shooting, Performance tuning of reports and resolving issues within Tableau Server and Reports"}
+{"text": "Established best practices for Enterprise Tableau Environment, Application Intake and Development processes"}
+{"text": "Extensive experience in production support and issue resolution that includes debugging of Reports and related issues, dashboard design issues, archiving and performance issues."}
+{"text": "Good understanding of different programming languages such as Java and python"}
+{"text": ""}
+{"text": "Education:     Bachelor of Computer Science and Engineering, India "}
+{"text": "\t          Master\u2019s in Information Management, MD, USA"}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": "WORK EXPERIENCE"}
+{"text": ""}
+{"text": "MEDSTAR, Washington DC\t\t\t\t\t              Aug 2018 \u2013 Present"}
+{"text": "Data Scientist"}
+{"text": "Used PyCharm IDE and installed various libraries to connect with SQL and other tools through python"}
+{"text": "Worked in MySQL database on simple queries and writing Stored Procedures for normalization and renormalization."}
+{"text": "Involved in reviewing business requirements and analyzing data sources from Excel/Oracle SQL Server for design, development, testing, and production rollover for reporting, analysis and predicting data in projects."}
+{"text": "Develop Machine Learning Algorithms to increase revenue recognition by predicting and "}
+{"text": "reducing supply chain related product readiness delays"}
+{"text": "Utilized oversampling & under sampling techniques which led to a significant improvement in our testing results"}
+{"text": "Deployed my project on AWS, connected RDS(SQL) to AWS using python"}
+{"text": "Worked with Pandas/Numpy to analyze the data and infer from the Seaborn visualization"}
+{"text": "Used PostgreSQL for the DB and various python libraries for data analysis and predictive modeling"}
+{"text": "Formulated procedures for tableau with data sources and delivery systems integration of "}
+{"text": "Interacted extensively with end users on requirement gathering, analysis and documentation"}
+{"text": "Used Python to create regression models, clustering algorithm and other data mining methods to explore the fast growth opportunities of the clients"}
+{"text": "Classified customers by RFM analysis, clustering and regression model with R, selected customers with high value and improved their retention rate by sending ads and coupons"}
+{"text": "Worked extensively with Advance analysis Actions, Calculations, Parameters, Background images, Maps.\u00a0"}
+{"text": "Created Ad-hoc SQL queries to fetch needed data for data analysis and reporting purposes"}
+{"text": "Worked Closely with different Product owners to get more business insights"}
+{"text": "Designed and Optimized Data Connections, Data Extracts, Schedules for Background Tasks and Incremental Refreshes for the weekly and monthly dashboard reports on Tableau Server."}
+{"text": "Expert knowledge on Trend Lines, Statistics, and Log Axes. Used Groups, hierarchies and sets to create detail level summary reports and dashboards using KPI's."}
+{"text": "Experienced in SQL performance tuning and writing complex SQL queries."}
+{"text": "Proficient in creating New Schedule's and checking the task's daily on the server."}
+{"text": "Worked extensively with Advance Analysis Actions, LODs (FIXED, INCLUDE, EXCLUDE) Calculations, Parameters, Background images, Maps."}
+{"text": "Involved in Trouble Shooting, Performance tuning of reports and resolving issues within Tableau Desktop/Server Reports."}
+{"text": "Worked with AWS Redshift directly from Tableau to access cloud data warehouse and quickly perform visual analysis."}
+{"text": "Experienced in planning and implementation of overall analytics and business intelligence strategy"}
+{"text": "Experience in integrating Alteryx and tableau, publishing data extracts from Alteryx to tableau server, Pulling data from Alteryx App on server though Web data connector into tableau Desktop."}
+{"text": "Developed complex T-SQL codes such as Stored Procedures, functions, triggers, Indexes and views for various applications."}
+{"text": "Excellent team player"}
+{"text": ""}
+{"text": "USDA, Beltsville, MD\t\t\t\t\t\tSept 2016 \u2013 July 2018"}
+{"text": "Data Scientist"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Designed, developed and deployed Tableau\u00a0reports on\u00a0Tableau\u00a0Desktop 10.3 and 10.4"}
+{"text": "Experience in implementing python alongside using various libraries such as matplotlib "}
+{"text": "for charts and graphs, MySQL db for database connectivity, PySide, Pandas data frame, Numpy"}
+{"text": "Wrangled data, worked on large datasets (acquired data and cleaned the data), analyzed trends by making visualizations using matplotlib using Python"}
+{"text": "Collaborated with data engineers, wrote and optimized SQL queries to perform data extraction from SQL tables"}
+{"text": "Performed data integrity checks, data cleaning, exploratory analysis and feature engineer using R and python"}
+{"text": "Gathered user requirements, analyzed and designed software solutions based on the business requirements."}
+{"text": "Experienced in creating Prototypes, Wireframes and Mock-Up Screens to visualize Graphical User Interface (GUI). Gained insights and verified the validity of multiple datasets by mining data and executing structured queries in pandas."}
+{"text": "Implemented sentiment analysis using Text Blob and Vader Sentiment to determine trends in USDA dietary guidelines."}
+{"text": "Completed ad-hoc projects relating to data investigations, follow-ups on analysis results, or other client requests."}
+{"text": "Built web scrapers using restful API\u2019s to collect raw data."}
+{"text": "Created visualizations in Tableau to view temporal trend of agriculturally relevant occurrence data."}
+{"text": "Modeled User filters to enable the row level security in\u00a0tableau\u00a0within client's premises."}
+{"text": "Assembled Advanced Analysis actions and created Interactive Dashboards using\u00a0Tableau\u00a010.4"}
+{"text": "Involved in project status meetings, QA review meetings, and System Test meetings."}
+{"text": "Mastered the ability to design and deploy rich Graphic visualizations with Drill Down and Drop-down menu options and Parameters using\u00a0Tableau."}
+{"text": "Experienced in creating Schedules for dashboards to refresh automatically."}
+{"text": "Worked on troubleshooting issues that are encountered during the testing cycles."}
+{"text": "Accessed and transformed massive datasets through filtering, grouping, aggregation, and statistical calculation."}
+{"text": "Strong understanding of advanced Tableau features including calculated fields, parameters, table calculations, row-level security, joins, data blending, and dashboard actions."}
+{"text": "Performed security implementation to\u00a0Tableau\u00a0server reports based on user community."}
+{"text": ""}
+{"text": "Sapient, India\t\t\t\t\t\t   \t\t\tMar 2015 \u2013 July 2016"}
+{"text": "Data Scientist"}
+{"text": "Responsibilities:"}
+{"text": "Created Relationships, actions, data blending, filters, parameters, hierarchies, Level-of-Detail (LOD), calculated fields, sorting, groupings, live connections, and in-memory in tableau 8.2."}
+{"text": "Wrangled data, worked on large datasets (acquired data and cleaned the data), analyzed trends by making visualizations using matplotlib using Python"}
+{"text": "Collaborated with data engineers, wrote and optimized SQL queries to perform data extraction from "}
+{"text": "SQL tables"}
+{"text": "Performed data integrity checks, data cleaning, exploratory analysis and feature engineer using R and python"}
+{"text": "Used R, Python and tableau to develop variety of models and algorithms for analytic purposes "}
+{"text": "Analyzed large sales data of Cisco devices and used R for predicting the future sales using regression models "}
+{"text": "Created effective visualizations using tableau and investigated a dataset to create data visualizations"}
+{"text": " to tell trends and patterns in data. Used Regression algorithms and made predictions to clean the outliers from the dataset"}
+{"text": "Designed business intelligence dashboard using Tableau Desktop and published the same on Tableau server, allowing executive management to view current and past performance sales trends, "}
+{"text": "forecast sales and various KPI's like year over year percentage change in sales, Sell through Rate, "}
+{"text": "Gross Margin and Items per purchase."}
+{"text": "Worked closely with Tableau support team during tableau server upgrades to 9.2"}
+{"text": "Migrated all the reports from tableau 8.2 to tableau 9.0 and published them on the server. "}
+{"text": "Adopted Tableau 9.2 new features into my current work environment."}
+{"text": "Hands-on experience in assisting internal users to create and modify worksheets and data visualization dashboards."}
+{"text": "Created users, groups, projects, custom analysis and visually effective projects and dashboards to"}
+{"text": " present to Senior Level Executives.\u00a0"}
+{"text": "Good SQL reporting skills with the ability to create SQL views and write SQL queries.\u00a0"}
+{"text": "Identified opportunities to develop forecasts, statistical models, segmentation schemes, and "}
+{"text": "data-driven analyses to drive marketing and merchandising efforts around customer acquisition and conversion. "}
+{"text": "Involved as a technical expert providing input to application design regarding performance tuning and administration requirements.\u00a0"}
+{"text": ""}
+{"text": ""}
+{"text": "DELLOITE, INDIA\t\t\t\t\t\t\t\tMay 2013 \u2013 Mar 2015"}
+{"text": "Data Analyst"}
+{"text": "Responsibilities:"}
+{"text": "Involved in reviewing business requirements and analyzing data sources form Excel/Oracle"}
+{"text": "SQL Server for design, development, testing, and production rollover for reporting and analysis of projects within Tableau Desktop 7.3 and 8.0."}
+{"text": "Applied logistic regression and various classification techniques to predict credit scores and "}
+{"text": "validated the model."}
+{"text": "Researched various machine learning algorithms such as Decision trees, Na\u00efve Bays, SVM, KNN and applied to predict loan acceptance to improve the previous model and increase the prediction accuracy."}
+{"text": "Validated the results using the cost matrix which is calculated based on cost incurred due to false positives and false negatives."}
+{"text": "Used Python and R Markdown to present the reports with the ROC plots, graphs and results of the models."}
+{"text": "Developed, recommended and assisted with the implementation of business strategies to manage credit risks, increase revenue and reduce exposure to credit losses."}
+{"text": "Built linear regression model to predict the interest rate for a loan application."}
+{"text": "Worked on a huge transactional data set of 40 million rows and performed exploratory data analysis."}
+{"text": "Converted continuous variables to dummy variables for performance improvement."}
+{"text": "Created report schedules, data connections, projects, groups in Tableau server."}
+{"text": "Created incremental refreshes for data sources on Tableau server."}
+{"text": "Created views in Tableau Desktop that were published to internal team for review and further data analysis and customization using filters and actions."}
+{"text": "Involved in creating interactive dashboard and applied actions (filter, highlight and URL) to dashboard"}
+{"text": "Created and modified Interactive Dashboards and guided navigation links within "}
+{"text": "Interactive Dashboards."}
+{"text": "Created reports for users in Tableau by connecting to various data sources (MS SQL Server, "}
+{"text": "Oracle, MS Excel, Netezza, .CSV)."}
+{"text": "Created Heat Map showing current service subscribers by color that were broken into regions allowing business user to understand where we have most users vs. least users."}
+{"text": "Converted charts into Crosstabs for further underlying data analysis in MS Excel."}
+{"text": "Created Bullet graphs to determine profit generation by using measures and dimensions data from Oracle SQL Server and MS Excel."}
+{"text": "Blended data from multiple databases into one report by selecting primary keys from each "}
+{"text": "database for data validation."}
+{"text": "Reviewed complex SQL queries and edited inner, left, and right joins in Tableau Desktop by connecting live/dynamic and static datasets."}
+{"text": "Well versed with the usage of variables to make the packages dynamic and scheduled the "}
+{"text": "package in SSIS (sequential scheduling)."}
+{"text": "Migrated data using different SSIS packages and integrated data into the data warehouse."}
+{"text": "Developed story telling dashboards in Tableau Desktop and published them on to Tableau Server which allowed end users to understand the data on the fly, with the usage of quick filters for on demand information."}
+{"text": "Monitored VizQL server, Application Server and data server activity to track performance "}
+{"text": "and system stability."}
+{"text": "Scheduled data refresh on Tableau Server for weekly and monthly increments based on business change to ensure that the views and dashboards were displaying the changed data accurately."}
+{"text": "Tested dashboards to ensure data was matching as per the business requirements and if "}
+{"text": "there were any changes in underlying data."}
+{"text": "Participated in meetings, reviews, and user group discussions with stakeholders and"}
+{"text": "business groups."}
+{"text": ""}

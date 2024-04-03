@@ -1,0 +1,137 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: \u014csaka, Japan"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 60268528438"}
+{"text": "Objectives"}
+{"text": "To pursue a challenging position (Contract or FTE) in a dynamic, growing organization that can utilize my experience of cutting-edge analytics data platforms, Datawarehouse applications and related services. "}
+{"text": ""}
+{"text": "Teradata Database Development & Administration (TD 12, 13.0, 13.10,14.0,14.10,15.0,15.10)"}
+{"text": "ETL/BI Development, Operations & Application Support (Informatica Power Center, Control-M, GCFR, SLJM)"}
+{"text": "Teradata DEV/QA/PROD environments Development, Maintenance & Planning"}
+{"text": "Teradata System Performance Tuning & Database Security Management "}
+{"text": "SQL/BTEQ/TPT Development/Optimization, SQL EXPLAIN plan analysis, Query Optimization, Query Banding"}
+{"text": "Teradata Active System Monitoring (TASM) Workload design & analysis"}
+{"text": "Teradata Utilities (Teradata Parallel Transport (TPT), BTEQ, Fastload, Multiload, Fastexport, TPUMP) Development"}
+{"text": "Stored Procedures/Macro\u2019s"}
+{"text": "Teradata Tools (SQL Assistant, TD Administrator, TSET, TD Index Wizard, Workload Analyzer)"}
+{"text": "Teradata Viewpoint Management & Monitoring"}
+{"text": "DBC Objects / Data Dictionary Maintenance, Analysis & Reporting"}
+{"text": "System Health Analysis/Reporting using PDCR, DBQL & Resusage data "}
+{"text": "Multi value compression (MVC), Block Level compression (BLC), Teradata virtual storage (TVS)"}
+{"text": "Physical Database Modeling/Design, Understanding of OLAP/OLTP "}
+{"text": "DBScontrol & CNS Utilities "}
+{"text": "Capacity Planning & Forecasting, Support in Upgrades"}
+{"text": "Unity, Dual active systems, Teradata multi-system management"}
+{"text": "Informatica Power Center Support & Development "}
+{"text": "System Administration & Shell scripting (UNIX/LINUX)"}
+{"text": "Teradata Applications Support (CIM/ARM/TRM)"}
+{"text": "Backups & Restore \u2013 BAR activities & strategies using DSA, Netbackup, NetVaulT, ARCMAIN "}
+{"text": "Disaster Recovery Planning & Management"}
+{"text": "SLAs and OLAs management"}
+{"text": "ITIL Processes & Framework (Incident/Problem/Change/Release Management)"}
+{"text": "IT Service Management Tools & Methodology (ITSM Remedy, Service Now)"}
+{"text": "TARDIS / JIRA / STASH / Jenkins / Source Tree / Perforce"}
+{"text": "Certifications & Trainings"}
+{"text": "Teradata 12 Certified Database Administrator"}
+{"text": "Teradata 12 Certified Technical Specialist"}
+{"text": "Teradata 12 Certified Professional"}
+{"text": "ITIL v3 Foundation Certified in IT Service Management"}
+{"text": "Teradata System Performance -  Larry Higa   (2012-Prague)"}
+{"text": "Teradata Performance Optimization through Physical Design (2014-Manila)"}
+{"text": "Teradata Performance Optimization through Workload Management (2014-Manila)"}
+{"text": "Customer Service Skills & Mindset Program (2013-Islamabad)"}
+{"text": "Employment History"}
+{"text": "Optimum IT Solutions Inc.| Plano, TX "}
+{"text": "Teradata Datawarehouse Consultant \u2013 (June, 2015 \u2013 Present)"}
+{"text": "Being a Teradata Datawarehouse Consultant, I am responsible for delivering service components as per client\u2019s defined contractual scope and SLAs. Below is brief overview of Client engagements."}
+{"text": "Teradata Corporation | Project - DSW | Columbus, OH   "}
+{"text": "Teradata Consultant | Onsite (Sep, 2016 \u2013 May 2017)"}
+{"text": "I was working as Teradata DBA (Contract) at DSW with major focused on implementing Teradata best practices and educating Client staff around Database Development & Performance Optimization techniques."}
+{"text": "Stored Procedures Development to Automate DBA level 1 tasks"}
+{"text": "Database Development and Administration for 5 Teradata Systems"}
+{"text": "Re-engineering Security & Implement new Teradata 15.0 features"}
+{"text": "Performance Optimization through physical design and workload management (TASM)"}
+{"text": "Productive Partnership  with EDW/BI Architects & Data Modelers"}
+{"text": "Co-ordinate with GSC and TD CS for ongoing issues and plan future upgrade roadmap"}
+{"text": ""}
+{"text": "Teradata Corporation | Project - Expedia | Bellevue, WA   "}
+{"text": "Teradata Consultant | Onsite (Jul, 2015 \u2013 Aug 2016)"}
+{"text": "I worked as MS team Lead - Teradata DBA for last 5 months prior to which I was working in capacity of Teradata Developer as a Contractor for DB2 \u2013 Teradata Migration project of Expedia. "}
+{"text": "Strategic Teradata Database Development, DWH Engineering & Performance Tuning activities"}
+{"text": "Advance DBA tasks/BAR-(DSA)/TASM/Viewpoint Set-up/Performance Tuning management"}
+{"text": "ETL Development/Migration using TPT, Informatica Power Center & other Teradata Tools & Utilities  "}
+{"text": "Stored Procedures/ SQL/BTEQ Development, Testing & Optimization, SQL EXPLAIN plan analysis"}
+{"text": "Design/Development/Testing/Deployment of migration sprints and performance analysis (Dev/QA/Pre-Prod/Prod)"}
+{"text": "Teradata Corporation"}
+{"text": "Teradata Professional Services Consultant \u2013 (Oct 2010 \u2013 June, 2015)"}
+{"text": "My role over the last 5 years as a Teradata Consultant (FTE) has been to deal with operational elements of the Teradata DWH platforms both onsite & offsite with some reputable clients of Teradata across Europe & Middle East. "}
+{"text": "Teradata Managed Services - CoE | EMEA Region (Jan 2015 \u2013 May 2015)"}
+{"text": "In this role, my key focus was to conduct performance optimization assessments and introduce Teradata DBA/ETL best practices across MS accounts in Europe, Middle East, Africa & Asia Pacific region. "}
+{"text": "System performance tuning exercise on key MS accounts"}
+{"text": "Identification of performance issues & provide/recommend optimized solutions"}
+{"text": "Assist in implementation of Teradata DBA/ETL Development standard best practices and process automation"}
+{"text": "User/Developers guides & training on DBA/ETL best practices & performance optimization techniques"}
+{"text": ""}
+{"text": "Unilever  "}
+{"text": "Teradata System Performance Tuning Engineer | Offsite (Sep 2014 \u2013 Dec 2014) "}
+{"text": "In the large DWH environment of Unilever, I was assigned as a Performance tuning expert and successfully identified/fix performance issues system wide and optimize semantic jobs to ensure SLA compliance"}
+{"text": "Semantic layer performance tuning & optimization"}
+{"text": "Tuning/Re-writing of complex ETL/Business queries(SQL, BTEQ, Stored Procedures), SQL EXPLAIN plan Analysis"}
+{"text": "Performance reporting for Capabilities using PDCR, TASM & Workload design & analysis "}
+{"text": "Unity, Dual active systems, Teradata multi-system management"}
+{"text": "Root Cause Analysis for system degradation & provide optimized Solution Recommendations/Fix"}
+{"text": ""}
+{"text": "Telenor"}
+{"text": "Teradata DBA/ETL Tech Lead | Onsite \u2013 Islamabad (Jan 2014 \u2013 Sep 2014)"}
+{"text": "I was assigned in a leading Telecom company of Pakistan as a Lead Teradata DBA/ETL where I accomplished to optimize Teradata DWH system & stream line EDW operations/development/deployments by Introducing Teradata best practices."}
+{"text": "Teradata Parallel Transport (TPT) Support & development, DBA/ETL Process automation, SLA\u2019s/OLA\u2019s maintenance"}
+{"text": "Advanced DBA support, TASM workload analysis & implementation for Prod/QA/Dev environments, "}
+{"text": "ETL big-batches Hot-fixes, Query optimization, SQL/BTEQ Writing , SQL EXPLAIN plan analysis"}
+{"text": "Capacity Planning (Saved 46-TB space), Multi Valued Compression, Block level Compression"}
+{"text": "Auto Stats Collection Process Implementation/Maintenance, Stats Optimization"}
+{"text": ""}
+{"text": "Qatar Telecom (Ooredoo)"}
+{"text": "Lead Teradata DBA / Developer | Onsite \u2013 Qatar (Apr 2013 \u2013 Dec 2013)"}
+{"text": "As a Teradata Consultant in leading Telecom Company of Qatar, I introduced Teradata DBA/ETL best practices to optimize Teradata DWH Production/Development system & stream line EDW operations."}
+{"text": "DBA activities for Development/Production environment, Teradata Viewpoint setup"}
+{"text": "Database Objects development & maintenance, Table/View/Macros/Stored Procedures, Index selection & Stats "}
+{"text": "Informatica power center ETL batch development & Support, Incident/Problem resolution & Hotfixes"}
+{"text": "ETL batch performance analysis and optimization, Automation of DBA/ETL reports"}
+{"text": "Offshore Team Management, Project documentation (Operational Manuals/Run-book)"}
+{"text": ""}
+{"text": "Nokia"}
+{"text": "Onsite \u2013 Finland | (Apr 2011 \u2013 Apr 2013)"}
+{"text": "I worked in the challenging DWH environment of world's largest manufacturer of\u00a0mobile handsets, where I served in multiple roles, as a Performance DBA as well as Informatica ETL lead."}
+{"text": "Teradata System Performance Tuning Engineer "}
+{"text": "Teradata System Performance tuning/optimization for Production/Dev/QA & XLDB systems"}
+{"text": "Query Optimization (SQL Review/Re-write/Test/Deploy), SQL EXPLAIN plan analysis"}
+{"text": "Root Cause Analysis for system degradation & provide optimized Solution Recommendations/Fix"}
+{"text": "Physical Data Modeling/Design, Semantic layer aggregation tuning / recommendations"}
+{"text": "Performance Testing of new releases in QA/XLDB systems before PROD deployments"}
+{"text": "Teradata Developer & Application Support"}
+{"text": "Development and Operational support  for Demand & Delivery (DND) applications to adhere agreed SLA"}
+{"text": "Teradata Database Development, ETL/BI Development using Informatica Power Center & Teradata Utilities "}
+{"text": "ETL Reporting, Data Validations, Source Data Reconciliations, Troubleshoot & Apply Hotfixes"}
+{"text": "QA Testing and Prod Deployments"}
+{"text": "Statoil"}
+{"text": "Teradata DBA / Developer | Offsite (Oct 2010 \u2013 Mar 2011)"}
+{"text": "As Teradata Consultant in the leading energy company of oil & gas production in Nordics, my duties were to perform DBA and Development support activities in rotating shift model, some of which are as below. "}
+{"text": "Database Administration & Development as per TD Best Practices for Dev/QA/Prod Environment"}
+{"text": "ETL Development & Support (Teradata Utilities)"}
+{"text": "Data Backups & Restore"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Gjensidige"}
+{"text": "Teradata DBA & TRM Support | Offsite (Oct 2010 \u2013 Mar 2011)"}
+{"text": "I was assigned on Norway's largest financial services Datawarehouse platform to provide Teradata Relationship Manager (TRM) support and Database Administration Tasks"}
+{"text": "Teradata Relationship Manager (TRM)  support / Batch Troubleshooting"}
+{"text": "Application monitoring & Batch reporting"}
+{"text": "Basic DBA tasks including Data Backups & Restore using Netvault"}
+{"text": "Education"}
+{"text": "Forman Christian College"}
+{"text": "2010 - Bachelors of Sciences - Computer Sciences (Honors) - Valedictory Award Winner 2010"}
+{"text": "References"}
+{"text": "Refer to Linked-in or can be furnished on request."}

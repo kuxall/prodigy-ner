@@ -1,0 +1,177 @@
+{"text": "Name: julia julia"}
+{"text": "E-Mail: julia.julia@gmail.com"}
+{"text": "Address: Changchun, China"}
+{"text": "Github: https://github.com/julia"}
+{"text": "LinkedIn: https://linkedin.com/julia"}
+{"text": "Phone No. 888840767524"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": ""}
+{"text": "7 years of Strong experience in IT Industry as SQL Server Developer /Administrator in Finance, Healthcare and Insurance domains."}
+{"text": "Highly experienced in MS SQL Server Azure/2012/2008 with Business Intelligence in SQL Server Reporting Services, SQL Server Analysis Services and SQL Server Integration Services."}
+{"text": "Expert in creating traditional as well as Web-based interactive reports using SSRS."}
+{"text": "Expertise with DDL and DML statements RDBMS data dictionaries and Normal forms RDBMS."}
+{"text": "Highly experienced in creating complex Views, Stores Procedures, DDL/DML Triggers and User-Defined Functions to implement Business Logic and Data Protection."}
+{"text": "Experienced with SQL Server and T-SQL in constructing triggers, tables, user defined functions, views, indexes, user profiles and relational database models with data integrity."}
+{"text": "Experienced in working with different data sources like OLE-DB, flat files and Excel to source data in SSIS and proficient in creating SSIS packages from scratch and deploying them."}
+{"text": "Experienced in developing and modifying cubes and dimensions in cubes using SSAS."}
+{"text": "Extensively performed database administration tasks: Installing, Configuring, Managing, Monitoring and Troubleshooting MS SQL Server 2005/2008/2012 on Windows NT/2000/2003/2008 servers."}
+{"text": "Very proficient in SQL Server Replications/ Backup/Recovery, Disaster Recovery and planning."}
+{"text": "Skilled in developing Data Warehouses, Data marts using Star Schemas and Snow Flake Schema."}
+{"text": "Experienced in creating reports using SQL Server Reporting Services sourcing OLAP cubes and data warehouse, data marts as well as transactional systems."}
+{"text": "Experienced in query optimization (SQL tuning) using SQL Profiler, Database Tuning Advisor(DTA), Index tuning wizard and Performance monitor for performance tuning."}
+{"text": "Experiene in Application development Analysis, Requirement Analysis, scoping, Developing, Debugging, Testing and documentation of various phases in various phases in a project life cycle of Client/Server Applications."}
+{"text": "Excellent problem solving, analytical, technical, interpersonal and communication skills with strong leadership abilities and an extremely diligent strong team player with an ability to take new roles. "}
+{"text": ""}
+{"text": "EDUCATION QUALIFICATIONS:"}
+{"text": "Bachelors of Engineering in Mechanical Engineering, M.S. Ramaiah Institute Of Engineering(2009)."}
+{"text": ""}
+{"text": "TECHNICAL SKILLSET:"}
+{"text": "MS SQL Server 2005/2008/2012, SQL Server Integration Services(SSIS), SQL Server Reporting Services(SSRS), SQL Server Analysis Services(SSAS), SQL Server Management Studio(SSMS), Visual Studio 2005/2008/2012, LINUX, Import/Export Wizard,  DB2, MS-Access, Sybase,Powerpivot,  C#, PL/SQL, T/SQL, JAVA, Java Script, VB Script, XML, HTML, Microsoft Visio 2007, ERWIN, Windows NT 4.0/XP/Vista, Windows 2003 /2008 Server."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experiences:"}
+{"text": ""}
+{"text": ""}
+{"text": "WELLS FARGO INSURANCE SERVICES, WINSTON SALEM, NC\u00a0\u00a0\u00a0\u00a0\u00a0           March2017  - Present\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0"}
+{"text": "MS SQL SERVER SSIS/SSRS DEVELOPER\t\t\t                                   "}
+{"text": ""}
+{"text": "Wells Fargo Insurance Services wheels clients to insurance companies. The firm is a subsidiary of Wells Fargo, is one of the largest insurance brokers in the world. WFIS offers a property/casualty coverage, including specialty coverage for professionals in construction health and transportation services. "}
+{"text": ""}
+{"text": "\u00a0Responsibilities:"}
+{"text": ""}
+{"text": "Used  various transforms in SSIS to load data from flat files and Excel files to the SQL databases."}
+{"text": "Performed migration from SQL Server 2012 to SQL Azure."}
+{"text": "Created Stored procedures, Triggers, Functions, Indexes, Tables with complex query and DML update statements on SQL Azure to support existing Nexsure application. "}
+{"text": "Developed on-demand and scheduled reports for business analysis or management decision using SQL Server Reporting Services(Azure)."}
+{"text": "Developed the SQL Server Integrations Services(SSIS) packages to transform data from SQL 2012 to MS SQL Azure as well as Created interface stored procedures used in SSIS to load/transform data to the database."}
+{"text": "Inspected the reports and fixed bugs in stored procedures and also tuned Reporting Services to the TSQL."}
+{"text": "Worked on call support to resolve issues whenever needed for Nexsure Prodifix team."}
+{"text": "Worked on Agile methodology and Microsoft Team Foundation Server(TFS) and maintained all SQL documents include data conversion procedure documents."}
+{"text": "Environment: MS SQL Azure,MS SQL Server 2008R2, Microsoft SQL Server 2012, SSRS, SSIS, T-SQL, MS-Excel."}
+{"text": ""}
+{"text": ""}
+{"text": "UNITED HEALTH GROUP INCORPORATED, NEWARK, NJ\u00a0\u00a0\u00a0             Jun 2016-Dec2016\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0"}
+{"text": "MS SQL SERVER SSIS/SSAS/SSRS DEVELOPER\t\t\t\t                      "}
+{"text": ""}
+{"text": "UnitedHealth Group is a diversified health and well-being company dedicated to making health care work better. UnitedHealth Group offers a broad spectrum of products and services through two operating businesses: UnitedHealth care and  Optum. The project is about developing various reports by implement reporting tools according to the requirement of the users."}
+{"text": ""}
+{"text": "\u00a0Responsibilities:"}
+{"text": "Created SQL Server Reports for Management using SSRS. Tasks included defining requirements, design, develop, test, implement and maintain reports using SSRS. "}
+{"text": "Developed several reports with consistent drill-down functionality including Drilldown reports, Summary reports and Master Detail reports."}
+{"text": "Developed Custom Functions, Manual Running Totals and Complex Formulas for reports."}
+{"text": "Used breaks, calculations, sorts, filters and sections to enhance data presentation in reports."}
+{"text": "Created SSIS package in which records were loaded daily, also from other data resources such as Excel, Access, flat file, Oracle and XML in order to create and maintain a centralized data warehouse."}
+{"text": "Used Bulk Copy program to import and export large amounts of data in and out of SQL Server databases."}
+{"text": "Created cube(with Star/Snowflake schema) structure for the analysis of business condition and for creation of report using SSAS.\u00a0\u00a0\u00a0 "}
+{"text": "Created ad-hoc MDX reports sourcing cube in OLAP data warehouse and data mart."}
+{"text": "Worked on with Report Manager, Report Builder, Reporting Security and Reporting Services Configuration manager."}
+{"text": "Created execution flow chart diagrams with PowerPivot."}
+{"text": "Created interactive charts using Power Pivot."}
+{"text": "Environment: MS SQL Server 2012, SSRS, SSIS, SSAS, T-SQL, MS-Excel, XML, Windows 2000/2003/NT/XP"}
+{"text": " "}
+{"text": "Allstate Insurance, Los Angeles, CA\t                                                                              Jan 2016- May 2016                  "}
+{"text": "Sr. MS SQL Server Developer (SSIS/SSRS)/DBA "}
+{"text": "All State Insurance was founded in 1931 and became publicly traded company in 1993. All state sells 13 major lines of insurance, including auto, property, life and commercial. All state is widely known through the \u201cyou are in good hands with Allstate\u201d slogan .All State also offers retirement and investment products and banking services. The projects aimed at Upgrading from SQL Server 2005 to SQL Server 2008 and support the Production Server."}
+{"text": "Responsibilities:"}
+{"text": "Performed Migration of SQL Server 2005 to SQL Server 2008."}
+{"text": "Generated Logical and Physical Data Models using Erwin."}
+{"text": "Created Database Objects like Tables, Stored Procedures, Views, Triggers, user defined data types and functions by writing complex queries and joins. "}
+{"text": "Migrated Stored Procedures from 2005 to SQL Server 2008 to refer to Dynamic Management Views."}
+{"text": "Created and Deployed of Ad-hoc and Customized Reports to satisfy business needs using SSRS. "}
+{"text": "Created SSIS Packages to (ETL) Extract, Transform and Load the data into Reporting instance to generate the reports easily and quickly."}
+{"text": "Used SQLCMD utility in command prompt to access SQL Server."}
+{"text": "Deployed the SSIS Packages to the MSDB as well as File System depending on the requirements"}
+{"text": "Maintained all the SQL documents include installation and data conversion Procedure documents. "}
+{"text": "Monitored Indexes, file growths and analyzed blocking & locking issues to remove the performance bottlenecks"}
+{"text": "Environment: MS\u00a0SQL Server 2005/2008, ER-WIN, windows 2003/2005 platform, T-SQL, Excel, Access, Crystal Reports 9.0 and Windows NT, DTS, SSIS, SSRS"}
+{"text": ""}
+{"text": ""}
+{"text": "Raymond Corp. Binghamton NY                                                                   Nov 2014   -Jan 2016                                                                           "}
+{"text": "SQL Server Developer/ BI Developer "}
+{"text": "For over 90 years, Raymond has been designing, manufacturing and distributing an exceptional, industry renowned portfolio of lift trucks and services. The scope of the project was to analyze the business and create Dealer data interfaces in SSIS."}
+{"text": "Responsibilities:"}
+{"text": "Analyzed business requirements and build logical and physical data models that describe all the data and relationships between the data using Erwin."}
+{"text": "Based on business requirement, developed the Complex SQL queries with Joins and T-SQL, Stored procedure, Views, Trigger to implementing the business rules and transformations.."}
+{"text": "Analyzed database performance with SQL Profiler and Optimized indexes to improve query performance."}
+{"text": "Used ETL SSIS to develop jobs for extracting, cleaning, transforming and loading data into data warehouse."}
+{"text": "Creating primary objects like Views, Indexes, Stored procedure, Functions, Triggers based on logical design models, user requirements and physical constraints."}
+{"text": "Involved in designing, developing and deploying reports in MS SQL Server environment using SSRS-2008 in Business Intelligence Development Studio (BIDS)"}
+{"text": "Extracted the data from\u00a0 Flat Files, Transformed (Implemented required Business Logic) and Loaded into the target Data warehouse using SSIS (SQL Server 2005)"}
+{"text": "Designed and developed various types of reports using SSRS and rendered them in front end applications like Excel."}
+{"text": "Developed SSIS Packages to perform Data loads from various types of sources files (EXCEL, Access, Flat files)."}
+{"text": "Designed and created distributed reports in multiple formats such as Excel, PDF, XML and CSV using SQL Server 2005 Reporting Services (SSRS) and Crystal reports."}
+{"text": ""}
+{"text": "Tools and Technologies: SQL Server 2005/2008, SSIS, SSAS, SSRS, Erwin, XML, MS Access, Excel,  Crystal Reports."}
+{"text": ""}
+{"text": "Credit Suisse Securities (USA) LLC, NY\t                                                                  Jun 2013- Nov 2014                                                                              "}
+{"text": "SQL Server Developer/ BI Developer "}
+{"text": "Credit Suisse Group is a world-leading financial services company, advising clients in all aspects of finance, around the world. Bank is organized into three divisions Investment Banking, Private Banking, and Asset Management. The scope of the project was to create various reports as per user requirement, creation of SSIS packages for transforming data and put it into staging area and maintaining OLAP cube."}
+{"text": "Responsibilities:"}
+{"text": "Based on business requirements, developed the complex SQL queries with Joins and T-SQL, Stored Procedure, Views, Trigger to implement the business rules and transformations."}
+{"text": "Designed, Developed and Deployed reports in MS SQL Server environment using SSRS-2005."}
+{"text": "Created Subscription of Reports in different formats like pdf, excel etc to be executed automatically on daily, weekly or monthly basis using MOSS (Microsoft Office SharePoint Server) tool."}
+{"text": "Connected various applications to the database."}
+{"text": "Created databases and schema objects including tables, indexes, views and applied constraints."}
+{"text": "Created reports from complex SQL queries and MDX queries."}
+{"text": "Created and implemented the staging database prior to the final data warehouse. "}
+{"text": "Involved in Migration of different DTS packages to SSIS packages."}
+{"text": "Expert in FTP task, ETL script task, look up transformation and data flow tasks to load staging databases."}
+{"text": "Implemented SSAS Cubes, Facts and Dimension tables to perform analysis services."}
+{"text": "Created and scheduled SSIS packages to load the data form OLTP source system to data staging environment and then to data warehouse environment."}
+{"text": "Designed the SSIS Package for the Scheduling the task for the different operations like extracting the data, to perform appropriate transformation and Loading purposes."}
+{"text": "Involved in the performance tuning for the OLAP Cube."}
+{"text": "Designed and implemented data marts, facts dimensions and OLAP cubes using dimensional modeling standards in SQL server 2005."}
+{"text": "Involved in the SSAS partitions and calculation of queries with MDX, developing reports using "}
+{"text": "MDX and T-SQL."}
+{"text": "Worked with SharePoint Server 2007 while deploying SSRS reports."}
+{"text": "Performed daily tasks including backup and restore by using SQL server 2005/2008 tools."}
+{"text": "Responsible for maintaining UAT (User Acceptance Testing) and Production environment."}
+{"text": "Environment: MS SQL Server 2000/2005, MS SQL Server Reporting Services 2005, MS SQL Server Integration Services 2005, SQL Server Analysis Services 2005, Windows XP, Excel, Acrobat Reader, Microsoft Office SharePoint Server."}
+{"text": ""}
+{"text": "Pfizer Pharmaceutical, Exton, PA\t\t\t\t\t\t          Dec 2011-Apr 2013"}
+{"text": "MS\u00a0SQL\u00a0Server\u00a0Developer\u00a0\nPfizer is the world's largest research-based biomedical and pharmaceutical company. Pfizer also continues to be one of the world\u2019s largest animal health businesses. They\u2019re focused on disease prevention: animal vaccines and animal prescription medicines. The Project aim was to evaluate database objects and to maintain the database."}
+{"text": "Responsibilities:"}
+{"text": "Upgraded the server from SQL Server 2000 to SQL Server 2005."}
+{"text": "Migrated databases from MS SQL Server 2000 to MS SQL Server 2005 using Backup and Restore method."}
+{"text": "Created and managed schema objects such as Tables, Views, Indexes, Stored Procedures and User-Defined Functions by writing complex Queries and Joins."}
+{"text": "Developed and delivered dynamic reporting solutions using Crystal Reports 4.0."}
+{"text": "Tuned SQL queries using execution plans for better performance."}
+{"text": "Remediated database objects including triggers, stored procedures, functions, user-defined functions, "}
+{"text": "Performed backup/restore, database objects such as tables, procedures, triggers, constraints, indexes, views and user security management."}
+{"text": "Administered SQL Server security, SQL Server automatic e-mail notification and SQL Server backup strategy and automation"}
+{"text": "Created reports like tabular, matrix, ad-hoc, drill down and drill through reports using SSRS."}
+{"text": "Extensively used  Database Tuning Advisor to improve the performance of Query"}
+{"text": "Used Performance Monitor and SQL Profiler to optimize queries and enhance the performance of database servers. "}
+{"text": "Environment: MS SQL Server 2000 Enterprise Edition, SQL Server 2005 Enterprise Edition, Crystal Reports 4.0, ODBC, VBScript, Windows\u00a02000/2003\u00a0Server"}
+{"text": ""}
+{"text": "CVS Caremark, Irving, TX      \t\t\t\t\t\t                         Jun 2010-Dec2010"}
+{"text": "MS SQL Developer/BI developer"}
+{"text": "CVS Caremark is one of the nation's leading pharmacy benefit management (PBM) companies, provides comprehensive prescription benefit management services to over 2,000 health plans, including corporations, managed care organizations, insurance companies, unions and government entities. The main objective of the project was to collect data from various database sources to perform analysis and then integrate them with the existing systems."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Created Logical and Physical data models using Erwin 4.0 data modeling tool."}
+{"text": "Developed complex Stored Procedures, Functions, DTS (Data Transformation Service) packages, Triggers, Cursors, Tables, Views, Indexes and other SQL joins and statements for applications. "}
+{"text": "Migrated the data from various sources using DTS."}
+{"text": "Scheduled and performed data transfers using DTS including filtering appropriate to the data mart for data analysis."}
+{"text": "Compressed data files by removing empty database pages and updating index statistics. "}
+{"text": "Developed and edited many complex reports with Crystal Reports 9.0."}
+{"text": "Designed and implemented user log in and security."}
+{"text": "Managed and monitored the system utilization by using \tthe query optimizer and checking the execution plan and worked in Enterprise Manager for job scheduling and batch queries."}
+{"text": "Planned the complete back-up of databases for disaster recovery scenarios."}
+{"text": "\tReorganized database structures as needed, automated procedures at regular intervals."}
+{"text": "\tOptimized long running Stored Procedures and Queries for effective data retrieval."}
+{"text": "\tInvolved in project planning, scheduling for database module with project managers."}
+{"text": ""}
+{"text": "Environment: MS SQL Server 2000 Enterprise Edition, MS Access 2000, DTS, T-SQL, Query Analyzer, BCP, SQL Profiler, Windows 2000 Server,  Crystal Reports 9.0"}
+{"text": ""}
+{"text": " "}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}

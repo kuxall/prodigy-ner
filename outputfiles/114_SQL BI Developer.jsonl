@@ -1,0 +1,179 @@
+{"text": "Name: gertrude gertrude"}
+{"text": "E-Mail: gertrude.gertrude@gmail.com"}
+{"text": "Address: Lu\u2019an, China"}
+{"text": "Github: https://github.com/gertrude"}
+{"text": "LinkedIn: https://linkedin.com/gertrude"}
+{"text": "Phone No. 459208991753"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Summary"}
+{"text": "Experienced MS Business Intelligence Developer with 7+ years of experience working with BI applications such as SSMS, SSIS, SSRS, SSAS in Development, Dev., Test and Production Environments, visualization tools such as Power BI and Tableau. A wide experience working in different industry domains such as healthcare, surfaces, insurance and finance."}
+{"text": "SQL/ETL Developer having 7+ years of IT experience in Requirement Gathering, Analysis, Design, Development and Implementation of Enterprise solutions."}
+{"text": "I have an experience in installing, configuring, managing, upgrading and migrating, monitoring and troubleshooting SQL Server 2016/2014/2012/2008R2/2008."}
+{"text": "I have an experience in SQL Server Integration Services (SSIS) and SQL Server Reporting Services (SSRS) with good knowledge on SQL Server Analysis Services (SSAS)."}
+{"text": "I have an experience in report development using SSRS and creating various types of reports like Dashboard, Drill Down/Through, Parameterized, Cascading, Conditional, Table, Matrix, Chart and Sub Reports."}
+{"text": "I have an experience in developing, monitoring, extracting and transforming data using DTS/SSIS, Import Export Wizard, and Bulk Insert."}
+{"text": "I have an experience in design of ETL Packages and SSIS Packages for integrating data using OLE DB connection from different sources like (Excel, CSV and flat files, MS Access, SAS, Oracle, DB2, CRM) by using many transformations which provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert, Derived Column, Merge, Merge Join and Union all."}
+{"text": "I have excellent knowledge in creating Databases, Tables, Stored Procedures, DDL/DML Triggers, Views, User defined data types, functions, Cursors and Indexes using T-SQL."}
+{"text": "I have an experience in Data Conversion and Data Migration using SSIS and DTS services across different databases like Oracle, MS access and flat files."}
+{"text": "I have an experience in Performance Tuning and Query Optimization."}
+{"text": "I have an experience in maintenance and administration of SSIS by creating Jobs, Alerts, SQL Mail Agent, and schedule DTS/SSIS Packages."}
+{"text": "I have an experience in creating Parameterized Reports."}
+{"text": "I have an experience in creating Star Schemas and Snow Flake Schemas."}
+{"text": "Excellent analyst and communicative and also comfortable working independently and with different size of teams."}
+{"text": "Involved in designing and populating data in data warehouse and Cubes (OLAP) using SSAS and SSIS."}
+{"text": "I have an experience with data modeling for OLTP and multi-dimensional databases. I used Erwin for Conceptual, Logical and Physical modeling."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Education"}
+{"text": "University of Science and Technology, Bachelor in Information Technology, Yemen Sana\u2019a 2005-2009"}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills"}
+{"text": ""}
+{"text": ""}
+{"text": "Texas Instruments Inc., Dallas/TX\t                                                                                             May 2016 \u2013 Pres."}
+{"text": " SQL BI Developer (SSIS, SSRS, SSAS)"}
+{"text": "Designs and manufactures semiconductors, which it sells to electronics designers and manufacturers globally, headquartered in Dallas, TX. TI is one of the top ten semiconductor companies worldwide, based on sales volume. Focuses on developing analog chips and embedded processors, which accounts for more than 85% of their revenue."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathering, analyzing and documenting the business requirements and business rules by directly working with end users/clients."}
+{"text": "Designed and developed various SSIS packages (ETL) to extract and transform data and involved in scheduling and deploying SSIS Packages."}
+{"text": "Published SSRS reports in Report Manager, SharePoint web pages and in custom made ASP.NET web applications."}
+{"text": "Performed SSIS Development and support, developed ETL solutions for integrating data from multiple sources like Flat Files (delimited, fixed width), Excel, SQL Server, Raw File, and DB2 into the central OLTP database."}
+{"text": "Created Stored Procedures, Triggers, Functions (UDF), Indexes, Tables, Views and other T-SQL codes and SQL joins for SSIS packages and SSRS reports."}
+{"text": "Extract, Transform and Load data from databases of systems like CRM, ERP and SharePoint"}
+{"text": "Design, maintain and deliver SSRS reports sourcing from central database."}
+{"text": "Provided standard and ad-hoc reports on a regular basis and on demand."}
+{"text": "Configured SSIS packages with XML configuration file, Environment variable, Registry entry, Parent package variable and SQL Server table."}
+{"text": "Pulled data into MS SQL Server Database from different DBMS databases like Oracle and Teradata with ETL packages.  "}
+{"text": "Created and scheduled Various SQL Jobs, using SQL Server Agent to perform various Administrative tasks."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Sompo International, Purchase/NY\t\t    _\t                          _\t\t    May 2014 \u2013 Apr 2016"}
+{"text": "ETL/SSIS Developer"}
+{"text": "Wholly owned subsidiaries of Sompo Holdings, Inc., whose core business encompasses one of the largest property and casualty insurance groups in the Japanese domestic market"}
+{"text": ""}
+{"text": "Skill Set:"}
+{"text": "MS SQL Server 2012/2008, MS SQL Server Master Data Services 2012, SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS), SQL Server Analysis Services (SSAS), MS Visual Studio/.NET 2008, SAP Business Objects, BI Extractor, Microsoft Excel, Add-In Excel with Master data."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Created ETL Packages using SSIS for extracting, cleaning, transforming and loading data from staging tables to destination tables with incremental load."}
+{"text": "Developed, deployed, and monitored SSIS Packages."}
+{"text": "Making changes to existing ETLs and building some new ETL processes."}
+{"text": "Worked closely and communicate with project team members to achieve project goals."}
+{"text": "Created packages using the various control flow tasks such as Data Flow Task, Execute SQL Task, Execute Package Task, File System Task."}
+{"text": "Created number of standard reports and complex reports to analyze data using Slice & Dice, Drill Down and Drill Through approaches using SSRS."}
+{"text": "Designed the Data warehouse and done the mappings from Source to the Target tables."}
+{"text": "Developed SSIS packages to extract, transform and load data from Oracle and SQL Server databases into Data Warehouse."}
+{"text": "Identified the dimension, fact tables and designed the Data-Mart using Star schema."}
+{"text": "Created Indexes for faster data retrieval from the database."}
+{"text": "Wrote Stored Procedures and Functions for better performance and flexibility."}
+{"text": "Deployed SSIS packages into various Environments (Dev, UAT and Prod) using Deployment Utility."}
+{"text": "Created SQL Server jobs and scheduled them to load data periodically using SQL server Agent."}
+{"text": "Strong skills in transformation data from DB2 to SQL Server"}
+{"text": "Created and Designed Data Source and Data Source Views and configured OLAP Cubes (Star and Snow Flake Schema) using SSAS."}
+{"text": "Created reports from OLAP, sub reports, bar charts and matrix reports using SSRS"}
+{"text": "Developed Multidimensional Objects (Cubes, Dimensions), designed Dimensional Modeling and created Hierarchies using SQL Server Analysis Services (SSAS)."}
+{"text": "Created Parameterized, Cross-Tab, Drill Down and Summary reports by Using SSRS and created report snapshots to improve the performance of SSRS."}
+{"text": "Created SSRS and PowerBI reports sourcing from SSAS\u2019s Multidimensional OLAP and Tabular model cubes with MDX and DAX."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Candela Network LLC, Cedar Grove/NJ\t                                               \t\t      May 2011 - Apr 2014"}
+{"text": "SQL BI SSIS, SSRS/PowerBI Developer"}
+{"text": "Market leader in providing solutions for networking hardware/software and other electronic goods to small and mid-sized companies nationally and globally"}
+{"text": ""}
+{"text": "Skill Set:"}
+{"text": "MS SQL Server 2014/2012/2008R2, SQL Server Reporting Services 2008/2012, SQL Integration Services 2008/2012, SQL Server Analysis Services 2008/2012, Microsoft Visual Studio, SQL Server Management Studio, MS Excel, T-SQL, ERWIN."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in writing heavy\u00a0T-SQL stored procedures, complex joins, new T-SQL\u00a0features like Merge, Except commands"}
+{"text": "Developed SSIS packages using\u00a0Lookup Transformations, Merge Joins, Fuzzy LookUps, and Derived Columns\u00a0with Multiple Data Flow tasks."}
+{"text": "Created XML\u00a0Package Configurations,\u00a0Error Handling using\u00a0Event Handlers\u00a0for On Error, On Warning, On-Task Failed event types."}
+{"text": "Worked with re-directing outputs into different formats including XML Files and various other data sources."}
+{"text": "Involved in automating\u00a0SSIS Packages using\u00a0SQL Server Agent\u00a0Jobs, Windows Scheduler, and third-party tools."}
+{"text": "Worked on several transformations in Data Flow including Derived-Column, Script, Slowly Changing Dimension, Lookup, Data Conversion, Conditional-Split and many more."}
+{"text": "Worked on XML Web Services Control Flow task to read from XML Source."}
+{"text": "Designed and developed various SSIS packages (ETL) to extract and transform data and involved in Scheduling SSIS Packages."}
+{"text": "Developed ETL solutions for integrating data from multiple sources like Flat Files (delimited, fixed width), Excel, SQL Server, Raw File and DB2 into the data warehouse."}
+{"text": "Created, maintained and updated ETL packages loading from/to both OLTP and OLAP database tables."}
+{"text": "Developed and implemented data collection systems and other strategies which optimize statistical efficiency and data quality."}
+{"text": "Created Complex ETL Packages using SSIS to extract data from staging tables to partitioned tables with incremental load."}
+{"text": "Created packages in SSIS with error handling and worked with different methods of logging in SSIS."}
+{"text": "Acquire data from primary or secondary data sources and maintain databases/data systems"}
+{"text": "Identify, analyze, and interpret trends or patterns in complex data sets."}
+{"text": "Converted old ETL packages to the new version (did optimization by applying more stored procedures instead of using control flow tasks)."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Kaiser Permanente, Oakland/CA                                                   _\t                                 Apr 2010 \u2013 Mar 2011"}
+{"text": "SQL/SSIS Developer, Data Modeler"}
+{"text": "An integrated managed care consortium, based in Oakland, California, founded in 1945, made up of three distinct interdependent groups: the Kaiser Foundation Health Plan, Inc., Kaiser Foundation Hospitals, Permanente Medical Groups. As of 2014, Kaiser Permanente operates in eight states and the District of Columbia, and is the largest managed care organization in the United States."}
+{"text": ""}
+{"text": "Skill Set:"}
+{"text": "MS SQL Server 2005/2008R2, SQL server Reporting Services 2008, SQL Integration Services 2008, SQL server Analysis Services 2008, Microsoft Visual Studio, SQL Server Management Studio, MS Excel, T-SQL, ERWIN"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "As a member of BI team, delivered the best results to the development needs, accomplished successful outcomes by working with SSIS, SSAS and SSRS."}
+{"text": "Participated in formal and informal training programs to improve technical skills and knowledge of all programmers (e.g. lunch and learns, articles, white papers)."}
+{"text": "Trained/guided new or junior developers in certain development areas helped them to understand better the project process."}
+{"text": "Solved a lot of critical/challenge issues raised by the team about ETLs."}
+{"text": "Developed ETL solutions for integrating data from multiple sources like Flat Files (delimited, fixed width), Excel, SQL Server, Raw File, DB2, Oracle, and SAP into the data warehouse."}
+{"text": "Created Incremental Load ETL packages using For Each Loops, Sequence Containers, Script Tasks, Conditional Split, Data Conversation, Derived Column, Lookup, Merge/Merge Join, Union all, etc. on BIDS 2008R2/2012. "}
+{"text": "Worked closely with business people and analyst team to deeply understand/analyze the requirements of business need and achieved the successful results."}
+{"text": "Designed SSIS Packages to extract, transfer, load (ETL) existing data into SQL Server from different environments for the SSAS cubes."}
+{"text": "Developed complex T-SQL Stored Procedures, UDFs, CTEs, Indexed Views, Staging Tables to process the data and populate them into the appropriate destination tables.\u00a0"}
+{"text": "Wrote C# hard codes in script task for ETLs, updated/maintained the ETL packages with high performance."}
+{"text": "Built efficient SSIS packages for processing Fact and Dimension tables with complex transforms and type 1/ type 2 changes."}
+{"text": "Converted old ETL packages to the new version (did optimization by applying more stored procedures instead of using control flow tasks)."}
+{"text": "Worked with the team/architect to create logical/physical modeling and created Cubes (fact, dimensions and calculations)  "}
+{"text": "Worked on various DAX expressions in Power Pivot based on the business requirement."}
+{"text": "Worked and updated to improve complex issues like Error Handling in SSIS for handling data load changes.\u00a0"}
+{"text": "Performed debugging, data analysis, and system analysis as required."}
+{"text": "Hands on Creating Parameterized reports, Cross-Tab reports, Drill down reports, Dashboard and Summary reports by using SSRS.\u00a0"}

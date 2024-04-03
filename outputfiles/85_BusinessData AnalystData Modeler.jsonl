@@ -1,0 +1,209 @@
+{"text": "Name: evelyn evelyn"}
+{"text": "E-Mail: evelyn.evelyn@gmail.com"}
+{"text": "Address: Riyadh, Saudi Arabia"}
+{"text": "Github: https://github.com/evelyn"}
+{"text": "LinkedIn: https://linkedin.com/evelyn"}
+{"text": "Phone No. 312918276110"}
+{"text": ""}
+{"text": "CAREER SUMMARY"}
+{"text": ""}
+{"text": "An IT professional with experience as a Business/Data Analyst/Data Modeler with the strong ability to gather and document Business Requirements, proficient in SDLC life cycle, understand the workflow concept, ability to gather and document the 'As-Is' and 'To-Be' processes."}
+{"text": "A Certified Scrum Master expertise in Waterfall, Agile (Scrum) and various Software Development Life Cycle (SDLC) processes and methodologies.\u00a0"}
+{"text": "Expert at interacting with stakeholders, Subject Matter Experts (SMEs) and end-users to understand, analyze, communicate and validate requirements using Joint Application Design (JAD), Joint Application Review (JAR) sessions.\u00a0"}
+{"text": "Introduced Tableau to Client to produce different views of data visualizations and presenting dashboards on web and desktop platforms to End-user and help them make effective business."}
+{"text": "Conducted Gap Analysis, created Use Cases, work flows, screen shots and Power Point presentations for the various applications."}
+{"text": "Extensive experience with EDI Transactions such as 837,\u00a0834, 276, 277, 835, 999, 4010 and 5010 HIPAA files."}
+{"text": "Experience in training Business users on Tableau through online and in-class sessions."}
+{"text": "Experienced in bug tracking, management and using HP ALM/Quality Center (QC) and JIRA for project reporting. "}
+{"text": "Experience in Business Intelligence (BI), Business Data warehousing tools and SaaS."}
+{"text": "Hands on experience with Trizetto FACETS, claim processing systems, Medicare and Medicaid Service."}
+{"text": "Experience in Data modeling for Data Warehouse/Data Mart development, Data Analysis for Online Transaction Processing (OLTP) and Data Warehousing (OLAP)/Business Intelligence (BI) applications."}
+{"text": "Well-versed in writing SQL Queries to perform end-to-end ETL validations and support Ad-hoc business requests.\u00a0"}
+{"text": "Created, documented and maintained logical and physical database models in compliance with enterprise standards and maintained corporate metadata definitions for enterprise data stores within a metadata repository."}
+{"text": "Established and maintained comprehensive data model documentation including detailed descriptions of business entities, attributes, and data relationships."}
+{"text": "Expertise in writing Use Cases and producing Use Case Model, Analysis model, Behavior diagrams (Sequence diagrams, Collaboration diagrams) and Class diagrams & Business process flow diagrams using MS Visio."}
+{"text": "Hands on experience in creating Requirement Traceability Matrix to list all the requirements and\u00a0\nensured all technical requirement documents like Use Cases, Test Cases are written and compiled\u00a0"}
+{"text": "Proficient in creating various documents like Business Requirements Document (BRD), Functional Requirement Document (FRD) and Functional Specification Document (FSD)."}
+{"text": "Interacted with client regarding project status and feedback on UAT and discussed the information with the development team.\u00a0"}
+{"text": "Have in-depth knowledge of Software Development Life Cycle (SDLC) methodologies, vast experience working in Agile/Scrum, Waterfall, methodologies. "}
+{"text": "Performed in depth gap analysis to analyze/compare the As-Is and To-Be compatibility of existing system infrastructure with the new business requirements.\u00a0"}
+{"text": "Organized weekly project status meetings and task review meetings, documented and disseminated meeting minutes effectively. "}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": ""}
+{"text": "TeamHealth, Knoxville, TN \t\t\t\t\t   \t\t         \t\tDec 2018 - Present"}
+{"text": "Data Analyst/Modeler"}
+{"text": "Worked on the Recruiting Excellence project. The goal of this project is to develop a data warehouse to support various reports for the board and Executives to replace the manual reports being currently produced. "}
+{"text": "Reports include: "}
+{"text": "1. Recruiter accountability (analyze recruiter performance over a period of time)"}
+{"text": "2. Premium labor (Track the premium labor cost being incurred and at what facilities)"}
+{"text": "3. Contract performance (Provider and Facility contract performances)"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Translate the data requirements into specifications for development."}
+{"text": "Profile the data from various sources such as SQL Server, Oracle and Flat files to determine the suitability for the solutions."}
+{"text": "Conducted Stand-up meetings to gather capture goals, accomplishments and obstacles of the project team members.    "}
+{"text": "Collaborated with business personnel, business Project Managers, IT Project Managers, third party vendors, Offshore team and IT solution delivery personnel."}
+{"text": "Created comprehensive business process models of current state and future state capturing pertinent process step details in design documents."}
+{"text": "Performed related duties as assigned including training, technical documentation, vendor management and administrative support."}
+{"text": "Performing detailed analysis, identifying trends and patterns in data."}
+{"text": "Worked with the ETL specialists to understand logic in transformation involved in Source to Mapping documents."}
+{"text": "Performed data mapping to map the ETL process for the creation of data marts."}
+{"text": "Perform detailed analysis to identify the trends and patterns in the data."}
+{"text": "Created DDL scripts for implementing\u00a0Data\u00a0Modeling changes. Created\u00a0ERWIN\u00a0crystal reports"}
+{"text": "Perform root cause analysis on data anomalies and working data stewards to resolve issues."}
+{"text": "Provided regular and multiple demonstrations of Tableau functionalities and efficient data visualizations approaches using Tableau to the management as well as the client."}
+{"text": "Involved in Tableau dashboard performance optimization for better and more efficient reports."}
+{"text": "Installed, upgraded, and maintained Tableau Server when required."}
+{"text": "Wrote and executed SQL queries to verify that data has been moved from transactional system to DSS, Data warehouse, data mart reporting system in accordance with requirements."}
+{"text": "Developed logical and physical\u00a0data\u00a0models that capture current state/future state\u00a0dataelements and\u00a0data\u00a0flows using\u00a0Erwin."}
+{"text": "Tested, Cleaned, and Standardized Data to meet the business standards using Execute SQL task,"}
+{"text": "Analyzed the data using statistical features in tableau to develop Trend Analysis reports."}
+{"text": "Created Workflow diagrams using Unified Modeling Language (UML), Wireframes and Mock-ups for Prototypes."}
+{"text": "Development of best practices, guidelines and standards for Data Integration COE Qualifications."}
+{"text": "Work on the Logical model for the DataMart using ER Studio."}
+{"text": "Write customized macros for ER studio to standardize and speed up the modeling process."}
+{"text": "Review the logical model with the End Business Users."}
+{"text": "Generate Physical model and DDL scripts to build the DataMart on SQL Server."}
+{"text": "Write source to target mapping documents for the offshore ETL Teams."}
+{"text": "Performance QA on the ETL loading packages for the DataMart."}
+{"text": "Prepare Documentation to incorporate the DataMart in the Microstrategy Dashboard."}
+{"text": "Perform final UAT with the End Business Users."}
+{"text": "Environment: JIRA, DQ Analyzer, Oracle, SQL Server, SSIS, SSRS, Toad, SSAS, ER Studio, Erwin , Microstrategy"}
+{"text": ""}
+{"text": ""}
+{"text": "Horizon BCBS, Newark, NJ\t\t\t\t\t\t\t\t\tMar 2017 \u2013 Nov 2018"}
+{"text": "Data Modeler / Analyst"}
+{"text": "I worked as a Data Analyst on the Health care application Dashboard. Also, involved in troubleshooting and resolving errors in 834 and 820 transactions for health insurance exchanges and performing root cause analysis. The second phase of the project involved retirement of legacy databases and redesigning of all reports from single data warehousing platform and develop new reports on a single business intelligence platform."}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Designed and developed project document templates based on SDLC- Agile/Scrum methodology."}
+{"text": "Attended Scrum meetings, which included Sprint Planning, Daily Scrums or Stand-ups, Sprint Check-In, Sprint Review & Retrospective."}
+{"text": "Wrote User stories which included the business logic, expected behavior and user acceptance criteria. "}
+{"text": "Involved in defect tracking management and used JIRA for requirements documentation."}
+{"text": "Performed as-is analysis, to-be analysis, data Analysis, Gap analysis, competitive analysis, comparative analysis, process flows and business flows.\u00a0"}
+{"text": "Identified and validated business rules and data elements.\u00a0"}
+{"text": "Gathered Requirement from the Client to fulfill the Application need for FACETS Implementation.\u00a0"}
+{"text": "Created 837(P, I, D) claims, and maintained data mapping documents about HIPAA transactions primarily 837(P, I, D), 834, 835, 270, and 271."}
+{"text": "Worked within project team to identify and interpret state Medicaid and Medicare policies as applicable to customer defined algorithm research as well as assist with internal development of new healthcare analytics."}
+{"text": "Worked with Trizetto based software called FACETS to obtain members information.\u00a0"}
+{"text": "Worked closely with business power users to create reports/dashboards using tableau desktop."}
+{"text": "Created Rich dashboards using Tableau Dashboard and prepared user stories to create compelling dashboards to deliver actionable insights."}
+{"text": "Designed and developed various analytical reports from multiple data sources by blending data on a single worksheet in Tableau Desktop."}
+{"text": "Performed data analysis task using SQL queries on Enterprise Data Warehouse (EDW) and various source systems."}
+{"text": "Created\u00a0data\u00a0set reports for users by writing SQL queries which then were used for UAT and defined\u00a0data\u00a0dictionaries for identified sources by working with\u00a0data\u00a0stewards and subject matter experts.\u00a0"}
+{"text": "Worked with developers to create requirements and ran SQL queries to extract\u00a0data\u00a0from specific tables from database."}
+{"text": "Utilized advance features of Tableau software like to link data from different connections together on one dashboard and to filter data in multiple views at once."}
+{"text": "Utilize SQL server to run basic queries and obtain necessary data for Medicaid and Medicare Encounters.\u00a0"}
+{"text": "Worked with FACETS software for maintaining data about the enrollment, billing and health care claims management and to store, send, receive HIPAA transactions and facilitate the administration of HIPAA privacy rights.\u00a0"}
+{"text": "Analyzed SSIS packages with which data resources such as Excel, Flat file, and SQL data were imported daily."}
+{"text": "Analyzed Impact analysis when there is any change in the requirements and updated the Business Requirements Document (BRD) and Systems Requirements Specification (SRS).\u00a0"}
+{"text": "Redesigned the integration between\u00a0Python\u00a0and MySQL to reduce time consume."}
+{"text": "Develop ETL routines using Informatica and PL/SQL in an Oracle environment "}
+{"text": "Performed data analysis and data profiling using complex SQL on various sources systems including Oracle."}
+{"text": "Involved with data model and reporting requirements for Tableau Reports with the Data warehouse / ETL and Reporting teams."}
+{"text": "Performed Data Analysis and Data Profiling and worked on data transformations and data quality rules."}
+{"text": "Developing, Designing and supporting interactive Tableau Dashboard reports."}
+{"text": "Experience with the design and development of Tableau visualization solutions."}
+{"text": "Used SOAP UI tool to test SOA based architecture application to test SOAP services and REST API."}
+{"text": "Created SQL queries to pull out data from the database."}
+{"text": "Designed and developed various analytical reports from multiple data sources by blending data on a single worksheet in Tableau Desktop."}
+{"text": "Utilized advance features of Tableau software like to link data from different data sources together on one dashboard to filter data in multiple views."}
+{"text": "Involved in Cleaning of data for reporting software and custom application usage as well as calculations in R &\u00a0Python."}
+{"text": "Facilitated meetings with the technical team and client team to analyze the current process and gather requirements for the proposed process.\u00a0"}
+{"text": "Analyzed Change Files of 834, 835, 820, 837 PDI, 997, 999, 270, 271 & 277 HIPAA EDI Transactions using MS Word, MS Excel.\u00a0"}
+{"text": "Streamlined Claims (837 EDI X12) Migration project by gathering functional specifications."}
+{"text": "Daily and weekly status reporting to senior management."}
+{"text": ""}
+{"text": "Environment: Agile (Scrum), SQL, JIRA, EDI, FACETS, EDW, ETL, Tableau, SSIS, UAT, MS Office Suite, Python, Windows"}
+{"text": ""}
+{"text": "WellCare, Tampa, FL\t\t\t\t\t\t\t\t\tFeb 2015 \u2013 Feb 2017"}
+{"text": "Business Data Analyst"}
+{"text": "The project aimed at adding some error prompts to adjudication system and automating reports.\u00a0It involved gathering requirement from the business and conducting session with ETL team to work on extraction of data for reporting purposes by end business users."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Gathered requirements by coordinating with external vendor, and internal team.\u00a0"}
+{"text": "Analyzed Gap Analysis of the HIPAA 5010 processes to identify and validate requirements.\u00a0"}
+{"text": "Coordinated JAD sessions with all the stakeholders to understand the impact of HIPAA 5010 on the existing system.\u00a0"}
+{"text": "Created several SQL Server objects like Tables, Views, Queries, Stored Procedures, Functions, triggers and Indexes. "}
+{"text": "Develop various reports using Tableau such as dashboards, charts/graphs, drill-downs, drill through, sub reports and dynamic reports to meet information needs. "}
+{"text": "Created Data Mapping Document and Metadata for the Enterprise Data Warehouse (EDW)."}
+{"text": "Developing Custom Report and different types of Reports, Matrix Reports and distributed reports in multiple formats using Tableau Server. "}
+{"text": "Develop advanced Tableau dashboards using multiple data sources, creating calculations, parameters, and interactive filters."}
+{"text": "Implementing Backup and Recovery Strategies based on Business requirements."}
+{"text": "Gathered requirements for \"Front End\" and for \"Core Adjudication System\" by conducting meetings and brainstorming sessions with end users and Subject Matter Experts (SMEs) and documented them using Requirement Traceability Matrix and later exporting them to Quality Center.\u00a0"}
+{"text": "Prepared Business Requirement Documents (BRDs) after the collection of Functional Requirements from System Users that provided appropriate scope of work for technical team to develop prototype and overall system.\u00a0"}
+{"text": "Worked in Agile process of the project management based on SDLC."}
+{"text": "Gathered requirements for ICD 10.\u00a0"}
+{"text": "Develop\u00a0data\u00a0models for capturing current /future state\u00a0data\u00a0elements and\u00a0data\u00a0flows using\u00a0Erwin"}
+{"text": "Performed Data Migration from OLTP to Data warehouse environment.\t"}
+{"text": "Setting up Enterprise Data Warehouse (EDW) and associated ETL service to generate business reports."}
+{"text": "Designs and develops the logical and physical data models to support the Data Marts and the Data Warehouse."}
+{"text": "Tested Group set up data updates by comparing requirements, portal updates and concurrent database and Mainframe updates."}
+{"text": "Organized requirements into High Level Use Cases and Low-Level Use Case Specifications and modeled them into UC, Activity and Sequence Diagrams using MS Visio.\u00a0"}
+{"text": "Assisted the QA personnel in the creation of Test Cases using Quality Center.\u00a0"}
+{"text": "Defined and analyzed test cases, test scripts, bugs, interacted with QA/ development teams in fixing errors and conducted User Acceptance Test (UAT).\u00a0"}
+{"text": "Coordinated and prioritized outstanding defects and enhancement/system requests based on business requirements, allowing sufficient time frame to ensure accuracy and consider deadlines\u00a0"}
+{"text": "Streamlined Claims (837 EDI X12) Migration project by gathering functional specifications."}
+{"text": "Worked with Medicare and Medicaid Encounter Pro to obtain Encounter from the main server to be submitted to Medicare and Medicaid.\u00a0"}
+{"text": "Review vendor files for any errors, missing segments, and for missing data on X12 file. Ensure file has complete data before encounter can be submitted to Medicare and Medicaid.\u00a0"}
+{"text": "Tracked the change requests.\u00a0"}
+{"text": "Maintained and tracked the project plan using MS Project.\u00a0"}
+{"text": "Daily and weekly status reporting to senior management."}
+{"text": ""}
+{"text": "Environment: Agile/Scrum, HP ALM/Quality Center, SQL, EDI, EDW, Erwin Toad ETL, Tableau, UAT, MS Office Suite, Windows"}
+{"text": ""}
+{"text": "Verisk Health, Richmond, VA                                        \t\t\t\t\t\tJan 2014 \u2013 Dec 2014"}
+{"text": "Business/Data Analyst"}
+{"text": "I worked as a Business analyst to work closely with project team to identify user's business requirements, interpret complex business needs and translate them into system requirements, write business specifications and forward to technical staff for system integration and Enterprise Data Warehouse (EDW) migration."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Participated in Business Modeling by documenting the needs of the Business.\u00a0"}
+{"text": "Designed a new matrix covering all the conceptual parameters of the new system.\u00a0"}
+{"text": "Extensive knowledge on relevant cross-industry data and messaging standard organizations and HIPAA/EDI industry-specific organizations to maintain a point of view as to the current\u00a0applicability and risks associated in implementing standards or new technologies to client\u00a0environment."}
+{"text": "Created class diagrams, use case diagrams and sequence diagrams to view the system from different perspectives.\u00a0"}
+{"text": "Conducted on-site/web conference presentations, data conversions, system implementations and end user training. "}
+{"text": "Leverage Risk experience and business judgment to plan initiatives and accomplish enterprise- wide goals."}
+{"text": "Utilization of BPM, as-Is and To-Be modeling processes.\u00a0"}
+{"text": "Used Microsoft Visio to document Use Cases, ad-hoc reports Activity Diagrams/State Chart\u00a0Diagrams, Sequence Diagrams, Collaboration Diagrams.\u00a0"}
+{"text": "Prepared Business Process Models that includes modeling of all the activities of the business\u00a0from the conceptual to procedural level.\u00a0"}
+{"text": "Performed numerous data extraction requests using SQL scripts to prepare ad hoc reports"}
+{"text": "Managed, created and altered Databases, Tables, Views, Indexes and Constraints with business rules using T-SQL."}
+{"text": "Involved in designing and developing Data Models and Data Marts that support the Business Intelligence Data Warehouse."}
+{"text": "Checked the data flow through the frontend to backend and used\u00a0SQL Queries to extract the data from the database."}
+{"text": "Development Life Cycle (SDLC), to create the provider portal, which allows providers to access patient information to increase convenience "}
+{"text": "Analyzed the problem domain, specified features, established baseline architecture, developed\u00a0the Project plan, and risk analysis.\u00a0"}
+{"text": "Research and Implementation of Web Portal and Content Management Systems\u00a0"}
+{"text": "Consulting with other departments on the management of content and design of pages.\u00a0"}
+{"text": "Complying with the consistent development and maintenance of the healthcare industry databases,\u00a0health care insurance and health care industry related aspects with adherence to HIPAA\u00a0compliances."}
+{"text": "Provide reporting to management via excel reports of workload and work completion on a daily,\u00a0weekly, and monthly basis."}
+{"text": "Liaison and Coordinated in resolving HIPAA/EDI mapping issues arising from the third-party\u00a0systems.\u00a0"}
+{"text": "After successful development and testing of the product, participated in product release and deployment to End-User.\u00a0"}
+{"text": "Worked closely with the deployment team for roll out the project - external releases, packaging, distributing, installing, user assistance, beta testing, migration of software and data.\u00a0"}
+{"text": "Conducted User Acceptance Testing (UAT).\u00a0"}
+{"text": ""}
+{"text": "Environment: Agile/Scrum, JIRA, SQL, EDI, ETL, UNIX, UAT, MS Office Suite, Windows"}
+{"text": ""}
+{"text": "TMG Health, PA\t\t\t\t\t\t\t\t\t\t\tFeb 2013 \u2013 Dec 2013"}
+{"text": "Business Analyst"}
+{"text": "This project was based on Implementation of the new processing system for Benefit Enrollment files, Payer and Claims along with review, design and reconfigure of the following FACETS functional areas: Enrollment, Claim, Billing, and Member Information. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Responsible for checking member eligibility, provider enrollment, member enrollment for Medicaid and Medicare claims."}
+{"text": "Developed test cases and test scripts and assisted Quality Assurance activities, with system integration testing and user acceptance testing (UAT), developing and maintaining quality procedures and ensuring that appropriate documentation is in place."}
+{"text": "Responsible for the full HIPAA compliance lifecycle from gap analysis, mapping, implementation and testing for processing of Medicaid Claims"}
+{"text": "Involved in testing Facets for Group Information, Enrolling Subscribers, adding members, Related Entities, Class/Plan definition, Premium Rate Tables and all."}
+{"text": "Worked on HIPAA Transactions 270, 271, 276, 277. 999, 837I/P/D and 835R"}
+{"text": "Involved in claim adjudication process of\u00a0FACETS\u00a0application"}
+{"text": "Helped in project testing efforts for doing integration tests, regression tests and user acceptance tests."}
+{"text": "Used MS Visio, MS Word, MS Excel and MS PowerPoint to develop various project deliverables"}
+{"text": ""}
+{"text": "Environment: Agile \u2013 Waterfall, HP Quality Center, SQL, EDI, FACETS, HIPAA, UAT, MS Office Suite, Windows"}
+{"text": ""}
+{"text": "EDUCATION"}
+{"text": "Masters in Information Systems, Iowa State University, IA"}

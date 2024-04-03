@@ -1,0 +1,195 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Miami, United States"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 595199758771"}
+{"text": "\t"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": "7+ years of experience in IT industry comprising of Development, Systems Administration and Software Configuration Management (SCM). Expertise in all areas of software development life cycle and post-production analysis of the project."}
+{"text": "Extensively worked on designing, building, and improving cloud environments on Amazon Web Services.\u00a0"}
+{"text": "Experience with the Cloud and Monitoring processes as well as DevOps development in Windows, Mac and Linux systems."}
+{"text": "Managed Amazon Web Services like EC2, S3 bucket, RDS, EBS, ELB, Auto-Scaling, AMI, IAM through AWS Console and API Integration with Puppet Code."}
+{"text": "Created cloud formationtemplates in AWS. Built clouds with AWS CLI."}
+{"text": "Skilled at Software Development Life Cycles and Agile Programming Methodologies."}
+{"text": "Experience in software build tools like Apache Maven, Apache Ant to write Pom.xml and Build.xml respectively."}
+{"text": "In-depth understanding of the principles and best practices of Software Configuration Management (SCM) processes, which include compiling, packaging, deploying and Application configurations."}
+{"text": "Experience in working on source control tools like Tortoise SVN, CVS, IBM Clear case, Perforce and GIT"}
+{"text": "Strong knowledge on Linux, Automation Tools (Chef or Puppet), AWS Services (EC2, Network, S3/EBS)."}
+{"text": "Develop automation code using Chef and Python to build AWS environments autonomously."}
+{"text": "Experience in integrating Unit Tests and Code Quality Analysis Tools like JUnit, Cobertura, PMD, Findbugs and Checkstyle."}
+{"text": "Extensively worked on Hudson, Jenkins, and Puppet for continuous integration and for End-to-End automation for all build and deployments in Agile environment."}
+{"text": "Implemented Puppet modules to automate configuration of a broad range of services"}
+{"text": "Using Jenkins as an Amazon Web Services (AWS) Code Deploy plugin to deploy to AWS."}
+{"text": "Ability to build deployment, build scripts and automated solutions (using scripting languages such as Shell, Perl, Python."}
+{"text": "Experience in using Nexus and Art factoryRepository Managers for Maven builds."}
+{"text": "Worked on Linux in Cloud Computing environments using AWS."}
+{"text": "Research and development on scalable Linux deployments on AWS via CoreOS and Docker."}
+{"text": "Expert in deploying the code through web application servers like Web Sphere/Web Logic/ Apache Tomcat/JBOSS/Jetty."}
+{"text": "Solid understanding of Operating Systems like Linux, UNIX, Windows and Mac OSX."}
+{"text": "Expertise in Querying RDBMS such as Oracle, MY SQL and SQL Server by using SQL for data integrity."}
+{"text": "Closely worked with Developers and Analysts to address project requirements. Able to effectively manage time and prioritize multiple projects."}
+{"text": "Ability to work closely with teams, in order to ensure high quality and timely delivery of builds and releases."}
+{"text": "Strong ability to troubleshoot any issues generated while building, deploying and in production support."}
+{"text": ""}
+{"text": "Technical skills:"}
+{"text": ""}
+{"text": "Professional Experience: "}
+{"text": "Client: \tCiti Group, Dallas, TX\t\t\t\t\tJuly 2015 \u2013 Present\tRole: Cloud Automation Engineer/DevOps"}
+{"text": "Responsibilities:"}
+{"text": "Installing and configuring EC2 CLI tools and AWS CLI tools on Linux Machine."}
+{"text": "Designing and launching EC2 instances using CLI toolset to support high availability and security features for application. "}
+{"text": "Created IAM roles and usage policies by assigning permissions to roles and used custom JSON templates for management. "}
+{"text": "Involved in creation and configuration of Amazon S3 buckets using CLI tools."}
+{"text": "Involved in creation, configuration and networking of Virtual Private Clouds."}
+{"text": "Deploy the application on created EC2 instances and usage of S3 buckets and Glaciers by managing created usage policies, for storage and backup of data on AWS. "}
+{"text": "Implemented Auto-scaling of instances by creating Cloud Watch alerts, for monitoring and alerting of production and corporate servers."}
+{"text": "Developed Cloud Formation scripts and utilized Cloud Formation Templates, to automate launch of EC2 instances and deploying AWS resources using those templates."}
+{"text": "Workstation installation, bootstrapping nodes/instances using Chef Recipes and Cookbooks. "}
+{"text": "Created Chef Cookbooks for integrating with auto-scaling, and create Chef Automation tools and builds for an overall process improvement.  "}
+{"text": "Manage multiple configurations of servers, DB configurations to optimize end product configuration using Chef."}
+{"text": "Deployment to AWS by using Jenkins AWS Code Deploy plugin."}
+{"text": "Continuous integration through Jenkins and GIT as a part of DevOps team."}
+{"text": "Usage of GIT and SVN for branching, tagging and version control activities. "}
+{"text": "Deployment of JAVA applications through web application servers like Apache Tomcat application server."}
+{"text": "Involved in server\u2019s virtualization using Docker for test environments and work with product development team to resolve their needs in build-related issues."}
+{"text": "Written various scripts in Bash and Python for build activities, staging and production environments. "}
+{"text": "Involved in the managing the integration of projects in to the build environment. "}
+{"text": "Involved in User management, regular maintenance, and consistent incremental backups for recovery."}
+{"text": "Troubleshooting various production related outages and coordination with Offshore and Onshore teams for product releases. "}
+{"text": "Environment: Red Hat Linux, AWS EC2, AWS S3, AMI, IAM, AWS Cloud Watch, GIT, Chef, Jenkins, Docker, Apache Tomcat, Python, Bash."}
+{"text": ""}
+{"text": ""}
+{"text": "Western Governors University, Salt Lake City, UT.\t Jul 2013- Jun 2015\t"}
+{"text": "Role: DevOps Engineer\t\t\t"}
+{"text": "Responsibilities:"}
+{"text": "Integrating AWS cloud Formation with Chef for configuring and patching applications."}
+{"text": "Worked on S3 buckets creation in AWS using CLI and Console."}
+{"text": "Used SVN for branching, tagging, and merging."}
+{"text": "Participated in the release cycle of the product, which involves environments like Development, QA, UAT and Production."}
+{"text": "Perform biweekly build cycle and testing processes."}
+{"text": "Used Ant Scripts to automate the build process."}
+{"text": "   Creating Puppetmanifests for Proof of Concept.\u00a0"}
+{"text": "   Worked on content management for configuration management using Puppet, created modules to define the Application configuration."}
+{"text": "ConfiguredPuppet master and agents to deploy consistent infrastructure code across multiple environments."}
+{"text": "Managed repository, folder, and user/group privileges in Informatica Power Center 8.6 environments."}
+{"text": "Developed UNIX and Perl Scripts for the purpose of manual deployment of the code to the different environments and E-mail the team when the build is completed."}
+{"text": "Managed and performed the environment related configuration changes as a part of deployment."}
+{"text": "Coordinated Release effort amongst various teams (Integration, QA, Testing, and Business Analysis) in geographically separated environment."}
+{"text": "Export/Import Informatica objects such as mappings, sessions and workflows between repositories."}
+{"text": "Served as a partial administrator for UNIX machines."}
+{"text": "Java web applications deployment on Jetty."}
+{"text": "Attended the Minor/Major Event change control meetings to get necessary approvals for the deployment request."}
+{"text": "Used Perl/Shell to automate build and deployment Process."}
+{"text": "Coordinated with developers, Business Analyst and Mangers to make sure that code is deployed in the Production environment."}
+{"text": "Executed the DB Scripts (DML), which has dependencies on the code on Oracle DB."}
+{"text": "Documented the deployment process (Migration Doc) of code to production."}
+{"text": "Used Remedy as deployment issue tracking tool."}
+{"text": "Environment: ANT, Shell Scripts, XML, UNIX, Business Objects, and Oracle."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Cabela\u2019sInc.,Lincoln, NE\tJune2012 - May 2013"}
+{"text": "Role: DevOps Engineer"}
+{"text": "Responsibilities:"}
+{"text": "Primary responsibilities include Build and Deployment of the java applications into different environments like Dev, INTandQA. "}
+{"text": "Installed Jenkinson a Linux machine and created a master and slave configuration through a build farm for implementation of multiple parallel builds."}
+{"text": "Use of Chef to implement the continuous integration process."}
+{"text": "Generated scripts in Maven andPerlfor build activities in QA, Staging and Production environments."}
+{"text": "Repository management in Maven to share snapshots and releases of internal projects using Nexus tool."}
+{"text": "Branches creation in Subversion (SVN) to implement the parallel development process."}
+{"text": "Merged release branches to the trunk after the production release and resolved the conflicts raised during the merge in both Subversion"}
+{"text": "Proposed branching strategies and implemented it."}
+{"text": "Management of Users and Groups in Subversion (SVN) and troubleshoot client spec issues and user issues."}
+{"text": "Automation of deployment and server bounce process by creating scripts using WebLogic Scripting Tool (WLST)."}
+{"text": "Deployment of build artifacts like wars and ears into a WebLogic app server by integrating the WLST scripts to Shell Scripts."}
+{"text": "Maintained all the Linux environments for deployments."}
+{"text": "Implemented Configuration Management, Change Management policies and procedures. "}
+{"text": "Use of the ticketing toolJIRA."}
+{"text": "Automate provisioning of Amazon AWS instances"}
+{"text": "Directed the Release Management Calls to synchronize with the Developers, Testers and DBA teams for successful Release. "}
+{"text": "Presented reports to the Project manager about the progress and issues tracking key project Milestones, plans and resources."}
+{"text": "Environment: SVN, Maven, Chef, Shell, Perl, JIRA,WebLogicand Nexus."}
+{"text": ""}
+{"text": "T-Mobile, Bellevue, WA    \t\t\t\tDec 2011 - Apr 2012"}
+{"text": "Role: Build & Release Engineer"}
+{"text": "Responsibilities:"}
+{"text": "Participated in the release cycle of the product, which involves environments like Development, QA, UAT and Production."}
+{"text": "Used Subversion for the purpose of Software Configuration management and maintaining the versions."}
+{"text": "Performed Branching and Merging as per the schedule."}
+{"text": "Configured the AWS Load Balancers and VPC with Public and private subnets."}
+{"text": "Performed Branching and Merging as per the schedule."}
+{"text": "Performed Amazon S3 buckets creation, policies and also on the IAM Role based polices and customizing the JSON template."}
+{"text": "Created the AWS VPC network for the Installed Instances and configured the Security Groups and Elastic IP's accordingly."}
+{"text": "Configured the Route 53 DNS and load Balancers for the VPC and the NACL with inbound and outbound Rules."}
+{"text": "Created Cloud Formation template for ELK stack template."}
+{"text": "Managed repository, folder, and user/group privileges different environments."}
+{"text": "Documented the Build and Deployment Process which could be used by the team if found any issues at the time of build and deployment of different applications to different environments."}
+{"text": "Responsible for User Management and Plug-in Management for Jenkins."}
+{"text": "Created the Master/Slave pattern for Jenkins to distribute the load and builds around the build farm."}
+{"text": "Developed Bash and python Scripts for the purpose of manual deployment of the code to the different environments and E-mail the team when the build is completed."}
+{"text": "Involved in the installation and configuration of Nginx as a Load Balancer."}
+{"text": "Managed and performed the environment related configuration changes as a part of deployment."}
+{"text": "Coordinated Release effort amongst various teams in geographically separated environment."}
+{"text": "Served as a partial administrator for Linux machines."}
+{"text": "Installed the application on AWS EC2 AMI Instances and also configured the storage on S3 Buckets."}
+{"text": "Attended the Minor/Major Event change control meetings to get necessary approvals for the deployment request."}
+{"text": "Used Perl/Shell to automate build and deployment Process."}
+{"text": "Configuration management and Server application management using Chef and SaltStack."}
+{"text": "Most of the admin tasks are done using Chef tools instead of doing manually."}
+{"text": "Maintained user account across the network using Chef."}
+{"text": "Installed and maintained Chef on different environment like Linux distribution, windows (agents), MAC"}
+{"text": "Coordinated with developers, Business Analyst and Managers to make sure that code is deployed in the Production environment."}
+{"text": "Documented the deployment process (Migration Doc) of code to production."}
+{"text": "Used JIRA tool to track all the defects and changes released to all environments."}
+{"text": "Environment: Amazon AWS Services, Subversion (SVN), Chef, ANT, Shell Scripts, XML, Linux, Apache,MySQL, JIRA, ElasticSearch."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: SoftSol, Hyderabad, IndiaSep 2010 \u2013 Nov 2011\nRole: Build and Release Engineer."}
+{"text": "Responsibilities:"}
+{"text": "Designed and implemented Subversion and GIT metadata including elements, labels, attributes, triggers and hyperlinks."}
+{"text": "Collaborating with the cross product engineering teams to provide\u00a0release\u00a0engineering services"}
+{"text": "Implemented & maintained the branching and build/release strategies utilizing Subversion /GIT."}
+{"text": "Performed all necessary day-to-day Subversion/GIT support for different projects. "}
+{"text": "Responsible for design and maintenance of the Subversion/GIT Repositories, views, and the access control strategies. "}
+{"text": "Involved in periodic archiving and storage of the source code for disaster recovery."}
+{"text": "Experienced in Software Development Life-Cycle, Incident, Problem, Change, and Release Management practices."}
+{"text": "Worked closely with developers to pinpoint and provide early warnings of common build failures. "}
+{"text": "Used ANT and MAVEN as build tools on Java projects for the development of build artifacts on "}
+{"text": "Designed and implemented Subversion and GIT metadata including elements, labels, attributes, "}
+{"text": "the source code. "}
+{"text": "Automated the build and release management process using Jenkins including monitoring changes between releases."}
+{"text": "Executed user administration and maintenance tasks including creating users and groups, reports and queries."}
+{"text": "Amazon Elastic cloud instances and web security, Mule ESB (EAI)/Service mix, Web services /Rest, Amazon AWS and Chef."}
+{"text": "Hosting applications with the AWS Cloud."}
+{"text": "Experience in creating life cycle process in AWS."}
+{"text": "Worked as a system administrator for the build and deployments process on the enterprise server. "}
+{"text": "Documented project's software release management procedures with input decisions. "}
+{"text": "Developed, maintained, and distributed release notes for each scheduled release."}
+{"text": "Provided periodic feedback of status and scheduling issues to the management. "}
+{"text": "Kept track of all the releases and request of the developers through Infrastructure management tool."}
+{"text": "Environment: Subversion/GIT, ANT and MAVEN, JBOSS, AWS and CHEF"}
+{"text": ""}
+{"text": ""}
+{"text": "Ness Technologies India Pvt Ltd, Hyderabad, India   \t\tJuly 2009-June 2010"}
+{"text": "Role: Linux Administrator"}
+{"text": "Responsibilities:"}
+{"text": "Managed and administrated of all UNIX servers, includes Linux operating systems by applying relative patches and packages at regular maintenance periods using Red Hat Satellite server, YUM, RPM tools."}
+{"text": "Prepare specs for new infrastructure and VMware servers, disk storage, and network switches, routers, firewalls, and VPN's."}
+{"text": "Planned and performed the upgrades to Linux (RHEL 5x, 6x, SUSE 10, 11, CENTOS 5, 6, operating systems and hardware maintenance like changing memory modules, replacing disk drives."}
+{"text": "Handling NFS, Auto Mount, DNS, LDAP related issues. Install and configure DHCP, DNS (BIND, MS), web (Apache, IIS), mail (SMTP, IMAP, POP3), and file servers on Linux servers."}
+{"text": "Monitoring CPU, memory, physical disk, Hardware and Software RAID, multipath, file systems, network using the tools NAGIOS 4.0 monitoring."}
+{"text": "Deployment and Configuration of application server Tomcat deploying Java and Web Application."}
+{"text": "Writing Shell scripts for automation of daily tasks, documenting the changes that happen in the environment and in each server, analyzing the error logs, analyzing the User logs, analyzing the /var/log/messages."}
+{"text": "Design, build, and maintain production servers and RAID storage system."}
+{"text": "Performing kernel and database configuration optimization such that it limits I/O resource utilization on disks."}
+{"text": "Diagnosed hardware and software problems and provided solution to them."}
+{"text": "Worked with DBAs on installation of RDBMS database, restoration and log generation."}
+{"text": "Produced automated software builds using variety of open source, scripting and proprietary tools."}
+{"text": "Identify, troubleshoot, and resolve problems with the OS build failures. "}
+{"text": "Attended team meetings, change control meetings to update installation progress, and for upcoming changes in environment."}
+{"text": ""}
+{"text": ""}
+{"text": "Education: "}
+{"text": "Bachelor of Technology in Computer Science Engineering from Jawaharlal Nehru Technological University, Vijayawada, India."}

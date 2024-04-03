@@ -1,0 +1,150 @@
+{"text": "Name: anna anna"}
+{"text": "E-Mail: anna.anna@gmail.com"}
+{"text": "Address: Yancheng, China"}
+{"text": "Github: https://github.com/anna"}
+{"text": "LinkedIn: https://linkedin.com/anna"}
+{"text": "Phone No. 268073175286"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "More than 6+ years of extensive and diversified experience as Business Analyst in Healthcare industries."}
+{"text": "Sound knowledge of Health Insurance and Portability and Accountability Act (HIPAA)"}
+{"text": "Expertise in System and Gap analysis, conducting workshops, analyzing existing business processes, and determining project scope, risks and complexity."}
+{"text": "Worked with Rational Suite of tools to create requirements documents (Requisite Pro), visual data models (Rose), manage and track defects (Clear Quest)."}
+{"text": "Proficiency in developing and managing Quality Business Requirements specifications, Use Case(s), Realization, Design Specifications, System Specifications, Operational Specifications, Risk Management Plan, Technical Specifications, Test Strategies, Test Cases and RTM. "}
+{"text": "Proficient in creating Risk Analysis documents, Risk Management Plan, User Requirement Specification, Functional Requirement Specification and Business Process Flows."}
+{"text": "Written multiple Use Cases for EDI transactions (Inbound and Response) including 837, 276, 277, 835, 834, 820, 270, 271 transactions."}
+{"text": "Comprehensive knowledge of Software Development Life Cycle (SDLC), having thorough understanding of various phases like Requirements, Analysis/Design, Development and Testing"}
+{"text": "Ability to learn quickly and take up new tasks and responsibilities. Good experience with MS Office, MS Visio, Excel, Power Point presentations, Words documents, Share Point."}
+{"text": "Strong understanding of various SDLC methodologies such as RUP, Waterfall and Agile with hands on experience in all of them"}
+{"text": "Extensive experience with Medical Claims Processing and Claim Adjudication process."}
+{"text": "Strong experience in Healthcare industry including HIPAA, PPACA, EDI with emphasis on regulatory projects: 4010-5010 conversion, ICD9 to ICD10 conversion, PPACA implementation."}
+{"text": "Very good experience with Medicare Advantage implementations."}
+{"text": "Experienced Joint Application Development (JAD) Facilitator and meetings coordinator with excellent communication and interpersonal skills."}
+{"text": "Organized many\u00a0Joint Application Developments (JAD) sessions, scrum meetings and\u00a0\u00a0Joint Requirement Planning sessions(JRP), walkthrough, Interviews, Workshops and\u00a0\u00a0Rapid Application Development (RAD) sessions with end-user/clients/stake holders and\u00a0the IT group"}
+{"text": "Experience in Medicaid Management Information System (MMIS). Expertise in various subsystems of MMIS- Claims, Provider, Recipient, Procedure Drug and Diagnosis (PDD), Explanation of Benefits (EOB)."}
+{"text": "Experienced in data warehouses and data marts for business intelligence reporting and data mining along with developing and documenting process flows for business processes."}
+{"text": "Knowledge in the ETL (Extract, Transform and Load) of data into a data ware house/data mart and Business Intelligence (BI) tools like Business Objects Modules (Reporter, Supervisor, Designer, and Web Intelligence"}
+{"text": "Used Query Analyzer, Execution Plan to optimize SQL Queries."}
+{"text": "Experienced in developing reporting application using ETL (Informatica) and Cognos Business Intelligence Suite with multiple data sources like Oracle, MS SQL and DB2 database."}
+{"text": "Experienced with Agile methodology: sprint planning, kanban method and writing user stores in RALLY."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Expertise"}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "Client: Coventry Healthcare INC, Downers Grove, IL\t\t      \u00a0                                Jan 2015- Present"}
+{"text": "Position: Business Analyst "}
+{"text": "Coventry Health Care is a diversified managed healthcare company that offers a full portfolio of risk and fee-based products, including Medicare Advantage and Medicare Part D programs, Medicaid managed care plans, group and individual health insurance, coverage for specialty services such as workers\u2019 compensation, and network rental services. At Coventry, I was involved in production readiness for 837 files in multiple environments. , I am responsible for creating user stories, processing 835 Files and verifying the standards and complete the Membership Enrollment Process in TriZetto FACETS using Agile/Scrum Methodology."}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked on Member Management, Eligibility, Claims, and Provider modules within FACETS."}
+{"text": "Conducted extensive analysis on migration and conversion of Provider and Member data, Group configurations, premium billing, benefit set-ups, fee schedules, provider pricing, capitation set-ups, etc from Legacy system to FACETS. "}
+{"text": "Involved in Medicare Advantage implementation. "}
+{"text": "Used MS SQL Manager Studio 2008 to query the MS SQL database. "}
+{"text": "Involved in documenting the business process by identifying the requirements and also involved in writing the system requirements. "}
+{"text": "Performed ETL data validation using MS Excel and Informatica."}
+{"text": "Worked in creating interfaces for various external vendors and created Technical Specifications for the 835 and 837 I and P files with their changed and new contents to create 5010 complaint files."}
+{"text": "Facilitated Joint Application Development (JAD) sessions with all IT group members for communicating & managing expectations and to discuss various means for integrations with current system using an adoption through execution strategy."}
+{"text": "Involved extensively in writing Agile User Stories in Team Foundation Server (TFS) and reviewed with Business lead and project manager for Sign Off."}
+{"text": "Performed the analysis of the earlier systems, generated a detailed requirements document describing new system architecture through use cases diagrams and activity diagrams using MS Visio."}
+{"text": "Identified and documented the requirements for 5010 conversion. "}
+{"text": "Collected the information related to ongoing application upgrade and their impact on  implementation and impact, benefits and risks of ICD-10 code application."}
+{"text": "Developed SQL scripts to supplement the\u00a0ETL\u00a0process and to verify on final target data"}
+{"text": "Re-Organized the collected data and prepared documentation for implementation. "}
+{"text": "Facilitated data mapping activities and helped with the expansion of membership and provider data model."}
+{"text": "Participated in daily Scrum Meetings to review the Business, functional and Non-Functional Requirements and to discuss the status of Product/Sprint Backlogs.\u00a0"}
+{"text": "Created workflow diagrams, process flow and data flow diagrams. Assisted team with Data Mapping and Data Extracting Strategies for data migration. "}
+{"text": "Involved in creating use case diagrams for the purpose of the team to understand the workflow of the system. "}
+{"text": "Analyzing the business needs for the reports and documenting the requirements in SSRS forms. "}
+{"text": "Analyzed EDI X12 file mapping and reported in analysis spreadsheet. Performed validation of 837 (P, I) & 835 format files."}
+{"text": "Effectively communicated user acceptance test results between users and development team and provided recommendations for change control requests (CCR). "}
+{"text": ""}
+{"text": "Environment: Facets, MS Visio, Word Excel, PowerPoint, Agile, Rational Rose, Requisite Pro, SQL. PEGA\t"}
+{"text": ""}
+{"text": "Client: Health Springs, Nashville, TN \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\t\t                    May 2013 - Oct 2014"}
+{"text": "Position: Business Analyst "}
+{"text": ""}
+{"text": "Health Springs got its start in 2000 and grew into one of the country's largest and fastest-growing coordinated care plans whose primary focus is Medicare Advantage plans. Effective April 2012, Health Springs which owns and operates Medicare Advantage plans in various US states, had merged into Cigna Healthcare. "}
+{"text": "Project Description:"}
+{"text": "Health Spring has initiated a project called COMPASS. Within the COMPASS project, they wanted to migrate data in existing legacy system to FACETS."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered requirements from stakeholders for provider management and member management."}
+{"text": "Modeled the \u2018as-is\u2019 process flow and the \u2018to-be\u2019 process flow and analyzed the gap and developed the action steps to fill the gaps."}
+{"text": "Gathering and documenting project requirements/specifications and experience with the Software Development Life Cycle using Agile methodology."}
+{"text": "Responsible for the full HIPAA compliance lifecycle life cycle from gap analysis, mapping, implementation and testing for processing of Medicaid and Medicare Claims."}
+{"text": "Conducted Risk analysis and developed mitigation plans."}
+{"text": "Conducted Impact analysis when there is any change in the requirements and updated the Business Requirements Document (BRD) and Systems Requirements Specification (SRS)."}
+{"text": "Developed the User Interface (UI) prototypes to capture and validate requirements and spike solutions to the current problem."}
+{"text": "Managed requirement activities using an iterative and incremental methodology such as Agile for writing User stories and Acceptance Criteria"}
+{"text": "In depth knowledge of Medicare/Medicaid Claims processes from Admin/Provider/Payer side which were later part of the training program to vendors."}
+{"text": "Designing Functional Specifications for the target physical database."}
+{"text": "Developed UAT test cases associated with the functional requirements."}
+{"text": "Maintained a weekly status report for the requirements team and incorporated the same to the PMO status reports send to CMS."}
+{"text": "Analyze EDI \u2013X12 data elements captured by the existing system to validate it against the data elements required for new system."}
+{"text": "Participated in developing test plan, test scripts, and test scenarios and designed user documentation."}
+{"text": "Developed User Requirements for proposed HIPAA 5010 EDI transactions including 834 (Benefit Enrollment), 835 (Remittance Notification) and 837 (Claims Submission) Transactions."}
+{"text": "Generated difference reports based on pre-run and post-run AP reports."}
+{"text": "Converted EDI 835 and 837 X12 file format into flat file by using UltraEdit, EDI Environment Management Tool (EEMT), and dropping the files on See Beyond."}
+{"text": "Produced member eligibility and valid provider extracts using Emdeon Office."}
+{"text": "Ran files through HIPAA validate tool, Claredi to identify the errors."}
+{"text": "Created HIPAA 835 and HIPAA 837 Outbound files using EDI Queue Manager, and EDI EOB Run Manager."}
+{"text": "Closed the runs for the current Release and generated email, reports, and other necessary documents for the upcoming Release."}
+{"text": ""}
+{"text": "Environment: Windows 2003/2010, Citrix, MS Office suite, MS Outlook, MS Visio, MS SQL Server, SharePoint, HP ALM, ClarEDI, Beyond Compare, Agile, See Beyond, UltraEdit, EDI Environment Management Tool"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Humana Inc. Louisville, KY \t\t                                                           Nov2011\u2013 March 2013"}
+{"text": "Position: Business Analyst"}
+{"text": ""}
+{"text": "Humana Inc., headquartered in Louisville, KY, is one of the nation's largest publicly traded health benefits companies, with approximately 9 million medical members.  They used Facets for managing and processing healthcare claims. As a Business Analyst, I was involved new clients implementation in Facets application. I have worked in Enrollment and Claims modules in FACETS."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Elicited requirement from the business stakeholders and SME\u2019s using various requirement-gathering Techniques."}
+{"text": "Created \u201cAs-Is\u201d and \u201cTo-Be\u201d process maps and conducted a Gap Analysis."}
+{"text": "Loaded different Medicare and Medicaid fee schedules for the Providers and automate the process using stored proc."}
+{"text": "Conducted iteration planning game to assign stories to Development Team and to the Testing Team."}
+{"text": "Expert Knowledge in various Payer Fee Schedules and Provider Fee Schedules for Medicare and Medicaid."}
+{"text": "Involved in FACETS Implementation, involved end-to-end testing of FACETSClaim Processing and Subscriber/Member module. "}
+{"text": "Elicit requirement to be able to generate the tools and info needed to process the ICD-10."}
+{"text": "Experiences working in ANSI x12 837-835 EDI Transaction."}
+{"text": "Work on coordination of benefits (COB) in a claim processing."}
+{"text": "Used to execute test cases for several transactions such as 837, 835, 820, 834, 277, 278, 270/271"}
+{"text": "Experience in working with a Provider portal for claims where the rendering providers provide claims for the service Rendered."}
+{"text": "Experience in working with Referrals sent in via fax by the Referring Providers."}
+{"text": "Experience in conducting User Acceptance Testing (UAT) and documenting the UAT issue log."}
+{"text": "Created User acceptance test checklist (Scope, entrance criteria, test case, test scripts, test execution, test data, defect management, test results, UAT test exit criteria)"}
+{"text": "Conducted GAP analysis and filling gap according to the format set by HIPAA."}
+{"text": "Wrote test cases in Quality Center derived from the Design documents and generated a Traceability Matrix for testing purposes."}
+{"text": "Created Traceability Matrix to ensure implementation of all functionalities, identify all test conditions and test data needs."}
+{"text": "Used Quality Center to record documenting information useful in debugging process, evaluating test data."}
+{"text": "Extensively worked on any requirement upgrade and/or change request while doing UAT."}
+{"text": "Worked closely with development team to ensure the application performance and stability and also ensure the application completes the whole end-to-end process. "}
+{"text": ""}
+{"text": "Environment: Agile/Waterfall, MS Visio, FACETS HP QTP, Oracle, Windows 2000, Quality Center, JAVA, SQL, Facets 4.8 and MS Office Suite."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Health Alliance Plan Corp, Cypress, CA\t\t\t\t                        Jul 2010-Nov 2011"}
+{"text": "Position: Business Analyst"}
+{"text": ""}
+{"text": ""}
+{"text": "Health Alliance Plan Corp is a full-service health management company providing full range of HMO, PPO, and POS benefit plans. Health Alliance Plans was in the middle of coordinated series of projects, designed to improve their competitive positioning in market. HAP selected to enhance the capability of Customer Contact Representatives (CCR) to efficiently and effectively serve their customers. So they decided to deploy Integration Collaboration Solution (ICS)."}
+{"text": "Facilitated Electronic Data Interchange, Eligibility Data, Electronic Claims,  Payer Billing, Revenue Cycle Management, Electronic Claim Submission, e-Statements, Workflow Automation, Patient Accounts, Billing, Class, Denial, Requests, Adjustments, Corrections, Carrier Reimbursements And Electronic Remittance Payment Posting etc."}
+{"text": "Resolved technical claim processing, delinquent claim reporting, third party payer compliance etc."}
+{"text": "Involved in implementation of HIPAA EDI Transactions such as 835,837 etc."}
+{"text": "Performed GAP Analysis for HIPAA 4010 and 5010 transactions."}
+{"text": "Used EDI tools to verify mapping to X12 format."}
+{"text": "Recommend changes for system design, methods, procedures, policies and workflows affecting Medicare/Medicaid claims processing in compliance with government compliant processes like HIPAA/ EDI formats and accredited standards ANSI."}
+{"text": "Designed, Implemented HIPAA EDI transactions in X12 responses and of 837, 835, 277 and 999 and conducted QA and validation defect testing."}
+{"text": "Conducted data analysis for various version changes of EDI messages on different sub-systems."}
+{"text": "Collected requirements and provided test data for the developers in order to fix the defects related to Enrollment, Eligibility, Claims, Providers, Billing, Capitation, Fee For Service for the Medicare, Medicaid, Duals and Marketplace applications."}
+{"text": "Experience with GuideWire products such as Claims Center, Insurance Center, Policy Center and Billing Center."}
+{"text": "Assisted in writing Test Plans, Test Strategy, Test data preparation, System testing, End-to-End Testing, User Acceptance testing and user training."}
+{"text": "Participating in the planning, development, coordination and presentation of specific testing needs as appropriate to the quality assurance needs of the end user."}
+{"text": "Assisted business users in defining UAT test cases and plans; Established and maintained test cases and test data in Quality Center."}
+{"text": "Helped in conducting Gap Analysis (GAP), User Acceptance Testing (UAT), and System Integration testing (SIT) and SWOT analysis."}
+{"text": "Environment:\u00a0Business Analysis, EDI, QA, SAS, User Acceptance Testing (UAT), Rational Clear Quest, MS Access, Windows, Rational Test Manager, MS Office."}
+{"text": ""}
+{"text": ""}

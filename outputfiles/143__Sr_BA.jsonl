@@ -1,0 +1,127 @@
+{"text": "Name: louise louise"}
+{"text": "E-Mail: louise.louise@gmail.com"}
+{"text": "Address: Xianyang, China"}
+{"text": "Github: https://github.com/louise"}
+{"text": "LinkedIn: https://linkedin.com/louise"}
+{"text": "Phone No. 701117020446"}
+{"text": "Summary "}
+{"text": "Over 7 + years of extensive experience in the field of Sr Business Analyst working with the technical staff to implement management and staff's business requirements into the software application in Healthcare Pharmacy domain. Extensive working experience with TriZetto\u2019s Facets"}
+{"text": "Expertise in documenting the Business Requirements Document (BRD), Technical Requirement Document (TRD), generating the UAT Plan, maintaining the Traceability Matrix and assisting in Post Implementation activities. "}
+{"text": "Good experience in the EDI transactions and knowledge on EDI transaction process flows."}
+{"text": "Strong experience and understanding of health care industry, claims management process, Knowledge of Medicaid and Medicare Services."}
+{"text": "Knowledge and Implementation experience in Eligibility System, Facets Data model, Configuration Implementation of FACETS module."}
+{"text": "Involved in using FACETS for various health insurance areas such as products, enrollment, members and other modules related to FACETS."}
+{"text": "Expertise in understanding and supporting the client with Project Planning, Project Definition, Requirements Definition, Analysis, Design, Testing, System documentation and user training."}
+{"text": "Used Rational Clear Case for Version Control of requirement documents."}
+{"text": "Experience with TriZettos Facets Application Groups/ Claims Processing, Guided Benefit Configuration, Medical Plan, Provider, Subscriber/Member, Utilization Management."}
+{"text": "Good knowledge of Workflows and Content Management Tools."}
+{"text": "For Executing Scripts manually, Involved in preparing data in FACETS."}
+{"text": "Expert in creating Use Cases, Use Case Diagrams, Class Diagrams, Sequence Flows using MS Visio and UML concepts. "}
+{"text": "Experienced in EDI and HIPAA Testing Privacy with multiple transactions exposure such as Inbound 834Membership Enrollment, 837Institutional, 837Professional, 837 Dental, 835 Claim Payment/Remittance Advise, 270/271 Eligibility Benefit Inquiry/Response, 276/277 Claim Status Inquiry/Response Transactions and testing in Client Server systems and Mainframe Applications."}
+{"text": "Worked with different Business Areas like Claims and Enrollment to document proposed ICD 9 \u2013 10 Code changes.  "}
+{"text": "Knowledge and expertise in working with Claims, Provider, Enrollment, Finance, Benefits, and Vendor Management Business Areas. "}
+{"text": "Maintained the Traceability Matrix table to track the Business Requirements to the design to the testing keeping track of all requirements in the BRD/Experience in conducting User Acceptance Testing (UAT) and documentation of Test Cases"}
+{"text": "TECHNICAL SKILLS"}
+{"text": "Project Methodologies:\tSDLC, RUP, UML, Agile, Waterfall, "}
+{"text": "Business Modeling Tools:\tMicrosoft Visio, Rational Rose"}
+{"text": "Healthcare Tools                                                            EDI X12, HIPAA, 4010, 5010, Trizetto, FACETS, ICD 10,To ICD9"}
+{"text": "Testing tools:\tMercury Quality Center, "}
+{"text": "Change Management Tools:\tRational Clear Quest,RUP, SME,UAT."}
+{"text": "Office Tools:\tMS Project, MS Office, MS Visio"}
+{"text": "Database:\tMS SQL Server, SSRS,SSIS,MS Access, and Oracle, Data Mapping"}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": "Affinity Health Plan, Bronx, NY\u00a0 \tSr Business Analyst\t\t Jul-2013-Till Now "}
+{"text": "Project Description: I worked for the Affinity Health Plan as a Business Analyst. I have participated in full software development life cycle implementations (SDLC) from project initiation to final deployment. I have worked with various Business Areas like Enrollment, Claims, Finance, Providers, and Benefits Admin. The project involved gathering Business Requirements for the Claims Business Area and updating EDI Transactions like EDI 837, 835, 276 and 277 with the HIPAA 5010 Changes. Affinity Health Plan implemented Facets Enterprise administrative system, a new core system built by TriZetto, with updated technology to allow for more efficient claims processing, membership enrollment and provider data maintenance & getting access to customer records. X12 EDI and HIPAA standards were followed thorough the project."}
+{"text": "Responsibilities:"}
+{"text": "Gathered Business Requirements from the Subject Matter Experts (SMEs) and documented the requirements in the BRD. "}
+{"text": "Expert in ICD 9 \u2013 10Conversion Analysis. "}
+{"text": "Documented complex Business requirements and made process flow diagram for the 837, 270/271, 276/277 & 835Remittance transactions as per the 4010 to 5010 implementation for the Medicaid claim processing system enhancement."}
+{"text": "Full knowledge of the Diagnosis and Procedural Code changes for Healthcare Entities like Payers, Employer Groups, and Providers. Worked on ICD 9 codes and gathered future requirements based on ICD 10 codes. Managed creation of sample mappings for the conversion of EDI X12 transactions code sets version 4010 to 5010 and translation of ICD 9 codes into ICD 10 codes."}
+{"text": "Used TriZetto HIPAA Gateway to comply with HIPAA standards (270/271, 276/277 & 837) for EDI transactions"}
+{"text": "Analyzed the impacts of HIPPA 5010 project on inbound 837 claims"}
+{"text": "Gathered requirements from the users and analyzed the requirements for RQ System, Facets etc."}
+{"text": "Extensively worked with FACETS Implementation, FACETS Billing, Claim Processing and Subscriber/Member module. "}
+{"text": "Gathered and documented functional requirements for testing and verification of HIPAA."}
+{"text": "Web Portal Development \u2013 Worked as a Business Analyst gathering requirements to develop a referral portal. "}
+{"text": "Worked on As-Is To-Be analysis of ICD9 to ICD 10 conversion for the new qualifiers used in the 837 claims for the diagnosis and procedure/HCPCS codes."}
+{"text": "Performed manual testing by building 837 claims, converting them into EDI file, uploading them into mainframe region and doing error resolution & testing for 5010 requirements& NPI crosswalk."}
+{"text": "EDI file testing for checking the HIPAA 5010 (X12) compliance of the inbound 837 claims."}
+{"text": "Assisted in creation of the Functional Design Document from the Business Requirements Document which was used as the reference by the development team while preparing the design and held the responsibility of the required data setup for unit testing."}
+{"text": "Maintained the Traceability Matrix Table to uniquely trace the identified business requirements to general design to testing as proof that requirements requested have been developed into a solution and that it has been tested and tracked."}
+{"text": "Experience with Trizetto Facets System implementation, Claims and Benefits configuration set-up testing, Inbound/Outbound Interfaces and Extensions, Load and extraction programs involving HIPPA 837 and proprietary format files and Reports development."}
+{"text": "Involved in daily scrum meeting to discuss any roadblocks or impediments in the project path."}
+{"text": "Identified various points of integration among the new and existing applications and required integration with other IT components."}
+{"text": "Environment: MS Visio, Word, Excel, UML, Facets, PowerPoint, Rational Requisite."}
+{"text": ""}
+{"text": "MVP HealthCare, Schenectady NY\tBusiness Analyst\t\t\tAug-2011-Jun-2013\t"}
+{"text": "Description: MVP HealthCare is a leading insurance organization that caters to the health insurance needs of the residents in NY. Facets have been widely used across the network for the claim adjudication, claim processing and Provider Management. The National Provider Identifier Project\u2019s objective is to comply with the mandate that effective with the federal compliance date, all Providers who conduct electronic business via HIPAA Transactions "}
+{"text": "Responsibilities:"}
+{"text": "Coordinated the upgrade of Transaction Sets 837P, 835 and 834 to HIPAA compliance. "}
+{"text": "Responsibilities include the \u2013"}
+{"text": "Analysis of inbound and outbound interfaces and extensions to FACETS claims processing system"}
+{"text": "Completed Data Mapping for Group and detail Product analysis and report writing"}
+{"text": "Analysis and Design of the Facets data model to ensure optimal system performance and tuning"}
+{"text": "Configured facets modules such as Claims, Membership, Billing, Benefit and plan"}
+{"text": "Work closely with EDI to ensure accuracy in data transmissions and shared processes. "}
+{"text": "Worked on Mapping documentation using the Implementation Guide for EDI HIPAA 834,835,837(D,P,I), 277/278 and other Health Care Transactions."}
+{"text": "Utilized SDLC Methodology to configure and develop process, standards and procedures."}
+{"text": "Experience with Trizetto Facets System especially with the Managed Care Credit policies."}
+{"text": "Conducted JAD sessions with business users and Subject matter expert and stakeholders to define project scope, to identify the business workflows & task analysis and determine whether any current or proposed systems are impacted by the new development efforts."}
+{"text": "Coordinated with various IT teams related to various Facets backend database for Test Data Setup. "}
+{"text": "Designed Test Plans, Scripts after analyzing various scenarios/requirements & performed defect tracking using Test Director & Clear Quest."}
+{"text": "Provided Production support and documented System Release/deployment issues."}
+{"text": "Coordinated the upgrade of Transaction Sets 837P, 835 and 834 to HIPAA compliance. Responsibilities include the - Analysis of inbound and outbound interfaces and extensions to FACETS claims processing system"}
+{"text": "Completed Data Mapping for Group and detail Product analysis and report writing"}
+{"text": "Analysis and Design of the Facets data model to ensure optimal system performance and tuning"}
+{"text": "Configured facets modules such as Claims, Membership, Billing, Benefit and plan"}
+{"text": "Work closely with EDI to ensure accuracy in data transmissions and shared processes. "}
+{"text": "Involved in claim adjudication process of facets application"}
+{"text": "Environment: Facets ,EDI,SQL, Mercury Quality Center, Go To Meeting, MS Office Suit"}
+{"text": ""}
+{"text": "Medco Health, Parsippany, NJ\t\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Business Analyst                Jan-2010-Jul-2011"}
+{"text": "Description:  Medco is a leading pharmacy benefits manager (PBM) with the nation\u2019s largest mail order pharmacy operations. Through clinical management, Medco engages members, their physicians and pharmacists, in making better, most cost effective use of prescription drugs thus providing members safety and their care more effective and affordable Account Information System, clearinghouse and Claim processing group to evaluate and settle the insurance claim payments"}
+{"text": "Responsibilities:"}
+{"text": "Reviewed and analyzed the business requirements document to derive the functional specifications document and assisted in the preparation of System Requirement Specifications."}
+{"text": "Involved in Planning, Defining and Designing data based on business requirements and provided documentation."}
+{"text": "Occupied in Logical, Physical design and Development of the DSR (Data Staging Repository) for\u00a0the Database and AMS (Asset Management Reporting System) using Erwin."}
+{"text": "Gathering all system requirements for\u00a0Business Intelligence, Data Warehouse"}
+{"text": "Interacting with Developers and SME (Subject Matter Experts) about HLD & LLD."}
+{"text": "Interacted with the business partners and database administrators to identify the business requirements and data realties. "}
+{"text": "Analyzing the code, data and preparing the spec\u2019s for Developers"}
+{"text": "Analyzing the system performance. Configured SQL mail agent for sending automatic emails when a SSIS package is failed or succeed."}
+{"text": "Created Drill-through, Drill-down, Cross Tab Reports and Sub-Report using RDL."}
+{"text": "Generated periodic reports based on the statistical analysis of the data using SQL Server Reporting Services (SSRS) & developed ad-hoc reports using SAS/SQL queries and MS Access and Excel."}
+{"text": "Full knowledge of the Diagnosis and Procedural Code changes for Healthcare Entities like Payers, Employer Groups, and Providers. Worked on ICD 9 codes and gathered future requirements based on ICD 10 codes. Managed creation of sample mappings for the conversion of EDI X12 transactions code sets version 4010 to 5010 and translation of ICD 9 codes into ICD 10 codes."}
+{"text": "Gathered requirements from the users and analyzed the requirements for RQ System, Facets etc."}
+{"text": "Gathered and documented functional requirements for testing and verification of HIPAA."}
+{"text": "Web Portal Development \u2013 Worked as a Business Analyst gathering requirements to develop a referral portal. "}
+{"text": "Worked on As-Is To-Be analysis of ICD9 to ICD 10 conversion for the new qualifiers used in the 837 claims for the diagnosis and procedure/HCPCS codes."}
+{"text": "Designed, developed and tested data mart prototype (SQL ), ETL process (SSIS) and OLAP cube (SSAS) "}
+{"text": "EDI file testing for checking the HIPAA 5010 (X12) compliance of the inbound 837 claims."}
+{"text": "Documented the UAT Plan for the project and worked with the UAT Team to ensure every acceptance criteria for the requirements has been included in the UAT task plan. "}
+{"text": "Environment: Facets MS Visio, Word, Excel, UML, Oracle SQL Server, PowerPoint, Rational Requisite."}
+{"text": ""}
+{"text": "Catamaran, Rockville, MD     Business Analyst             Apr-2008-Dec-2009"}
+{"text": "  Catamaran (formerly SXC/CatalystRx) is redefining pharmacy benefit management (PBM) by providing a broad range of pharmacy spend management solutions and information technology capabilities by providing software applications, application service provider (ASP) processing services, and professional services. Involved in multiple projects that was based on creating an applications by automating and processing the claims.\nResponsibilities:"}
+{"text": "Involved in complete cycle of SDLC and lead the team when needed."}
+{"text": "Worked with PMO to establish scope, research new technologies, create and update processes."}
+{"text": "Facilitated JAR/JAD sessions to understand and gather requirements."}
+{"text": "Worked on new implementations and migration projects."}
+{"text": "Assisted in release plan and iteration plan for the project while working with the stakeholders."}
+{"text": "Worked on adjudication and on eligibility- Enrollment, Billing, Group/Member Insurances"}
+{"text": "Analyzed adjudicated claims to ensure accuracy"}
+{"text": "As a part of operational production support team, received work request tickets for resolving on daily basis."}
+{"text": "Used Teradata SQL Assistant to run SQL queries and validate the report's data"}
+{"text": "Provided weekly project status report to project manager and project presentation to the high level management on monthly basis."}
+{"text": "Facilitated Joint Application Development (JAD) Sessions for communicating and managing expectations."}
+{"text": "Involved in analysis of requirements for Medicaid and Commercial line of businesses."}
+{"text": "Designed SSIS Packages to extract, transfer, load (ETL) existing data into SQL Server from different environments for the\u00a0SSAS\u00a0cubes."}
+{"text": "Assisted to create UI prototypes, Wireframes and Mockups."}
+{"text": "Represent Benefit Design on cross-departmental projects. Participate in workgroups, attend planning meetings and determine benefit plan set up requirements in Rx Claim, as appropriate."}
+{"text": "Wrote test cases and test scripts for the User Acceptance Testing (UAT"}
+{"text": "Good knowledge in BI (Business Intelligence) tools like SSIS, SSAS and SSRS to perform ETL."}
+{"text": "Analyzed and Prioritized permission levels based on roles of user and created blueprint of system architecture for the web-based application created for internal users/Prepared graphical depictions of use case diagrams and process flow diagrams."}
+{"text": "Tracked daily issues and dependencies and coordinated with common team to work on the impediment list."}
+{"text": "Worked with change control board to initiate/manage change requests"}
+{"text": "Played major role to create the Business Requirement Documentation (BRDs), using MS Word and MS Visio that provided appropriate scope of work for technical team to develop prototype and overall system."}
+{"text": "Environment:   Agile, SharePoint, MS Visio, MS project, XML, UML, Oracle, MS SQL Server MS SQL Server, MS Office"}

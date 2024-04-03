@@ -1,0 +1,144 @@
+{"text": "Name: katherine katherine"}
+{"text": "E-Mail: katherine.katherine@gmail.com"}
+{"text": "Address: Kunming, China"}
+{"text": "Github: https://github.com/katherine"}
+{"text": "LinkedIn: https://linkedin.com/katherine"}
+{"text": "Phone No. 26952662069"}
+{"text": ""}
+{"text": "Summary:"}
+{"text": ""}
+{"text": "Over 8+ years of programming experience including design, development, implementation and maintenance of\u00a0Java/J2EE/Web based applications.\u00a0"}
+{"text": "Excellent project life cycle experience (SDLC) in all aspects of requirements specifications, design, code, test, deploy, maintaining and implemented projects in Waterfall and Agile/Scrum methodologies.\u00a0"}
+{"text": "Experience in using Core\u00a0Java\u00a0concepts like Multi-Threading, Collection, Interfaces, Synchronization, OOPs concepts and Exception Handling."}
+{"text": "Extensive experience in Internet, client/server technologies using\u00a0Java, J2EE, JSP, Servlets, JDBC, Spring, Hibernate, Web Services, SOAP, EJB, JMS, XML, HTML, CSS,\u00a0JavaScript, AJAX and Shell Scripting."}
+{"text": "Proficient in MVC architecture using Spring framework / JSP-Servlet and J2EE Design Patterns."}
+{"text": "Experience in hibernate O/R mapping tool.\u00a0"}
+{"text": "Integrated the application with Spring-MVC using Spring Boot, Spring Dependency Injection (DI), and Spring Annotations."}
+{"text": "Knowledge of application development for Cloud platforms using technologies like Java/J2EE, Spring Boot, Spring Cloud, Microservices. Experience in Microservices and Spring Boot application development."}
+{"text": "Experience with versioning tools like Git, Clear case, Subversion and CVS."}
+{"text": "Experience in database connectivity (JDBC) for databases like Oracle, MS SQL Server."}
+{"text": "Driven by new challenges and adept at adapting to any cultural and business environments.\u00a0"}
+{"text": "Experience in deployment and troubleshooting various application servers like JBoss, Apache Tomcat, IBM WebSphere and Oracle WebLogic."}
+{"text": "Good experience with Source code management collaboration tools GIT, SVN, Github, Bitbucket, Gitlab, AWS-Code commit."}
+{"text": "Expertise in developing, documenting, and executing test cases manually as well as generating automated scripts using Selenium.\u00a0\u00a0"}
+{"text": "Expertise in using issue tracking tools such as JIRA and Rally.\u00a0"}
+{"text": "Strong analytical and dynamic trouble shooting skills coupled with excellent communication skills and able to work individually and as a team."}
+{"text": "Have the motivation to take independent responsibility as well as ability to contribute and be a productive team member.\u00a0"}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Client: Genomic Health \u2013 Kansas City, MO                                                            March 2018 till date"}
+{"text": "Role: Full Stack Java Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Involved in preparing System and business Requirements and Detailed Design document for the project.\u00a0"}
+{"text": "Actively involving in Analysis, Design, Development, System Testing and User Acceptance Testing. Successfully followed agile methodology in the Scrum Cycle model."}
+{"text": "Implemented Design Patterns from Pure MVC Architecture to interact with backend J2EE and Web Services to pull out the data to JSF Components."}
+{"text": "Responsible for all client-side UI Validation and implementing Business logic based on user selection using JavaScript and Angular JS, Node JS.\u00a0"}
+{"text": "Implemented Angular components for UI services to consume rest services using Component based architecture by providing Angular 2.0."}
+{"text": "Worked on Development and debugging the servlets and EJB with WebSphere Application server. "}
+{"text": "Worked on development of a web application using front end MVC framework using Angular 2, Node JS, HTML5, CSS3, JavaScript and AJAX.\u00a0"}
+{"text": "Implemented Swagger Configuration in Java Spring boot for auto generating swagger json files for REST API calls."}
+{"text": "Developed the automated unit test cases for the Microservices using Junit, Mockito, and Sonar and deployed them in the Jenkins pipeline."}
+{"text": "Implemented the Responsive User interface screen using HTML5, CSS3 and Bootstrap.\u00a0"}
+{"text": "Designed and developed the End Points (Controllers), Business Layer, DAO Layer using Hibernate/JDBC template, using Spring IOC (Dependency Injection).\u00a0"}
+{"text": "Worked on AWS cloud watch for monitoring the application infrastructure and used AWS email services for notifying."}
+{"text": "Followed SOA Design and Architecture to Develop REST Web Service, generated and consume the services."}
+{"text": "Developed API for using AWS Lambda to manage the servers and run the code in the MongoDB."}
+{"text": "Developed Micro Service to provide RESTful API utilizing Spring Boot with Spring MVC.\u00a0"}
+{"text": "Developed Hibernate mapping files using different mapping strategies such as table per class hierarchy."}
+{"text": "Involved in developing stored procedures and Triggers on Oracle 10g."}
+{"text": "Used Maven as repository to cache the information."}
+{"text": "Environment: Java/J2EE, Agile/ Scrum, Spring, JSF, AJAX, Angular JS, HTML, CSS, JavaScript, Node JS, Hibernate, JDBC, Micro Services, RESTful API, Spring MVC, Spring Boot, AWS, Mongo DB, SQL, Oracle, Log 4j, Junit, Maven, Windows."}
+{"text": "\nClient: Consolidated Communications, Mankato, MN                                 July 2017 to February 2018 "}
+{"text": "Role: Java/J2EE Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Interacted with Business users during requirements gathering and designed the system using UML (Class Diagrams and Sequential Diagrams) with OOD features."}
+{"text": "Involved in writing Spring Configuration XML file that contains declarations and another dependent object declaration."}
+{"text": "Developed user interface using Bootstrap UI, Angular JS, and JavaScript to simplify the complexities of the application.\u00a0"}
+{"text": "Used Angular JS to implement rich functionality in various pages: form validation, CRUD, grid, search, sort and pagination."}
+{"text": "Developed various web pages and components using React JS by implementing Redux components and libraries and predefined components from NPM (Node Package Manager).\u00a0"}
+{"text": "Inserted Dependency Injection between components using Spring (IOC) concept.\u00a0"}
+{"text": "Developed various\u00a0Java\u00a0beans for performance of business processes and effectively involved in Impact analysis.\u00a0"}
+{"text": "Developed server side application to interact with database using Spring Boot and Hibernate."}
+{"text": "Experience in creating JavaScript for using DML operation with MongoDB."}
+{"text": "Responsible for Setting up Web Services project using WSDL in SOAPUI and provided setup help to other team members.\u00a0"}
+{"text": "Extensively worked on SOA and web services to get the data and configured JMS queues on server.\u00a0"}
+{"text": "Integrated Hibernate ORM with Spring-Hibernate framework to facilitate DML and DQL queries and represent object-database mapping.\u00a0"}
+{"text": "Developed application service components and configured beans using Spring IOC, creation of Hibernate mapping files and generation of database schema."}
+{"text": "Created tables, triggers, stored procedures, SQL queries, joins and views for multiple databases, Oracle 10g.\u00a0"}
+{"text": "Involved in JUnit Testing of various modules by generating the Test Cases.\u00a0"}
+{"text": "Developed ANT Profiles for the build process and deployed in the server.\u00a0"}
+{"text": "Implemented Log 4j for Logging Errors, debugging and tracking using loggers.\u00a0"}
+{"text": "Used GitHub for version control.\u00a0"}
+{"text": "Environment: Agile, Java/J2EE, Spring, Hibernate, XML, WSDL, REST, SOAP, SOAP UI, HTML, JavaScript, CSS, Angular JS, Bootstrap UI, SQL, PL/SQL, Junit, ANT, Log 4j, GitHub, JMS, Servlets, Eclipse, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Amex, Atlanta, GA\t\t\tNovember 2015 to June 2017\nRole: Java/J2EE developer"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Interacted with Business users during requirements gathering and designed the system using UML (Class Diagrams and Sequential Diagrams) with OOD features."}
+{"text": "Implemented User Interface in Model-View-Controller Architecture, which accomplishes a tight and neat co-ordination of Spring MVC, JSP, and Servlet."}
+{"text": "Developed the User Interface validation framework using AJAX and\u00a0Java\u00a0Script.\u00a0"}
+{"text": "Used AngularJS services, controllers and directives for front end UI, AngularJS MVC for cross-browser functionality and used Firebug for Firefox, Inspector tools for Chrome, IE developer toolbar for IE.  "}
+{"text": "Implemented Dependency Injection (IOC) feature of Struts framework to inject dependency into objects and AOP is used for Logging.\u00a0"}
+{"text": "Developed Server-side components with coordination of Hibernate and Spring using web established frame work designed under the guidelines of Business Delegate, session facade, Service locator.\u00a0"}
+{"text": "Developed and utilized J2EE Services and JMS components for messaging communication in Web Logic Application Server for Credit Inquiries.\u00a0"}
+{"text": "Developed Web service modules based on SOA architecture to consume services.\u00a0"}
+{"text": "Developed services that are reusable and interoperable, based on Basic profile, SOAP, JAX-RPC Web services using AXIS.\u00a0"}
+{"text": "Wrote complex SQL Queries, Stored Procedures, Triggers, Views, Cursors, Joins, Constraints, DDL, DML and User Defined Functions to implement the business logic.\u00a0"}
+{"text": "Used JBoss and Tomcat servers to run and debug the application in local."}
+{"text": "Created build files using Maven.\u00a0"}
+{"text": "Environment: JDK, CSS, AJAX, Spring, JPA, XML, XML Schemas, XSLT, SOAP-UI, WSDL, JMS, Tomcat, JUnit, Maven, Log4j, Web Services(JAX-WS), JAXB, Web Logic Application Server, GIT, IBM RAD, MS SQL."}
+{"text": ""}
+{"text": "Client: Hanger, Austin, TX \t\t\t\t\t                    April 2013 to October 2015"}
+{"text": "Role: Java Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Involved in requirements gathering and analysis from the existing system. Captured requirements using Use Cases and Sequence Diagrams."}
+{"text": "Designed web portals using HTML and used Java script, AJAX."}
+{"text": "Used Spring IOC for dependency injection and Spring AOP for cross cutting concerns like logging, security, transaction management."}
+{"text": "Integrated Spring JDBC for the persistence layer."}
+{"text": "Developed DAO Classes and written SQL for accessing Data from the database."}
+{"text": "Used XML for the data exchange and developed Web Services."}
+{"text": "Deployment of the application into JBOSS Application Server."}
+{"text": "Implemented Ant and Maven build tools to build jar and war files and deployed war files to target servers."}
+{"text": "Implemented test cases with JUnit."}
+{"text": "Used RAD for developing and debugging the application."}
+{"text": "Utilized Rational Clear Case as a version control system and for code management"}
+{"text": "Coordinated with the QA team and participated in testing."}
+{"text": "Involved in Bug Fixing of the application."}
+{"text": ""}
+{"text": "Environment: J2EE, JBuilder, Oracle, HTML, DHTML, XSL, XSLT, Servlets, JavaScript, AJAX, JBOSS, RAD, JUnit, log4J, ClearCase."}
+{"text": ""}
+{"text": "Client: First Citizens Bank \u2013 Raleigh, NC\t\t\t                   January 2011 to April 2013"}
+{"text": "Role: Jr. Java Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Developed Front End pages of the application using HTML, CSS, jQuery, and JavaScript.\u00a0"}
+{"text": "Designed and developed the original prototype for a highly-complex, interactive, graphical, web user-interface using standards-compliant JavaScript."}
+{"text": "Implemented JavaScript and jQuery to develop UI components and their dynamic rendering based on the actions occurred and the corresponding stores, view components associated with them.\u00a0"}
+{"text": "Developed RESTful web services using Spring Boot to provide domain data for the application.\u00a0"}
+{"text": "Implemented SQL Database as the storage system for the Restful Web services.\u00a0"}
+{"text": "Implemented Web Services to integrate between different applications using SOAP services using JAX-WS.\u00a0"}
+{"text": "Developed Web services to SQL connection by using Hibernate ORM.\u00a0"}
+{"text": "Used Message-driven batch application using Spring Batch to handle multiple requests accessed through Message Queue services between several micro services in the application.\u00a0"}
+{"text": "Developed Authentication and Authorization to the Spring Boot web services using Spring Security.\u00a0"}
+{"text": ""}
+{"text": "Environment: Java, HTML, CSS, JavaScript, AJAX, Spring, Hibernate, REST, jQuery, Junit, SQL, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": "Education:"}
+{"text": ""}
+{"text": "High School Degree from The Holy Trinity Cathedral School, Addis Ababa, Ethiopia."}
+{"text": ""}
+{"text": ""}
+{"text": ""}

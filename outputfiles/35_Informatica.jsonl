@@ -1,0 +1,146 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Paris, France"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 335046121911"}
+{"text": ""}
+{"text": "Professional Summary"}
+{"text": "Around 8+ years of IT experience in the Analysis, Design, Development, Testing and Implementation of business application systems for Health care, Pharmaceutical, Financial, Telecom and Manufacturing Sectors."}
+{"text": "Strong experience in the Analysis, design, development, testing and Implementation of Business Intelligence solutions using Data Warehouse/Data Mart Design, ETL, OLAP, BI, Client/Server applications."}
+{"text": "Strong Data Warehousing ETL experience of using Informatica 9.x/8.x/7.1 Power Center Client tools - Mapping Designer, Repository manager, Workflow Manager/Monitor and Server tools \u2013 Informatica Server, Repository Server manager."}
+{"text": "Expertise in Data Warehouse/Data mart, ODS, OLTP and OLAP implementations teamed with project scope, Analysis, requirements gathering, data modeling, Effort Estimation, ETL Design, development, System testing, Implementation and production support."}
+{"text": "Extensive testing ETL experience using Informatica 9.x/8.x/7.1 (Power Center/ Power Mart) (Designer, Workflow Manager, Workflow Monitor and Server Manager) Teradata and Business Objects."}
+{"text": "Strong experience in Dimensional Modeling using Star and Snow Flake Schema, Identifying Facts and Dimensions, Physical and logical data modeling using ERwin and ER-Studio."}
+{"text": "Expertise in working with relational databases such as Oracle 11g/10g/9i, SQL Server 2008/2005, DB2 8.0/7.0, UDB, MS Access and Netezza."}
+{"text": "Strong experience in Extraction, Transformation and Loading (ETL) data from various sources into Data Warehouses and Data Marts using Informatica Power Center (Repository Manager, Designer, Workflow Manager, Workflow Monitor, Metadata Manger), Power Exchange, Power Connect as ETL tool on Oracle, DB2 and SQL Server Databases."}
+{"text": "Experience using SAS ETL tool, Talend ETL tool and SAS Enterprise Data Integration Server highly preferred."}
+{"text": "Extensive experience in developing Stored Procedures, Functions, Views and Triggers, Complex SQL queries using SQL Server, TSQL and Oracle PL/SQL."}
+{"text": "Experience in resolving on-going maintenance issues and bug fixes; monitoring Informatica sessions as well as performance tuning of mappings and sessions."}
+{"text": "Experience in all phases of Data warehouse development from requirements gathering for the data warehouse to develop the code, Unit Testing and Documenting."}
+{"text": "Extensive experience in writing UNIX shell scripts and automation of the ETL processes using UNIX shell scripting."}
+{"text": "Proficient in the Integration of various data sources with multiple relational databases like Oracle11g /Oracle10g/9i, MS SQL Server, DB2, Teradata, VSAM files and Flat Files into the staging area, ODS, Data Warehouse and Data Mart."}
+{"text": "Experience in using Automation Scheduling tools like Autosys and Control-M."}
+{"text": "Worked extensively with slowly changing dimensions."}
+{"text": "Hands-on experience across all stages of Software Development Life Cycle (SDLC) including business requirement analysis, data mapping, build, unit testing, systems integration and user acceptance testing."}
+{"text": "Excellent interpersonal and communication skills, and is experienced in working with senior level managers, business people and developers across multiple disciplines."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": ""}
+{"text": "Catalina Marketing Corporation-St. Petersburg, FLJuly 2016-Till Date"}
+{"text": "Sr. ETL/Informatica Developer"}
+{"text": ""}
+{"text": "Description:Catalina Marketing Corporation Inc. provides personalized digital media solutions for consumer packaged goods (CPG), agencies, and retail industry. It provides personalized and measurable campaigns that connect shoppers to CPG brands and retailers. The company also targets consumers via the digital channel, such as mobile, online, and in-store media networks. In addition, it provides promotions and messages based on the shopper\u2019s purchase insights. The company was founded in 1983 and is based in St. Petersburg, Florida. It has operations in the United States, the United Kingdom, the Netherlands, Japan, Italy, Germany, France, and Belgium."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for Business Analysis and Requirements Collection."}
+{"text": "Worked on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, and Workflow Monitor."}
+{"text": "Designed and customized data models for Data warehouse supporting data from multiple sources on real time"}
+{"text": "Involved in building the ETL architecture and Source to Target mapping to load data into Data warehouse."}
+{"text": "Created mapping documents to outline data flow from sources to targets."}
+{"text": "Involved in Dimensional modeling (Star Schema) of the Data warehouse and used Erwin to design the business process, dimensions and measured facts."}
+{"text": "Extracted the data from the flat files and other RDBMS databases into staging area and populated onto Data warehouse."}
+{"text": "Maintained stored definitions, transformation rules and targets definitions using Informatica repository Manager."}
+{"text": "Used various transformations like Filter, Expression, Sequence Generator, Update Strategy, Joiner, Stored Procedure, and Union to develop robust mappings in the Informatica Designer."}
+{"text": "Developed mapping parameters and variables to support SQL override. Created mapplets to use them in different mappings."}
+{"text": "Developed mappings to load into staging tables and then to Dimensions and Facts.Used existing ETL standards to develop these mappings."}
+{"text": "Worked on different tasks in Workflows like sessions, events raise, event wait, decision, e-mail, command, worklets, Assignment, Timer and scheduling of the workflow."}
+{"text": "Used Type 1 SCD and Type 2 SCD mappings to update slowly Changing Dimension Tables."}
+{"text": "Modified existing mappings for enhancements of new business requirements.Used Debugger to test the mappings and fixed the bugs."}
+{"text": "Wrote UNIX shell Scripts to FTP files from remote server to Informatica Server."}
+{"text": "Involved in Performance tuning at source, target, mappings, sessions, and system levels."}
+{"text": "Prepared migration document to move the mappings from development to testing and then to production repositories."}
+{"text": ""}
+{"text": "Environment:Informatica Power Center 9.6.1, Workflow Manager, Workflow Monitor, PL/SQL, Oracle 11g, Autosys, SQL Server,Netezza, UNIX, Toad, Cognos, TFS"}
+{"text": ""}
+{"text": "Westfield Corporation-Madison,OHJune2014-June2015"}
+{"text": "Informatica Consultant"}
+{"text": ""}
+{"text": "Description:Westfield is in business for more than 158 years, Westfield Insurance, a member of Westfield Group, provides commercial and personal insurance solutions to the customers in the United States. It offers business insurance products and services such as property, liability, business auto, workers compensation, umbrella, surety bonds, loss control, and risk assessment for small, mid-size, and large businesses. The company also provides farm and agribusiness insurance products, as well as agribusiness and farm. Westfield markets its products through more than 1,200 leading independent insurance agencies and is one of the country's largest property and casualty insurers."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Created mappings and sessions to implement technical enhancements for data warehouse by extracting data from sources like Oracleand Delimited Flat files."}
+{"text": "Development of ETL using Informatica 8.6."}
+{"text": "Applied slowly changing dimensions like Type 1 and 2 effectively to handle the delta Loads."}
+{"text": "Prepared various mappings to load the data into different stages like Landing, Staging and Target tables."}
+{"text": "Used various transformations like Source Qualifier, Expression, Aggregator, Joiner, Filter, Lookup, Update Strategy Designing and optimizing the Mapping."}
+{"text": "Developed Workflows using task developer, worklet designer, and workflow designer in Workflow manager and monitored the results using workflow monitor."}
+{"text": "Created various tasks like Session, Command, Timer and Event wait."}
+{"text": "Modified several of the existing mappings based on the user requirements and maintained existing mappings, sessions and workflows."}
+{"text": "Tuned the performance of mappings by following Informatica best practices and also applied several methods to get best performance by decreasing the run time of workflows."}
+{"text": "Prepared SQL Queries to validate the data in both source and target databases."}
+{"text": "Worked on TOAD and Oracle SQL Developer to develop queries and create procedures and packages in Oracle."}
+{"text": "Worked extensively on PL/SQL as part of the process to develop several scripts to handle different scenarios."}
+{"text": "Created Test cases for the mappings developed and then created integration Testing Document."}
+{"text": "Prepared the error handling document to maintain the error handling process."}
+{"text": "Automated the Informatica jobs using UNIX shell scripting."}
+{"text": "Closely worked with the reporting team to ensure that correct data is presented in the reports."}
+{"text": "Interaction with the offshore team on a daily basis on the development activities."}
+{"text": ""}
+{"text": "Environment:Informatica Power Center, Oracle 10g, MS-SQL Server, PL/SQL Developer, Bourne shell, Windows XP, TOAD, MS Office and Delimited Flat files, Control-M"}
+{"text": ""}
+{"text": ""}
+{"text": "National Oilwell Varco-Houston, TX                                                       Oct 2012 \u2013 May 2014"}
+{"text": "Informatica Consultant"}
+{"text": ""}
+{"text": "Description: National Oilwell Varco\u00a0(NOV) is an American\u00a0multinational corporation\u00a0based in\u00a0Greater Sharpstown,\u00a0Houston, Texas.\u00a0It is a leading worldwide provider of equipment and components used in oil and gas drilling and production operations,\u00a0oilfield\u00a0services, and supply chain integration services to the upstream\u00a0oil and gas industry. The company conducts operations in more than 1,200 locations across six continents.                                               "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Designed and developed the data transformations for source system data extraction; data staging, movement and aggregation; information and analytics delivery; and data quality handling, system testing, performance tuning. "}
+{"text": "Member of warehouse design team assisted in creating fact and dimension tables based on specifications provided by managers."}
+{"text": "Created Informatica Mappings to build business rules to load data using transformations like Source Qualifier, Aggregator, Expression, Joiner, Connected and Unconnected lookups, Filters and Sequence, External Procedure, Router and Update strategy."}
+{"text": "Load operational data from Oracle, SQL Server, flat files, Excel Worksheets into various data marts like PMS and DEA."}
+{"text": "Designed and created complex source to target mappings using various transformations inclusive of but not limited to Aggregator, Look Up, Joiner, Source Qualifier, Expression, Sequence Generator, and Router Transformations."}
+{"text": "Extensively worked on Mapping Variables, Mapping Parameters and Session Parameters. Created post-session and pre-session shell scripts and mail-notifications"}
+{"text": "Implemented effective date range mapping (Slowly Changing dimension type2) methodology for accessing the full history of accounts and transaction information."}
+{"text": "Design complex mappings involving constraint based loading, target load order."}
+{"text": "Use debugger in identifying bugs in existing mappings by analyzing data flow, evaluating transformations and Create mapplets that provides reusability in mappings."}
+{"text": "Involve in enhancements and maintenance activities of the data warehouse including performance tuning, rewriting of stored procedures for code enhancements."}
+{"text": "Designed workflows with many sessions with decision, assignment task, event wait, and event raise tasks, used Informatica scheduler to schedule jobs."}
+{"text": ""}
+{"text": ""}
+{"text": "Environment:Informatica Workflow Manager, Designer, Monitor, Oracle 10g, MS-SQL Server, PL/SQL Developer, Unix, SQL Developer"}
+{"text": ""}
+{"text": "US BANK-MILPITAS, CA                                                                                            Jan 2011 \u2013 Sep 2012"}
+{"text": "ETL Developer"}
+{"text": ""}
+{"text": "Description: US Bank, one of the largest commercial bank in US, provides a comprehensive line of banking, brokerage, insurance, investment, mortgage, and trust and payment services products to consumers, businesses and institutions. The project was aimed at the creation of a web-based payment environment for managing and processing payment transactions. It included features such as authorization, settlement, and refunding of credit card and electronic check payments for E-Commerce Customers, tracking of payment processing and other administrative functions."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in requirements gathering, functional/technical specification, Designing and development of end-to-end ETL process for Sales Data Warehouse."}
+{"text": "Studied the existing OLTP system(s) and Created facts, dimensions and star schema representation for the data mart."}
+{"text": "Used Informatica power center for (ETL) extraction, transformation and loading data from heterogeneous source systems."}
+{"text": "Imported Source/Target Tables from the respective databases and created reusable transformations (Joiner, Routers, Lookups, Rank, Filter, Expression, and Aggregator) in a Mapplet and created new mappings using Designer module of Informatica."}
+{"text": "Modeled the data warehousing data marts in Star join schema."}
+{"text": "Created Stored Procedures for data transformation purpose."}
+{"text": "Created Tasks, Workflows, Sessions to move the data at specific intervals on demand using Workflow Manager and Workflow Monitor."}
+{"text": "Extensively worked on the performance tuning of the Mappings as well as the sessions."}
+{"text": "Involved in writing UNIX shell scripts for Informatics ETL tool to run the Sessions"}
+{"text": "Working with database connections, SQL joins, cardinalities, loops, aliases, views, aggregate conditions, parsing of objects and hierarchies."}
+{"text": ""}
+{"text": "Environment:Informatica Power Center, Oracle 9i, PL/SQL, Erwin 3.5, Sun Solaris, TOAD, SQL Navigator."}
+{"text": ""}
+{"text": "Colruyt-Hyderabad, India\t\t\t\t\t\t\tFeb 2009 \u2013 Dec 2010"}
+{"text": "Informatica Developer"}
+{"text": ""}
+{"text": "Description: Colruyt Group is a Belgian based retailer of Food and non-Food products. Over the past decades, the group has grown to a giant retailer in food and non-food products with a unique sales formula. Colruyt is the\u00a0number one\u00a0retailer in Belgium who offers its products at the\u00a0\u201clowest prices\u201d with high quality. Sustainability is the DNA of the group and we sustain in a highly competitive retail domain with the help of over 200 shops. The group is spread across Belgium, France and Luxembourg and business activities are managed with the help of over 27000 Colruytians. The Colruyt Group has global sales of over 8.3 billion euros."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Interacted with business analysts and translate business requirements into technical specifications. "}
+{"text": "Using Informatica Designer, developed mappings, which populated the data into the target. "}
+{"text": "Used Source Analyzer and Warehouse Designer to import the source and target database schemas and the mapping designer to map the sources to the targets. "}
+{"text": "Responsibilities included designing and developing complex informatica mappings including Type-II slowly changing dimensions."}
+{"text": "Worked extensively on Workflow Manager, Workflow Monitor and Worklet Designer to create, edit and run workflows, tasks, shell scripts. "}
+{"text": "Developed complex mappings/sessions using Informatica Power Center for data loading. "}
+{"text": "Enhanced performance for Informatica session using large data files by using partitions, increasing block size, data cache size and target based commit interval. "}
+{"text": "Extensively used aggregators, lookup, update strategy, router and joiner transformations. "}
+{"text": "Developed the control files to load various sales data into the system via SQL*Loader. "}
+{"text": "Extensively used TOAD to analyze data and fix errors and develop. "}
+{"text": "Involved in the design, development and testing of the PL/SQL stored procedures, packages for the ETL processes."}
+{"text": "Developed UNIX Shell scripts to automate repetitive database processes and maintained shell scripts for data conversion"}
+{"text": ""}
+{"text": "Environment:Informatica Power Center, Oracle 9i, PL/SQL, TOAD, Unix, Control-M. "}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelors in Computer Science and Information Technology - JNTU, INDIA"}

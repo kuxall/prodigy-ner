@@ -1,0 +1,254 @@
+{"text": "Name: clara clara"}
+{"text": "E-Mail: clara.clara@gmail.com"}
+{"text": "Address: Baghdad, Iraq"}
+{"text": "Github: https://github.com/clara"}
+{"text": "LinkedIn: https://linkedin.com/clara"}
+{"text": "Phone No. 632852721812"}
+{"text": ""}
+{"text": "Profile:"}
+{"text": "About 7years experience in Data modeling and Data analysis for Online transactional processing(OLTP) , data warehouse(OLAP) and business Intelligence(BI) applications for healthcare , insurance and banking applications."}
+{"text": "Summary:"}
+{"text": "Participated in all phases of Software Development Cycle(SDLC)."}
+{"text": "Experience working with Agile and Waterfall data modeling technologies."}
+{"text": "Proficient in conceptual and logical data modeling skills using ERWIN, Sybase power designer and Embarcadero E-R Studio."}
+{"text": "Experienced in gathering requirements, creating data mapping documents, queries."}
+{"text": "Experience with gathering requirements, conducting Joint Application Development(JAD) and Joint Requirement Planning(JRP) sessions, User Acceptance Testing(UAT), Gap Analysis."}
+{"text": "Well experienced in Forward and Reverse Engineering Principles."}
+{"text": "Hands on Experience in system analysis, Relational and Dimensional Data modeling, designing the database and implementing the RDBMS specific features."}
+{"text": "Efficient in analyzing and documenting Business Requirement Documents (BRD) and Functional Requirement Documents (FRD) along with User Case Modeling and UML."}
+{"text": "Proficient in Normalizing (Using 1NF, 2NF and 3NF) and De Normalizing Techniques for optimum performance in relational and dimensional database environments."}
+{"text": "Experience in creating and documenting Data marts while designing OLTP and OLAP system Environments."}
+{"text": "Experience in identifying Facts and Dimensions and strong understanding of principles of data Warehousing , Fact Tables , Dimension Tables, Slow changing Dimension (SCD) Type I and Type II."}
+{"text": "Experience in Ralph Kimball and Bill Inmon approaches."}
+{"text": "Involved in Extracting, Transforming and Loading (ETL) data from spreadsheets, database tables and other sources using Microsoft Data Transformation Service (DTS), and Informatica along with ETL team."}
+{"text": "Experience in performance analysis and created partitions, indexes and Aggregate tables where necessary. "}
+{"text": "Strong expertise in designing Data Architecture, Data Analysis, Oracle PL/SQL programming."}
+{"text": "Facilitated data requirement meetings with business and technical stakeholders and resolved conflicts to drive decisions."}
+{"text": "Strong experience in SQL queries and functions and also in creating Database Objects like Procedures, Triggers, Packages and User defined functions."}
+{"text": "Exported huge volumes of data from Teradata tables and views for processing and reporting, using Teradata Export Load utility."}
+{"text": "Experience in SQL Server DTS and SSIS (Integration Service) package design, constructing, and deployment."}
+{"text": "Experience in Data Migration, Data conversation, Data extraction, Transforming and loading (ETL) data from spreadsheets, database tables and other sources using Microsoft SSIS."}
+{"text": "Building reports using SQL SERVER Reporting Services (SSRS 2005/2008), Crystal Reports and Business Objects."}
+{"text": "Good working knowledge on cloud services like HD insights AZURE, AMBARI and AMAZON EC2 and S3 bucket web services."}
+{"text": "Good understanding on data governance and master data management."}
+{"text": "Excellent communication skills, analytical and inter-personal skills, self-starter with ability to work with minimal guidance and interact with individuals at all levels in SDLC."}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Client Name: Guardian Life Insurance, NY                                                                              May 2016- Present"}
+{"text": "Role: Sr Data Modeler"}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Gathered requirements and created use case diagrams as part of requirements analysis."}
+{"text": "Created a high-level industry standard, generalized data model to convert it into logical and physical model."}
+{"text": "Defined and Identified attributes, entities and relationships in the data model as per new specifications in Visio after analyzing the database systems currently in use. "}
+{"text": "Used forward engineering to create a Physical Data Model with DDL, based on the requirements from the Logical Data Model."}
+{"text": "Used ERWIN to create logical and physical data models for enterprise wide OLAP system."}
+{"text": "Handled and maintained model versioning using ERWIN."}
+{"text": "Designed an industry based model, specific to the company with group insurance offerings, translated the business requirements into detailed production level using Sequence Diagrams, Workflow Diagrams, Activity Diagrams and Use Case Modeling.\u00a0"}
+{"text": "Generated various presentable reports using report designer and pinned reports in ERWIN. "}
+{"text": "Designed a STAR schema for sales data involving shared dimensions (Conformed) for other subject areas using Erwin Data Modeler."}
+{"text": "Created and maintained Logical Data Model (LDM) for the project. Includes documentation of all entities, attributes, data relationships, primary and foreign key structures, allowed values, codes, business rules, glossary terms, etc."}
+{"text": "Validated and updated the appropriate LDM's to process mappings, screen designs, use cases, business object model, and system object model as they evolve and change."}
+{"text": "Worked on Snow-flaking the Dimensions to remove redundancy. "}
+{"text": "Enforced OLTP data model referential integrity for consistent relationship between tables and efficient database design.\u00a0"}
+{"text": "Identified and tracked the slowly changing dimensions (SCD I and II) and determined the hierarchies in Time and Branch Dimensions."}
+{"text": "Generated comprehensive analytical reports by running SQL queries against current databases to conduct data analysis."}
+{"text": "Worked pro-actively with Data Stewards and Subject Matter Experts and other specialist to help resolve data conflicts and data quality issues."}
+{"text": "Performed Data Mapping activities for the Data Warehouse."}
+{"text": "Review high level architecture and design database components."}
+{"text": "collaborate with senior system architects to pin down detailed solutions for specified requirements."}
+{"text": "Experience with Relational Modeling, Entity relationship modeling principles and techniques. Also created 3NF business area data modelling with de-normalized physical implementation data and information requirement analysis using ERWIN tool."}
+{"text": "Creation of ETL process for the new subject areas, Develop Data Extraction, Transformation and Loading program using Data Integrator."}
+{"text": "Knowledge on architecting the application for\u00a0AWS\u00a0by using\u00a0AWS\u00a0services and resources and compare the different modernization options.\u00a0"}
+{"text": "Designing and deploying scalable, highly available, and fault tolerant systems on\u00a0AWS."}
+{"text": "Developed complex Multi load and Fast Load scripts for loading data into\u00a0Teradata\u00a0tables from legacy systems."}
+{"text": "Involved in creating dashboards and reports in Tableau 8.1. Created report schedules on Tableau server."}
+{"text": "Preparing Dashboards using calculations, parameters in Tableau."}
+{"text": "Employed naming standard editor for defining new naming standards for the entities, attributes, domains, columns and tables that applied consistently all over the enterprise."}
+{"text": "Worked on Metadata exchange among various proprietary systems using XML."}
+{"text": "Handled performance requirements for databases in OLTP and OLAP models."}
+{"text": "Worked with ad-hoc reporting using Crystal Reports 9 and T-SQL."}
+{"text": "Modify and refine architecture based on findings."}
+{"text": "Participate in data modeling and database design."}
+{"text": "Created Data Model Using Erwin for DQM. Gathered requirements for Reporting needs of the end user SSRS."}
+{"text": "Generated comprehensive analytical reports by running SQL queries against current databases to conduct data analysis."}
+{"text": "Implemented slowly changing dimensions Type2 and Type3 for accessing history of reference data changes."}
+{"text": "Provided source to target mappings to the ETL team to perform initial, full, and Incremental loads into the target data mart."}
+{"text": ""}
+{"text": "Environment: MS Visio, ERWIN, Teradata, SQL Server, Oracle SQL developer, Crystal Reports, Tableau."}
+{"text": ""}
+{"text": ""}
+{"text": "Client Name:  Fidelitrade Inc, Wilmington, Delaware                                                       Feb 2015- April 2016"}
+{"text": "Role: Sr Data Modeler"}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Involved in all stages of Software Development Cycle (SDLC), gathered and translated business requirements into detailed, production-level technical specifications and made enhancements to the existing technical business functionality."}
+{"text": "Responsible for analyzing Design Implementation from the business solution and business requirements."}
+{"text": "Conducted live JAR & JAD sessions with SMEs, and all the placeholders to develop High Level Requirement and then formalized those requirements into Detail Level Requirements."}
+{"text": "collaborate with business analysts to define high level and detailed requirements."}
+{"text": "Worked in close co-ordination with Business People, Architects, Developers, Testers and Project Managers and also at times reported to the higher leadership."}
+{"text": "Created Conceptual, Logical, and Physical data models using ER studio for new system."}
+{"text": "Developed normalized logical and physical database models to design OLTP system for applications."}
+{"text": "Worked to cleanse and organize various tables in a presentable manner to help with better understanding of already existing models."}
+{"text": "Enforced referential integrity in the OLTP data model for consistent relationship between tables and efficient database design."}
+{"text": "work with development and test team to ensure all bugs are removed before code is deployed in UAT."}
+{"text": "Used ER studio tool for effective model management for dividing, sharing and reusing model information."}
+{"text": "Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau."}
+{"text": "Created Tableau scorecards, dashboards using stack bars, bar graphs, scattered plots, geographical maps, Gantt charts using show me functionality. "}
+{"text": "Used reverse engineering to create Graphical Representation (E-R diagram) and to connect to existing database."}
+{"text": "Responsible for leading the team for doing application assessments, risk assessments in identifying right candidates for migration & preparing the migration plan to the\u00a0AWS\u00a0cloud."}
+{"text": "Created Data flow diagrams for current system."}
+{"text": "Development of ETL Processes using SSIS Packages."}
+{"text": "Migration of DTS Packages to SSIS Packages."}
+{"text": "Conducted sessions with designers, business and advancement groups to comprehend the Change Requests (CR's), and impacts brought on the framework by the change demands."}
+{"text": "Created entity / process association matrices, entity-relationship diagrams, functional decomposition diagrams and data flow diagrams."}
+{"text": "Created Technical Mapping documents for the development team to develop mapping workflows. Checked for all the modeling standards including naming standards, entity relationships on model and for comments and history in the model."}
+{"text": "Generated customized report solutions for metadata reports."}
+{"text": "Developed Data Mapping, Data Governance, and Transformation and cleansing rules for the Master Data Management Architecture involving OLTP, ODS."}
+{"text": "Modify and refine architecture based on findings."}
+{"text": "Generated the ad-hoc SQL queries using joins, database connections and transformation rules to get the data from databases."}
+{"text": "Hands-on experience with ad-hoc reports using Crystal Reports."}
+{"text": "Improved data integrity by adding foreign keys and normalizing the underline data structure."}
+{"text": "Performed Performance tuning."}
+{"text": "Worked extensively on Forward and Reverse engineering processes. Created DDL Scripts for implementing Data Modeling changes."}
+{"text": "Created documentation and test cases, worked with users for new module enhancements and testing."}
+{"text": ""}
+{"text": "Environment: ER studio, Erwin, Informatica, Teradata, Windows 7, MS Excel, MS Visio, DB2, Microsoft Transaction Server, Tableau, Crystal Reports."}
+{"text": ""}
+{"text": ""}
+{"text": "Client Name:  Cigna LLC, Bloomberg, CT                                                                                July 2014- Feb 2015"}
+{"text": "Role: Data Modeler"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Interacted with business users to identify and understand business requirements and identified the scope of the projects."}
+{"text": "Participated in team meetings upon Joint Application Development (JAD) sessions to clarify the naming conventions followed with the Business Analysts."}
+{"text": "Created a physical data model by identifying business attributes and relationships between the Entities."}
+{"text": "Responsible for incorporating the business requirements into the data model and the OLAP tool."}
+{"text": "Developed Star Schema based dimensional model for the development of Data warehouse."}
+{"text": "Responsible for converting business requirements into logical model containing Tables and Columns."}
+{"text": "Created and maintained Logical and Physical models for the data mart which supports the Risk reporting for renal and immune diseases which included creating partitions, indexes for the tables."}
+{"text": "Performed Gap Analysis."}
+{"text": "Generated tableau dashboards for sales with forecast and reference lines."}
+{"text": "Redefined many attributes and relationships in the reverse engineered model and cleansed unwanted tables/columns as part of data analysis responsibilities."}
+{"text": "Conducted sessions with architects, business and development teams to understand the Change Requests (CR\u2019s), and effects caused on the system by the change requests."}
+{"text": "Worked closely with the ETL SSIS Developers to explain the complex Data Transformation using Logic."}
+{"text": "Responsible to collect, analyze and summarize data and for Data Mapping."}
+{"text": "Wrote SQL scripts for creating tables, Sequences, Triggers, views and materialized views."}
+{"text": "Wrote SQL scripts for loading data from staging area to target tables."}
+{"text": "Created summary tables using de-normalization technique to improve Join operations."}
+{"text": "Performed Data Migration to a new database."}
+{"text": "Experienced in generating and documenting Metadata while designing application."}
+{"text": "Worked on Metadata Management."}
+{"text": "Involved in extracting the data using SSIS from OLTP to OLAP."}
+{"text": "Used various kinds of Data sets with SSRS."}
+{"text": "Export and Import of Metadata into Logical Data Models."}
+{"text": "Extensively worked on Performance Tuning and understanding Joins and Data distribution."}
+{"text": "Performed data analysis on the target tables to make sure the data as per the business expectations. "}
+{"text": "Maintained security and data integrity of the database."}
+{"text": "Designed and implemented a physical data model to handle marketing strategies and to satisfy reporting needs dynamically."}
+{"text": ""}
+{"text": "Environment: ERWIN, Teradata, Crystal Reports, Toad, Tableau, Windows OS, DB2, SSRS, SQL Server, Business Objects."}
+{"text": ""}
+{"text": ""}
+{"text": "Client Name: AIG, Dallas, TX                                                                                                  April 2013-June 2014"}
+{"text": "Role:   Data Modeler"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Gathered requirements and created ER (entity-relationship) diagrams as part of requirements analysis using ERWIN."}
+{"text": "Mapped the business requirements and new databases to the logical data model which defines the project delivery needs."}
+{"text": "Redefined many attributes and relationships in the reverse engineered model and cleansed unwanted tables/columns as part of data analysis responsibilities."}
+{"text": "Worked with analysts to create reporting universes in Business Objects. "}
+{"text": "Responsible to collect, analyze and summarize data and for Data Mapping."}
+{"text": "Worked at\u00a0conceptual/logical/physical data model level using Erwin according to requirements."}
+{"text": "Designed the data marts using the Ralph Kimball\u2019s Dimensional Data Mart modelling techniques. "}
+{"text": "Identified the measures and dimensions and organizing these into facts in creating the Dimensional Model within the business requirements."}
+{"text": "Designed Fact tables, Dimension and aggregate tables for Data warehouse."}
+{"text": "Implemented naming standards, and warehouse metadata for fact and dimension of Logical and Physical Data Model."}
+{"text": "Developed Star Schema and Snowflake Schema in designing the Logical Model into Dimensional Model. "}
+{"text": "Translated the Logical Data Model into Physical Data Model with Forward Engineering in Erwin tool."}
+{"text": "De-normalized the database to put them into the star schema of the data warehouse."}
+{"text": "Extensively used star schema methodologies in building and designing the logical data model into dimensional models."}
+{"text": "Worked on slowly changing dimension tables and hierarchies in dimensions."}
+{"text": "Worked on data mapping process from source system to target system."}
+{"text": "Extracted the Metadata from the Metadata repositories to generate the Mapping Documents."}
+{"text": "Establish and maintain processes to support and grow data modeling practices, conceptual, intermediate logical/ canonical and physical data models per company direction, Solution designs, options and recommendations relating to data models and databases. "}
+{"text": "Create and deploy reports using SSRS. "}
+{"text": "Maintaining requirements documents, creating reports and spread sheets readable by the users and developers."}
+{"text": "Environment: SQL Server, SQL Server Analysis Services, SSIS, SSRS, Crystal Reports, Windows 2000, Micro strategy, Crystal Enterprise, Erwin, CSV files, XML files, Business Objects."}
+{"text": ""}
+{"text": ""}
+{"text": "Client Name:  Hanes Brand, Winston Salem, NC                                                              Oct 2012-March 2013                        "}
+{"text": "Role:  Data Modeler"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Gather the various requirements from the business analysts."}
+{"text": "Gather all the Sales analysis reports prototypes from the business analysts belonging to different Business units; Participated in JAD sessions involving the discussion of various reporting needs. "}
+{"text": "Created logical, physical and dimension models."}
+{"text": "Optimize and update logical and physical data models to support new and existing data models."}
+{"text": "Developed Star and Snowflake schemas based dimensional model to develop the data warehouse."}
+{"text": "Modeled the dimensions and facts using ER Studio for centralized data warehouse."}
+{"text": "Identified and tracked slowly changing dimensions and determined the hierarchies in dimensions "}
+{"text": "Actively participated in data mapping activities for the data warehouse."}
+{"text": "Done SQL Server configuration database size estimation, database creation logins & user\u2019s creation, granting object level permission, estimation of Indexes on tables."}
+{"text": "Wrote Stored Procedures and Triggers."}
+{"text": "Performed extensive requirement analysis and developed use cases and Workflow Diagrams."}
+{"text": "Analyzed existing logical data model (LDM) and made appropriate changes to make it compatible with business requirements. "}
+{"text": "Ensured the feasibility of the logical and physical design models."}
+{"text": "Worked on the Snow-flaking the Dimensions to remove redundancy. "}
+{"text": "Employed naming standard editor for defining new naming standards for the entities, attributes, domains, columns and tables that applied consistently all over the enterprise."}
+{"text": "Implemented slowly changing dimensions Type2 and Type3 for accessing history of reference data changes."}
+{"text": "Generated ad-hoc reports using Crystal Reports."}
+{"text": "Participated in the tasks of data migration from legacy to new database system.  "}
+{"text": ""}
+{"text": "Environment: ER Studio, SQL/MS SQL Server, MS OLAP Manager, MS Analysis Services, Windows XP, UML, Informatica Power Center, Crystal Reports."}
+{"text": ""}
+{"text": ""}
+{"text": "Client Name: Oriental insurance Group, India                                                                      Feb 2011- Sep 2012              "}
+{"text": "Role: Data Modeler/ Data Analyst"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Interacted with users and business analysts for requirement gathering."}
+{"text": "Involved in creating entity relational and dimensional relational data models using Sybase Power Designer tool.\u00a0"}
+{"text": "Worked on Bill Inmon methodologies for modelling."}
+{"text": "Created tables, views, procedures and SQL scripts and mapping documents."}
+{"text": "Create logical and physical models using best practices to ensure high quality and reduced redundancy"}
+{"text": "Developed Cleansing and data migration rules for the Integration Architecture (OLTP, ODS, DW)"}
+{"text": "Analyzed conceptual into logical data and had JAD sessions and also communicated data related issues and standards."}
+{"text": "Expertise in the forward engineering of the logical models to generate the physical tables using Sybase Power Designer."}
+{"text": "Created tables, views, triggers, stored procedures and indexes. "}
+{"text": "Created integrity rules and defaults. "}
+{"text": "Created ftp connections, database connections for the sources and targets."}
+{"text": "Developed several forms & reports using Crystal Reports."}
+{"text": "Analyzed existing logical data model (LDM) and made appropriate changes to make it compatible with business requirements.\u00a0"}
+{"text": "Resolved the data type inconsistencies between the source systems and the target system using the mapping documents and analyzing the database using SQL queries.\u00a0"}
+{"text": "Maintained security and data integrity of the database."}
+{"text": ""}
+{"text": "Environment:\u00a0Sybase Power Designer, Visio, Excel, Word, Power Point, Microsoft Project and MS Excel, SQL Server, SQL PLUS, Windows XP, Crystal Reports."}
+{"text": ""}
+{"text": ""}
+{"text": "Client Name: Integrated Wireless Systems, India                                                                June 2010-Jan 2011"}
+{"text": "Role: Data Modeler/ Data Analyst"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Involved in all the Functional requirements gathering sessions with the Business Analysts. "}
+{"text": "Design and Development of Requirements Specification document, business process modelling using UML. "}
+{"text": "Used\u00a0SQL*Loader\u00a0to load the database from flat files."}
+{"text": "Created a logical design of the central relational database using Erwin."}
+{"text": "Expertise in the forward engineering of the logical models to generate the physical tables using Erwin."}
+{"text": "Done SQL Server configuration database size estimation, database creation logins & user\u2019s creation, granting object level permission, estimation of indexes on tables."}
+{"text": "Configured the DTS packages to run in periodic intervals."}
+{"text": "Extensively worked with DTS for Data Migration from source systems."}
+{"text": "Involved in writing Triggers which internally called procedures and functions."}
+{"text": "Maintained Data Security and Data Integrity of the Database."}
+{"text": ""}
+{"text": "Environment: SQL server, Erwin, UML, Windows NT, Crystal Reports"}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelor\u2019s in Electronics and Communication Engineering, India."}
+{"text": ""}
+{"text": ""}

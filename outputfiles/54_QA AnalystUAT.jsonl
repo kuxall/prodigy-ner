@@ -1,0 +1,148 @@
+{"text": "Name: anna anna"}
+{"text": "E-Mail: anna.anna@gmail.com"}
+{"text": "Address: Chongqing, China"}
+{"text": "Github: https://github.com/anna"}
+{"text": "LinkedIn: https://linkedin.com/anna"}
+{"text": "Phone No. 824809572482"}
+{"text": ""}
+{"text": "SUMMARY"}
+{"text": ""}
+{"text": "6plus years of experience in Manual/automation testing of Web, Client Server applications."}
+{"text": "Expertise in writing Test Plans, Test Scenarios,test cases, executing Test cases and logging the defect."}
+{"text": "Experience with Test Case Management using HP ALM."}
+{"text": "Strong understanding of SDLC phases and models. Good Knowledge in Software Testing Life Cycle and Defect Life Cycle."}
+{"text": "Worked on Agile and waterfall methodology."}
+{"text": "Worked on IBM tools to ensure converting of X12 into standard XML format."}
+{"text": "Experienced in manual testing with the focus on User Interface Testing, Functional Testing, Database testing, Smoke testing, System integration testing, Regression Testing, UAT testing "}
+{"text": "Experience conducting automated functional and regression testing using Selenium Web Driver."}
+{"text": "Responsible for coordinating and executing the testing of entire system in accordance with the test plan."}
+{"text": "Experience in C# Coding."}
+{"text": "EDI Medical Claims experience in Process Documentation, Analysis and Implementation in 835/834/837/270/271 processes of EDI Medical Claims Industry from the Provider/Payer side."}
+{"text": "Good knowledge on CPT/ICD diagnosis codes and Procedure codes. ICD version 9 and 10."}
+{"text": "Expertise in Claims, Subscriber/Member, Plan/Product, Claims, Provider, Commissions and Billing Modules of Facets."}
+{"text": "Expertise creating and editing EDI transactions used in healthcare industry as per the Companion and Implementation guide."}
+{"text": "Medical Claims experience in Process Documentation, Analysis and Implementation in 835/837/834/270/271/277/999(X12Standards) processes of Medical Claims Industry from the Provider/Payer side."}
+{"text": "Experience in working with multiple relational databases; knowledge in backend testing using SQL statements and MySQL."}
+{"text": "XML Validation using AltovaXMLSpy (SOAPUI Pro) and Notepad++"}
+{"text": "Versatile team player as well can work independently coupled with excellent interpersonal skills."}
+{"text": "Keen attention to detail."}
+{"text": "Able to prioritize and execute tasks in a high-pressure environment."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": ""}
+{"text": "WORK EXPERIENCE"}
+{"text": ""}
+{"text": "Client:United Health Group, Minnetonka, MN\t\t"}
+{"text": "Duration: Feb 16-June 18"}
+{"text": "Title: QA Analyst/UAT\t\t"}
+{"text": "\t\t\t\t\t\t"}
+{"text": "Project Description:"}
+{"text": "UnitedHealth Group is a diversified managed health care company headquartered in Minnetonka,Minnesota. It is No. 14 on Fortune magazine's top 500 companies in the United States. The system automated all aspects of health plan management including eligibility, enrollment; benefit administration;provider contracting and reimbursement; care management; capitation; claims adjudication; overpayment recovery; customer service; EDI interface and more. The Validation is done on FACETS and Different legacy routing scenario and how Its stored-on FACETS accumulator tables. As a QA Analyst, I was involved in various kinds of testing of the\u00a0Facets\u00a0application modules like Membership, Providers and Claims. AlsoThis project will focus on upgrade testing of QNXT v4.6 to v4.8 and simultaneously performing Regression testing. As a QA, Responsible for creation of the claims according to the data needs of eportal and the web services applications.\u00a0"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Conducted User Interface Testing (UI), Smoke Testing, Functional Testing, Compatibility Testing, Cross Browser Testing and Backend Testing."}
+{"text": "Attended review meetings and walkthroughs to discuss the status of the project."}
+{"text": "Worked on agile methodology, attended sprint kick off meetings."}
+{"text": "Utilize technical companion guideline to create EDI transactions as part of the test data preparation."}
+{"text": "Involved in preparing Test Data for different EDI transactions like 837 for submitting claims, 835 for payments, 834 for benefit enrollment, and 820 for premium payments to insurance products, 270/271 for Eligibility inquiry, and 276/277 for claims status."}
+{"text": "Identified tests developed in C# to be automated using Selenium Web Driver."}
+{"text": "Used Selenium Web Driver for functional and regression testing."}
+{"text": "Conducted Selenium Web Driver Studio to conduct GUI automation testing."}
+{"text": "Submitted EDI X12 initial submission transactions and verified the claim information is correctly populated in the Member services application."}
+{"text": "Performed Backend Testing-using SQL queries, generating reports to ensure data integrity and validate business rules."}
+{"text": "Wrote SQL Scripts to insert regression test data into the database."}
+{"text": "Worked in Test Automation environment in Continuous Integration (CI) and Continuous Deployment (CD)."}
+{"text": "Integrated with Continuous Integration (CI) tools Jenkins for running test on nightly basis automatically.\u00a0"}
+{"text": "Validated some of the reports, using complex SQL queries, generated during the process."}
+{"text": "Involved in writing complex SQL queries to extract the data from Oracle database"}
+{"text": "Involved in testing of HIPAA 835 for the payment of claims and transfer of remittance information."}
+{"text": "Supported Post Production Implementation and Production Support for all EDI transactions."}
+{"text": "Maintained Test Summary Report,traceability between Requirements and Test Cases in HP ALM."}
+{"text": "Responsible in handling changes and performing Regression Testing."}
+{"text": "Worked with client and conducted User Acceptance Testing (UAT)."}
+{"text": "Involved in Web services testing where soap request and soap response was tested using SOAP UI."}
+{"text": "Tested and delivered Inbound/Outbound CSR interfaces."}
+{"text": "Tracked and documented details of bugs; followed up with development team to verify bug fixes and updated bug status."}
+{"text": "Analyzed and validated the User Interface (UI) of the system with the requirements"}
+{"text": "Worked on HP ALM for test execution, defect tracking and QA related reports"}
+{"text": "Prepared Defect report, Project Status reports for submitting to the Management. "}
+{"text": ""}
+{"text": "Environment: EDI Gateway tool, C#, .NET, XML, SoapUI, CI/CD, SVN/GIT, Jenkins, Selenium Web Driver, SQL, Rally, MS Office, HP ALM,EDI, XML."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Aurora Health Care, Milwaukee, WI\t\t\t\t\t\t"}
+{"text": "Duration: September 14- Jan 16"}
+{"text": "QA Tester\t"}
+{"text": "Project Description:"}
+{"text": "As a QA I was involved in testing and coordinating to make sure the transactions are routing correctly to the correct organization and Providers.The project involved testingseveral EDItransactions 270/271, 276/277, 278, 837P/I/D, 835, 834, and 820. This project is using third party integration with\u00a0Edifecs\u00a0tool for HIPAA validations."}
+{"text": "Responsibilities:"}
+{"text": "Worked on HIPAA Transactions and Code Sets Standards according to the test scenarios such as 270/271, 276/277, 820, 834, 837/835 transactions."}
+{"text": "Attended daily stand up meetings and tested in fast paced Agile environment."}
+{"text": "Tested the interface between database and the application"}
+{"text": "Participated in requirement walkthroughs and creation of test plan"}
+{"text": "Gathered Requirements separately for EDI and Web applications."}
+{"text": "Worked on Unix Platform and experienced in back end testing by executing SQL Queries."}
+{"text": "Checked the data flow through the frontend to backend and used SQL Queries to extract the data from the database."}
+{"text": "Configuration and evaluating the impact of proposed changes in rules and regulations."}
+{"text": "Involved in writing extensive SQL Queries for back end testing oracle database."}
+{"text": "Retrieved files using SQL statements and UNIX commands."}
+{"text": "Maintained Traceability matrix and Test Matrix."}
+{"text": "Used Selenium Web Driver to conduct web testing, GUI testing. "}
+{"text": "Conducted XML validation and Functional testing using SOAP UI. "}
+{"text": "Wrote SQL Scripts to insert regression test data into the database."}
+{"text": "Executed automated test scripts using Selenium Web Driver."}
+{"text": "Validated some of the reports, using complex SQL queries, generated during the process."}
+{"text": "Involved in writing complex SQL queries to extract the data from Oracle database"}
+{"text": "Maintained various versions of Test Scripts."}
+{"text": "Worked in Test Automation environment in Continuous Integration (CI) and Continuous Deployment (CD)."}
+{"text": "Integrated with Continuous Integration (CI) tools Jenkins for running test on nightly basis automatically.\u00a0"}
+{"text": "Worked on 837 (claims), 835 (remittances), 276/277 (claims status inquiry and response), "}
+{"text": "Performed Sanity Testing and Smoke Testing"}
+{"text": "Investigating software bugs and reporting to the developers using HP ALM Defect Module"}
+{"text": "Analyzed system requirements and developed detailed test plan for testing"}
+{"text": "Performed User Interface Testing (UI), User Acceptance Testing (UAT), System Integration Testing (SIT)."}
+{"text": "Supporting and Handling the UAT co-ordination with the Business and preparing the valid business scenarios for testing thru out application versions"}
+{"text": "Working very closely with Production Support team in testing all the Emergency Change Requests/Tickets opened by the developers to validate the code change which was tested and verified in UAT environment before pushing the code in Production."}
+{"text": "Tracked and reported defects using HP ALM."}
+{"text": ""}
+{"text": "Environment:  SharePoint, C#, .NET, CI/CD, Jenkins, Selenium Web Driver, SVN/GIT, UNIX, SQL, SOAP UI, Rally, HP ALM, Firefox. IE. Windows, MS Outlook."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Client:\tCigna, Hartford, CT\t\t"}
+{"text": "Duration: May 12 \u2013 August 14"}
+{"text": "Title:  QA Analyst\t\t\t\t\t\t\t"}
+{"text": "Project Description:"}
+{"text": "Cigna Health is one of the nation\u2019s leading non-profit networks of community-based healthcare providers, delivering high-quality care. Worked on Pre-processor Projects to auto conversion EDI Transaction from an Add to Change and Change to an ADD,also worked to implement the conversion of EDI 820, 834, 835, 837, 270/271 EDI transactions from 4010 to 5010. I was involved in testing of all loops and segments for conversion of EDI 820, 834, 835, 837 4010 to HIPAA compliant 5010."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in preparing Test Plan and defined the testing approach, resources and time lines."}
+{"text": "Reviewed Business Requirements, Functional and Technical specifications with business analyst and QA manager to learn the functionality and process."}
+{"text": "Prepared Test Cases based on business requirements and business rules for HIPAA EDI Transaction 834,835, 837,820."}
+{"text": "Attended peer review meetings with the business analysts to make sure all the functionalities have been covered in the test cases"}
+{"text": "Conducted functional testing using QTP."}
+{"text": "ValidateEDIClaimProcessaccordingtoHIPAAcompliance."}
+{"text": "Used General Equivalence Mapping (GEM) to convert ICD9 to ICD10."}
+{"text": "Worked in preparing the EDI transmission files, dropping them in Inbound, Outbound Interfaces and validate the data according to the test scenarios."}
+{"text": "Maintained Requirement Traceability Matrix (RTM) to make sure that test plans were written for all the requirements."}
+{"text": "Tested web applications developed in C# environment. "}
+{"text": "Conducted Web Services Testing using SOAP UI. "}
+{"text": "Worked on various EDI X12 transaction sets such as 834,835,837,270/271"}
+{"text": "Involved in GUI, Regression, database, system integration testing"}
+{"text": "Extensively user SQL queries and procedures for data validation in both source system and target system. "}
+{"text": "Executed test cases found errors, reported defects, coordinate with developers and business analyst, determined repair priorities."}
+{"text": "Perform regression testing after the defect is resolved and closed defect in HP Quality Center."}
+{"text": "Performed E2E Mapping and Validated the Data Flow"}
+{"text": "Generated test execution reports, get sign off and uploaded validation documents in share point for review. "}
+{"text": "Performed User Interface (UI) Testing and User Acceptance Testing (UAT)"}
+{"text": ""}
+{"text": "Environment: HP Quality Center, Jira, C#, HIPAA, EDI, Visio, Toad, QTP, HTML, XML, Windows, Oracle, Web/Application Server, Agile and MS Project, SoapUI."}
+{"text": ""}
+{"text": "EDUCATION:"}
+{"text": ""}
+{"text": "Bachelor\u2019sin Computer Information Science "}
+{"text": ""}

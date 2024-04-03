@@ -1,0 +1,128 @@
+{"text": "Name: marie marie"}
+{"text": "E-Mail: marie.marie@gmail.com"}
+{"text": "Address: Singapore, Singapore"}
+{"text": "Github: https://github.com/marie"}
+{"text": "LinkedIn: https://linkedin.com/marie"}
+{"text": "Phone No. 20444339038"}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "Having 5 years of experience in business and data analytics, data manipulation, modeling, machine learning, data integration, data warehousing concepts, and data migration."}
+{"text": "Built data products and processes alongside the core engineering and technology team."}
+{"text": "Collaborated with senior data scientists to curate, wrangle, and prepare data for use in their advanced analytical models."}
+{"text": "Ability to collaborate with peers, work in teams in both; the business and the technical areas, to deliver the strategic solutions in line with corporate priorities."}
+{"text": "Experienced with JIRA for Project Management, Agile Scrum process."}
+{"text": "Participated in the development of short- and long-term information architecture strategies, support and participated in the strategic planning processes.\u00a0 Built data migration strategies."}
+{"text": "Worked with business and vendor partners, and project delivery lead to determine business data intelligence requirements.\u00a0 Interpreted and documented the data needs for the business.\u00a0 Analyzed program protocols and translated them into data warehousing and data mart requirements.\u00a0"}
+{"text": "Highly skilled in educating business unit staff on agile and scrum terminology and processes."}
+{"text": "Proven abilities in defining the scope of projects based on business strategy and objectives, including documentation of project constraints, project risks, and business impacts."}
+{"text": "Strong understanding of data modeling concepts, including physical and logical data models."}
+{"text": "Highly experienced in writing and executing complex SQL queries, stored procedures in the relational database management system."}
+{"text": "Experienced in the extraction of data using SQL Server Services and Crystal Reports."}
+{"text": "Familiar with the fundamentals of Hadoop Architecture, HDFS Framework, and components of its ecosystem like Map Reduce and HIVE."}
+{"text": "Have flawless control and understanding of the concepts such as: 'K-means-Clustering', 'Decision-Trees-and-Random -Forests', 'Na\u00efve Bayes', and 'Natural-Language-Processing'."}
+{"text": "Highly proficient in mapping transformation, data modeling, and data-warehouse concepts."}
+{"text": "Experienced in data governance, data quality, metadata management."}
+{"text": "Proven ability to design and optimize queries to build scalable, modular, efficient data pipelines using Alteryx, SSIS/SSRS. "}
+{"text": "Developed solutions using Tableau and Alteryx to provide the data for the dashboard in formats that include JSON, CSV, excel and highly experienced with data warehousing dictionary software platforms such as SSAS/SSRS/SSIS, Business Objects, Amazon Redshift, Azure Data Warehouse, and Teradata."}
+{"text": "Extensively utilized python libraries such as NumPy, Pandas, SciPy, Matplotlib for data analysis and visualization."}
+{"text": "Successfully implemented the scrum agile development methodology within the cross-functional team, closely worked as a liaison between the business user group and the technical team."}
+{"text": ""}
+{"text": "TECHNICAL   SKILLS"}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "Client: GE Power, Norfolk Virginia                                                                               Sep 2019 - Present"}
+{"text": "Role: Data Analyst"}
+{"text": "Responsibilities:"}
+{"text": "Researched and investigated the studies on the forecasts, demand, market risks and capital of products. Performed market analysis to discover hidden market opportunities and then conducted SWOT analysis through data visualization using Tableau and Anaconda environment. "}
+{"text": " Delivered production-ready data engineering solutions, including requirements definition, architecture selection, prototype development, debugging, unit-testing, deployment, support, and maintenance."}
+{"text": "Using JIRA for Project Management, worked with senior management, technical and client"}
+{"text": "Demonstrated the curiosity, interpersonal abilities, and organizational skills necessary to serve as a consulting partner, includes the ability to uncover, understand, and assess the needs of various business stakeholders."}
+{"text": "Designed database data models ETL processes, data warehouse applications and business intelligence BI reports using POWER BI, ALTERYX. "}
+{"text": "Used Tableau and Python tools to redesign and develop workflows, conducted regression analysis and data modeling."}
+{"text": "Utilized the Agile methodology as per the organization's standards to implement dataset models."}
+{"text": "Developed SQL scripts to create databases, database objects and performed DDL and DML tasks."}
+{"text": "Analyzed and worked on developing a design prototype for Dimension Tables and Fact Tables based on the warehouse design in context to the company\u2019s requirements."}
+{"text": "Performed reverse engineering using Erwin to redefine entities, attributes, and relationships existing in the database."}
+{"text": "Conducted logical data modeling, physical Data modeling using the Tableau, and Jupyter Data Modeling tools."}
+{"text": "Generated various data structures using SQL Server Integration Services (SSIS) and SQL Server Report Services (SSRS) for business analysts and the management team."}
+{"text": "Documented requirements for designing data marts that were used as the source for the various systems in the company."}
+{"text": "Developed and maintained the data dictionary to create metadata files for APPLICATION purposes."}
+{"text": "Performed Data Analysis using SQL for Testing and troubleshooting against Data Warehouses."}
+{"text": "Extracted data from different sources like Oracle and text files using SAS/Access, SAS SQL procedures and created SAS datasets."}
+{"text": "Utilized data clustering algorithms such as K-means, and regression analysis to read the specific target data of a client."}
+{"text": "Documented test cases, test plans and test results for the loading processes and data validation."}
+{"text": "Maintained and implemented Data Models for Enterprise Data Warehouse using Anaconda tools and libraries."}
+{"text": "Involved in the development and implementation of SSIS, SSRS and SSAS application solutions for various business units across the organization."}
+{"text": "Software used: Windows XP, Anaconda, MySQL, Postgre SQL, and Tableau."}
+{"text": ""}
+{"text": "Client: HUMANA, Louisville, KY                                                                          \t\tMarch 2019 - Aug 2019                        "}
+{"text": "Role: Data Analyst"}
+{"text": "Responsibilities:"}
+{"text": "Worked with business analysts for requirement gathering, business analysis, and testing and project Coordination."}
+{"text": "Interacted with Subject Matter Experts (SME's) along with Stakeholders to get a better understanding of the client's business processes and gathered project\u2019s requirements to deliver the best results."}
+{"text": "Proven skills demonstrated through handling various clients across the USA to gather the detail level clients\u2019 reporting requirements."}
+{"text": "Used Jira for Project Management, and issue tracking"}
+{"text": "Designed and developed data dictionaries to store the information for future data sets including the operational parameters and strategic requirements."}
+{"text": "Used data profiling methodology to assess the risk involved in integrating the new data from different application systems."}
+{"text": "Performed reverse engineering of the physical data model from the databases and SQL scripts."}
+{"text": "Used data normalization techniques."}
+{"text": "Utilized indexing and hints to improve performance and initiate a better understanding of SQL queries. "}
+{"text": "Translated the business requirements into data models supporting long-term solutions."}
+{"text": "Created business and technical metadata through data modeling tools."}
+{"text": "Enforced standards and best practices around data modeling efforts."}
+{"text": "Performed logical data modeling, physical data modeling, and K-means-clustering through Anaconda and the other python tools."}
+{"text": "Developed and maintained a data dictionary to create various metadata reports for technical and business purposes."}
+{"text": "Involved in designing sub-reports and linked them depending on the user requirements and to limit the number of Data Sources."}
+{"text": "Derived client solutions using different reporting features such as group by, drill-downs, drill-through, etc."}
+{"text": "Software used: Operating System: Windows 7, Microsoft Workbench, SQL Server 2008, SSRS, SSIS, SSAS, Anaconda, MySQL, and Tableau."}
+{"text": ""}
+{"text": "Client: Pepsi CO, Plano, TX                                                                                         \t\tJan 2018 - Feb 2019                "}
+{"text": "Role: Data Analyst"}
+{"text": "Responsibilities:  "}
+{"text": "Responsible for writing new stored procedures and editing existing stored procedures for new modifications. "}
+{"text": "Done data profiling and identified the existing gaps by doing the gap analysis."}
+{"text": "Designed and developed dictionary to store the information of future data sets including the operational parameters."}
+{"text": "Created Logical and Physical Data Models for central model consolidation."}
+{"text": "Worked with DBAs to create a best fit physical data model from the logical data model."}
+{"text": "Involved in Logical and Physical Designs and transforms logical models into physical implementations as per the requirements of the company."}
+{"text": "Analyzed the existing troubleshooting systems with their optimization levels and developed business documentation on recommended changes. "}
+{"text": "Designed and Developed Oracle Database Tables, Views, Indexes with proper privileges and Maintained and updated the database by deleting and removing old data."}
+{"text": "Performed Unit Testing and tuned for better performance."}
+{"text": "Planned adjustments in Data Model and SQL scripts to create and alter tables.  "}
+{"text": "Designed flowcharts, layout diagrams using Microsoft Visio. "}
+{"text": "Design and development of complex business rules using PL/SQL. "}
+{"text": "Designed and created tables, views, indexes, stored procedures, and triggers."}
+{"text": "Reviews Data Mapping documents and guide Business System Analysts."}
+{"text": "Interfaced with other business analysts, developers and technical support to determine the best requirement specifications."}
+{"text": "Extracted data from disparate sources like Text, EXCEL, Relational Databases, etc. and generated a table structure for further analysis of data."}
+{"text": "Tuned complex queries using indexing, partitioning and analyzing a query execution plan."}
+{"text": "Testing the target table structures to validate them against the source data."}
+{"text": "Created table structures in Staging and Data Store areas."}
+{"text": "Software Used: Pl/SQL, Erwin, OLAP, OLTP, SQL Server."}
+{"text": "Client: Intel Tech Innovations, India                                                                            \t\t\tJan 2015 - Jul 2017                      "}
+{"text": "Role: Business Analyst"}
+{"text": "Responsibilities: "}
+{"text": "Created interactive solutions for sorting, different parameterized reports which consist of required clients\u2019 criteria in various short-term projects to build and minimize the execution time and to limit the no of records required."}
+{"text": "Involved in designing sub-reports and linked reports depending on the user requirement and to limit the number of Data Sources."}
+{"text": "Derived client solutions using different reporting features such as group by, drill-downs, drill-through, etc."}
+{"text": "Created parameters (multi-value, hidden, default, etc.) for the required fields using the data visualization tools to demonstrate the dropdowns in the end report."}
+{"text": "Used various types of report layout options like charts (bars, lines, pie, etc.), images, graphs, hyperlinks, etc. to make them more interactive and understandable."}
+{"text": "Formatted the presentations of documents using Global variables and expressions."}
+{"text": "Exported the solutions into PDF, Excel, CSV, JSON, etc. formats."}
+{"text": "Increased the performance necessary for statistical solutions by 25% after performance monitoring, tuning and optimizing indexes."}
+{"text": "Scheduled presentations for daily, weekly, monthly subscriptions for executives, Business analyst and customer representatives for various categories and regions based on business need using SQL Server Reporting Services."}
+{"text": "Configuration and Deployment of all the data gathered through RDL across various SDLC environments."}
+{"text": "Deployed the solutions on Web Server, implemented security to restrict access to users and to allow them to use only certain reports."}
+{"text": "Integrated several software programs to minimize the execution of data and to minimize software requirements for warehousing."}
+{"text": "Used Team Foundation Server to store, run, view, edit and revert to different versions of the design in case of a system crash."}
+{"text": "Used Team Foundation Server to store, run, view, edit and revert to different versions of the design in case of a system crash."}
+{"text": "Design and develop SSIS Packages to perform daily Data warehouse loads from various source systems including Flat Files, Excel Files, SQL Server and used configuration files to execute the packages across different environments."}
+{"text": "Deployed the Packages to File System and SQL Server and scheduled them using SQL Server Agent to run automatically."}
+{"text": "Worked with Data flow tasks like Excel, OLEDB, and Lookup and installed custom tasks like Google Analytics Source and pulled data from Web into Data warehouse."}
+{"text": "Used share point portal for technical documentation."}
+{"text": "Software Used: Oracle 9i, Pl/SQL, SSIS, SSRS, SQL Server 2008."}
+{"text": ""}
+{"text": ""}
+{"text": "CERTIFICATIONS:\t"}
+{"text": ""}
+{"text": ""}

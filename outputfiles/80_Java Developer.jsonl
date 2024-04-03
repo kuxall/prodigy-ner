@@ -1,0 +1,150 @@
+{"text": "Name: lillian lillian"}
+{"text": "E-Mail: lillian.lillian@gmail.com"}
+{"text": "Address: Shenyang, China"}
+{"text": "Github: https://github.com/lillian"}
+{"text": "LinkedIn: https://linkedin.com/lillian"}
+{"text": "Phone No. 555086158945"}
+{"text": "Summary:"}
+{"text": ""}
+{"text": "Over 6 years of experience on technical phases of Software Development Life Cycle (SDLC) - deployment, maintenance, analysis, design, architecture, development, testing of Web Based applications using Java/JEE."}
+{"text": "Proficient in developing front-end systems with HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax, JSP, Servlets, Java Server Faces(JSF) and JavaScript frameworks such as AngularJS."}
+{"text": "Experience in publishing and consuming web services using SOAP and RESTful API."}
+{"text": "Experience in developing application using\u00a0Spring Framework that uses features of IOC, AOP, and MVC, and Spring Boot."}
+{"text": "Involved in designing\u00a0Spring MVC\u00a0application and\u00a0Hibernate\u00a0to design module structure."}
+{"text": "Comfortable in configuration and deployment of multi-tier applications using servers like Web Logic, Tomcat, Web Sphere and JBOSS."}
+{"text": "Proficient in IDEs like Eclipse, Notepad++, Dream Wear and Adobe Photoshop."}
+{"text": "Involved in Requirements and Analysis Understanding the requirements of the client and the flow of the application as well as the application Framework."}
+{"text": "Good knowledge in developing\u00a0Single Page Applications (SPA) using\u00a0JavaScript\u00a0MVC frameworks such as\u00a0Angular JS."}
+{"text": "Responsive design approach using HTML5 and CSS3 to support device integration."}
+{"text": "Good experience in core java concepts like collections, multi-threading, exception handling and has experience with UNIX and LINUX commands."}
+{"text": "Involved in developing the multiple enterprise applications, which are developed using Spring MVC framework, Hibernate framework, RESTful web services."}
+{"text": "Implemented Hibernate in data access layer to access and update information in the database."}
+{"text": "Experience utilizing Spring Framework, Inversion of Control, Oriented Programming and MVC."}
+{"text": "Worked on Algorithms and Data Structures."}
+{"text": "Designed and built SOAP Web Services interfaces implemented in Java."}
+{"text": "Developed test scripts in JUnit and involved in testing."}
+{"text": "Responsible to create\u00a0DAO\u00a0CRUD methods using Hibernate&Spring framework."}
+{"text": "Involved in daily Scrum meetings to keep track of the ongoing project status and issues."}
+{"text": "Used GIT for version controlling and regularly pushed the code to GitHub."}
+{"text": "Used GIT to maintain current and historical versions of files such as source code, web pages, and documentation."}
+{"text": "Used agile methodology for the software development and used JIRA for task assignment, bug tracking and fixture."}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelors in Engineering, Hyderabad, INDIA"}
+{"text": "Master\u2019s in Computer Science, California, USA "}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": "Java/J2EE Frameworks             : JDBC, Servlets, Struts, spring, Spring JMS, JDBC\nWeb Technologies                    :  HTML5, CSS, Ajax, XML, AngularJS\nApplication/Web Servers        :  Apache Tomcat, Web Logic, Web Sphere Application Server, JBoss\nDatabases                                  :  DB2, PL/SQL Oracle, NoSQL - MongoDB."}
+{"text": "Operating Systems                   : Windows XP/VISTA/7, UNIX, Linux\t"}
+{"text": "Relational Mapping Tools       : Hibernate, Spring ORM, JPA\nScripting Languages                 : Java, C/C++, SQL, Java script\nSoftware Methodologies        : Object Oriented Analysis & Design, UML, SDLC (Agile)"}
+{"text": "Development Tools\t         : IntelliJ, JavaBeans"}
+{"text": "IDE                                               : Eclipse, Net Beans, My Eclipse\nSource Control                          : SVN, CVS, Git\nOperating Systems                   : UNIX, WINDOWS XP/7.0, MS DOS\nTools                                           : Maven, Log4J, JUnit, SoapUI, Jenkins"}
+{"text": "Framework                                : jQuery, AngularJS, Node.js, Bootstrap"}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "Sun Life Financial, Wellesley Hills, MA\t\t\t\t\t\t       July 2017 \u2013 Till Date"}
+{"text": "Role: Java Developer"}
+{"text": "Description: Sun Life Financial is a leading financial services organization dedicated to helping customers achieve lifetime financial security which provides a wide range of insurance and investment products and services in key markets around the world."}
+{"text": "Responsibilities:"}
+{"text": "Involved in all the phases of SDLC including Requirements Collection, Design & Analysis of the Customer Specifications, Development and Customization of the Application."}
+{"text": "Actively participated in sprints and successfully implemented the project following scrum agile practice. Involved in the all phases of Software development life Cycle process, in short ours is 3 weeks sprint."}
+{"text": "Developed Object Model and UML design models for developing Use cases and created Sequence diagram, class diagram and active diagrams for application components and interfaces."}
+{"text": "Migrate out dated Java code to state of the art Java 8 code with advanced Maven builder and Spring Boot platform."}
+{"text": "Used Spring Transactions in the application and developed Session beans for the business logic at the middle tier level."}
+{"text": "Designed and developed Application based on Spring Framework, Spring MVC and spring templates."}
+{"text": "The Spring MVC architecture was employed in order to implement various aspects of cluster deployment tool such as for data-access, model view controller and also authentication and authorization."}
+{"text": "Implementing REST services for product data lookup using NoSQL database."}
+{"text": "Used Spring Framework for Dependency Injection and integrated with Hibernate DAOs."}
+{"text": "Used Hibernate framework in persistence layer for mapping an object-oriented domain model to a relational database."}
+{"text": "Intensively working on UNIX/LINUX commands to access the FTP Server through Putty."}
+{"text": "Involved in implementation of enterprise integration with Web Services and Legacy Systems using SOAP, and REST."}
+{"text": "Responsible for creating and maintaining architecture for Restful API using Spring Boot."}
+{"text": "Worked extensively on spring boot for building web service."}
+{"text": "Used spring core Annotations for Dependency Injection Spring DI and Spring MVC FOR Rest API\u2019s, Spring Boot for micro services and Spring Batch for running batching jobs."}
+{"text": "Used Hibernate Beans tomap to tables and retrieve data from the database."}
+{"text": "Worked with Jenkins, CI/CD pipeline to integrate and deploy the code in to the Server."}
+{"text": "Involved in setting up Maven configuration and helping Continuous Integration (CI) Issues."}
+{"text": "Implemented Service Oriented Architecture (SOA) using JMS for sending and receiving messages while creating web services."}
+{"text": "Used MongoDB database to provide recommendations on Performance tuning for applications."}
+{"text": "Hands on experience with SOAP UI in performing the Integration and regression testing."}
+{"text": "Set up Jenkins Server and build jobs to provide continuous automated builds based on polling the Git source control system during the day and periodic scheduled builds overnight to support development needs using Jenkins, Git, JUnit and Maven.\u00a0"}
+{"text": "Provided extensive pre-delivery support by fixing bugs and code reviews."}
+{"text": "Familiarity with Issue and Project-tracking tool, JIRA."}
+{"text": ""}
+{"text": "Environment: Java 1.8, HTML5, CSS3, JavaScript, JQuery, XML, Spring Boot,  Angular.js, Agile, Hibernate, RESTful web service, SOAP, AJAX, MongoDB,Oracle, Jenkins, Windows, Eclipse IDE, Maven, Eclipse, Git, Agile."}
+{"text": ""}
+{"text": ""}
+{"text": "MyVest, San Francisco, CA\t\t\t\t\t\t            August 2016 \u2013 June 2017"}
+{"text": "Role: Java Developer"}
+{"text": ""}
+{"text": "Description:  MyVest builds enterprise wealth management technology for the digital age. Driven by a vision for client-centric advice, we empower firms to deliver personalized portfolios at scale."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Identify software requirement in monthly Agile Scrum Grooming meeting with project manager and business analyst, and create tasks based on the requirement."}
+{"text": "Develop Spring Batch applications to process encrypted batch files."}
+{"text": "Develop and setup Control-M scripts to manage batch jobs of Spring Batch Application"}
+{"text": "Design and develop business components using Spring Boot."}
+{"text": "Experience in using various design patterns such as MVC in the development of Multi-Tier distributed Enterprise Applications."}
+{"text": "Experience in developing Web Applications using springand Hibernate."}
+{"text": "Integrated the application with Spring-MVC using Spring Boot, Spring Dependency Injection (DI), and\u00a0Spring Annotations."}
+{"text": "Implement Routing part of application using Angular JS ng-route module, routing provider service with HTML5 views/CSS 3 styles."}
+{"text": "Implement AngularJS Service layer with utility functions to get data from back end using Rest based service calls and pass back to Angular Controllers."}
+{"text": "ExposeREST URL through internal Data Power to provide HTTP error handling."}
+{"text": "Implemented the Bootstrap framework to offer responsive webpage."}
+{"text": "Integrate Spring REST Request Mapping with Web SEAL URL gateway to provide URL level authorization."}
+{"text": "Integrate Web service URLs with internal/external API management (APIM) to achieve enhanced security by using Oauth2 Token based authentication framework."}
+{"text": "Use DB2 to store user data."}
+{"text": "Experience in developing testing and deploying applications using Web Sphere Application Server."}
+{"text": "Used Maven build scripts for the project build and deployment process."}
+{"text": "Used GitHub, Maven for version control, build dependencies."}
+{"text": "Provide database SQL scripts to Database Administrators (DBA) to analyze the software performance impact."}
+{"text": "Build Maven Scripts for the application."}
+{"text": "Internal/external dependencies with Scrum Master and provide up-front actions to reduce the negative impediment."}
+{"text": "Prioritize tasks and assign them to team members based on team capacity and individual capacity during bi-weekly Agile Scrum Planning meeting."}
+{"text": ""}
+{"text": "Environment:  Java 1.5,  Spring MVC, DB2, HTML5, CSS3, JavaScript, Hibernate, Maven, Web Sphere, REST, Angular JS,   Bootstrap, Spring Batch, Spring Integration, JUnit, Jenkins, Git, Jenkins, LDAP, Control-M, BASH, JSON, XML, Agile methodology.\n"}
+{"text": "Dr First, Rockville, MD\t\t\t\t\t                                        August 2015 \u2013 June 2016\nRole: Java Developer"}
+{"text": ""}
+{"text": "Description: DrFirst pioneers software solutions and services designed to optimize healthcare provider access to patient information, improve the doctor\u2019s clinical view of the patient at the time of care, and enable more effective, efficient administration and collaboration across a patient\u2019s circle of caregivers."}
+{"text": "Responsibilities:"}
+{"text": "Involved in creating Use cases, Class diagrams and Interaction Diagrams and Involved in various phases of Software Development Life Cycle (SDLC)."}
+{"text": "Developed user Interfaces using JSP's to provide unique personalized look-and-feel for administrators and other users of the system."}
+{"text": "Used spring framework for dependency injection, transaction management in different layers."}
+{"text": "Developed the Action classes, Action forms and Action servlet for Web tier."}
+{"text": "Providing server side and client-side validation using JavaScript and Struts Validator framework."}
+{"text": "Used Struts Internationalization for providing the labels on the User Interface."}
+{"text": "Used AJAX in user validation and suggestion list and to display dialog boxes."}
+{"text": "Developed the Business logic on the web tier using EJB Stateless Session beans."}
+{"text": "Designed and implementing Session Facade, Service Locator and DTO design patterns."}
+{"text": "Involved in designing the user interfaces using JSPs. Used Eclipse for writing code for JSP, Servlets."}
+{"text": "Involved in Design documentation and implementation."}
+{"text": "Developed business layer components using enterprise\u00a0java\u00a0beans (EJB)."}
+{"text": "Developed JUnit test cases for all the developed modules."}
+{"text": "Used SVN for version control across common source code used by developers."}
+{"text": "Developed XML, Web Services using SOAP, WSDL."}
+{"text": "Used JDBC to invoke Stored Procedures and database connectivity to ORACLE."}
+{"text": ""}
+{"text": "Environment: J2EE, JDK, JSP, JavaScript, spring, Eclipse, Struts, Hibernate, HTML, AJAX, XML, EJB, PL/SQL, JUnit, Web Services, UNIX, SVN, Apache Tomcat, Oracle, SOAP, WSDL."}
+{"text": ""}
+{"text": ""}
+{"text": "Hexaware Technologies, India\t\t\t\t\t\t            April 2011 \u2013 August 2013"}
+{"text": "Role: Java Developer"}
+{"text": ""}
+{"text": "Description: Common Securitization platform (CSP) is a federal government sponsored back office system to monitor secondary mortgage industries like Freddie Mac to Produce, Issue and Service securities. It performs five essential functions like Data Acceptance, Issuance Support, Disclosures, Master Service Operations and Bond Administration."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Design, develop and implement Customer Requirements using J2EE, Java, Java Server Pages (JSPs) and XML."}
+{"text": "Involved in development of presentation layer using JSPs and Servlets with Development tool Eclipse IDE."}
+{"text": "Worked with MVC Architecture integrating Hibernate and spring frameworks."}
+{"text": "Mailing system using java mailAPI to notify the staff when a customer submitted a policy."}
+{"text": "Worked on development of Hibernate, including mapping files, configuration file and classes to interact with the database."}
+{"text": "Implemented Object-relation mapping (ORM) in the persistence layer using hibernate frame work in conjunction with spring functionality."}
+{"text": "Involved in injecting dependencies into code using spring core module."}
+{"text": "Used Spring Core Annotations for Dependency Injection (DI)."}
+{"text": "Involved in developing code for obtaining bean references in spring framework using Dependency Injection (DI) or Inversion of Control (IOC)."}
+{"text": "Used Web Services - WSDL and SOAP for getting required information from third party."}
+{"text": "Designed and Developed Stored Procedures, Triggers in Oracle to cater the needs for the entire application. Developed complex SQL queries for extracting data from the database."}
+{"text": ""}
+{"text": "Environment: Java, JDK 1.5, Servlets, Hibernate 3.2, JPA 2.0, Spring 2.5, Ajax, Oracle 10g, Eclipse 3.4, Apache Ant, Web Services (SOAP, RESTful), Apache Axis 2.0, Web Sphere 6.1, JavaScript, HTML, CSS, XML."}

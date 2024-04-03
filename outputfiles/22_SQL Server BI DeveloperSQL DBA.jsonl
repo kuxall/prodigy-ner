@@ -1,0 +1,133 @@
+{"text": "Name: ruth ruth"}
+{"text": "E-Mail: ruth.ruth@gmail.com"}
+{"text": "Address: Karachi, Pakistan"}
+{"text": "Github: https://github.com/ruth"}
+{"text": "LinkedIn: https://linkedin.com/ruth"}
+{"text": "Phone No. 349675510726"}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": "7+ years of Experience in Database Design, Development and Business Intelligence of Microsoft SQL Server2000/2005/2008/2012/2014 in Development, Test and Production Environments."}
+{"text": "Hands on Experience SQL Server Integration Services (SSIS) and SQL Server Reporting Services (SSRS) with good knowledge on SQL Server Analysis Services (SSAS)."}
+{"text": "Strong experience in T-SQL development with MS SQL Server 2014/2012/2008 R2/2008/2005."}
+{"text": "Involved in designing, developing and testing of the ETL (Extract, Transformation and Load) strategy to populate the data from various source systems."}
+{"text": "Experience in writing expressions in SSRS. Created many Drill through, Drill Down, Parameterized, Cascading, Conditional, Table, Matrix, Chart and Sub Reports reports using SSRS."}
+{"text": "Good understanding of SQL Server Reporting Service (SSRS) on Report authoring, Report management, Report delivery and Report security."}
+{"text": "Expertise in Microsoft Integration Services SSIS (Control Flow tasks, Data Flow tasks, Transformations, Database administration tasks)."}
+{"text": "Involved in usage of various SSIS components such as For-loop, for-each loop, Fuzzy lookup, Variables, and Error Handling."}
+{"text": "Excellent knowledge of using Variables and Expressions in packages of SSIS"}
+{"text": "Experience in providing Logging, Error handling by using Event Handler, and Performance Tuning in SSIS packages by using Row Transformations, Block and Unblock Transformations."}
+{"text": "Experience in creating jobs, SQLMail, Alerts and schedule SSIS Packages using SQL Server Agent."}
+{"text": "Experience in SQL Server SSIS (Integration Service) package design, constructing, and deployment"}
+{"text": "Good knowledge of Azure Subscription, Firewall setting, Connecting with SSMS on premises, Creating and managing Azure SQL Databases. "}
+{"text": "Good understanding and designing of Star and Snow Flake data models Schema "}
+{"text": "Created beautiful reports by mixing Excel, Charts & Power Pivot."}
+{"text": "Used excel sheet, flat files, CSV files to generated Tableau Adhoc Reports."}
+{"text": "Solid Knowledge in developing cubes using Partitions, KPI\u2019s, and Perspectives, slow changing dimensions (SCD) etc. and created various user roles (SSAS)."}
+{"text": "Transformed data from one server to other servers using tools like Bulk Copy Program (BCP), Import and Export wizard and SQL Server Integration Services (SSIS)"}
+{"text": "Experience in Data Modeling (Logical and Physical Design of Databases), Normalization and building Referential Integrity Constraints. Designed schemas. Built tables, FKs, PKs, etc. by providing a structure that meets the business needs."}
+{"text": "Tuning the performance of stored procedures and large T-SQL Queries using Clustered Indexes, efficient coding standards."}
+{"text": "Experience in design, development, and implementation of SQL Server Analysis Services (SSAS) reports/cubes."}
+{"text": "Expertise with DDL and DML statements, RDBMS\u2019s, data dictionaries."}
+{"text": "Excellent Analytical, Communication and Interpersonal Skills. Proficient in Technical Writing and Presentations and a Good Team Player."}
+{"text": ""}
+{"text": "Education Details:"}
+{"text": "B.Tech in Computer Science, CHARUSAT University, Gujarat, India"}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "HSBC, IL \t\t\t\t\t\t\t\t                    Jan 2016 to till date "}
+{"text": "SQL Server BI Developer"}
+{"text": "Responsibilities:\u00a0"}
+{"text": "Involved in Agile methodology by analyzing business requirements and understanding the functional work flow of information from source systems to destination systems, completed work through Sprints.\u00a0"}
+{"text": "Analyzing existing high-level ETL design documents and data mapping documents and updating them."}
+{"text": "Developed SSAS Cubes by creating Measure Groups, Dimensions, Aggregations, Hierarchies, Partitions and Perspectives using SSAS."}
+{"text": "Developed SSAS Cubes using Star Schema with partitions, aggregations, hierarchies and perspectives."}
+{"text": "Developed complex T-SQL\u00a0queries, Views, Common table expressions (CTE), stored procedures and functions.\u00a0"}
+{"text": "Loading CSV data files into\u00a0SQL\u00a0Server staging tables using SSIS.\u00a0"}
+{"text": "As part of conversion, loading data into staging tables and then to operational tables and validation of data generated as part of Claim-Center application using SSIS."}
+{"text": "Developed and deployed SSIS packages from OLTP and various sources to staging and staging to Data warehouse using Lookup, Fuzzy Lookup, Derived Columns, Condition Split, Slowly Changing Dimension and more.\u00a0"}
+{"text": "Designing Enterprise reports using\u00a0SQL\u00a0Server Reporting Services (SSRS 2012), which make use of multiple value section in parameters, cascading parameters, matrix dynamics reports and other features of Reporting service.\u00a0"}
+{"text": "Using SSRS for development of reports for Business users from different sources like tables, stored procedures and development of various types of reports.\u00a0"}
+{"text": "Used Team Foundation Server as Source Control to store Packages, Reports and\u00a0SQL\u00a0Scripts and share it among team members.\u00a0"}
+{"text": "Worked on Performance of Stored Procedures using\u00a0SQL\u00a0Profiler and the performance of the reports as well.\u00a0"}
+{"text": "Developed Package configurations for Integration, Test and Production environments and execution of SSIS packages automatically.\u00a0"}
+{"text": "Development of different types of reports like Parameterized reports, Drill down reports, Ad- hoc reports, Snapshot reports and Sub reports on data mart database using SSRS."}
+{"text": "Monitored performance and optimize SQL queries for maximum efficiency. "}
+{"text": "Used complex expressions to Calculate, Group, Filter, Parameterize, and Format the contents of the report according to the requirement."}
+{"text": "Worked in configuration of report server and report manager scheduling, give permissions to different level of users in SQL Server Reporting Services (SSRS)."}
+{"text": ""}
+{"text": "Environment:\u00a0SQL\u00a0Server 2008 R2/ 2012, 2014, Visual Studio 2005/2008/2010/2012, MS Access, MS- Excel,\u00a0SQL\u00a0Server Integration Services,\u00a0SQL\u00a0Server Reporting Services, SharePoint, SQL Azure, VB Script, C#"}
+{"text": ""}
+{"text": "AIG, Houston, TX         \t\t\t\t\t\t                                 Feb 2014 to Dec 2015"}
+{"text": "SQL DBA/ SQL Server BI Developer "}
+{"text": "Responsibilities:\u00a0"}
+{"text": "Created reports like Drill-Down, Drill-Through, Chart, and Sub Reports using SQL\u00a0Server Reporting Services (SSRS).\u00a0"}
+{"text": "Created SSRS reports using Bar charts, Line charts, Pie charts.\u00a0"}
+{"text": "Created gauges and used gauges as Key Performance Indicators using SSRS.\u00a0"}
+{"text": "Created complex stored procedures for Reporting services.  "}
+{"text": "Implemented SSIS packages to load the Data into Staging, ODS and dimensional model.\u00a0"}
+{"text": "Designed and developed SSIS packages using various control flow and data flow items to transform and load the data from various databases and into server integrations services (SSIS).\u00a0"}
+{"text": "Configured package with checkpoints, package logging, error handling and event handling to redirect error rows and fix the error in SSIS.\u00a0"}
+{"text": "Developed SSIS Packages for data matching, compare source and destination data based on id and get the new and updated records and then used conditional split to select that new records before inserting into the database.\u00a0"}
+{"text": "Created Dimensions with the SSAS cube wizard and refreshing the cube to get the latest information updated for OLAP databases. Deployment of Cubes to the production server.\u00a0"}
+{"text": "Used Performance Monitor and\u00a0SQL\u00a0Profiler to optimize queries and enhance the performance of database servers.\u00a0"}
+{"text": "Created Clustered and Non Clustered Indexes on tables for performance optimization of complex stored procedures.\u00a0"}
+{"text": "Generated daily, weekly and monthly reports for the managers using SSRS.\u00a0"}
+{"text": "Designed and created OLAP cubes on data warehouse.\u00a0"}
+{"text": "Good experience in using Multidimensional Expressions (MDX) for querying and manipulating the multidimensional data stored in OLAP cubes."}
+{"text": "Designed a partitioning strategy to refresh cubes effectively.\u00a0"}
+{"text": "Created SSAS cubes with multiple fact measures groups, and multiple dimension hierarchies based on the OLAP reporting needs.\u00a0"}
+{"text": "SSAS cube development in both\u00a0SQL\u00a02005 and 2008 for financial planning and operational performance metrics.\u00a0"}
+{"text": "Extracted data using SSIS from OLTP to OLAP. Based on the required reports, identified various data sources and established the connections using SSIS and constructed data source view.\u00a0"}
+{"text": "Designed and implemented data access stored procedures and triggers for automating tasks and job scheduling.\u00a0"}
+{"text": "Involved in extracting the data using SSIS from OLTP to OLAP.\u00a0"}
+{"text": "Implemented SSIS data transformation scripts, created maintenance procedures and provided data integrity strategies"}
+{"text": ""}
+{"text": "Environment:\u00a0SQL\u00a0Server 2005/2008, SSRS 2008/2005, SSIS 2005, SSAS, T-SQL,  Excel, Access, Windows 2000/XP"}
+{"text": ""}
+{"text": "TJX Companies\u00a0Framingham, MA\t\t\t\t\t                Oct 2012 to Jan 2014"}
+{"text": "SQL Server BI Developer"}
+{"text": "Responsibilities:\u00a0"}
+{"text": "Designed SSIS Packages to extract data from various OLTP sources, Text Files, XML (Extensible Markup Language) Files, MS\u00a0SQL\u00a0Server 2008/2012, Excel and MS Access 2007 to EDW system (SQL\u00a0Server 2012).\u00a0"}
+{"text": "Wrote T-SQL\u00a0queries with the help of Stored Procedures, Functions, Triggers, Cursors, Views, and Indexes.\u00a0"}
+{"text": "Planned, Defined and Designed data based on business requirement and provided documentation.\u00a0"}
+{"text": "Gathered data and documenting it for further reference.\u00a0"}
+{"text": "Designed Database using Erwin data modeler.\u00a0"}
+{"text": "Applied various data transformations like Slowly Changing Dimension, Aggregate, Sort, Multicasting, Cache Transform, Conditional Split and Derived column etc. in SSIS.\u00a0"}
+{"text": "Developed SSIS Packages using Look Up Values & implementing rules provided by Business in the mapping document.\u00a0"}
+{"text": "Developed SSIS packages using Fuzzy Look Up and Fuzzy Grouping for data cleansing purpose.\u00a0"}
+{"text": "Used SSIS Variables for storing the values, which are used in various components of Data Flow Task.\u00a0"}
+{"text": "Developed Unit Test Plans for SSIS packages for checking the functionality of each component.\u00a0"}
+{"text": "Modified the existing SSIS packages to meet the changes specified by the users.\u00a0"}
+{"text": "Scheduled Jobs for executing the stored SSIS packages, which were developed to update the database on Daily basis.\u00a0"}
+{"text": "Created the Load packages for loading the CSV files from DB2 into\u00a0SQL\u00a0Server using SSIS 2012.\u00a0"}
+{"text": "Generated parameterized reports, sub reports, tabular reports using SSRS-2012.\u00a0"}
+{"text": "Designed, Developed and Deployed reports in MS\u00a0SQL\u00a0Server environment using SSRS-2012\u00a0"}
+{"text": "Generated Sub-Reports, Drill down reports, Drill through reports and Parameterized reports using SSRS 2012.\u00a0"}
+{"text": "Created SSRS reports to retrieve data using Stored Procedures that accept parameters."}
+{"text": "Scheduled the monthly/weekly/daily SSRS reports to run automatically onto the Dashboard\u00a0"}
+{"text": "Responsible for Monitoring and Tuning SSRS reports performance.\u00a0"}
+{"text": "Configured the report viewing security for various users at various levels using Report Manager\u00a0"}
+{"text": "Scheduled report and exported in PDF format in SSRS.\u00a0"}
+{"text": "Fine-tuned\u00a0SQL\u00a0Queries for maximum efficiency and performance.\u00a0"}
+{"text": "Provided documentation for all kinds of SSRS reports and SSIS packages.\u00a0"}
+{"text": ""}
+{"text": "Environment: MS\u00a0SQL\u00a0Server 2008/2012, SSRS, T-SQL, SSIS, Visual SourceSafe, Win 2003 Advanced Server, Erwin, ASP.Net, C#"}
+{"text": ""}
+{"text": "Akron solutions, India \t\t\t\t\t\t                                July 2010 to Aug 2012"}
+{"text": "SQL DBA/ SQL\u00a0Server\u00a0Developer"}
+{"text": "Responsibilities:\u00a0"}
+{"text": "Creation of user Databases and managing security, created stored procedures.\u00a0"}
+{"text": "Involved in up gradation from MSSQL server 2000 to 2005.\u00a0"}
+{"text": "Writing stored procedures, checking code for efficiency. Routine backups and restoration.\u00a0"}
+{"text": "Data Transfers between various servers using DTS.\u00a0"}
+{"text": "Defining and creating indexes for query optimization and revising scripts for optimal performance.\u00a0"}
+{"text": "Testing stored procedures performance and path of execution using\u00a0SQL\u00a0Profiler.\u00a0"}
+{"text": "Recovering the Backups of MS\u00a0SQL\u00a0Server production databases in test servers as part of regular maintenance activities.\u00a0"}
+{"text": "Optimized the T-SQL\u00a0query performance with modifications in T-SQL queries, removing unnecessary columns, establishing necessary joins.\u00a0"}
+{"text": "Involved in preparing detailed technical documents.\u00a0"}
+{"text": "Involved in code review and preparing unit test cases.\u00a0"}
+{"text": "Created Linked Servers to retrieve data from other databases.\u00a0"}
+{"text": "\nEnvironment: MS\u00a0SQL\u00a0Server 2000/2005,\u00a0SQL, T-SQL."}

@@ -1,0 +1,154 @@
+{"text": "Name: margaret margaret"}
+{"text": "E-Mail: margaret.margaret@gmail.com"}
+{"text": "Address: Alexandria, Egypt"}
+{"text": "Github: https://github.com/margaret"}
+{"text": "LinkedIn: https://linkedin.com/margaret"}
+{"text": "Phone No. 516147374610"}
+{"text": ""}
+{"text": "SUMMARY OF EXPERIENCE:"}
+{"text": ""}
+{"text": "Over 6+ years of professional IT experience in all phases of Software Development Life Cycle (SDLC) - Analysis, Design, Implementation, Integration, Testing and Maintenance of applications using Java/J2EE and object oriented Client/Server and Web-based inter and intranet Multi-Tier architectures."}
+{"text": "Proficient in server side distributed object development using J2EE, JMS, JNDI, RMI, Servlets, JDBC, IBM Websphere Server and JBoss Application Server and Tomcat Web Server, XML, WSDL & SOAP."}
+{"text": "Experience in web technologies J2EE, Servlets, JSP\u2019s, JSP Custom Tags Libraries, Java Beans, Apache Jakarta Struts, Spring, Hibernate, JavaScript, JQuery, XML, DHTML and HTML."}
+{"text": "Proven experience in Tomcat and Websphere, Web logic Application Servers and JBOSS on Unix/Sun Solaris/Windows Platforms. "}
+{"text": "Good experience in Splunk UI/GUI development and operations roles"}
+{"text": "Implemented Web services by applying SOA concepts in conjunction with SOAP."}
+{"text": "Experience in writing database objects like Stored Procedures, Triggers, PL/SQL packages and Cursors for Oracle, SQL Server, DB2 and MySQL databases."}
+{"text": "Involved in creating and then developing Spring based JAX-WS web services using Apache Axis 2, JAX-WS API web services."}
+{"text": "Proficient in writing promotion build scripts using Ant, Maven 2.0 and Apache Ivy."}
+{"text": "Proficient in unit testing the application using JUnit. "}
+{"text": "Experienced in implementing applications with Model-View-Controller (MVC) pattern using Jakarta Struts."}
+{"text": "Proficiency in Implementation of the version control software Clear Case, Subversion, CVS and VSS. "}
+{"text": "Strong Database development experience in writing functions, procedures, packages, triggers, and views in PL/SQL with strong knowledge of RDBMS fundamentals."}
+{"text": "Experience in Agile software development process, Test Driven Development and Scrum."}
+{"text": "Strong communication and interpersonal skills."}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "Client: Tunstall, Pawtucket, RI\t\t\t   \t                     \t                  Sep 2016 \u2013 Till date"}
+{"text": "Role: Java developer"}
+{"text": "Responsibilities:"}
+{"text": "Prepared technical design, unit test cases, detailed time estimation, traceability matrix, impact analysis and code reviewed documents for each iteration task. "}
+{"text": "Developed the application with iterative methodology, refactoring the existing code and writing new code."}
+{"text": "Created Use cases, Class Diagrams, and Sequence Diagrams for the system using JUDE UML modeling tool. "}
+{"text": "Used Spring Model View Controller (MVC) 2 architecture. Used JSPs in front-end, Spring framework in business layer and Hibernate in persistence layer."}
+{"text": "Involved in developing Spring IOC to communicate with the persistence layer. "}
+{"text": "Involved in using Spring AOP framework for security transactions, reusability logging purpose."}
+{"text": "Involved in developing Hibernate configuration and hbm files using tools. "}
+{"text": "Good experience in implementation of Internationalization (i18n) in web applications with spring frameworks along with JSP\u2019s and Servlets."}
+{"text": "Developed front-end content using JSP, JavaScript, JQuery, HTML, JHTML and JSTL. "}
+{"text": "Used Struts Tiles framework to create layouts in user interface."}
+{"text": "Written SQL Queries and stored procedures to interact with Oracle 11g."}
+{"text": "Implemented RESTful web services using Jersey API and JSON."}
+{"text": "Developed complex Splunk dashboard by writing Splunk Queries. "}
+{"text": "Developed UNIX Shell scripts for automating project management tasks. "}
+{"text": "Configured Data Sources for the Oracle database system using IBM Websphere. "}
+{"text": "Implemented REST API Interface for Splunk searches"}
+{"text": "Developed JUnit test cases for elements, web beans, handlers and view helper classes."}
+{"text": "Focused on Test Driven Development; thereby creating detailed JUnit tests for every single piece of functionality before actually writing the functionality."}
+{"text": "Involved in the defects resolution for the better quality and increased performance of product. "}
+{"text": "Performed the technical design reviews and code reviews. "}
+{"text": "Coordinated with Business Analyst, Architecture and QA team to ensure the quality and success for each iteration tasks. "}
+{"text": ""}
+{"text": "Environment:  Java, JavaScript, JQuery, Servlets, JSP, Spring 3.0, JSTL, Hibernate 3.1,Web Services, WSDL,  UML, HTML, CSS, IBM Websphere Application Server, Splunk, JUnit, UNIX, Oracle."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Bed Bath & Beyond, Union, NJ                                                                                  Feb 2016 - Aug 2016"}
+{"text": "Role: Java developer"}
+{"text": "Responsibilities:"}
+{"text": "Involved in project design documentation, design and code reviews."}
+{"text": "Implemented MVC-Model 2 architecture using Struts 1.2 and other J2EE design patterns for the application development. Created and configured struts-config.xml, spring.xml files to manage control flow."}
+{"text": "Designed Use Case diagram, Class diagram and Sequence diagram using Rational Rose."}
+{"text": "Developed static and dynamic Web Pages using JSP, HTML, JQuery and CSS."}
+{"text": "Designed and implemented Tiles and Layouts to the existing JSP files."}
+{"text": "Implemented Spring Modules for Designing, Developing & Testing of Service Layer Business Components."}
+{"text": "Developed JSP custom tag libraries, and associated support in the Action Servlet, that assists in creating interactive form-based applications, which is the one of the primary area of functionality using Struts Framework."}
+{"text": "Consumed Web Services (WSDL, SOAP, and UDDI) from third party for authorizing payments to/from customers."}
+{"text": "Fixed the problems in the production log files by debugging using Splunk."}
+{"text": "Used Hibernate ORM framework as persistence engine, configured hibernate.xml file and Involved in Mapping, Coding and Fine tuning of hibernate Queries."}
+{"text": "Used Action classes to service requests from Action Servlet and Business Data on server-side and invoke respective Spring Injected Beans to process Database transactions."}
+{"text": "Configured connection pooling using Websphere application server."}
+{"text": "Designed XSDs, XML Schema for data transmission and XSL style-sheets to generate Excel sheets, pdf from xml documents."}
+{"text": "Developed and deployed the Application on Websphere using ANT build xml script."}
+{"text": "Developed Message based systems using Spring-JMS API and Message Driven POJOs."}
+{"text": "Developed Action classes, which communicate asynchronous messaging via JMS/MQ-Series to DB2."}
+{"text": "Used Clear Case as the version control system and application development using RAD."}
+{"text": "Configured and created application log file using Log4j."}
+{"text": "Implemented Junit for application Unit Testing."}
+{"text": ""}
+{"text": "Environment: Java/J2EE, Struts1.2(Validation and Tiles), JMS1.1, Spring2.0, Hibernate3.0, JQuery, Puppet, Cheff, Websphere, Web Service, Unix, Maven, Windows, Splunk, JavaScript, HTML, DHTML, CSS, OOAD, JSTL, Log4J, Ant, UML, Rational Rose, Rational Clearcase, RAD, Junit, XML/XSL, XSLT, DOM Parser, Eclipse, Oracle 9i"}
+{"text": ""}
+{"text": "Client: Tenaska Power Services Co., Arlington, TX\t                                                 Apr 2015 \u2013 Dec 2015"}
+{"text": "Role: Java Developer\t"}
+{"text": "Responsibilities: "}
+{"text": "Involved in the requirements gathering. Design, Development, Unit testing and Bug fixing"}
+{"text": "Developed application using Struts, Spring and Hibernate."}
+{"text": "Developed rich user interface using JavaScript, JSTL, CSS, JQuery and JSP\u2019s."}
+{"text": "Developed custom tags for implementing logic in JSP\u2019s."}
+{"text": "Used Java script, JQuery, JSTL, CSS and Struts 2 tags for developing the JSP\u2019S."}
+{"text": "Used custom tags to display logic specific data in JSP'S."}
+{"text": "Involved in making release builds for deploying the application for test environments."}
+{"text": "Used Oracle database as backend database."}
+{"text": "Wrote SQL to update and create database tables."}
+{"text": "Used Putty for UNIX login to check the server logs."}
+{"text": "Used Eclipse as IDE."}
+{"text": "Used Web Logic as application server."}
+{"text": "Used AJAX and JSON for asynchronous call to the servers."}
+{"text": "Used Spring IOC for injecting the beans."}
+{"text": "Used Hibernate for connecting to the database and mapping the entities by using hibernate annotations."}
+{"text": "Used JUNIT and JMOCK for unit testing."}
+{"text": "Used Maven and Hudson as build tool and deploying the application."}
+{"text": "Implemented Find Bugs tool which reports the errors in the project."}
+{"text": "Used SVN and CVS as repositories."}
+{"text": "Used Spring JDBC template with hibernate to access the data from the database."}
+{"text": "Used JAXB and Castor transformer for marshalling and Un-marshalling."}
+{"text": "Used SOAP UI for calling the Web-Services."}
+{"text": "Environment: Java 1.5, Spring, Hibernate, Web sphere, Struts 2, JSP, JSTL, SQL Developer, JQuery, CSS, Java Script, Maven,  Eclipse,  Find bugs, Putty, Design patterns, SVN."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Lincoln Peaks, Boston, MA\t        \t\t\t\t\tSep 2014 \u2013 March 2015 "}
+{"text": "Role: Junior Java Developer "}
+{"text": "Responsibilities:"}
+{"text": "Developed presentation tier using\u00a0JSP, Struts framework and Presentation Facade."}
+{"text": "Used\u00a0JSPs to develop presentation layer for the front end and struts to drive it and JDBC framework to persist the objects brought back from the data source (ORM)."}
+{"text": "Designed, developed, and validated the presentation layer using HTML, JavaScript and JSP. "}
+{"text": "Used perforce for configuration management and version control."}
+{"text": "Coordinated with the BA and QA team for requirements gathering through to design document preparation. Used Rational Clearcase and Serena prototype creation tool for this purpose."}
+{"text": "Used Rational Software Architecture which is IBM\u2019s eclipse based IDE and Websphere Application Server."}
+{"text": "Extensively used design patterns like DAO, value object, transfer object, presentation fa\u00e7ade."}
+{"text": "Implemented JDBC Framework for Object relational Mapping to SQL Server Database."}
+{"text": "Extensively used\u00a0Struts tag libraries\u00a0(like html, bean, logic etc.) in the JSP pages."}
+{"text": "Developed Stateless Session Enterprise Java Beans (EJB) to encapsulate the business logic."}
+{"text": "Designed and developed various SQL Server database query scripts."}
+{"text": "Generated reports for batch processing using Hyperion."}
+{"text": "Involved in Application Development, Enhancements and Bug fixes and PIR process."}
+{"text": "Written unit tests using JUnit."}
+{"text": ""}
+{"text": "Environment:\u00a0Java EE 5, IBM Websphere Application Server 6, RSA/Eclipse 7.5, SQL Server 2005, EJB, Hibernate, Spring, Struts, XML,JNDI,\u00a0Perforce, Hyperion, XML ,Spy, UML, ANT, JUnit."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Visual Soft, Hyderabad, India \t\t\t\t\t\t      Jan 2012 \u2013 July 2014"}
+{"text": "Role: Jr. J2EE Developer"}
+{"text": "Responsibilities:"}
+{"text": "Gathered/analyzed functional requirements for the new phase in design."}
+{"text": "Developed the user interface using JSP, Java Servlets and java Script."}
+{"text": "Contributed to architecting the framework according to the J2EE Design Patterns (Client tire, Middle tire, Business tire)."}
+{"text": "Developed Use-case diagrams, class diagrams according to the UML standards."}
+{"text": "Developed both client and server side functionality using Struts and J2EE technologies."}
+{"text": "Developed Action classes to delegate the request to the business models and Action Forms."}
+{"text": "Created XML files to provide Context and Hibernate Mapping for database persistence."}
+{"text": "Worked on XSD\u2019s (Schema Changes) and WSDL\u2019s."}
+{"text": "Involved in writing complex queries using PL/SQL to extract data from database and to delete the data and to reload the data on Oracle database."}
+{"text": "Developed functional test cases for Integration and Functional testing, regression testing, and user acceptance testing."}
+{"text": "Developed various scripts for Creation and deployment of the code package using Weblogic."}
+{"text": "Implemented the SQL queries for database interaction."}
+{"text": "Worked as support in production for various production issues."}
+{"text": ""}
+{"text": "Environment: J2EE 1.4, Struts1.1, JSP, AJAX, JDBC, Oracle 9i, Weblogic 8.1, JavaScript, Java Beans, EJB 2.0, HTML, UML, Junit, Ant ,Tiles Framework, Validation framework and Design Patterns, Windows XP."}

@@ -1,0 +1,134 @@
+{"text": "Name: virginia virginia"}
+{"text": "E-Mail: virginia.virginia@gmail.com"}
+{"text": "Address: Chenzhou, China"}
+{"text": "Github: https://github.com/virginia"}
+{"text": "LinkedIn: https://linkedin.com/virginia"}
+{"text": "Phone No. 53179477014"}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": "6+ years of experience as Oracle Pl/Sql Developer and have experience in creating complex database objects like\u00a0Stored Procedures, Functions, Packages and Triggers using SQL and PL/SQL."}
+{"text": "Experience in creating Collections like Associative arrays, Nested tables, Varrays."}
+{"text": "Experience in creating Cursors, using Bulk collect and for all in Cursors, Parameterized Cursors."}
+{"text": "Experience in creating Row Level and Statement level Triggers, Instead of Triggers, Compound Triggers"}
+{"text": "Comprehensive Experience in various types of\u00a0oracle\u00a0technology based projects in multi-tier environment for sectors like Banking and Insurance.  "}
+{"text": "Performed SQL and PL/SQL\u00a0tuning, monitored production database using automatic workload repository (AWR), automatic database diagnostic monitor (ADDM)."}
+{"text": "Experience of Data flow diagrams, Data dictionary, Database normalization theory techniques, Entity relation modeling\u00a0and\u00a0design techniques."}
+{"text": "Experience in Tables, Views, Constraints, Index\u00a0(B Tree, Bitmap and Function Based)."}
+{"text": "Developed\u00a0Materialized views\u00a0for data replication in distributed environments."}
+{"text": "Knowledge in Table Functions, Indexes, Table Partitioning, Collections, Analytical functions, Query Rewrite."}
+{"text": "Experience with Oracle Supplied Packages such as\u00a0DBMS_JOB\u00a0and\u00a0UTL_FILE, DBMS_STATS and DBMS_SCHEDULER."}
+{"text": "Extensive involvement in development and Performance tuning of SQL and PL/SQL using HINTS, Bulk collect, Global Temporary tables, Explain Plan, Tkprof, Table Partitioning, Indexes and Join Optimization."}
+{"text": "Good knowledge on Logical and Physical\u00a0Data Modeling\u00a0using\u00a0Normalization Techniques."}
+{"text": "Experience in\u00a0Oracle\u00a0utilities like Export/Import and data pump utilities like EXPDP/IMPDP. "}
+{"text": "Experience in Exception handling of System defined, User defined Exceptions."}
+{"text": "Excellent Communication, Interpersonal, Analytical skills and Strong ability to perform as part of a Team."}
+{"text": "Ability to work independently and to manage multiple competing priorities, and desire to learn new functionalities and technologies."}
+{"text": "Possess excellent communication and problem solving skills, and work ethics."}
+{"text": "Worked on Data Migration and Production support for the backend database and reporting applications."}
+{"text": "Excellent technical and analytical skills with clear understanding of design goals of ER modeling for OLTP and dimension modeling for OLAP."}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": "Languages                                   : SQL, PL/SQL, T-SQL, UNIX Shell Script."}
+{"text": "Scripts/Web Technologies  : HTML, PHP, Java."}
+{"text": "Databases                                    : Oracle 11g, 12C, MS SQL SERVER 2005/2008, "}
+{"text": "Tools & Utilities                        : TOAD, SQL Developer, SQL*PLUS, Informatica, ADDM, AWR, Github,   \t\t\t\t\t    bamboo, Jenkins."}
+{"text": "OS                                                    : Windows XP/10, Linux."}
+{"text": ""}
+{"text": "EDUCATION: "}
+{"text": ""}
+{"text": "Chicago State University, Chicago, IL. \t\t       \t\t\t      Aug 2015-May 2017"}
+{"text": "Master of Science: Computer Science."}
+{"text": " "}
+{"text": "JNTU, Hyderabad, Telangana.                                                                                    Aug 2009-May 2013"}
+{"text": "Bachelors of Technology: Electrical and Electronics Engineering."}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": "Mastercard, O\u2019Fallon, Missouri                                                                                        July 17-Till date     "}
+{"text": "Role: Oracle PL/SQL Developer"}
+{"text": ""}
+{"text": "Project: Smartdata."}
+{"text": "The General Data Protection Regulation (EU) (\"GDPR\") is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA).According to the compliance the data has to be purged in accordance with the regulation."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Created PL/SQL\u00a0stored procedures, triggers and packages and created scripts for purging of data."}
+{"text": "Created cursor, collections and database triggers for maintaining complex integrity constraints and implement the complex business rules."}
+{"text": "Developed sql scripts for creating database objects such as tables, views and sequences."}
+{"text": "Created SQL*Loader and UNIX scripts as a part of data load process to load external data into Oracle database tables. "}
+{"text": "Work with Oracle Data Pump (expdp and impdp) which provides high speed, parallel, bulk data and metadata movement of Oracle database contents."}
+{"text": "Experience in using hints to direct the optimizer to choose an optimum query execution plan"}
+{"text": "\u00a0Involved in preparing the test scenarios and performed unit tests on PL/SQL programs"}
+{"text": "Experience in Atlassian products such as BitBucket, JIRA, Confluence, SourceTree, and Bamboo."}
+{"text": "Experience in all phases of Software Development Life Cycle (SDLC) such as Requirement gathering, Analysis, Development, Testing, Implementation and Support."}
+{"text": "Extensive experience in Data migration techniques using External tables, import and export,\u00a0SQL*loader, bulk and batch processing."}
+{"text": "Validated and loaded data into\u00a0Oracle\u00a0Database using DB links and external tables from CSV files."}
+{"text": "Worked in Agile environment and participated in day to day processes like scrums and sprints using Rally."}
+{"text": "Worked with dev-ops team for flyway migration in different Dev and stage environments and solve complex problem during migration. "}
+{"text": "Hands on experience in writing, maintaining, testing and debugging code in applicable programming languages."}
+{"text": "Implemented PL/SQL scripts in accordance with the necessary Business rules and procedures."}
+{"text": "Participated and interacted with different teams from off shore and on shore from different countries for requirement gathering and solve complex problems."}
+{"text": ""}
+{"text": "Environment: Oracle12c, TOAD, SQLDeveloper, MSExcel, Github, Jenkins, bamboo, UNIX."}
+{"text": " "}
+{"text": "Mphasis Corporation, NY                                                                                              Dec 2016-June 2017     "}
+{"text": "Role: Oracle PL/SQL Developer"}
+{"text": ""}
+{"text": "Project: Connect Risk Engine Genesis."}
+{"text": "Risk engine interim is about a small business level insurance, which deals with property, vehicle, shipping, transportation level insurances. Here we build a module i.e. when a customer lose or damage his product or a property due to the reason like man made mistakes  or because of natural disasters we compensate the customer\u2019s  with a logically calculated premiums according to the business rules .These premiums are calculated into benchmark premiums and manual premiums. Manual premium is calculated in an application called TAP and the premium we got from Risk Engine Interim Application is assigned to benchmark premium and the resultant score is calculated and this score decides the damage and its tier factors according to which a premium is calculated."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Created PL/SQL\u00a0stored procedures, functions and packages\u00a0for auto renewal of quotes."}
+{"text": "Created scripts to create\u00a0new tables, views, queries\u00a0for new enhancement in the application using SQL Developer."}
+{"text": "Created\u00a0indexes on the tables for faster retrieval of the data to enhance database\u00a0performance."}
+{"text": "Used\u00a0Bulk Collections\u00a0for\u00a0better performance\u00a0and easy retrieval of data, by reducing context switching between SQL and PL/SQL engines."}
+{"text": "Created\u00a0records, tables, collections\u00a0(nested tables and associative arrays) for improving Query performance by reducing\u00a0context switching."}
+{"text": "Involved in optimizing database performance by analyzing database objects, creating indexes, creating materialized views etc.\u00a0"}
+{"text": "Participated  in  system  analysis  and  data  modeling,  which  included creating  tables,  views,   indexes,   synonyms and packages. Created programming code using advanced concepts of Records, Collections and Dynamic SQL."}
+{"text": "Involved in Performance testing, User Acceptance testing of the application and participated in Code and Design Reviews, Status meetings and Walkthroughs."}
+{"text": "Used UTL_FILE to load the data into oracle tables from FLAT, CSV and Text files..\u00a0"}
+{"text": ""}
+{"text": "Environment: Oracle 11g, SQL Server, TOAD, SQL DEVELOPER, XML publisher, Shell script, MSAccess, GIT, UNIX."}
+{"text": "CNA financial Corp, Chicago, IL                                                                                   Dec 2015-Nov 2016"}
+{"text": "Role: Oracle PL/SQL Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Experience in Oracle SQL  and  PL/SQL  including  all  database  objects: Stored procedures, functions, Packages , TYPE  Objects,  cursors, REF cursors, Parameterized cursors, Views,  Materialized  Views,   PL/SQL collections."}
+{"text": "Designed\u00a0ER diagram using Visio, to set the logical and physical relationships of database."}
+{"text": "Designed and developed complex mappings by using Lookup, Expression, Update, Sequence generator, Aggregator, Router, Stored Procedure, etc. transformations to implement complex logics while coding a mapping  using Informatica.\u00a0"}
+{"text": "Wrote sequences for automatic generation of unique keys to support\u00a0primary and foreign key\u00a0constraints in data conversions."}
+{"text": "Involved in implementing the\u00a0data integrity\u00a0validation checks through\u00a0constraints\u00a0and\u00a0triggers."}
+{"text": "Worked on SQL\u00a0reports\u00a0and scheduling these reports from UNIX scripts."}
+{"text": "Developed Shell Scripts to automate job scheduling for various database related program execution like SQL script, PL/SQL Script and Data Loading."}
+{"text": "Created PL/SQL Functions, Procedures, and Packages to support reports."}
+{"text": "Validates data integration by developing and executing test plans including data design, test design, networks and hardware.\u00a0"}
+{"text": "Developed program units for debugging, test the PL/SQL code and clearing the reports those with validation and settling the reports from day to day basis."}
+{"text": "Created\u00a0SQL*Loader\u00a0control files for moving the data from flat files to staging area tables."}
+{"text": "Involved in the migration project to load data from mainframe systems into oracle database."}
+{"text": "Used Shell scripting for host concurrent programs and migration scripts for deployment."}
+{"text": "Wrote Unix Shell Scripts, undertook Code Optimization and Performance tuning of the application."}
+{"text": ""}
+{"text": "Environment: Oracle 11g, TOAD, XML publisher, Shell script, Reports 10g, MS Access, MS office, UNIX."}
+{"text": ""}
+{"text": "Vectran Corporation, Hyderabad, INDIA\t\t\t\t                 April 2013- Aug 2015"}
+{"text": "Role: Oracle PL/SQL Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Coordinated with the front-end design team to provide them with the necessary stored procedures and packages and the necessary insight into the data."}
+{"text": "Involved in writing DDL and DML operations.\u00a0"}
+{"text": "Worked very closely with functional team to understand their Development related requirements.\u00a0"}
+{"text": "Written complex SQL queries with complexity using Inner/Outer joins, Union All, Intersect and minus set operators.\u00a0"}
+{"text": "Created Table structures along with Triggers, Indexes like Bitmap and Function based Indexes. "}
+{"text": "Created Collections for accessing and storing complex data resulted from joining of large number of tables.\u00a0"}
+{"text": "Used Database trigger for making history of insertion, updation, deletion and all kind of Audit.\u00a0"}
+{"text": "Optimized critical queries to eliminate Full Table scans and reduce Disk I/O and Sorts."}
+{"text": "Handled errors using Exception handling extensively for the ease of debugging and displaying the error messages in the application.\u00a0"}
+{"text": "Created partitioned tables and partitioned indexes to improve the performance of the applications"}
+{"text": "Worked on SQL*Loader to load data from flat files obtained from various facilities every day. Used standard packages like UTL_FILE, DMBS_SQL, and PL/SQL Collections and used BULK Binding involved in writing database procedures, functions and packages for Front End Module."}
+{"text": "Extensively involved in preparing Detailed Technical Documents from the functional specifications.\u00a0"}
+{"text": ""}
+{"text": "Environment: Oracle 11G, SQL Developer, SQL *Plus, Toad, UNIX Shell Scripts."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}

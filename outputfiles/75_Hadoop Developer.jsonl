@@ -1,0 +1,141 @@
+{"text": "Name: alice alice"}
+{"text": "E-Mail: alice.alice@gmail.com"}
+{"text": "Address: Nantong, China"}
+{"text": "Github: https://github.com/alice"}
+{"text": "LinkedIn: https://linkedin.com/alice"}
+{"text": "Phone No. 62752416456"}
+{"text": ""}
+{"text": "Professional Summary"}
+{"text": "Over 7+ years of total IT experience including 2 years 8 months in Hadoop and BigData technologies. "}
+{"text": "Strong experience in using Hadoop eco-system components like HDFS, MapReduce, Oozie, Pig, Hive, Sqoop, Flume, Kafka, Impala, HBase, Zookeeper."}
+{"text": "Excellent understanding of both Classic MapReduce, YARN and their applications in BigData Analytics. "}
+{"text": "Experience in working with Spark and Storm."}
+{"text": "Experience in installing, configuring and maintaining the Hadoop Cluster including YARN configuration using Cloudera, Hortonworks. "}
+{"text": "Experience in benchmarking Hadoop Cluster to tune and obtain the best performance out of it."}
+{"text": "Familiar with all stages of Software Development Life Cycle, Issue Tracking, Version Control and Deployment. "}
+{"text": "Extensively worked in writing, tuning and profiling jobs in MapReduce, Advanced MapReduce using Java."}
+{"text": "Experience in writing MRUnit to test the correctness of MapReduce programs."}
+{"text": "Expertise in writing Shell-Scripts, Cron Automation and Regular Expressions. "}
+{"text": "Hands on experience in dealing with Compression Codecs like Snappy, BZIP2. "}
+{"text": "Implemented workflows in Oozie using Sqoop, MapReduce, Hive and other Java and Shell actions."}
+{"text": "In-depth knowledge of working with Avro and Parquet formats."}
+{"text": "Excellent knowledge of Data Flow Lifecycle and implementing transformations and analytic solutions."}
+{"text": "Extending Hive and Pig core functionality by writing Custom UDFs."}
+{"text": "Expertise in creating Custom Serdes in Hive. "}
+{"text": "Excellent knowledge in NoSQL databases like HBase, Cassandra and MongoDB."}
+{"text": "Expertise in implementing Data-Mining techniques like social network analysis and sentiment analysis. "}
+{"text": "Good Knowledge in importing/exporting data into R objects to other formats and Text-Mining with R."}
+{"text": "Working knowledge in Data Warehousing with ETL tools like IBM - DB2 Warehouse Edition. "}
+{"text": "Extensively worked on Database Applications using DB2, Oracle, MySQL, PL/SQL."}
+{"text": "Hands on experience in application development using Java, RDBMS."}
+{"text": "Strong experience as a senior Java Developer in Web/intranet, Client/Server technologies using Java, J2EE, Servlets, JSP, EJB, JDBC."}
+{"text": "Expertise in implementing Database projects which includes Analysis, Design, Development, Testing and Implementation of end-to-end IT solutions. "}
+{"text": "Worked on End-To-End implementation with Data warehousing team and Strong understanding of Data Warehousing concepts and exposure to Data Modeling, Normalization and Business Process Analysis."}
+{"text": "Experience in Object Oriented Analysis, Design (OOAD) and development of software using UML Methodology, good knowledge of J2EE design patterns and Core Java design patterns."}
+{"text": "Excellent working knowledge of popular frameworks like Struts, Hibernate, and Spring MVC."}
+{"text": "Experience in Agile Engineering practices. Excellent interpersonal and communication skills, creative, research-minded, technically competent and result-oriented with problem solving and leadership skills."}
+{"text": ""}
+{"text": "Skills"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Experience"}
+{"text": "Nike, Inc.\t \t\t\t\t\t\t\t\t        "}
+{"text": "Beaverton, OR"}
+{"text": "Hadoop Developer "}
+{"text": "Jan 2014-Present"}
+{"text": ""}
+{"text": "Involvement in design, development and testing phases of\u00a0Software Development Life Cycle."}
+{"text": "Involved in setting up the Hadoop cluster along with Hadoop Administrator."}
+{"text": "Installed and configured Hadoop Ecosystem components. "}
+{"text": "Responsible for requirements gathering and performing real time analytics on the incoming data. "}
+{"text": "Imported the data from Oracle source and populated it into HDFS using Sqoop."}
+{"text": "Developed a data pipeline using Kafka and Storm to store data into HDFS."}
+{"text": "Automated the process for extraction of data from warehouses and weblogs by developing work-flows and coordinator jobs in OOZIE."}
+{"text": "Performed transformations like event joins, filter bot traffic and some pre-aggregations using Pig."}
+{"text": "Developed MapReduce jobs to Convert data files into Parquet file format. "}
+{"text": "Included MRUnit to test the correctness of MapReduce programs."}
+{"text": "Executed Hive queries on Parquet tables to perform data analysis to meet the business requirements."}
+{"text": "Implemented a POC with Spark SQL to interpret complex Json records."}
+{"text": "Created table definition and made the contents available as a Schema-BackedRDD."}
+{"text": "Developed business specific Custom UDF's in Hive, Pig."}
+{"text": "Optimizing MapReduce code, pig scripts and performance tuning and analysis. "}
+{"text": "Exported the aggregated data onto Oracle using Sqoop for reporting on the Tableau dashboard."}
+{"text": ""}
+{"text": "Environment: CDH, Eclipse,\u00a0Centos Linux, HDFS, MapReduce, Kafka, Storm, Parquet, Pig, Hive, Sqoop,  Spark, Oracle, Oozie, RedHat Linux, Tableau."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "BCBSM \t\t\t\t\t\t\t\t   "}
+{"text": "Detroit, MI"}
+{"text": "Hadoop Developer"}
+{"text": "Jul 2012 - Dec 2013"}
+{"text": ""}
+{"text": ""}
+{"text": "Involved in installing cluster and Configuring Hadoop Ecosystem components. "}
+{"text": "Worked with Hadoop administrator in rebalancing blocks and decommissioning nodes in the cluster."}
+{"text": "Responsible to manage data coming from different sources."}
+{"text": "Extracted the data onto HDFS using Flume, Kafka."}
+{"text": "Imported  and exported data using Sqoop to load data from RDBMS to HDFS  and vice versa, on regular basis."}
+{"text": "Developed, Monitored and Optimized MapReduce jobs for data cleaning and preprocessing."}
+{"text": "Built data pipeline using Pig and MapReduce in Java."}
+{"text": "Implemented MapReduce jobs to write data into Avro format."}
+{"text": "Automated all the jobs for pulling the data and to load into Hive tables, using Oozie workflows."}
+{"text": "Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting on the dashboard."}
+{"text": "Developed custom Serde's specific to the requirement in Hive."}
+{"text": "Implemented Pattern matching algorithms with Regular Expressions, built profiles using Hive and stored the results in HBase."}
+{"text": "Used Maven to build the application."}
+{"text": "Implemented Unit Testing using MRUnit."}
+{"text": ""}
+{"text": "Environment: HDP, HDFS, Flume, Kafka, Sqoop, Pig, Hive, MapReduce, HBase, Oozie, MRUnit, Maven, Avro, RedHat Linux, RDBMS."}
+{"text": ""}
+{"text": ""}
+{"text": "Century Links\t\t\t\t\t\t\t\t        "}
+{"text": "Denver, CO"}
+{"text": "Java/J2EE Developer"}
+{"text": "Aug 2010 to Jun 2012"}
+{"text": ""}
+{"text": ""}
+{"text": "Responsible for Analysis, Design, Development and Integration of UI components with backend using J2EE\u00a0technologies such as Servlets,\u00a0Java\u00a0Beans, JSP, JDBC.\u00a0"}
+{"text": "Used Spring Framework 3.2.2 for transaction management and Hibernate3 to persist the data into the database.\u00a0"}
+{"text": "Developed JSP's for user interfaces, JSP's uses\u00a0Java\u00a0Beans objects to produce responses."}
+{"text": "Created controller Servlets for handling HTTP requests from JSP pages."}
+{"text": "Writing JavaScript functions for various validation purposes."}
+{"text": "Implemented the presentation layer using Struts2 MVC framework."}
+{"text": "Designed HTML Web pages utilizing JavaScript and CSS.\u00a0"}
+{"text": "Involved in developing distributed, transactional, secure and portable applications based on\u00a0Java using EJB technology.\u00a0"}
+{"text": "Deployed web applications in web-logic server by creating Data source and uploading jars.\u00a0"}
+{"text": "Created connection pool, Configured deployment descriptor specifying data environment.\u00a0"}
+{"text": "Implemented Multithread concepts in\u00a0Java\u00a0classes to avoid deadlocking.\u00a0"}
+{"text": "Involved in High Level Design and prepared Logical view of the application.\u00a0"}
+{"text": "Involved in designing and developing of Object Oriented methodologies using UML and created Use Case, Class, Sequence diagrams and also in complete development, testing and maintenance process of the application."}
+{"text": "Created Core\u00a0java\u00a0Interfaces and Abstract classes for different functionalities.\u00a0"}
+{"text": ""}
+{"text": "Environment: Java /J2EE, CSS, AJAX, XML, JSP, JS, Struts2, Hibernate3, Spring Framework 3.2, Web Services,  EJB3, Oracle, J-Unit, Windows XP, Web-logic Application Server, Ant 1.8.2, Ecplise3.x, SOA tool."}
+{"text": ""}
+{"text": ""}
+{"text": "Virtusa Corporation\t\t\t\t\t\t\t\t   "}
+{"text": "Hyderabad, AP, India"}
+{"text": "Java Developer"}
+{"text": "Feb 2008 - Jul 2010"}
+{"text": ""}
+{"text": ""}
+{"text": "Extensively involved in the design and development of JSP screens to suit specific modules."}
+{"text": "Converted the application\u2019s console printing of process information to proper logging technology using log4j."}
+{"text": "Developed the business components (in core Java) used in the JSP screens."}
+{"text": "Involved in the implementation of logical and physical database design by creating suitable tables, views and triggers."}
+{"text": "Developed related procedures and functions used by JDBC calls in the above components."}
+{"text": "Extensively involved in performance tuning of Oracle queries."}
+{"text": "Created components to extract application messages stored in xml files."}
+{"text": "Executed UNIX shell scripts for command line administrative access to oracle database and for scheduling backup jobs."}
+{"text": "Created war files and deployed in web server."}
+{"text": "Performed source and version control using VSS."}
+{"text": "Involved in maintenance support."}
+{"text": ""}
+{"text": "Environment: JDK, HTML, JavaScript, XML, JSP, Servlets, JDBC, Oracle 9i, Eclipse, Toad, Unix Shell Scripting, MS Visual SourceSafe, Windows 2000."}
+{"text": ""}
+{"text": ""}
+{"text": "Education"}
+{"text": "Bachelor of Technology, Major: Information Technology"}
+{"text": ""}

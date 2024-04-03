@@ -1,0 +1,108 @@
+{"text": "Name: elsie elsie"}
+{"text": "E-Mail: elsie.elsie@gmail.com"}
+{"text": "Address: Seoul, South Korea"}
+{"text": "Github: https://github.com/elsie"}
+{"text": "LinkedIn: https://linkedin.com/elsie"}
+{"text": "Phone No. 196304505018"}
+{"text": ""}
+{"text": ""}
+{"text": "SUMMARY:"}
+{"text": "7+ years of experience in the field of Information Systems with emphasis on Business Analysis. Focused on banking Domain. Experienced the height of achievement and recognition by stepping into the world of Technology and Management."}
+{"text": "Strong knowledge of SDLC methodology and project life cycle, including Analysis, Design and Review of\u00a0Business and Software Requirement Specifications."}
+{"text": "Excellent requirement elicitation skills increating Business Specifications, Functional Specifications."}
+{"text": "Extensive experience in managing project requirements, which includes requirement gathering, requirement rating/analysis and requirement priority assignment."}
+{"text": "Extensive knowledge SDLC Processes like Waterfall, Agile, Scrum, RUP (Rapid Unified Process)"}
+{"text": "Strong experience in CRM based Business Analysis."}
+{"text": "Extensive experience in gathering User and Business Requirements and creating Business Requirement documents (BRD), Functional Requirements (FRD), Technical Requirement (TRD), Logical Design, Change Request Process, Use Cases, Scope document, Contingency Plan"}
+{"text": "Thorough understanding of Rational Suite including Rational Rose, Requisite Pro, Rational Clear Case, Rational Clear Quest and Object Oriented Analysis."}
+{"text": "Performed Backend testing using Data Verification and Data Validation techniques via SQL."}
+{"text": "Proficient in  Microsoft Windows, Word, Excel, PowerPoint, MS Visio, Enterprise Architect, Requisite Pro"}
+{"text": "Extensive experience with Unified Modelling Language (UML) and proficient in creating Use Case diagrams, Sequence Diagrams, Activity Diagrams"}
+{"text": "Experience in Conducting Joint Application Development (JAD) sessions, Elicitation sessions, workshops, and interviews sessions with Subject Matter Experts (SMEs)/EndUsers/Development Groups/Clients, asking detailed functionality aspects of business process and carefully updating the information to the requirements in an easily understandable format."}
+{"text": ""}
+{"text": ""}
+{"text": "EXPERIENCE"}
+{"text": ""}
+{"text": ""}
+{"text": "Mphasis\t\t\t\t\t\t\t\t\t\tNov 2017 \u2013 Present"}
+{"text": "Sr. Business Analyst"}
+{"text": "Project Description:This project is aimed to re-engineer the Payment services Frameworkfor Pentagon Federal Credit Union (PenFed). The new system is designed to perform various FedWire and FedACH transactions with the core objective to support multi-tenancy by developing individual but interdependent payment engines and payment hub which effectively handle majority of administrative and compliance requirements for payment processing with limited manual intervention."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered Business, Functional and Use Case Requirements for Automated Clearing House (ACH) outgoing transactions."}
+{"text": "Analysed user requirements, procedures, and problems to identify reuse opportunities of existing application components and data elements, system interdependencies, possible gaps, and risks."}
+{"text": "Developed workflow diagrams, flow charts and Data Flow diagrams for structuring / modelling the ACH business flow using MS Visio."}
+{"text": "Participated in data analysis process, designed and created data mapping documents."}
+{"text": "Reviewing and updating functional requirement documents use cases, scope change documents and mapping specifications."}
+{"text": "Familiar with file formats and NACHA rules related to ACH, IAT, Prenotes and Microdeposits."}
+{"text": "Involved in maintaining Requirements Traceability Matrix."}
+{"text": ""}
+{"text": "California Bank and Trust San Diego CA                                                                                    Jan 2016 \u2013 Oct 2017"}
+{"text": "Sr. Business Analyst"}
+{"text": "Project Description:The Project I worked on was re-engineering Online Banking Mortgage Management System. The new system performed Loan processes such as setting up account information, new loan setup, different options for Mortgage loan approval, Fixed Rate Mortgage Options, B/C loan types."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered Business, Functional and Use Case Requirements."}
+{"text": "Worked with SME for drafting standard operating procedures for various LOBs."}
+{"text": "Conducted JAD sessions and continuously worked under time-intensive project deadlines and targets."}
+{"text": "Conducted change request meeting and documented issues and performed impact analysis."}
+{"text": "Involved in designing and maintaining Requirements Traceability Matrix."}
+{"text": "Analysed user requirements, attended change request meetings to document changes as per user\u2019s request."}
+{"text": "Used Requisite Pro to document requirements, associated change requests with requirements and linked requirements with Use cases."}
+{"text": "Worked extensively through Agile development methodology by dividing the application into multiple iterations."}
+{"text": "Documented Test Scenarios and Test Case after reviewing the business & system requirements"}
+{"text": "Verified the test data in QA environment prior to starting of the testing phase."}
+{"text": "Designed and developed Use Cases, Sequence Diagrams, and Collaboration Diagrams using MS Visio and Enterprise Architect in order to clarify the online data access management."}
+{"text": "Tracked and Reported Defects using HP ALM/Quality Centre and provided defect status reports to the Management."}
+{"text": "Performed Backend testing using Data Verification and Data Validation concepts for Payment Gateway application which is integrated with the Portal application."}
+{"text": ""}
+{"text": "Vancity Bank, BC, CAN\t\t\t\t\t\t\t\tJun 2014 \u2013 Dec 2015"}
+{"text": "Sr. Business Analyst"}
+{"text": "Project Description: Vancity Bankhas been a strong and secure financial institution dedicated to providing quality customer service, local decision-making and a deep commitment to our communities. This project involved building on-line mortgage processing where customers can check their application status, view existing mortgage, refinance or home equity account. Several mortgage tools and calculators were also developed."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Coordinated the project with cross functional teams such as PMO, Business Process Owners, End Users, IT, Stakeholders, etc. for standardizing work flow and in refining workflows and PMO procedures."}
+{"text": "Developed Use Case diagrams, business flow diagrams, Activity/State diagrams and Sequence diagrams using Rational Rose so that developers and other stakeholders can understand the business process."}
+{"text": "Coordinated the activities across different teams such as product management team, development team, QA team. Conduct weekly status meetings, tracked project tasks, issues regularly, conducted Gap Analysis."}
+{"text": "Communicated with business users to prepare and update Business Requirements Document (BRD) and Functional Required Document (FRD) and Specifications"}
+{"text": "Involved in Requirement Gathering and analysis by interviewing users, application owner and SME's."}
+{"text": "Expertise in Business Process Modelling and Use Case Modelling using Unified Modelling Language (UML)."}
+{"text": "Planned & conducted JAD sessions and finalized Business Requirements & prepared Functional Specifications."}
+{"text": "Assisted in the test plans for (SIT) System Integration Testing and User Acceptance Testing."}
+{"text": ""}
+{"text": "ING Direct, Toronto CAN \t\t\t\t\t\tJan 2013 \u2013 May 2014"}
+{"text": "Business Analyst "}
+{"text": "Project Description:(Online/Mobile banking)ING Direct Online is a web based secure application allows business user to maintain banking transaction and make real-time account transfers wire transfers and ACH payment processing. This feature allows you to require one user to initiate a payment and a second user, with a second set of credentials to approve the release of a payment. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered and documented the requirements that are critical to the business mission and using those requirements to design application software."}
+{"text": "Interacted with the \u201cUsers\u201d by interviewing them, by preparing questionnaire and getting feedback."}
+{"text": "Working in Agile environment, documented Test Scenarios, and Test Cases after reviewing the business requirements, design document, use cases, and technical specifications documents. "}
+{"text": "Analysed and documented Business requirements and detail design of the software for full understanding of the business."}
+{"text": "Conducted JAD sessions to allow different stakeholders to communicate their perspectives with each other, resolve any issues and come to an agreement quickly"}
+{"text": "Performed feasibility, adaptability study and risk analysis to identify the business critical areas from user perspective."}
+{"text": "Created webpage mock-ups to help the design team to get a clear insight of the user requirements."}
+{"text": "Tracked and maintained Stakeholder requested enhancements and changes using Rational Clear Quest."}
+{"text": ""}
+{"text": ""}
+{"text": "MicrosoftCAN\t\t\t\t\t\t\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \tMay 2011 \u2013 Nov 2012"}
+{"text": "Business Analyst/QA"}
+{"text": "Responsibilities:"}
+{"text": "Involved in support during testing phases of the implementation including Quality Analysis, UAT and various issues arising at Go live period"}
+{"text": "Involved in Production Support issues including enhancements in functionality, data fix, setup, patch and code fix."}
+{"text": "Developed Use cases, Use case models, Activity models, sequence diagrams and other UMLs to better understand the functioning and desirability of the application."}
+{"text": "Interacted with developers, discussing the Spec provided by the SMEs and also the changes and the discrepancies in the application."}
+{"text": "Analysing different web based and desktop applications including their different features and their intended behaviour. "}
+{"text": "Perform Regression Testing on the received application based on the Release Notes and maintain testing results with high degree of accuracy. "}
+{"text": "Identify software defects, documented bug reports with proper priority and severity, maintained defect life cycle till its closure. "}
+{"text": "Perform Backend testing using Data Verification and Data Validation techniques with the help of SQL. "}
+{"text": "Used the guidelines and artefacts of the Rational Unified Process (RUP) to strategize the Implementation of Rational Unified Process effort in different iterations and phases of the Software Development Life Cycle (SDLC)."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Skills:"}
+{"text": "Agile/Scrum, Requirement Scoping, MS Project, MS Powerpoint, MS Visio, Load Runner, QualityCenter, Wireframes, SQL, Microsoft SharePoint, Oracle, Activity Diagram, BRD\u2019S, FRD\u2019S, Gap Analysis, Pivot Tables, RUP, Context Diagrams, JAD, MS Excel, MS Access, UML "}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelor\u2019s of Software Engineering "}
+{"text": ""}

@@ -1,0 +1,127 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Tokyo, Japan"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 780315341744"}
+{"text": "\t\t\t\t"}
+{"text": "Over 6 years of experience in software design and development of Object-Oriented Software application with expertise using Java and J2EE technologies."}
+{"text": "Experienced in full life cycle application development from requirements gathering, design, development, testing, implementation and production support.  "}
+{"text": "Excellent trouble shooting and debugging skills."}
+{"text": "Expertise in several technologies like JDBC, Servlets, JSP, JSTL, Java Beans, MVC, Struts, Spring, Hibernate, JSF, EJB, Swing, Tiles, JNDI, JMS, MDB, JAX-WS, JAX-RPC, Acegi Security, RMI, iText, Jasper Report, Java Mail API, SOA, SOAP, CSS, JavaScript, Informix, JQuery, Backbone.js, EXT JS, AJAX, XML, JSON, HTML5/HTML, XHTML, PHP, Maven, Ant, PL/SQL, Node.js. "}
+{"text": "Expertise in Object Oriented Programming concepts and implementation."}
+{"text": "Extensive experience in core Java Programming Language."}
+{"text": "Experience in database development using database engines like Oracle, IBM DB2, SQL Server and MySQL. "}
+{"text": "Proficient in applying various design patterns like Singleton, Factory, Value Objects, and Data Access Object pattern."}
+{"text": "Proficient in Struts, Spring and Hibernate with MVC for building web applications."}
+{"text": "Experienced with WebLogic, WebSphere Application Servers and Tomcat Web Container. "}
+{"text": "Strong experience with Agile Methodologies and Test Driven Development."}
+{"text": "Used Selenium, QUnit to test my applications."}
+{"text": "Worked with Data Transformation Services in order to save it on Microsoft Repository."}
+{"text": "Strong problem solving and logical reasoning skills. Ability to understand new ideas and technical concepts quickly and produce meaningful results."}
+{"text": "Experience on distributed application development and SOA."}
+{"text": "Experience working with telecom and financial firms for building applications."}
+{"text": "Excellent debugging and problem solving skills with excellent understanding of system development methodologies, techniques and tools"}
+{"text": "Experience with designing Server Side Java E-commerce based\u00a0applications based on Servlets, JSP, EJB, Struts, Hibernate, Spring, XML, Ajax on multiple server\u00a0environments."}
+{"text": "Good communication and interpersonal with demonstrated ability to interact within all levels of organization."}
+{"text": "Adaptable to new technologies in short span and implement them in real time projects."}
+{"text": "Hands on experience in developing client/server, multi-tier and web-based applications."}
+{"text": "Quick learner and adoptable to new design patterns/frameworks for fast and quality development."}
+{"text": "Excellent communication skills, has clear understanding of business procedures and ability to work as an individual and also as a part of a team."}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": "Education:\tBachelor of Science Kaleniya University, Sri Lanka, 2009."}
+{"text": "Professional Experience"}
+{"text": ""}
+{"text": "Salt River project, Phoenix, Arizona\t\tJune 2013\u2013 Till Date"}
+{"text": "Online Billing"}
+{"text": "Java Web Application Developer"}
+{"text": ""}
+{"text": "Project Description: Developed Java Enterprise application and support in deployment, production, coordination and documentation of release management and change of coordination (Change order) work with team of developers, QA, Business to maintain the integrity if production servers keep non-production environments in sync to reduce possible vulnerabilities. "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Designed and developed customer registration and login screens using AJAX, J-Query, HTML, XHTML, DHTML, JSF, Servlets for more interactive web pages. "}
+{"text": "Developed web pages to display the account transactions and details pertaining to that account using DHTML, Spring Web Flow, JSF and CSS."}
+{"text": "Worked very closely with the team of developers and used Selenium to test the applications. Helped create Test Plans, Cases and perform database testing using SQL queries.  "}
+{"text": "Also used QUnit to test J-query Projects. "}
+{"text": "The Java Persistence API (JPA) used as an object/relational mapping facility for managing relational data in Java applications."}
+{"text": "Transactions implemented as part of the Stateless Session Beans through annotations or xml configurations.\t"}
+{"text": "Created Data Access Object (DAO) which is used by the Hibernate API calls to interact with the database."}
+{"text": "Implemented Spring architecture and Spring Bean Factory using IOC, AOP concepts."}
+{"text": "Configured Spring to manage Actions as beans and set their dependencies in a Spring context file and integrated middle tier with JSF web layer."}
+{"text": "Wrote JavaScript validations to validate the fields of the customer registration screen and login screen. "}
+{"text": "Implement MVC architecture using JSF Framework   "}
+{"text": "Designed and developed JSF components, implemented event handling using Java, JSF, AJAX, and JavaScript for various modules."}
+{"text": "Worked on JSF extension libraries, PrimeFaces and Acegi Security."}
+{"text": "Designed and developed RESTful service interface using Spring MVC to the underlying customer event API."}
+{"text": "Involved in coding Stateless Session Bean that validates an input XML and sends the validated XML to the Queue using JMS API. These session beans are called by Message Driven Beans."}
+{"text": "Implemented JSF Converters to handle formatting and Localization and configured the faces-config.xml to create a web application navigation rule."}
+{"text": "Developed messaging framework using JMS, MQ, MDB process message in point-to-point scenarios."}
+{"text": "Involved in creating various reusable Helper and Utility classes which are used across all the modules of the application."}
+{"text": "Worked on Oracle as the backend database and integrated with Hibernate to retrieve Data Access Objects."}
+{"text": "Involved in helping team members to debug issues with the application and designed and prepared Unit test case using JUnit and Log4j."}
+{"text": "Developed Web Services to communicate to other modules using XML based SOAP and WSDL protocols."}
+{"text": "Worked with Backbone, Angular JS, NodeJS & Bootstrap implementation in a large multiple module application."}
+{"text": "Deployed flow of Execution in the Servlet Environment using JSF and defined Navigation Rules."}
+{"text": "Developed various activities like transaction history, search products that enable users to understand the system efficiently.    "}
+{"text": "Used RAD for application development and deployed the application on WebSphere to integrate run time components and the tools to develop applications."}
+{"text": "Environment: Java 1.5, J2EE, JSF, Hibernate, Spring, WebServices, JPA, RAD, SVS, UML, HTML, XHTML, DHTML, Java Script, CSS, Spring Web Flow, XML, WebSphere, Log4j, Oracle 10g, PL/ SQL, JUnit, JNDI. "}
+{"text": ""}
+{"text": "Halliburton, Houston, TX\t\t\tFeb 2012 \u2013 April 2013"}
+{"text": "GEMS (Global Entry Management System)"}
+{"text": "Software Engineer"}
+{"text": ""}
+{"text": "Project Description: The design and development of a consolidated maintenance request and processing tool that supports the setup/maintenance of a   single entity or bulk loading of multiple entities, and provides business help wizard functionality. It provides ability to track requests from start to finish with reporting capability as well as consistent communication and notification to business users. Support of a staging/certification environment to allow business users to certify data and control the release of data to the Performance & Data policy database. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Implement MVC architecture using Spring Framework   "}
+{"text": "Business Logic was implemented using EJBs. "}
+{"text": "Successively implemented Hibernate ORM framework."}
+{"text": "Used Hibernate for transaction management"}
+{"text": "Designed using Core Spring, Spring MVC."}
+{"text": "Developed the module of generating task list to the collectors using Front Controller Pattern and Command pattern to submit the request from presentation layer "}
+{"text": "Web application development using J2EE: J-Query, JSP, Servlets, JDBC, Java Beans, Struts, Ajax, JSTL, Custom Tags, EJB, JNDI, Hibernate, ANT, JUnit and Apache Log4J, Web Services, Message Queue (MQ)."}
+{"text": "Crystal reports is used for reporting the database details"}
+{"text": "Experience using Version controls such as CVS, PVCS, And Rational ClearCase."}
+{"text": "Developed Entity Beans and Session Beans for the transactions in the application; developed business entity and session beans."}
+{"text": "Used JSP and JSTL Tag Libraries for developing User Interface components."}
+{"text": "Developed helper classes and configured deployment descriptors."}
+{"text": "Developed test cases and performed unit and integration testing; performed using testing using Used JUnit."}
+{"text": "Worked with the testing team to identify, categorize and fix bugs; involved in the maintenance and support of the application"}
+{"text": "Implemented Business Delegate, DAO, DTO, Service locator, Session Fa\u00e7ade, View Helper and Value Object design patterns for all the modules."}
+{"text": "Entity and Session Beans were created using Session Facade Pattern to reduce network calls and enhance transactional capabilities and deployed using JBoss application server, Good working experience developing advanced Swing components."}
+{"text": "Extensively worked with the retrieval and manipulation of data from the Oracle database by writing queries using SQL and PL/SQL."}
+{"text": "Involved in the development of client programs which are responsible for transferring messages using SOAP technology"}
+{"text": "Used JNDI for LDAP Server for users\u2018s authentication and authorization."}
+{"text": ""}
+{"text": "Environment: Java development in EA server 6.x, Hibernate, Spring, JSP, JSF, Servlets, JSF 1.2, Rich Faces 3.1.6, JDBC, EJB 2.x, XML, Crystal Reports, HTML, CSS, JavaScript, JBoss, WSAD, Oracle 9i, SQL, PL/SQL, UNIX, Sun Solaris, JNDI, Acegi Security,  LDAP, SOAP."}
+{"text": ""}
+{"text": "Lender Processing Services, Jacksonville FL\t\t\t\t\t\t\tApr 2010- Feb 2012"}
+{"text": "Mortgage Application                                                                                               "}
+{"text": "Java/J2EE Developer"}
+{"text": ""}
+{"text": "Description:"}
+{"text": "Lender Processing Services, a leading Internet-based secondary mortgage marketplace, offers whole loan bulk and flow trading. LPS has developed a trading platform for structured products like Collateralized Mortgage Obligations (CMO), Asset-Backed Securities (ABS) and Commercial Mortgage-Backed Securities (CMBS) This trading system is efficiently designed to share the benefits of low overhead, greater liquidity, and transparency with all the traditional market participants."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked closely with architects to understand requirements and developed creative solutions to meet business requirements."}
+{"text": "Intensively involved in developing Use Case Diagrams, Sequence diagrams and Class diagrams using UML notation."}
+{"text": "Involved in development of the modules called Budget Settings and Profile Information UI."}
+{"text": "Involved in Design, Development, Testing and Implementation of the complete business solution."}
+{"text": "Auto completion of forms and user-validation functionalities using AJAX DWR framework."}
+{"text": "Developed the application based on Struts MVC Architecture, Action Forms and Java beans as a Model, JSPs and Tags as View and Action Servlet configured by Struts-config.xml as a Controller."}
+{"text": "Validated the required fields e-mail, phone, SSN etc with Validator framework for Client as well as Server side."}
+{"text": "Involved in writing business logic using Struts for functionalities like Budget Calculations and Profile creation/update using Struts Action Classes."}
+{"text": "Developed the application by implementing Spring Framework based integration."}
+{"text": "Designed and developed the POJOs components & O/R Mapping files using Hibernate and used the Spring-Hibernate Template mechanism to reduce the development time."}
+{"text": "Developed Hibernate DAO\u2019s and configuration files to access the ORACLE database."}
+{"text": "Involved in writing Hibernate queries in HQL and SQL."}
+{"text": "Developed XML applications using JAXP and XSLT to read or transform the data between nodes."}
+{"text": "Developed Web Services clients using SOAP, WSDL and Apache Axis."}
+{"text": "Involved in the Technical Documentation of the various modules and functional testing of the product."}
+{"text": "Developed build scripts using Ant tool for compilation and deployment purpose."}
+{"text": "Used Rational Clear Case version control for source code."}
+{"text": "Worked on Eclipse IDE."}
+{"text": ""}
+{"text": "Environment:\u00a0Java, J2EE, Spring, Hibernate 3.0, Struts, AJAX, DWR, JSP, Servlets, CSS, HTML, DHTML, JavaScript,\u00a0XML, DOM, SAX, XSLT,\u00a0ANT, Rational Clear Case, Oracle, Tomcat, WebLogic, Apache Axis, WSDL and SOAP, Eclipse."}
+{"text": ""}

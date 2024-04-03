@@ -1,0 +1,198 @@
+{"text": "Name: martha martha"}
+{"text": "E-Mail: martha.martha@gmail.com"}
+{"text": "Address: Huizhou, China"}
+{"text": "Github: https://github.com/martha"}
+{"text": "LinkedIn: https://linkedin.com/martha"}
+{"text": "Phone No. 45367019944"}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": ""}
+{"text": "7+ years of professional experience in Information Technology with extensive experience in performing Manual and Automation Testing in wide variety of projects and environment."}
+{"text": "Strong understanding of SDLC models and Testing Methodology.  "}
+{"text": "Expertise in understanding Business Requirement Specification, Functional Specifications and Design documentation and converting it into comprehensive Use Cases, Test Scenarios, Test Strategies, Test plan and Test Cases."}
+{"text": "Experienced in reviewing and analyzing business requirements and writing detailed test plans, scenarios and test cases."}
+{"text": "Excellent knowledge and working experience in writing Test execution, Bug Tracking and Test Summary Reports."}
+{"text": "Experienced in testing client server and web based applications using HP tools like QuickTest Professional (QTP), Quality center (QC)"}
+{"text": "Working experience in Maven, Ant and Jenkin CI Tools"}
+{"text": "Experienced in different types of testing like Black-box testing, Functional testing, Regression testing, Back-end testing, System testing, Acceptance testing, Integration testing."}
+{"text": "Good knowledge in Testing Life Cycle, Automation Process, Creation of Automation Frame Work, Automation Deliverables, Business Process Testing using QTP and strong knowledge in Selenium."}
+{"text": "Extensive experience in developing applications using .Net technologies using methodologies like AGILE, Test Driven Development."}
+{"text": "Extensive experience in Quality Assurance using Java, Python, TestNG, Junit, SQL, Selenium RC, Selenium IDE, Web Driver, Manual Testing, Performance Testing, Automation, Quality Center, SoapUI, JMeter."}
+{"text": "Experience in developing end to end automation using Selenium, Web Driver/RC/IDE/Grid, Junit/Testing, JMeter, ANT, Maven, Hudson/Jenkins, Jbehave/Cucumber, Web Services (REST, SOAP)."}
+{"text": "Experience in using Automation Tools such as\u00a0QTP (HP), and Quality Center (HP). Expertise in testing web services using SOAPUI."}
+{"text": "Vastly experienced in analyzing business requirements and functional requirements specifications of an application."}
+{"text": "Experienced in working with Test Management tools like ALM and Quality Center."}
+{"text": "Experienced in using ALM/Quality Center as repository for maintaining test cases, execution and tracking the defects. "}
+{"text": "Experienced in creating, executing tests, generating the test reports using ALM/Quality Center."}
+{"text": "Exposure to Automation Tools like Selenium, Cucumber and QTP."}
+{"text": "Experienced in performing backend testing by executing SQL queries and involving in Data Analysis by using SQL."}
+{"text": "Experienced in performing automating functional Test using QTP."}
+{"text": "Experienced in Creating Generic Function and User Define or Application Specific Function."}
+{"text": "Experienced in creating Environment Variable, Automation Object Model (AOM), and Dictionary Object Model"}
+{"text": "Expert in Parameterize Data using Data Driven Table and also including Checkpoints in Scripts using QTP."}
+{"text": "Expert in System, Regression, Integration and UAT Testing using QTP."}
+{"text": "Experienced in writing Descriptive programming scripts using VBScript in QTP."}
+{"text": "Experienced in creating Data-driven and Keyword Driven Frameworks and Hybrid Framework for GUI, Regression and System integration automated testing."}
+{"text": "Experienced in creating Test Result; Analyze test result and reporting "}
+{"text": "Excellent communication skills to interact with business users, business analysts, developers and the QA team."}
+{"text": "Fairly worked on Groovy script to customize test in SOAP UI."}
+{"text": "Proven analytical and problem-solving skills. "}
+{"text": "Groovy Geb Spock frameworks."}
+{"text": "Ability to lead, motivate and coordinate team members to meet business expectations in a fast paced, dynamic environment. "}
+{"text": "Good Project Management skills with training and communication skills."}
+{"text": "Experienced in interfacing with developers in resolving the defects investigated in the application during testing."}
+{"text": "Possess excellent oral and written communication skills and pleasing interpersonal skills"}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": "                "}
+{"text": ""}
+{"text": ""}
+{"text": "Experience: "}
+{"text": ""}
+{"text": "TD Bank, Bridgeport, CT   \t\t\t\t\t\t                     Jan2017 \u2013 Nov 2018                                                                                       Sr. Automation Tester"}
+{"text": ""}
+{"text": "They provide banking, credit cards, loans and mortgage, online banking, management services. I was involved in testing their web based account information, called Customer Account Information System, for their customers. The Customers are asked to enter their Login and password, which is checked and if correct they are allowed to view their account information online. If the information entered is not correct, they are denied the entry. This enables them to check their current balances with the bank. The customers are also provided the service of instant transfer of funds between their Checking and Savings Accounts. It also allows the customers to Invest Online and apply for loans. The Customers can also pay their Bills using the Online Banking Service."}
+{"text": "Responsibilities:"}
+{"text": "Involved in developing test plans, designed test cases including detailed expected results."}
+{"text": "Involved in Test Case Preparation and Test Case Execution Manually."}
+{"text": "Experienced in test automation with many test tools, including QTP (Quick Test Pro), RFT (Rational Functional Tester) and RPT (Rational Performance Tester)."}
+{"text": "Analyzed application to find out which part can be automated and which can be manually tested."}
+{"text": "Worked on generating OTC,FX, Fixed income derivatives volumes by total trade, incoming/outgoing payment items, number of new transactions "}
+{"text": "Implemented HP ALM/Quality Center for Test Planning, Test Case writing, Test Execution and Requirement Mapping with Test Cases."}
+{"text": "Performed defect tracking and reporting using Quality Center/ALM."}
+{"text": "Wrote SQL verification scripts to test the result of deployment for correct business logic."}
+{"text": "Performed Back end testing using SQL Quires. "}
+{"text": "Conducted GUI and Black Box Testing using QTP and interacted with developers to resolve issues."}
+{"text": "Performed Baseline test, stress test and high volume of users using Jmeter and monitored the performance of the load test on the system and measured database response time, Http request, Login and proxy server."}
+{"text": "Experience in testing web services using Soap UI, JSON, SOAP messages (SOAP and RESTFUL)"}
+{"text": "Documented a test-automation strategy and test plan to facilitate and maximize data-driven testing. Created and implemented RFT (Rational Functional Tester) test scripts in Java. Wrote and executed SQL queries to build appropriate data pools."}
+{"text": "Application design Using Scrum (Agile) Model for N-tier architecture which includes UI, BLL and DAL in .NET."}
+{"text": "Created framework to execute test cases using CI \u2013 Jenkin Jobs using Maven, TestNG and Selenium Grid."}
+{"text": "Created Automation best practices guide in Confluence."}
+{"text": "Involved in creation of automation framework in Selenium Web Driver using behavior driven approach like Jbehave"}
+{"text": "Involved with Groovy environment Manager used for developing the multiple version of the software development kit in the UNIX based."}
+{"text": "Worked on Selenium IDE, the integrated development environment for Selenium scripts using Firefox. "}
+{"text": "Worked on GIT HUB Repository and developed maven build java test scripts, and executed them in Jenkins build Production Environment"}
+{"text": "Involved in Testing in Agile Development Environment  using TDD and ATDD approach"}
+{"text": "Used Quick Test Professional for automating manual test cases for regression testing and for storing, execution of test cases and reporting results."}
+{"text": "Used Checkpoints, Parameterization and Data Driven Test Scripts in QTP."}
+{"text": "Designed and developed User defined functions, Generic functions with well versed VB scripting, Descriptive programming in scripting dynamic objects and Reusable actions in defining scenario flows in QTP."}
+{"text": "Proficient creating automation script using Java, SQL and Rational Functional Tester."}
+{"text": "Created and executed Automated Test Scripts in QTP using Business Process Testing (BPT) concept, and Key word driven Framework."}
+{"text": "Proficient in Agile development and Scrum methodology. "}
+{"text": "Created user defined functions in Java and implemented the functionality with Selenium. "}
+{"text": "Determined the Entry and Exit Criteria for different phases in testing cycle of the system."}
+{"text": "Performed User Acceptance Testing (UAT) on behalf of End Users at client\u2019s environment."}
+{"text": "Followed up with the development team as they fix the bug."}
+{"text": "Acted as test plan approver for offshore counterpart."}
+{"text": "Participated in QA team meeting and bug tracking meetings."}
+{"text": "Documented the test results and test procedures."}
+{"text": "Worked with the business, technology and operations to determine priorities and schedule of releases.\u00a0"}
+{"text": "Performed Web Services testing and Validated XML request/response data using SOAPUI."}
+{"text": "Worked closely with the development team while enhancing the features of the application."}
+{"text": "Reported weekly status to management."}
+{"text": ""}
+{"text": "Environment : \u00a0ALM/Quality Center, QTP, Selenium,  Windows, Agile, Jmeter, Jenkin, Mainframes, COBOL, JCL, EDI, BizTalk, ETL, Data Warehouse, Rational Clear Quest, Rational Quality Manager, RFT, MS Office and MS Visio."}
+{"text": ""}
+{"text": "Client: Capital One Financial Corporation (COF) , West Creek, Richmond, VA\t    Aug 2015 to Dec2016"}
+{"text": "QA Automation Tester "}
+{"text": ""}
+{"text": "Capital one is a US based bank holding company specialized in credit cards, home loans, auto loans, and banking and savings products. A fortune 500 company and one of the nation\u2019s top 10 largest banks based on deposits . In the early 1990\u2019s the company helped to pioneer the mass marketing of credit cards. The aim of the project was to enhance their online banking system which help the user to have access to their various accounts online like; loans, checking, savings and credit card accounts. I worked on the Digital Project (WWW) credit card and focused on adding new functionality to credit card and adding new cards."}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Developed the Test Plan, Test Cases and Test Strategy for the project."}
+{"text": "Checked the data validity for various applications, tracking software and specification defects and resolution using \u00a0Quality Center, documenting all phases of QA life cycle, analyze functional requirements, mapping documents."}
+{"text": "Tracked bugs using Quality Center and performed Regression Testing of the entire application once the bugs are fixed."}
+{"text": "Conducted Load testing using SOAPUI tool."}
+{"text": "Developed and executed SQL and UNIX scripts for validating Business Rules and verifying the accuracy of data."}
+{"text": "Worked on distributed test automation execution on different environment as part of Continuous Integration process using Selenium Web Driver and Jenkins."}
+{"text": "Involved in Sprint automation tasks using Selenium Web Driver and Java. Developed scripts using Selenium to do the cross browser web testing. "}
+{"text": "Used SQL & PL/SQL for data validation as part of\u00a0Oracle Database Testing."}
+{"text": "Worked with QTP to create, manage and execute Test Sets."}
+{"text": "Maintained QTP Test Libraries and executed Test Plans. "}
+{"text": "Worked on Web Services (SOAP &Restful) using SOAP UI and validated the JSON Messages."}
+{"text": "Automated the regression test cases using the Selenium & TestNG. "}
+{"text": "Developed manual Test Script and converted to automated script using Quick Test Professional (QTP). \u00a0"}
+{"text": "Integrated with Continuous Integration tools Jenkins for running test on nightly basis automatically. "}
+{"text": "Worked on N-Tier design, development and deployment using Agile Methodology."}
+{"text": "Implemented JMeter and Rational Functional Tester (RFT) to test the Performance on a number of browser based systems. Configured JMeter to place various loads on the system under test. Created RTF Control scripts with timers to gather the user experience metrics. Then after testing was completed, created a report with metrics, charts and analysis for management."}
+{"text": "Performed Automation with expert use of Quick Test Pro (QTP). "}
+{"text": "Executed written test case scenarios, including manual, automated, and data-driven, and GUI verification by using Quick Test Professional (QTP)."}
+{"text": "Identified the defects through QTP and ensured that business processes deliver the expected results and remain reliable throughout the production release."}
+{"text": "Designed and developed automated test scripts using VBScript."}
+{"text": "Performed system tests and executing the test scripts using QTP."}
+{"text": "Developed Shared object repository in QTP."}
+{"text": "Created dynamic & efficient QTP Automation Framework."}
+{"text": "Conducted sanity testing of the application based on user requirements."}
+{"text": "Coordinated meetings with the development teams for appropriate handling of the bugs and their timely resolution."}
+{"text": "Communicated with application developers, project managers and other team members on application testing status on an ongoing basis when necessary."}
+{"text": "Closely worked with offshore teams with different time zones."}
+{"text": "Reported Regression Test Status to clients."}
+{"text": "Reviewed computer logs and reported to identify application processing errors and possible improvements."}
+{"text": "Planned, implemented and followed software development process quality standards, methods and procedures. "}
+{"text": "Performed risk identification and mitigation activities, escalating unresolved issues to the executive and steering committee where appropriate to secure their timely decisions and support."}
+{"text": "Interacted with the team members and participated in review meeting with developers and business analysts for understanding the requirements."}
+{"text": ""}
+{"text": "Environment: Quality Center, Agile, Selenium,   Oracle, SQL, Jenkin, JMeter, Toad, MS Access, MS VISIO, MS office, MS word, MS excel, Oracle CRM, Share Point, Java, QTP, MQC, Business Object Reports."}
+{"text": ""}
+{"text": "Client: National City Bank, Columbus, OH    \t\t\t\t                    Oct 2013 \u2013 July 2015"}
+{"text": "Quality Analyst"}
+{"text": ""}
+{"text": "It integrates a wide variety of tools and features for litigation review and analysis, from document ingestion through data discovery to\u00a0coding\u00a0and production. The project is to automate the regression test cases using\u00a0Visual\u00a0Studio\u00a0-\u00a0Coded\u00a0UI\u00a0feature."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked closely with Development (UI), Product Management and Technical Operations during the development, "}
+{"text": "Wrote, Developed and Implemented Test Plan, Test Scenarios and Test Cases using HP Quality Center (QC)"}
+{"text": "test, and launch stages of the software development and release cycle (Waterfall and Agile)."}
+{"text": "Performed\u00a0GUI testing,\u00a0Functional and\u00a0manual testing."}
+{"text": "Involved in weekly walkthroughs and inspection meetings, to verify the status of the testing effort and the project as a whole and leading offshore\u00a0team"}
+{"text": "Involved in all stages of Test life cycle Test planning, Test case design, Execution, defect Tracking, Metrics and Status reporting."}
+{"text": "Worked Closely with Build and Deployment team to resolve the build issues and integrate with Jenkin"}
+{"text": "Involved as part of\u00a0automation\u00a0team using QTP, developed test scripts.\u00a0 "}
+{"text": "Created test scripts and test cases for approved business use case and requirements for System and UAT testing."}
+{"text": "Logged the errors, reported defects, determined repair priorities and tracked the defects until resolution using ALM."}
+{"text": "Involved in using QTP for\u00a0VB scripting, by using object repository, expert view, Object spy and other main functionalities."}
+{"text": "Participated in test environment setup and in ensuring that the facilities, test tools and scripts are in place to successful performing the required testing effort."}
+{"text": "Developed automated test systems using Quick Test Pro, Win Runner, Test Complete and Silk Test.\u00a0"}
+{"text": "Lead the\u00a0testing\u00a0initiative - develop\u00a0test\u00a0strategy,\u00a0test\u00a0plan, &\u00a0test\u00a0cases, conduct informal & formal\u00a0testing\u00a0cycles and facilitated User Acceptance Testing\u00a0(UAT) &\u00a0smoke\u00a0testing, performed\u00a0post-production installation\u00a0testing."}
+{"text": "Wrote structure code using\u00a0VB\u00a0Script in QTP to enhance the power of automated scripts to handle logical test cases.\u00a0\u00a0 Configured data sources, JDBC provider\u00a0for the\u00a0Web Sphere\u00a0Environment and ran applications with that configuration."}
+{"text": "Conducted Performance testing using QTP."}
+{"text": "Coordinated with business users for usability testing."}
+{"text": "Co-ordinate in application setup for UAT Testing."}
+{"text": "UAT Testing done based on UAT Test Cases"}
+{"text": "Identified the bugs and kept track of the defect report using ALM Quality Center, and also analyzed the root cause for defects."}
+{"text": "Shared application logs to development team by tailing logs from UNIX environment."}
+{"text": ""}
+{"text": "Environment: HP Quick Test Load Runner , TFS, Python Web Services Restful SQA Team Suite ,User Acceptance Test, ALM Quality Center , Jenkin, QTP, HTML, XML, MS project, SQL, Oracle , Windows, Microsoft Visual Studio ,VB Script SQL Server"}
+{"text": " "}
+{"text": "CapTrust Financial Advisors, Tampa, FL                                                                      May 2011- Sept 2013                       Quality Analyst"}
+{"text": "CapTrust Financial Advisors provides a broad range of retail and commercial banking services as well as investment services in the United States. Its lending portfolio includes mortgages, lines of credit, term loans, business flex loans, credit cards, overdraft protection loans, home equity loans, home equity lines of credit, and personal loans. "}
+{"text": "The aim of the project was to enhance their web based portfolio management system (Equities, Fixed Income) for customers to access their accounts, update market information, watch trends with forecasting, trade online and evaluate their investments."}
+{"text": ""}
+{"text": "Roles & Responsibilities:"}
+{"text": ""}
+{"text": "Analyzed the Business Requirement Documents and System Requirement Specifications of the application.\u00a0\nDeveloped test cases based on the Test plan, Use Cases, SRS, UI Assumptions list and BRD"}
+{"text": "Conducted the Functional, System, Smoke, Integration and Regression testing for Functionality of the web application."}
+{"text": "Wrote test cases and test plans for New Account Applications, Request Wire Transfer to Bank, Electronic Funds Transfer in Account Services, Marginal Call requirement notification modules."}
+{"text": "Created bank setup for the bank account and performed Electronic (ACH), Wire, and Check transfers, deposits via Web app and Back Office System, and verified those transactions in the downstream systems, and in the back-end database."}
+{"text": "Created the UAT Plan and test scripts and participated in UAT."}
+{"text": "Developed test scenarios and test procedures based on the test requirements."}
+{"text": "Extensively worked on different scenarios including Normal, Alternative and Negative flows."}
+{"text": "Used\u00a0Maven, Jenkin and Shell Scripts for build process"}
+{"text": "Extensively worked with the Quality Center for bug tracking. Prepared and loaded test scripts in the Test Plan and executed them in the Test Lab."}
+{"text": "Generated the daily execution status reports and daily defect status report in Quality Center to review in the meeting.\u00a0"}
+{"text": "Ad Hoc Testing, Smoke Testing, Functional Testing, Integration, Operational Readiness Testing, Regression Testing.\nAssisted in\u00a0UAT\u00a0sessions and performed\u00a0UAT\u00a0when necessary"}
+{"text": "Extensively worked on Checks category \u2013 Check Order, Check Reorder, Check Reprint, Deposit checks."}
+{"text": "Extensively worked on Categories like Fraud, Stop Payment, Account Opening, Account maintenance,"}
+{"text": "Account Closure, Credit Cards, Mortgage, General -\u00a0ACH\u00a0Research, Deposit Adjustments."}
+{"text": "Performed End-to-End testing manually and was associated with\u00a0UAT."}
+{"text": "Extensively worked on AGILE Methodology for short interval of builds and releases.\u00a0"}
+{"text": "Participated in daily Scrum meetings with Business and Developers to develop test scripts."}
+{"text": "Managed test plans and defects in Clear Quest and updated the comments and resolutions after successful execution of test plans in UAT and Integration environments."}
+{"text": "Participated in the review meetings, walk throughs with SME\u2019s and business."}
+{"text": "Created and executed complex SQL queries to the Oracle Database to validate and test data using TOAD."}
+{"text": "Worked closely with the developers to get the immediate resolution to the defects"}
+{"text": ""}
+{"text": "Environment: Selenium Suite, Java, Agile J2EE, Web services, RESTful, Jenkin, User Acceptance Test, Rational Clear Quality center, Oracle SQL Server ,My SQL, Load Runner, UNIX, JIRA. SOAP UI, TFS, VB Script Coded UI,"}
+{"text": ""}

@@ -1,0 +1,125 @@
+{"text": "Name: sally sally"}
+{"text": "E-Mail: sally.sally@gmail.com"}
+{"text": "Address: Quanzhou, China"}
+{"text": "Github: https://github.com/sally"}
+{"text": "LinkedIn: https://linkedin.com/sally"}
+{"text": "Phone No. 654045387678"}
+{"text": ""}
+{"text": "SUMMARY"}
+{"text": "7+ years of experience in business analysis, business requirements modeling and development of Web Based, and Client/Server applications extensively in business domain of Healthcare."}
+{"text": "Strong knowledge of managed care payer requirements and procedures."}
+{"text": "Proficient in gathering and converting User Requirements into Business Requirements and Functional Requirement Specifications (FRS) and use Modeling tools like Rational Rose and Microsoft Visio for requirements modeling. "}
+{"text": "Expertise in Business Process Modeling, Business Process Re-design and in designing Process Architecture."}
+{"text": "Strong knowledge of managed care payer requirements and procedures."}
+{"text": "Extensive experience in configuring data mapping between different Databases."}
+{"text": "Sound understanding of Gap Analysis, requirement management, risk analysis and project plans. "}
+{"text": "Solid understanding of Rational Unified Process (RUP) using Rational Rose, Requisite Pro, Unified Modeling Language (UML)."}
+{"text": "Good understanding of trading partner management for 4010 and 5010 files."}
+{"text": "Extensive experience in configuring data mapping of files using Edifacs Specbuilder."}
+{"text": "Knowledge of various RDBMS like DB2, Oracle, MS-Access and MySQL Server."}
+{"text": "Thorough knowledge of HP Quality Center and Defect Lifecycle Process."}
+{"text": "Preparing graphical depictions of use cases including state diagrams, activity diagrams, sequence diagrams, use case diagrams, component-based diagrams, collateral diagrams, including the business workflow."}
+{"text": "Ability to communicate effectively with Business users and Senior Management."}
+{"text": "Worked as productive team member with excellent communication and presentation skills using MS OFFICE AND MS PROJECT"}
+{"text": "Through knowledge of various phases of Edifacs Specbuilder- Analyzer and Mapper."}
+{"text": "Experience with various ETL, data warehousing tools and concepts."}
+{"text": "Excellent understanding of Data Models and Information Architecture and sound skills in SQL."}
+{"text": "Familiar with HIPAA EDI transactions such as 835, 837 (P, D, I) 276, 277, 278 etc"}
+{"text": "Knowledge of the Back-End processes like Voucher Creation, EOB, Letter generation and 835 etc."}
+{"text": "Experience in development methodologies like RUP, SDLC, AGILE, SCRUM and Waterfall"}
+{"text": "Experience in Risk Management process and technology reengineering, Sarbanes Oxley implementation, valuation review process and technology, strategic sourcing, metrics and benchmarking"}
+{"text": "Design and review of various documents including the Software Requirement Specifications (SRS), Business requirements document (BRD), Use Case Specifications, Functional Specifications (FSD), Systems Design Specification (SDS), Requirement Traceability Matrix (RTM) and testing documents."}
+{"text": "Experience in HEDIS Reporting Software and VIPS as per NCQA standards."}
+{"text": "Strong experience in Business and Data Analysis, Data Profiling, Data Migration, Data Integration and Metadata Management Services."}
+{"text": "Excellent in designing business models using UML diagrams such as use case diagrams, class diagrams, activity diagrams, sequence diagrams and collaboration diagrams using Rational Rose and MS Visio."}
+{"text": "Experience in conducting Joint Application Development (JAD) sessions and White Board Sessions with end-users, Subject Matter Expert (SMEs) team, Architects and design group development and QA team for project meetings, walkthroughs and customer interviews commensurate with excellent communication skills."}
+{"text": "Creative and aggressive self-starter with integrative thinking skills, capable of communicating creative ideas through graphical analysis charts and statistical data display."}
+{"text": "Involved in training of end users and Documenting Training Manuals. "}
+{"text": "Focused troubleshooter and a team player with excellent interpersonal and communication skills. Ability to work cohesively with developers, other team members, and testers. "}
+{"text": "Analytical, methodical and resourceful approach to Problem Solving, Root-Cause Analysis, Conflict Resolution, Negotiation Strategies and providing corrective actions to meet business requirements. "}
+{"text": "Proven record of Leadership skills. Excellent Presentation skills in regards to communicating with both business and technical teams."}
+{"text": "Expert in developing BRD (Business Requirement Document), TRD (Technical Requirement Document), URS (User Requirement Document) and FRS (Functional requirement Specifications) following Agile methodology. "}
+{"text": "Hands on experience in Requirement gathering and analysis, Planning, scheduling and Tracking Projects."}
+{"text": ""}
+{"text": "Technical skills"}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": "Lifetime Healthcare Group, Buffalo, NY                                              Jan 2018 \u2013 Present                                                                                                                                                                             \nBusiness Systems Analyst "}
+{"text": "Lifetime Health Medical Group provides primary and specialty care, urgent care, pharmacy, dental, optical, behavioral health and imaging services, serving the Buffalo and Rochester communities for more than 40 years. All Lifetime Health practices have been awarded recognition by the National Committee for Quality Assurance (NCQA) as Patient-Centered Medical Home Level 3, the national organization\u2019s highest designation The project aims at building an Enterprise SOA (service-oriented architecture) based system that will be developed on the Microsoft .NET Platform. The new Claims Processing MMIS (Medicaid Management Information System) will replace the old legacy system and will automate all the business areas with minimum human intervention. As a Business Analyst, I was involved with drafting the migration plan for the Claims Processing data which needed to be migrated from the Mainframe to the Oracle environment."}
+{"text": ""}
+{"text": "Responsibilities:  "}
+{"text": "Created business and technical requirements, functional specs, gather and translate functional requirements into technical requirements and provide analytical support to the management team as needed. "}
+{"text": "Heavily involved in testing and reporting issues, as well as defining resolutions."}
+{"text": "Capture control points (automated and manual) in the process flows to know about the transactions happening between steps, processes etc."}
+{"text": "Analyzed requirements for developing a cross-walk for understanding major changes from\u00a0ICD-9\u00a0to\u00a0ICD-10 with the help of SME\u2019s.\u00a0"}
+{"text": "Facilitated JAD sessions for Requirement Validation with Dept. of Cleveland clinic to gather requirements for the new MMIS."}
+{"text": "Worked extensively on both inbound and outbound transactions, creating test cases for multiple transaction types including EDI 837, 835, 276, 277, 270 271"}
+{"text": "Managed defect tracking and helped in the verification of the developed test cases."}
+{"text": "Utilized the RUP Software Development Methodology for the creation of the new operations system."}
+{"text": "Worked on Vision 2020 projects on various trains including Financial Services. This was based on AGILE software development methodology. "}
+{"text": "Assist the HEDIS Supervisor in coordination of the Medical Record Review Project. "}
+{"text": "Created functional requirement specification documents such as UML diagram, use case diagram, scenarios, activity diagrams and mapping."}
+{"text": "Created Logical/physical Data Model in ERwin and have worked on loading the tables in the Data Warehouse"}
+{"text": "Developed the User Interface (UI) prototypes to capture and validate requirements and spike solutions to the current problem."}
+{"text": "Worked on new Pharmacy Benefit Management System Medical Claim Data feed, Data Dictionary layout and definition, Eligibility files and various File Transfer Specifications"}
+{"text": "Gap Analysis: Analyzed the client\u2019s applications programs to determine the impact of the HIPAA final rule on EDI Transaction Set and Code List implementation and defined the changes to bring the affected systems into HIPAA compliance."}
+{"text": "Conducted JAD sessions for gathering requirements for the project."}
+{"text": "Identified, researched, investigated, analyzed, defined and documented business processes and Use Case Scenarios."}
+{"text": "Built relationships with the ACO Participants to help communicate the yearly changes in HEDIS Measures. "}
+{"text": "Participated in developing test plan, test scripts, and test scenarios and designed user documentation."}
+{"text": "Examine the system design deliverables & validating it against the SLA."}
+{"text": "Contact provider offices and members to retrieve Medical Records for both HEDIS and Risk Adjustment "}
+{"text": "Developed UAT test cases associated with the functional requirements."}
+{"text": "\nEnvironment: MS Office, Windows, .NET, Agile, MS Visio, MS SharePoint, TFS, MS Project, MS Visio, SQL, Oracle, SOA, HTML. "}
+{"text": "Dept. of Health & Hospitals (DHH), State of LA, Baton Rouge, LA        \u00a0Feb 2014 \u2013 Dec 2017                                                                              "}
+{"text": "Business Analyst                                                          "}
+{"text": "The Louisiana Medicaid Program provides health services to low income individuals, has an annual budget of 7.2 billion dollars and provides services to more than 1 million recipients annually.\u00a0 MMIS processes 51 million Medical claims annually for more than 30,000 Medicaid providers. The focus of the project was the replacement of 22 year old Medicaid Management information System (MMIS). It included technical and professional services related to analysis and assessment of the current MMIS and EDI claims, documentation of business and technical requirements, preparation of cost analysis and implementation of new MMIS automation system. & St. of Louisiana also provides health insurance to parents/caretakers and dependent children, pregnant women, and people who are aged, blind or disabled. These programs pay for hospital services, doctor visits, prescriptions, nursing home care and other healthcare needs, depending on what program a person is eligible for. "}
+{"text": "Responsibilities "}
+{"text": "Coordinated with the stakeholders and project key personnel to gather functional and non-functional requirements during JAD sessions."}
+{"text": "Studied the existing business process and created AS-IS workflow to illustrate the existing system."}
+{"text": "Responsible for the full\u00a0HIPAA\u00a0compliance lifecycle from\u00a0gap analysis, mapping, implementation and testing for Medicaid Claims."}
+{"text": "Propose strategies to implement HIPAA 4010 in the new MMIS system & eventually move to HIPAA 5010."}
+{"text": "Responsible for\u00a0gap analysis\u00a0in changing old MMIS and Involved in testing new MMIS."}
+{"text": "Responsible for\u00a0Medicaid Claims\u00a0Resolution/Reimbursement for peach state health plan using\u00a0MMIS."}
+{"text": "Recorded requirements in the Requirement Traceability Matrix (RTM) defining each technical requirement in detail from areas like: main hardware, application software, networks, servers, internet and desktop configuration."}
+{"text": "Assisting the project manager in creating the business case and project plan."}
+{"text": "Served as a liaison between the internal and external business community (Claims, Billing, Membership, Capitation, Customer service, membership management, provider management, advanced Healthcare management, provider agreement management) and the project team."}
+{"text": "Actively analyzed current business processes (Claims, Recipient eligibility and enrollment etc.) and worked with management to improve and implement enterprise solutions to ensure compliance."}
+{"text": "Work with business representatives to understand data marts requirements and priorities and ensure that IT works is appropriately aligned."}
+{"text": "Responsible for creating business work flows and processes and creating management reports based on the analysis."}
+{"text": "Followed the UML based methods using Rational rose to create use cases, activity diagram, sequence diagram, collaboration diagram that include functional and non-functional specifications to hand off to development teams."}
+{"text": "Actively involved in updating internal processes (submit claims, check eligibility), updating data collection and data reporting."}
+{"text": "Defects and bug testing by using Rational Clear-Quest, Configuration management and Version control with Clear-Case."}
+{"text": ""}
+{"text": "Environment: Rational Unified Process (RUP), SQL, MS Visio, MS Project, MS Office, UML, Windows, HP Quality Center. "}
+{"text": "Hallmark Healthcare Services, Naperville IL                                             Jan 2012- Jan 2014                                                                                                                                                                                           "}
+{"text": "Business Analyst"}
+{"text": "Performed day-to-day EDI activities related to HIPAA compliant and NSF data submissions. Duties included technical and non-technical telephone or email communications with physicians, clearinghouses, billing services, and hospitals who submitted or received electronic claim data (NSF or ANSI X12 4010 version)"}
+{"text": " Responsibilities:"}
+{"text": "Gathered business requirements by driving user-group meetings and working with various global, cross-functional and virtual teams"}
+{"text": "Working within a growing knowledge of X12 4010 HIPAA 837 I, P, D, 835, 834, 820, 270, 271, 276, 277, 278, EDI, Privacy, Security, and Medicaid."}
+{"text": "Consulted with healthcare insurance company to develop conversion specifications for other insurance Coordination of Benefits (including Medicare)."}
+{"text": "Performed Gap Analysis to check the compatibility of the existing system infrastructure with the new business requirements. "}
+{"text": "Teamed up with both internal and external software development groups to provide functional requirements specifications in form of use cases, process flows, and prototypes and management reporting requirements"}
+{"text": "Performed Unit Testing and User Acceptance Testing and documented detailed defects."}
+{"text": "Developed Test Cases to validate the requirements and documented the Traceability Matrix for Test Cases and Requirements"}
+{"text": "Conducted presentations of the Q/A test results with analysis to the stakeholders and users and documented modifications and requirements"}
+{"text": "Developed Functional Specifications and Q/Testing Requirements."}
+{"text": "Worked on EDI transactions: 270, 271, 834, 835, and 837 (P.I.D) to identify key data set elements for designated record set. Interacted with Claims, Payments and Enrollment hence analyzing and documenting related business processes."}
+{"text": "Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, OOD using UML"}
+{"text": "Involved in all phases of software development life cycle in RUP framework."}
+{"text": "Developed detailed  Developer specification to reflect technical details of the business requirements"}
+{"text": "Was responsible for data mapping of HL7 messages into relational database."}
+{"text": "Assisted in monitoring ancillary data transactions and addressed problems with HL7 messages."}
+{"text": "Extensive experience in using collaborative tools like Mercury Quality Center to facilitate development across disparate teams"}
+{"text": "Assigned tasks among development team monitored and tracked progress of project following agile methodology."}
+{"text": "Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, OOAD using UML and Business Process Modeling."}
+{"text": "Developed business process models in RUP to document existing and future business processes."}
+{"text": "Created Business Requirement Document (BRD), Functional Requirement Specification (FRS) document, User Requirement Specification (URS) and Change Request (CR) document for system application development."}
+{"text": "Provided management support to the off-shore End to End Integration / Regression Test Team"}
+{"text": "Prepared UAT Materials UAT Test Cases to include various steps involved for UAT and to have proper coverage of requirements"}
+{"text": "Involved in integration of various Customer Data Sources and provided Data Mapping from various sources into the target centralized customer data source with help of Erwin team."}
+{"text": "Acted as a Subject Matter Expert on Application knowledge for preparing training presentation, Quick Reference Guides and assisting with any issues/questions that arose from training"}
+{"text": "Successfully conducted JAD sessions, which helped synchronize the different stakeholders on their objectives and helped the developers to have a clear-cut picture of the project."}
+{"text": ""}
+{"text": "Environment: Agile/Scrum, UML, HP ALM, Rational Clear Quest, Windows, MS Office, HTML, Windows"}
+{"text": ""}

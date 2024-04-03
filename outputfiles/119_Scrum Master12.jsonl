@@ -1,0 +1,189 @@
+{"text": "Name: annie annie"}
+{"text": "E-Mail: annie.annie@gmail.com"}
+{"text": "Address: Nanchang, China"}
+{"text": "Github: https://github.com/annie"}
+{"text": "LinkedIn: https://linkedin.com/annie"}
+{"text": "Phone No. 53376020470"}
+{"text": ""}
+{"text": "Certified SAFe Scrum Master (SSM) with 7 +years of professional experience."}
+{"text": "Experience using Agile Methodology with the SCRUM and SAFe Framework using XP (Extreme Programming) techniques like Acceptance Test Driven Development (ATDD) and Test-Driven Development (TDD), Pairing and Refactoring.  "}
+{"text": "Expertise in transitioning organizations from traditional Waterfall to Agile using the SAFe framework. "}
+{"text": "Focused on Continuous Integration, Continuous Deployment (CI/CD) and enabled Pair-Programming."}
+{"text": "Experience in spearheading Agile Games to get a better grip of key Agile principles for the team and customized various formats for retrospective meetings and analyzing the burndown. "}
+{"text": "Seasoned Entrepreneur with an expertise in client-vendor relationship. Experience with Business Process Mapping."}
+{"text": "Experience in leading cross functional teams across the globe in different time zones."}
+{"text": "Assisted the progress of Scrum ceremonies such as Sprint Planning, Daily Stand-ups, Sprint Review & Sprint Retrospective. "}
+{"text": "Experience in facilitating SAFe ceremonies."}
+{"text": "Experience in working as a servant leader with ART, scrum teams in conflict resolution. Empowering the teams by increasing Transparency, Inspection, Adoption, Focus, Courage and Respect."}
+{"text": "Experience in working with Portfolio, Program Management, RTE, Scrum masters, development team on designing and executing daily stand ups. "}
+{"text": "Participated in Scrum of Scrums and notified the RTE about roadblocks, correlated dependencies and aligned the project goals."}
+{"text": "Facilitated Team Breakout sessions in the Program Increment planning. "}
+{"text": "Manifested SAFe core values in the team and following the Agile manifesto."}
+{"text": "Used Agile best practices like \u2013 timeboxing, user stories, daily stand ups, frequent demos, test driven development, retrospective & continuous integration."}
+{"text": "Excellent track record of working directly with the customers and guiding customers to accomplish their vision using agile methodology."}
+{"text": "Team-player with the ability to work within a collaborative environment. Creative and efficient in proposing solutions to complex, time-critical problems. Collaborative in driving decisions. Strong analytical and problem-solving skills with a high attention to detail."}
+{"text": "Experience in conducting interviews and performance evaluations of the resources."}
+{"text": "Developed business requirements, write user stories and root cause analysis. "}
+{"text": "Excellent Mentoring skills, People skills, Leadership skills, Communication and Collaboration skills. "}
+{"text": ""}
+{"text": "CERTIFICATIONS\t"}
+{"text": ""}
+{"text": "Certified SAFe Scrum Master"}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": "Databases\t\t: \tOracle, MS SQL Server, MS Access"}
+{"text": "Tools\t\t\t: \tMS Office, MS Visio, JIRA, Power Designer, Smart Draw "}
+{"text": "EDUCATION "}
+{"text": ""}
+{"text": "Masters of Science \u2013 New Jersey Institute of Technology "}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": ""}
+{"text": "United Healthcare, Raleigh, NC\t                                                                 May 2019 - Till Date\t"}
+{"text": "Project: COMPAS"}
+{"text": "Role:  Scrum Master"}
+{"text": "Environment: Agile, Rally, CA Agile Central"}
+{"text": ""}
+{"text": "United Health Group Inc. is an American for-profit managed health care company which offers health care products and insurance services. The healthcare unit has 4 divisions and the focus here was on Medicare and Retirement. The product in question here is COMPAS. It is an ensemble online application taking care of enrollment, fulfilment, letter writing, agents etc. COMPAS also communicates with various systems. Some of these are AVAYA and OPTUM. I have been involved as a Scrum master for 3 teams with the following projects, spanning one product:"}
+{"text": "Avaya: With AVAYA, COMPAS receives a bulk of users registered during the Annual Enrollment period (AEP). COMPAS then sends an outbound file to AVAYA - which makes automated calls to those users. Upon validation, AVAYA sends a disposition file back to COMPAS and it is processed and stored there. OPTUM: With OPTUM, it is a multi-factor authentication (MF) project. COMPAS already had SiteMinder for authentication purposes, but decided to add a more secure authentication system through OPTUM. The Employer web and Provider web users register first and are then added to the Work Queue. Every time a login attempt is made through EWEB/PWEB, OPTUM takes over and validates with the information in its database and also provides yet another layer of authentication with an access code to be entered (sent to registered phone number/ email ID). "}
+{"text": "COMPAS-Portfolio: COMPAS in itself needed work in the form of upgrades. It was using Java 1.7 and we were upgrading it to 1.8. It was of pivotal importance that all the functionalities work fine with the upgrade and issues are resolved. As a consequence of the upgrade, fortify issues had to be fixed as well and MF would then be merged with Portfolio. "}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Responsible for holistic Agile transformation for teams new to Scrum and helped the adoption of Rally/CA Agile Central.  "}
+{"text": "Coached teams to Agile concepts and principles. "}
+{"text": "Mentored and Coordinated with off-shore Agile teams for cadence. "}
+{"text": "Provided Knowledge Transfer (KT) sessions to team for Rally usage - such that they can be self-sufficient and self-organize to update tasks, state of their stories, defects on the board. "}
+{"text": "Facilitate daily stand-ups, backlog refinement, story sizing, sprint planning, review, and retrospectives."}
+{"text": "Brought in Agile best practices such as time-boxing, continuous integration, code/design reviews, transparency, accountability, tracking, product visioning, spiking, slack, generalized specialist, technical debt reduction, self-management empowerment and role training."}
+{"text": "Took on the role of a servant leader and helped remove impediments."}
+{"text": "Due to the lack of a defined Product Owner, wore two hats on some occasion - writing user stories and prioritizing them. As a consequence, was heavily involved with the Business user and the analyst to break down stories prior to grooming. "}
+{"text": "Some of the day-today tasks involved the timeboxed daily stand-ups, removing impediments for the team and building/assimilating enough content in the order of priority for the subsequent sprint(s)."}
+{"text": "Taking small baby steps towards a SAFe setup; as the team was still very new to scrum. Leveraging a Scaled Agile platform was in the agenda and the scope warranted it. "}
+{"text": "Foster productivity, visibility, predictability, team empowerment, continuous improvement, success and happiness of the team to deliver quality software product and improve business value delivery."}
+{"text": "Foster team morale, sustainable velocity, quality and incremental value delivered."}
+{"text": "Imbibed the three pillars of scrum \u2013 Transparency, Inspection, Adaptation which uphold every implementation of empirical process control."}
+{"text": "Protecting the team from over committing and making sure the team does not commit under either."}
+{"text": "Leveraged the Kanban board during stand-up sessions by moving tasks, created swim lanes based on iteration, stories, expedite if necessary. Improved visibility across the team and stakeholders. "}
+{"text": "Monitor sprint progress and progress towards release plan using release burn-down/burn-up charts."}
+{"text": "Encourage open, honest and respectful communication within the team, develop a sense of commitment and accountability to each other, and keep the team focused."}
+{"text": ""}
+{"text": ""}
+{"text": "Bed Bath & Beyond, Union, NJ\t                                                                May 2017 \u2013 April 2019"}
+{"text": "Project: Return process automation (RLM)"}
+{"text": "Role:  SAFe Scrum Master"}
+{"text": "Environment: SAFe Agile, JIRA, GitHub, Jenkins, Google Suite, Store Lucid Chart"}
+{"text": ""}
+{"text": "Bed Bath & Beyond Inc. and subsidiaries is a retail chain which sells a wide assortment of merchandise home furnishings as well as food, giftware, health and beauty care items and infant/toddler merchandise. The Company owns over 1,000 stores. The project here is about building a Return Logistics Management (RLM) software. It involved automating the entire return process system; with modules such as scanning, return payment medium, fraud mitigation, reasons for return, vendor consultation for fit and finish, warehouse dispatching, amongst several others. I was involved as a SAFe Scrum master for this project employing the principles of the Scaled Agile Framework."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": ""}
+{"text": "Lead teams on the train to committing to PI objectives during PI Planning."}
+{"text": "Coached teams to SAFe Lean agile principles."}
+{"text": "Participate and prepare PO for System demos as well as PI system Demos."}
+{"text": "Provide insight of the team\u2019s progress towards achieving PI objectives during ART syncs."}
+{"text": "Work with other scrum masters and RTE in identifying cross dependencies during Scrum of Scrums."}
+{"text": "Guided teams in fostering innovation with the lean start up cycle. "}
+{"text": "Encouraged team members to adapting to the continuous delivery pipeline and adapting feature toggles."}
+{"text": "Used XP (Extreme Programming) techniques like Test Driven Development (TDD), Pairing and Refactoring."}
+{"text": "Worked with RTE to preparing for system demos and PI system demos."}
+{"text": "Facilitate daily stand-ups, backlog refinement, story sizing, sprint planning, demo, and retrospectives."}
+{"text": "Resolve impediments and protect the team from distractions and changes during sprint execution."}
+{"text": "Empowered teams to self-organize and grow cross-functionality."}
+{"text": "Educated Product owner on keeping the product backlog in ready-ready state."}
+{"text": "Work with product owner to refine and prioritize product backlog, develop release plans, assist breaking of epics to create and add user stories in the backlog."}
+{"text": "Facilitate negotiations between product owner and development teams on priorities, dependencies and during story sizing."}
+{"text": "Protect team from over-commitment, manage backlog, prioritize resolution of defects/bugs for timely delivery."}
+{"text": "Support, educate and assist the team on adapting to scrum framework and techniques."}
+{"text": "Monitor sprint progress and progress towards release plan using release burn-down/burn-up charts."}
+{"text": "Publicizing the team's progress and successes to make sure they are highly visible to product owner / stakeholders."}
+{"text": "Encourage open, honest and respectful communication within the team, develop a sense of commitment and accountability to each other, and keep the team focused."}
+{"text": "Engage with management to assist in removing organizational and systemic impediments"}
+{"text": "Coach the team to self-organize, collaborate, prioritize, self-manage, and to adapt to engineering practices such as pair programming, continuous integration, code reviews, continuous testing, etc."}
+{"text": "Serve and help teams to track and monitor status, enter task and time, dependencies, and blockers."}
+{"text": "Foster productivity, visibility, predictability, team empowerment, continuous improvement, success and happiness of the team to deliver quality software product and improve business value delivery."}
+{"text": "Foster team morale, sustainable velocity, quality and incremental value delivered."}
+{"text": "Represent teams in Scrum of Scrums to address dependencies and impediments, to share experience and knowledge."}
+{"text": ""}
+{"text": ""}
+{"text": "Jet.com, Hoboken, NJ, USA                        \t                           \tJun 2015 \u2013 April 2017"}
+{"text": "Project: Partner with Jet"}
+{"text": "Role: Scrum Master"}
+{"text": "Environment: Agile, JIRA, GitHub, Jenkins"}
+{"text": ""}
+{"text": "Jet is an American e-commerce retailer company headquartered in Hoboken, New Jersey. The company focuses on selling curated brands and city essentials, all in one place. The project here included\u00a0creation of a platform (Partner with Jet), through which third party vendors could sell their products through Jet.com. This drastically improved the diversity of products available on the site and thus catering to a larger customer base. I was involved as a Scrum master for this project."}
+{"text": "."}
+{"text": "Took on the role of a servant leader and helped remove impediments."}
+{"text": "Facilitated scrum ceremonies which involves Sprint Planning, time-boxed 15 minutes Daily stand up, sprint review and sprint retrospective.  "}
+{"text": "Conducted  the daily scrum meetings with on-site and offshore teams as well, to identify impediments and track progress."}
+{"text": "Imbibed the three pillars of scrum \u2013 Transparency, Inspection, Adaptation which uphold every implementation of empirical process control."}
+{"text": "Protecting the team from over committing and making sure the team doesn\u2019t under commit."}
+{"text": "Designed program and team structure, formulated the playbook to be used as a transformation guideline by the teams and held sessions to make transformation champions aware of the approach."}
+{"text": "Brought in Agile best practices such as time-boxing, continuous integration, code/design reviews, transparency, accountability, tracking, product visioning, spiking, slack, generalized specialist, technical debt reduction, self-management empowerment and role training."}
+{"text": "Hands on Scrum Master for two teams for a period of time. Lead teams through Agile adoption. Was assigned to newly forming teams to be coached on agile principles and help them with smooth transition into Agile methodology"}
+{"text": "Created Project roadmaps, identified deliverables, helped Product Owners in managing priority and delivery of the product."}
+{"text": "Conducted daily scrum meetings with offshore and on-site teams to identify impediments."}
+{"text": "Assisted Product owner in prioritizing the features."}
+{"text": "Provided training and coaching in Agile Development principles and practices to development teams, Product Owners and\u00a0Scrum Masters."}
+{"text": "Tracked and managed project budget, resource allocation, funding availability and time reporting activities"}
+{"text": "Managed scope and controlled change in order to ensure team makes progress without facing scope creep and other change related impediments"}
+{"text": "Worked on facilitating communication, removing blockers and making sure the project runs smoothly"}
+{"text": "Implemented agile principles, processes, and methods such as iterative and incremental development."}
+{"text": ""}
+{"text": ""}
+{"text": "Wipro Tech, Chennai, India\t                         \t\t\t\t               July 2012 \u2013 Dec 2014"}
+{"text": "Project: Self-checkout application "}
+{"text": "Role: Scrum Master"}
+{"text": "Client: Spar Hypermarket"}
+{"text": "Environment: Agile, Rational Team Concert, Confluence"}
+{"text": "       "}
+{"text": "Wipro Limited\u00a0is an Indian multinational corporation\u00a0that provides information technology, consulting and business process services. The project here involved developing a self-checkout application for one of the clients. This enabled customers cut the queue in-store by reducing the wait time and reducing the company\u2019s overheads. I was involved as a scrum master for teams working on this project by facilitating sprint ceremonies amongst several other tasks. "}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": ""}
+{"text": "Facilitate daily stand-ups, backlog refinement, story sizing, sprint planning, demo, and retrospectives."}
+{"text": "Resolve impediments and protect the team from distractions and changes during sprint execution"}
+{"text": "Empowered teams to self-organize and grow cross-functionally."}
+{"text": "Educated Product owner on keeping the product backlog in ready-ready state."}
+{"text": "Work with product owner to refine and prioritize product backlog, develop release plans, assist breaking of epics to create and add user stories in the backlog."}
+{"text": "Facilitate negotiations between product owner and development teams on priorities, dependencies and during story sizing"}
+{"text": "Coach business analysts in writing user stories and building a backlog of quality user stories."}
+{"text": "Protect team from over-commitment, manage backlog, prioritize resolution of defects/bugs for timely delivery"}
+{"text": "Support, educate and assist the team on adapting to scrum framework and techniques"}
+{"text": "Monitor sprint progress and progress towards release plan using release burn-down/burn-up charts."}
+{"text": "Publicizing the team's progress and successes to make sure they are highly visible to product owner / stakeholders."}
+{"text": "Encourage open, honest and respectful communication within the team, develop a sense of commitment and accountability to each other, and keep the team focused"}
+{"text": "Engage with management to assist in removing organizational and systemic impediments"}
+{"text": "Coach the team to self-organize, collaborate, prioritize, self-manage, and to adapt to engineering practices such as pair programming, continuous integration, code reviews, continuous testing, etc."}
+{"text": "Serve and help teams to track and monitor status, enter task and time, dependencies, and blockers."}
+{"text": "Foster productivity, visibility, predictability, team empowerment, continuous improvement, success and happiness of the team to deliver quality software product and improve business value delivery."}
+{"text": "Foster team morale, sustainable velocity, quality and incremental value delivered."}
+{"text": "Represent teams in Scrum of Scrums to address dependencies and impediments, to share experience and knowledge."}
+{"text": "Managing a team of cross functional teams in the change control configuration process using the scrum framework"}
+{"text": ""}
+{"text": "Tech Mahindra, Chennai, India                                                                             May 2011 \u2013 Jun 2012"}
+{"text": "Project: Car infotainment system"}
+{"text": "Role: Business Analyst"}
+{"text": "Client: Mahindra & Mahindra Ltd."}
+{"text": "Environment: RUP, SAP Power Designer, MS Visio, Smart Draw "}
+{"text": ""}
+{"text": "Tech Mahindra Limited is an Indian multinational provider of information technology, networking                technology solutions and Business Process Outsourcing to various industry verticals and horizontals.\u00a0"}
+{"text": "The project was for their Automotive parent company, which involved developing a software for their car infotainment system. I was involved as a functional Business Analyst primarily for reports."}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": ""}
+{"text": "Getting high level requirements (BRDs) from PO, Stakeholders, reference groups, SME."}
+{"text": "Worked with the account managers, managements, and report requestors to gather requirements, get report requests."}
+{"text": "Designed and Developed Use Cases and analysis diagrams, activity diagrams, sequence diagrams, state diagrams, data models using MS Visio."}
+{"text": "Built ER diagrams using Smart Draw."}
+{"text": "Documenting low level functional requirements (FRDs) for the project in terms of features broken down to user stories. "}
+{"text": "Feedback from focus groups for requirements and improvements."}
+{"text": "Involved in GAP analysis between existing and new ERP models and change management. "}
+{"text": "Performed Smoke test and User acceptance test."}
+{"text": "Involved in creating business processes and modelling diagrams using Rational Unified Process (RUP). "}
+{"text": "Used MS Project to manage project time lines\u00a0and prepared Need Analysis documents of the requirements gathered through JAD sessions."}
+{"text": "Documented all the changes in the initial templates and was responsible for Release Management."}
+{"text": "Helped in providing sales, margin and ROI analysis for proposed direct-to-consumer initiatives, and productivity of online destinations and merchandise positions."}
+{"text": ""}
+{"text": ""}
+{"text": ""}

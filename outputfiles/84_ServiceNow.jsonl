@@ -1,0 +1,189 @@
+{"text": "Name: esther esther"}
+{"text": "E-Mail: esther.esther@gmail.com"}
+{"text": "Address: Yantai, China"}
+{"text": "Github: https://github.com/esther"}
+{"text": "LinkedIn: https://linkedin.com/esther"}
+{"text": "Phone No. 851438300742"}
+{"text": ""}
+{"text": "PROFILE"}
+{"text": ""}
+{"text": "Seven Years of extensive IT experience in software requirement analysis,  development, deployment and production support of complex high performance applications in Healthcare and Training industries including three Years of excellent experience on IT Infrastructure Library, ServiceNow Administration and ServiceNow Development.    "}
+{"text": "Experienced in supporting the Technical and System Architects to design the Application and System."}
+{"text": "Supporting the Development Team to Implement and in Unit testing the application."}
+{"text": "Good experience in supporting Testing Team on drafting Test Plans."}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": ""}
+{"text": "A Qualified IT Professional with 7+ years of experience including 3+ years of experience as a ServiceNow suite developer and administrator in Designing, Configuring, Administering, Scripting, Customization, Deployment and Integration of the ServiceNow ITSM platform, used in ITIL Management delivering medium to large-scale ServiceNow implementations."}
+{"text": "Proficiency in following SDLC, which includes involving in Requirements gathering, Analysis, designing Technical Design Document (TDD), Unit Test Plans (UTP) and performing Development Testing like Unit, Integration, Regression and System testing."}
+{"text": "Experience in Implementation of Workflow, Incident Management, Problem Management, Change Management and Service Catalog on various business applications."}
+{"text": "Experience installing, configuration and administration of CMDB."}
+{"text": "Installation/Maintenance/Troubleshooting and Configuration of technical BMC Software components on server environment and different modules of Service-Now."}
+{"text": "Provides daily support of Service Management Platform (ServiceNow), including Scripting, Configuration, Customization, Integrations, Administration ServiceNow processes (User management/Group management), Functions, Service Catalog and Workflow."}
+{"text": "Experience in Manipulating, Loading and maintaining data between Service-Now and other systems."}
+{"text": "Experience with integration methodologies and development as well as building integration to external systems, currently using as HTTP, MID Server and Web Service (Construction and integration testing)."}
+{"text": "Very good understanding IT related technologies (Java, Webservice, MQ Series, ETL, Reporting and Middleware) to discuss with developers and business."}
+{"text": "Very good experience in involve in backend, front-end, functional, integration, regression, smoke, cross browser, cross platform, performance and stress testing."}
+{"text": "Experience in ServiceNow Upgrades from older to newer version."}
+{"text": "Worked on end-to-end implementation of CMDB module using Discovery tool in ServiceNow."}
+{"text": "Experience in Content Management System (CMS) in ServiceNow."}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:\n"}
+{"text": ""}
+{"text": "Work Experience:"}
+{"text": "Client: Covance Inc                                        \t\t             \t\t\t     July 2015\u2013 December 2015"}
+{"text": "Princeton, New Jersey"}
+{"text": "Role: Service Now Consultant "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Provided analysis, design and development of Service-Now ticketing and incident management systems to support the company\u2019s technical operations."}
+{"text": "Provided ServiceNow configuration and customization assistance including workflow administration, report setup, data imports, custom scripting and third party software integrations."}
+{"text": "Worked on designing, configuring and customizing new applications and modules of Service Now like Incident management, Change management, and Problem management, Service Catalog, User Administration and Reporting."}
+{"text": "Worked on Configuring the IP Addresses to identify the undiscovered CI's and insert them into CMDB."}
+{"text": "Developed UI forms, fields, notifications, SLA workflows and JavaScript server/client code"}
+{"text": "Worked on creating, monitoring, modifying and publishing service catalog workflows with approvals."}
+{"text": "Gathered requirements from stakeholders at various phases to leverage ServiceNow within organization on End user self-enablement portal using CMS."}
+{"text": "Interface extensively with all areas of the organization including Operations and Development."}
+{"text": "Worked in configuring ServiceNow on Windows/UNIX platform with back end as Oracle 10g Database."}
+{"text": "Wrote Custom Reports, scripts to integrate with 3rd party software."}
+{"text": "Created Update sets to move customizations between different systems."}
+{"text": "Created full documentation for Service-Now applications."}
+{"text": "Provided training and support to all Service-Now users"}
+{"text": "Client: Health Fitness Corporation\t\t\t                                           May 2014\u2013 July 2015"}
+{"text": "Illinois"}
+{"text": "Role: Service Now Developer "}
+{"text": ""}
+{"text": "Project Description:   "}
+{"text": " Worked on the Service Request Management from End-to-End including the integrations with other tools and giving L3 support for the whole Service Catalog Application including resolving the incidents and problem tickets on Service Catalog. "}
+{"text": "Responsibilities: "}
+{"text": "Worked on change management module by enhancing the tool to the stakeholders and made it easy to understand."}
+{"text": "Loaded Configuration Items (CIs) from Excel files into Service Now using import sets and Transform Maps."}
+{"text": "Development of Service catalog which includes creating new catalog items, designing workflows and execution plans."}
+{"text": "Created functional and technical specifications documents for various ServiceNow modules"}
+{"text": "Coordinating the instance upgrade activities."}
+{"text": "Implementation, Customization and Maintenance of ITIL modules such as Incident, Change, Problem, Knowledge, Service Catalog, CMDB in ServiceNow"}
+{"text": "Involved in cloning activities like raising the request for cloning and excluding some tables to not come under cloning."}
+{"text": "Created various Business rules, Script includes, Client Scripts, UI Policies, UI Actions and Data Policies."}
+{"text": "Worked on CMDB from the scratch"}
+{"text": "Created CI relationships and Suggested CI Relationships"}
+{"text": "Configured multiple forms for Asset module using Configuration Management Database.\u00a0"}
+{"text": "Created workflows for Standard catalog items, Non Standard catalog item and Change approval process."}
+{"text": "Created both inbound Scripted Web Services and inbound Email Actions to create incidents from Emails."}
+{"text": "Worked on Web Services using SOAP Messages and called third party. Good understanding of WSDL, XML."}
+{"text": "Integrated with Active Directory for SSO using SAML 2.0"}
+{"text": "Configured multiple Catalog Items Front-end web / GUI components using JavaScript, CSS, HTML5\u00a0"}
+{"text": "Worked on UI Macros to create pages as templates on requirement from the stake holders"}
+{"text": "Resolving typical Users access and roles issues by checking active directory and users table."}
+{"text": "Pulling reports and scheduling the reports as per the client requirement."}
+{"text": "Creating database views to pull the reports on variables which are being used by catalog items."}
+{"text": "Writing Catalog client scripts and UI policies to make client side changes. "}
+{"text": "Creating the UI pages to use them in catalog items, Implemented using UI scripts."}
+{"text": "Creating Knowledge articles to document the steps in creating the catalog items."}
+{"text": "Working on different kinds of variables and variable sets."}
+{"text": "Working on order guides, to arrange them in sequential order to make the user comfortable while raising a request."}
+{"text": "Re-designed workflows using workflow editor, Reconciled complicated workflows to simpler form."}
+{"text": "Writing script includes invoking them in reference qualifiers or variable scripting."}
+{"text": "Environment: ServiceNow, JavaScript, HTML 5, Windows 7."}
+{"text": ""}
+{"text": "Client: CVS Caremark\t\t\t\t\t\t\t       Sep2013-May 2014"}
+{"text": "Northbrook, IL\nRole: Service Now Developer/ Administrator"}
+{"text": "Project Description:  As a ServiceNow consultant, I am responsible for Configuration, Customization, and Integration with External Services, Administration ServiceNow processes (User management/Group management), Functions, Service Catalog and Workflow."}
+{"text": " "}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Assisting client implementing the MSP (Managed Service Provider) instance for Service-Now and Domain separation for Service-Now Instances. "}
+{"text": "Worked on the functional requirements and client requirements within ServiceNow. "}
+{"text": "Facilitating rollout of new applications and modules. "}
+{"text": "Design and implement new functionality using Business Rules, UI Policies, and Access Lists etc. "}
+{"text": "Service Catalog and Request Workflow Design and Configuration"}
+{"text": "Created various workflows for Incident Management, Change Management, Service Requests and SLA's. "}
+{"text": "The service we also provide to clients is a semi managed service for administering their Service desks that has been implemented. This includes various administration tasks within Service desk software. "}
+{"text": "Created Buttons and context menus both on form and lists using UI actions "}
+{"text": "Designed several email templates by using HTML and jelly scripting and used them in notifications"}
+{"text": "Worked with windows team, network team and Asset team in order to check for the data collected through discovery is accurate. "}
+{"text": "Written script includes and invoked them in business rules and client scripts"}
+{"text": "Imported many CI's using import set tables"}
+{"text": "Imported Active Directory to ServiceNow using Data Sources. "}
+{"text": "Created data sources and loaded the Service-Now tables with different data formats "}
+{"text": "Created transform maps both automatic field mapping and scripting. "}
+{"text": "Worked on Berlin, Calgary Versions. "}
+{"text": "Worked on Asset Management and loaded the data into it. "}
+{"text": "Integrated Fire eye tool with ServiceNow using Email integration i.e. inbound actions scripting. "}
+{"text": "Worked on the integration of ServiceNow with Siebel, integrated Service Catalog and Incident module. "}
+{"text": "Used JMS integration to fulfill this requirement, worked on Scheduled Jobs and Mid Server Script Includes to fulfill the requirements."}
+{"text": "Environment: ServiceNow, JavaScript, XML, HTML, CSS, XHTML, jelly Script, Windows 7."}
+{"text": ""}
+{"text": "Client: Genomic health Inc.\t\t\t\t\t\t\t      May2012\u2013Aug2013"}
+{"text": "Redwood City , CA\nRole: Service Now Developer/ Administrator"}
+{"text": "Project Description: Genomic Health Inc is one of the largest Global Health companies in the United States. The project involves in design, development and maintenance of databases. I have been part of development and enhancements for the same."}
+{"text": "            As a ServiceNow consultant, I am responsible for Configuration, Customization, Integration with External Services, Administration ServiceNow processes (User management/Group management), Functions, Service Catalog and Workflow."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Worked on Incident, Problem, Change, and Service catalogue Management."}
+{"text": "Regular interaction with the Process Owners and other Support teams for Incident resolution with in a greed SLA."}
+{"text": "Update set movement to SubProd instances and Production."}
+{"text": "Cloning activities which include post cloning and pre cloning activities."}
+{"text": "Scheduling daily calls and generating Reports regarding various incidents resolved."}
+{"text": "Raising ticket with Vendor while facing major issues like instance down and Performance issues."}
+{"text": "Hands on experience with Client Scripts/Business Rules/Scheduled Jobs for Incident analysis."}
+{"text": "Hands on experience with UI Actions/ UI Policy/ Access Control Lists /Email Notifications for Incident analysis."}
+{"text": "Knowledge in workflow editor to design workflow for various modules, triggering various events, creating and publishing workflows."}
+{"text": "Customer Complaints Response & Resolution"}
+{"text": ""}
+{"text": "Environment: Cloud based, OS: Windows 7 / XP; Applications: ServiceNow (Cloud based ITSM solution)"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: HCL Technologies                                 \t\t\t\t     Sep 2010-Dec 2011"}
+{"text": "India\nRole: Java / Configuration and Integration Developer"}
+{"text": ""}
+{"text": "HCL\u2019s Guidewire Center of Excellence is a Global Professional Services Resource Pool of Guidewire trained professionals for building Guidewire competency at HCL. GuidewireCoE specializes in addressing issues in Guidewire product by building solution accelerators or by formulating new and innovate approaches and by training more resource in Guidewire."}
+{"text": ""}
+{"text": "As a Configuration and Integration Developer working with a 30 members team which was responsible for designing and building reusable tools and components for Guidewire Claim, Policy Center and Billing Center. "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "NCCI Implementation \u2013 Exploring the NCCI needs by using MULE Enterprise Service Bus with Claim Center"}
+{"text": "Claims Validation Tool \u2013 Configured a new screen in Claim Center for Bulk validating converted Claim"}
+{"text": "Remote Document Print \u2013 Configured the Print Util functionality in the Claim Center to print the available document in the Claim Center"}
+{"text": "Users, Roles and Permissions Relationships -- Matrix view of Users Roles and their Permissions on the screen and also in the form of CSV allowing the user to Export data."}
+{"text": "Email Configuration \u2013 Configured in Claim Center for sending emails to the users when the claim has updated or newly entered."}
+{"text": "External Policy Update System \u2013 Built an interface for policy system when the new claim has added to the particular policy in the Claim Center."}
+{"text": ""}
+{"text": "Environment: Java, JavaScript, CSS, XML, HTML, XML, Guidewire Billing Center, XML, GScript, Java, Web Services, Apache Ant 1.7,MySQL."}
+{"text": ""}
+{"text": "Client:Thomas Reuters\t\t\t\t\t                          May 2008 - Sep2010             Toronto,Canada\nRole: J2EE Developer"}
+{"text": "Project Description: Researcher ID is a global, multi-disciplinary scholarly research community. With a unique identifier assigned to each author in Researcher ID, you can eliminate author misidentification and view an author\u2019s citation metrics instantly. Search the registry to find collaborators, review publication lists and explore how research is used around the world."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Involved in preparing views using JSP."}
+{"text": "Responsible for developing business logic."}
+{"text": "Involved in developing Model Classes which take care about DB operations."}
+{"text": "Coding using JSP, Java Servlets and HTML pages."}
+{"text": "Involved in development, administration, and integration testing"}
+{"text": "Created JUnit test cases for variation and Exception tests."}
+{"text": "Integrating my application with the existing Combined Web Application."}
+{"text": "Environment: JSP, Servlets, JavaScript, CSS, XML, HTML, XHTML, Oracle 9i."}
+{"text": ""}
+{"text": ""}
+{"text": "Client:Mindware Technologies\t\t\t\t                             Oct 2007-Apr 2008"}
+{"text": "India   \nRole: Java / Web Developer"}
+{"text": ""}
+{"text": "Project Description: The objective of Personnel Management System was to facilitate the Personnel department of the organization for salary calculation, reimbursements& other HR activities. Employees worldwide could enter their time sheets, expense sheets on the net."}
+{"text": "Responsibilities: "}
+{"text": "Designed the application using the J2EE design patterns such as Session Fa\u00e7ade, Business Delegate, "}
+{"text": "Service Locator, Value Object and Singleton."}
+{"text": "Developed presentation tier as HTML, JSPs using Struts 1.1 Framework. Used AJAX for faster "}
+{"text": "page rendering."}
+{"text": "Developed the middle tier using EJBs Stateless Session Bean, Java Servlets. "}
+{"text": "Entity Beans used for accessing data from the Oracle 8i database. "}
+{"text": "Worked on Hibernate for data persistence."}
+{"text": "Prepared high and low level design documents for the business modules for future references and updates. "}
+{"text": "Deployed the application in JBoss Application Server in development and production environment. "}
+{"text": "Implemented CVS as Version control system."}
+{"text": "Code Walkthrough/ Test cases and Test Plans."}
+{"text": "Used ANT as build tool. Used Junit for writing Unit tests"}
+{"text": "Environment: Eclipse, HTML, Java Script, CoreJava, JUnit, JSP, Servlets, JDBC, Oracle 8i, AJAX, CVS and JBoss Application Server."}
+{"text": ""}
+{"text": "References: Available on request"}

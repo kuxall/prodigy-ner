@@ -1,0 +1,191 @@
+{"text": "Name: agnes agnes"}
+{"text": "E-Mail: agnes.agnes@gmail.com"}
+{"text": "Address: Dhaka, Bangladesh"}
+{"text": "Github: https://github.com/agnes"}
+{"text": "LinkedIn: https://linkedin.com/agnes"}
+{"text": "Phone No. 93685144126"}
+{"text": "                                              \t"}
+{"text": ""}
+{"text": "Summary:"}
+{"text": "Over 7 + Years of experience in Analyzing, Developing, Managing and Implementing various stand-alone, client-server enterprise applications using various technologies and mapping the requirements to the systems."}
+{"text": "Handy experience in developing web applications by using Python, Django, PHP, C++, XML, CSS, HTML, JavaScript and JQuery."}
+{"text": "Good experience in developing web applications using Python, Django, Flask, Pyramid frameworks."}
+{"text": "Experience in implementing with server side technologies with restful API and MVC design patterns with node JS and Django framework."}
+{"text": "Expertise in python ORM libraries including Django ORM, SQLAlchemy"}
+{"text": "Hands on experience in using different python libraries like BEAUTIFUL SOUP, REST for web Scraping."}
+{"text": "Proficient in SQLite, MySQL and Postgre SQL databases with Python."}
+{"text": "Expertise in using GUI Frameworks like Jython . Pyjamas."}
+{"text": "Experienced in working with various Python IDE\u2019s using PyCharm, PyScripter, Spyder, PyStudio and PyDev."}
+{"text": "Implemented different python libraries numpy, scipy, pytables, matplotlib, python-twitter, Pandas data frame and urllib2 in various tasks."}
+{"text": "Hands on experience in using NOSQL libraries like MongoDB, Cassandra, Redis and relational databases like Oracle, SQLite, PostgreSQL and MYSQL databases."}
+{"text": "Worked on python Testing Frameworks like Zope, Pytest, nose and Robot Framework."}
+{"text": "Developed J2EE applications on IDE's like Eclipse, My Eclipse, Google GWT, and Rational Application Developer"}
+{"text": "Experienced in developing multi-threaded web services using CherryPy & bottlePy framework."}
+{"text": "Good Knowledge in writing different kinds of tests like Unit test/Py test and build them."}
+{"text": "Good working knowledge on cloud services like HD insights AZURE, AMBARI and AMAZON EC2 and S3 bucket web services."}
+{"text": "Good working experience in using Python Testing frameworks like zope, pytest, nose and Robot framework."}
+{"text": "Well versed with Agile with SCRUM, Waterfall Model and Test driven development methodologies. "}
+{"text": "Experienced in writing SQL Queries, Stored procedures, functions, packages, tables, views."}
+{"text": "Good knowledge in CORE JAVA and OOPS concepts."}
+{"text": "Handy experience on using Big Data Cloud Services like PIG, HIVE for Map Reducing by which large amount of data can be easily analyzed."}
+{"text": " Experience in building applications in different operating systems like Linux (CentOS, Debian, Ubuntu), Mac OS."}
+{"text": "Good experience in handling Git, SVN, CVS."}
+{"text": ""}
+{"text": " Technical Skills:"}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "Client: AECOM, Austin, TX                                                                          Dec 2015 to Present"}
+{"text": "Role: Sr Python Developer                                                                                  "}
+{"text": "Responsibilities:"}
+{"text": "Actively involved in gathering the requirements and performed detailed analysis and design for various cross-functional, multi-functional applications and also performed user and acceptance testing."}
+{"text": "Responsible in developing several front-end and back-end modules using Python on Django Web framework."}
+{"text": "Used IDE\u2019s like pycharm, pyscripter."}
+{"text": "Developed several front-end application modules using HTML5, CSS3, AJAX, JSON and JQuery."}
+{"text": "Developed views and templates in Django to create user-friendly website interface."}
+{"text": "Developed and tested many features for dashboard using Python, Java, Bootstrap, CSS, JavaScript and JQuery. "}
+{"text": "Responsible in writing backend programming in Python 2.7. "}
+{"text": "Used JavaScript and XML to update a portion of a webpage. "}
+{"text": "Developed consumer based features and applications using Python and Django in test driven Development and pair based programming. "}
+{"text": "Performed Unit testing, Integration Testing, GUI and web application testing using Rspec."}
+{"text": "Worked on Jenkins continuous integration tool for deployment of project."}
+{"text": "Worked on front end frame works like CSS Bootstrap for development of Web application. "}
+{"text": "Worked in MySQL database on simple queries and writing Stored Procedures for normalization."}
+{"text": "Organized data and statistics into a relational PostgreSQL database"}
+{"text": "Deployed the project into Jenkins using GIT version control system. "}
+{"text": "Used Amazon Cloud EC2 along with Amazon S3 bucket to upload and retrieve project history. "}
+{"text": "Used different python libraries like MOCK, BEAUTIFUL SOUP to perform unit testing and extract the data from the website."}
+{"text": "Collaborated with Product Management and User Experience experts regarding product definition, schedule, scope and project-related decisions. "}
+{"text": "Implemented vector maps and charts on webpages using MongoDB."}
+{"text": "Made use of PyUnit, the python unit test framework for different python applications."}
+{"text": "Worked with a team of developers on python applications for RISK management."}
+{"text": "Took part in various stages of software development cycle which included Design, Development, Testing and Implementation and support."}
+{"text": "Made use of various design patterns for the effective code reuse and performance."}
+{"text": "Used different python libraries like Pandas and Numpy for various analysis."}
+{"text": "Environment: : Python 2.7,2.5, Java 1.7, Django 1.7, 1.5, HTML5, CSS3, XML, MySQL, JavaScript, Angular JS, Backbone JS, JQuery, CSS Bootstrap, Puppet MS SQL Server, Amazon s3, Jenkins, Mongo DB, T-SQL, Beautiful soup, TFS, nose, JavaScript, Eclipse, Git, GitHub, Linux."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Time Warner Cable, Fairfax, VA                                                        Jan 2014-Nov 2015"}
+{"text": "Role: Sr Python Developer                                                                                    "}
+{"text": "Responsibilities:"}
+{"text": "Analyzed system requirements, specifications and interact with the client and involved in all stages of Software Development Cycle like Planning, Analysis, Design, implementation and testing."}
+{"text": "Designed and developed front end of several applications using Python, HTML, CSS, AJAX, JSON and JQuery."}
+{"text": "Also took part in developing back end applications using Active records."}
+{"text": "Implemented several applications using FLASK, ZOPE frameworks."}
+{"text": "Develop consumer based features and applications using Python, Django, HTML, behavior Driven Development (BDD) and pair based programming."}
+{"text": "Worked on Django API\u2019s for accessing the database."}
+{"text": "MVC architecture is implemented using Django framework to develop several web applications."}
+{"text": "Performed different testing methods like unit testing, Integration testing and selenium testing."}
+{"text": "Made use of various python libraries like matplotlib to build various graphs and charts."}
+{"text": "Also used python packages like Pandas and numpy for different statistical and numerical analysis."}
+{"text": "Used python twitter library to fetch the twitter tweets."}
+{"text": "Worked on different web scraping tools like BEAUTIFUL SOUP to parse the data from the website."}
+{"text": "Using MongoDB implemented automate scripts to back up the old records and transfer these backup files using ftplib library."}
+{"text": "Well experienced in using Linux shell commands and Command Line Utiliies."}
+{"text": "Performed Troubleshooting, fixed bugs and deployed many applications."}
+{"text": "Configured Django framework to manage URLs and application parameters."}
+{"text": "Dealt with company-wide transition from Redis to Elasticsearch for caching and catalog browsing/searching"}
+{"text": "Performed testing using Rspec and cucumber to implement Behavior Driven Development."}
+{"text": "For Data Manipulation from database several queries have been written using SQL and created a database MySQL."}
+{"text": "Involved in Developing a Restful API'S service using Python Flask framework."}
+{"text": "Used AJAX for better user interaction and navigation."}
+{"text": "Used RESTFUL web services for data transportation between different systems."}
+{"text": "Environment: Python 2.7, Selenium, Django, Java Script, HTML, XHTML, Angular JS, JQuery, JSON, AJAX, XML, CSS, IBM DB2, SQL, MySQL, Bootstrap, Restful Web Services, matplotlib library, Beautiful Soup, Jenkins, Git, GitHub, Linux, Eclipse."}
+{"text": "Client: Chubb Corp, Warren, NJ                                                                     June 2013 \u2013 Dec 2014"}
+{"text": "Role: Python Developer"}
+{"text": "Responsibilities:"}
+{"text": "Actively involved in various stages of Software Development Cycle like gathering requirements, configuring the system configurations during interaction with the client."}
+{"text": "Took part in designing, deploying, testing and maintaining the website."}
+{"text": "Designed and developed the User Interface of the website using HTML, XHTML, AJAX, CSS and JavaScript and Jquery."}
+{"text": "Designed and developed several front end and back end modules using Django web framework."}
+{"text": "Made use of advanced python packages like numpy, Scipy for various sophisticated numerical and scientific calculations."}
+{"text": "Designed and optimized relational database tables in MySql."}
+{"text": "Developed views and templates with Python and Django's view controller and templating language to create a user-friendly website interface."}
+{"text": "Designed and developed various applications using Pyramid, Zope and Flask frameworks."}
+{"text": "Implemented parsing of data using XML data using XML parser and performed testing, fixing the bugs and also modifying the code according the requirements.\u2019"}
+{"text": "Developed applications on several IDEs like Eclipse, Rational Application Developer, Rational Software Architect."}
+{"text": "Designed user friendly interface using BOOTSTRAP framework."}
+{"text": "Built various graphs using matplotlib package which helped in taking business decisions."}
+{"text": "Created database schemas which represent and support business process."}
+{"text": "Performed unit testing/Test Driven development, Load testing and integration testing. "}
+{"text": "Designed and developed Restful API for accessing the data."}
+{"text": "Used web scraping python tools like BEAUTIFUL SOUP to extract data."}
+{"text": "Analyzed larger datasets using Pandas and visualized data using matplotlib python library."}
+{"text": "Developed several python command line programs using argparse."}
+{"text": "Good understanding and usage of NoSQL databases such as MongoDB, Data tax, Redis and Apache Cassandra."}
+{"text": "Performed continuous integration and automation using Jenkins."}
+{"text": "Wrote Map reduce programs for larger datasets where meaningful data can be retrieved."}
+{"text": "Environment: Python, MySQL, JSON, REST, HTML, CSS, XML, Django framework, MongoDB, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Morrisons Management, Atlanta, GA                                                 Oct 2012 \u2013 May 2013 "}
+{"text": "Role: Python Developer                                                                                  "}
+{"text": "Responsibilities:"}
+{"text": "Took part in each stage of Software Development Cycle(SDC) of getting the requirements, design, development, system integration testing and user acceptance testing. "}
+{"text": "Analyzed and designed various applications using Django web framework."}
+{"text": "Wrote python scripts to parse XML documents and load the data into database."}
+{"text": "Developed and tested many features for dashboard using Python, Bootstrap, CSS and javascript."}
+{"text": "Built efficient, testable and reusable code for many Django modules."}
+{"text": "Worked on developing different internal testing tools which are written in python."}
+{"text": "Designed and embedded AJAX in UI in order to update small portions of a webpage so that need of reloading the entire page is avoided."}
+{"text": "Developed and used web services using SOAP to extract the data from external interface in XML format."}
+{"text": "Used MongoDB at the backend to develop an application."}
+{"text": "Developed small web applications using CherryPy, Flask and Bottle Frameworks."}
+{"text": "Worked in AGILE methodologies and SCRUM process."}
+{"text": "Created Unit tests and regression tests for the working/new code according to the client requirements."}
+{"text": "Responsible for debugging and troubleshooting web application."}
+{"text": "Provided security and access control for the web applications."}
+{"text": "Used Pandas and Numpy python packages for data analysis "}
+{"text": "Used JIRA for bug tracking and monitoring."}
+{"text": "Extensive code reviewing using GitHub pull requests, improved code quality, and also conducted meetings among peer. "}
+{"text": ""}
+{"text": "Environment: Python, Django, HTML, CSS, XML, AJAX, MySQL, JavaScript, JQuery, CSS Bootstrap, GitHub, Linux, Pycharm, Jasper Reports, JIRA, Eclipse, Linux, Shell Scripting."}
+{"text": ""}
+{"text": "Client: Sonata Software, India                                                                         Feb 2011 \u2013 Sep 2012"}
+{"text": "Role: Python Developer                                                                                     "}
+{"text": "Responsibilities:"}
+{"text": "Worked on gathering the requirements and high level diesign according to the client specifications."}
+{"text": "Developed various modules both at the fron end and back end using Django web framework."}
+{"text": "Involved in designing user interactive web pages as the front end part of the web application using various web technologies like HTML, JavaScript, Angular JS, JQuery, AJAX and implemented CSS for better appearance and feel."}
+{"text": "Actively involved in developing the methods for Create, Read, Update and Delete (CRUD) in Active Record."}
+{"text": "Used Numpy for Numerical analysis."}
+{"text": "Made use of different frameworks like ZOPE, TEST."}
+{"text": "Implemented and modified various SQL queries and Functions, Cursors and Triggers as per the client requirements. "}
+{"text": "Developed views and templates with Python and Django\u2019s view controller and template language to create a user-friendly website interface."}
+{"text": "Managed code versioning with GitHub, Bit Bucket and deployment to staging and production servers."}
+{"text": "Involved in code reviews using GitHub pull requests, reducing bugs, improving code quality, and increasing knowledge sharing."}
+{"text": "Implemented monitoring and established best practices around using elastic search. "}
+{"text": "Install and configuring monitoring scripts for AWS EC2 instances. "}
+{"text": "Implemented code to perform CRUD operations on MongoDB using PyMongo module. "}
+{"text": "Involved in analysis and design of the application features. "}
+{"text": "Experience in debugging and troubleshooting programming related issues. "}
+{"text": "Worked in MySQL database on simple queries and writing Stored Procedures for normalization."}
+{"text": "Deployment of the web application using the Linux server."}
+{"text": ""}
+{"text": "Environment: Python, Django, HTML, CSS, XML, KML, MySQL, JavaScript, Angular JS, JQuery, CSS Bootstrap, RESTful, MS SQL Server, MongoDB, Elastic Search, Ubuntu server, Apache CQ, TFS, Amazon s3, Jenkins, Map Box, Mongo DB, zope, pytest, Robot,  GitHub, Bit Bucket, Linux, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Standard Chartered Bank, India                                                      June 2009 \u2013 Jan 2011"}
+{"text": "Role: Python/JAVA Developer                                                                      "}
+{"text": "Responsibilities:"}
+{"text": "Involved in gathering business requirements, analyzing the project and created UML diagrams such as Use Cases, Class Diagrams, Sequence Diagrams and flowcharts for the Optimization module using Microsoft Visio."}
+{"text": "Created and implemented databases using MySql."}
+{"text": "Built client pages using HTML, JSP, XML for the user interaction and implemented business logics using servlets and Java Beans."}
+{"text": "Developed python code required for the web application."}
+{"text": "Developed views and templates with Django web framework to create a better user friendly interface for the applications."}
+{"text": "Error handling code is written for different applications."}
+{"text": "Created unit testing of the modules created and run integration testing to test the end-to-end flow of the process developed."}
+{"text": "Used Eclipse IDE for code Development along with GIT Hub for managing the code."}
+{"text": "Responsible for Parsing XML data using XML parser and Testing, fixing of the bugs and coding modifications."}
+{"text": "Agile Methodologies are used for deploying the project."}
+{"text": "Developed test cases and performed unit test using JUnit Framework. "}
+{"text": "Implemented various database connections using JDBC. "}
+{"text": "Responsible for investigating the issues, defects, determining problem root cause, formulating corrective action recommendations & implementing them."}
+{"text": ""}
+{"text": "Environment: Python 2.7, Django 1.3, MySQL, Linux, HTML, XHTML, CSS, AJAX, JavaScript, MySQL, JAVA J2EE, unit testing, XML, WSDL, SOAP, JAX-WS, JBoss, GIT, IDE."}
+{"text": ""}
+{"text": "Education: Bachelor Of Technology, Electronics And Communication Engineering, India."}
+{"text": ""}
